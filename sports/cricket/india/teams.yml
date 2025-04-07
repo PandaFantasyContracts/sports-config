@@ -1,0 +1,80 @@
+CRICKET_INDIA_DELHI-CAPITALS:
+  name: 'Delhi Capitals'
+  code:
+  tsdbId: '135792'
+  goalServeId: '5879'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/dg4g0z1587334054.png'
+  color:
+CRICKET_INDIA_GUJARAT-TITANS:
+  name: 'Gujarat Titans'
+  code:
+  tsdbId: '145834'
+  goalServeId: '6224'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/6qw4r71654174508.png'
+  color:
+CRICKET_INDIA_ROYAL-CHALLENGERS-BANGALORE:
+  name: 'Royal Challengers Bangalore'
+  code:
+  tsdbId: '135796'
+  goalServeId: '2418'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/kynj5v1588331757.png'
+  color:
+CRICKET_INDIA_KINGS-XI-PUNJAB:
+  name: 'Kings XI Punjab'
+  code:
+  tsdbId: '135793'
+  goalServeId: '2543'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/r1tcie1630697821.png'
+  color:
+CRICKET_INDIA_KOLKATA-KNIGHT-RIDERS:
+  name: 'Kolkata Knight Riders'
+  code:
+  tsdbId: '135794'
+  goalServeId: '2541'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/ows99r1487678296.png'
+  color:
+CRICKET_INDIA_LUCKNOW-SUPER-GIANTS:
+  name: 'Lucknow Super Giants'
+  code:
+  tsdbId: '145835'
+  goalServeId: '6225'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/4tzmfa1647445839.png'
+  color:
+CRICKET_INDIA_RAJASTHAN-ROYALS:
+  name: 'Rajasthan Royals'
+  code:
+  tsdbId: '135801'
+  goalServeId: '2542'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/lehnfw1487601864.png'
+  color:
+CRICKET_INDIA_MUMBAI-INDIANS:
+  name: 'Mumbai Indians'
+  code:
+  tsdbId: '135795'
+  goalServeId: '2412'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/l40j8p1487678631.png'
+  color:
+CRICKET_INDIA_CHENNAI-SUPER-KINGS:
+  name: 'Chennai Super Kings'
+  code:
+  tsdbId: '135800'
+  goalServeId: '2415'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/okceh51487601098.png'
+  color:
+CRICKET_INDIA_SUNRISERS-HYDERABAD:
+  name: 'Sunrisers Hyderabad'
+  code:
+  tsdbId: '135797'
+  goalServeId: '3058'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/sc7m161487419327.png'
+  color:
