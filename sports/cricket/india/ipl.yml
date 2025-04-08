@@ -1,0 +1,22 @@
+country: 'India'
+name: 'Indian Premier League'
+logo: 'https://www.thesportsdb.com/images/media/league/badge/gaiti11741709844.png'
+goalServeId: '1015'
+challenges: []
+seasons:
+  '2024/2025':
+    code: 'IPL_25'
+    active: true
+    startDate: '2025-03-22'
+    endDate: '2025-05-18'
+    teams:
+      - CRICKET_INDIA_DELHI-CAPITALS
+      - CRICKET_INDIA_GUJARAT-TITANS
+      - CRICKET_INDIA_ROYAL-CHALLENGERS-BANGALORE
+      - CRICKET_INDIA_KINGS-XI-PUNJAB
+      - CRICKET_INDIA_KOLKATA-KNIGHT-RIDERS
+      - CRICKET_INDIA_LUCKNOW-SUPER-GIANTS
+      - CRICKET_INDIA_RAJASTHAN-ROYALS
+      - CRICKET_INDIA_MUMBAI-INDIANS
+      - CRICKET_INDIA_CHENNAI-SUPER-KINGS
+      - CRICKET_INDIA_SUNRISERS-HYDERABAD
