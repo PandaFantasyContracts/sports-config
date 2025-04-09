@@ -20,7 +20,7 @@ FOOTBALL_ENGLAND_NOTTINGHAM:
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png'
     color: '#FFFFFF'
 FOOTBALL_ENGLAND_MANCHESTER-CITY:
-    name: 'Manchester City'
+    name: 'Man City'
     code: 'MCI'
     tsdbId: '133613'
     address: '0x22a1aaf104e27b7b3a050b445b73610c177d9a13'
@@ -90,7 +90,7 @@ FOOTBALL_ENGLAND_TOTTENHAM:
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png'
     color: '#FFFFFF'
 FOOTBALL_ENGLAND_MANCHESTER-UNITED:
-    name: 'Manchester Utd'
+    name: 'Man Utd'
     code: 'MUN'
     tsdbId: '133612'
     address: '0x234bda15f5ad4f665d54e0698c2379fc441d4d82'
