@@ -1,64 +1,64 @@
 LACROSSE_USA_BOSTON-CANNONS:
   name: 'Boston Cannons'
-  code:
+  code: 'BOC'
   tsdbId: '146828'
   goalServeId:
-  address:
+  address: '0x59c6ec58c7581b5f59d204ef143eb3003f048d87'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/ist25n1707919826.png'
-  color:
+  color: '#000080'
 LACROSSE_USA_CALIFORNIA-REDWOODS:
   name: 'California Redwoods'
-  code:
+  code: 'CAR'
   tsdbId: '146831'
   goalServeId:
-  address:
+  address: '0xb1c9a4a0cf7a9611256094911525f882843749de'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/h4dbdm1707920143.png'
-  color:
+  color: '#352C2B'
 LACROSSE_USA_CAROLINA-CHAOS:
   name: 'Carolina Chaos'
-  code:
+  code: 'CAC'
   tsdbId: '146829'
   goalServeId:
-  address:
+  address: '0x01b10b4556b7735c2581e8ffdfd50856e7d176c1'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/dxr1za1707919860.png'
-  color:
+  color: '#ED4849'
 LACROSSE_USA_DENVER-OUTLAWS:
   name: 'Denver Outlaws'
-  code:
+  code: 'DEO'
   tsdbId: '146830'
   goalServeId:
-  address:
+  address: '0x66360fb90d860cd886eed3f1fcf55f799211948d'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/k2hm2e1707920030.png'
-  color:
+  color: '#F84E13'
 LACROSSE_USA_MARYLAND-WHIPSNAKES:
   name: 'Maryland Whipsnakes'
-  code:
+  code: 'MAW'
   tsdbId: '146833'
   goalServeId:
-  address:
+  address: '0xe641a3194f313b52fd5fd3af73cf2b88052e8e69'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/fctspv1707920223.png'
-  color:
+  color: '#000000'
 LACROSSE_USA_NEW-YORK-ATLAS:
   name: 'New York Atlas'
-  code:
+  code: 'NYA'
   tsdbId: '146827'
   goalServeId:
-  address:
+  address: '0x0ed4f9f2b14d510bdf9fe5b5232e3e0ce6c82148'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/jvt49r1707919704.png'
-  color:
+  color: '#0EA2C0'
 LACROSSE_USA_PHILADELPHIA-WATERDOGS:
   name: 'Philadelphia Waterdogs'
-  code:
+  code: 'PHW'
   tsdbId: '146832'
   goalServeId:
-  address:
+  address: '0x2865d31712989e0c1c652a812d801d753f7b81c3'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/vq47ut1707920192.png'
-  color:
+  color: '#978CD8'
 LACROSSE_USA_UTAH-ARCHERS:
   name: 'Utah Archers'
-  code:
+  code: 'UTA'
   tsdbId: '146826'
   goalServeId:
-  address:
+  address: '0x100962be0bc61a7508b60a77e9e6366bd562e6ce'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/m8ivs71707919556.png'
-  color:
+  color: '#F7674D'
