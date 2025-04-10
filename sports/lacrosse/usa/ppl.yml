@@ -1,0 +1,21 @@
+country: 'USA'
+name: 'Premier Lacrosse League'
+logo: 'https://www.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
+tsdbId: '5337'
+challenges: []
+seasons:
+  '2025':
+    code: 'PPL_25'
+    active: true
+    startDate: '2025-05-30'
+    endDate: '2025-08-09'
+    teams:
+      - LACROSSE_USA_BOSTON-CANNONS
+      - LACROSSE_USA_CALIFORNIA-REDWOODS
+      - LACROSSE_USA_CAROLINA-CHAOS
+      - LACROSSE_USA_DENVER-OUTLAWS
+      - LACROSSE_USA_MARYLAND-WHIPSNAKES
+      - LACROSSE_USA_NEW-YORK-ATLAS
+      - LACROSSE_USA_PHILADELPHIA-WATERDOGS
+      - LACROSSE_USA_UTAH-ARCHERS
+

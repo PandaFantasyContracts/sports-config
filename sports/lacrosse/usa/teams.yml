@@ -1,0 +1,64 @@
+LACROSSE_USA_BOSTON-CANNONS:
+  name: 'Boston Cannons'
+  code:
+  tsdbId: '146828'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/ist25n1707919826.png'
+  color:
+LACROSSE_USA_CALIFORNIA-REDWOODS:
+  name: 'California Redwoods'
+  code:
+  tsdbId: '146831'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/h4dbdm1707920143.png'
+  color:
+LACROSSE_USA_CAROLINA-CHAOS:
+  name: 'Carolina Chaos'
+  code:
+  tsdbId: '146829'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/dxr1za1707919860.png'
+  color:
+LACROSSE_USA_DENVER-OUTLAWS:
+  name: 'Denver Outlaws'
+  code:
+  tsdbId: '146830'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/k2hm2e1707920030.png'
+  color:
+LACROSSE_USA_MARYLAND-WHIPSNAKES:
+  name: 'Maryland Whipsnakes'
+  code:
+  tsdbId: '146833'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/fctspv1707920223.png'
+  color:
+LACROSSE_USA_NEW-YORK-ATLAS:
+  name: 'New York Atlas'
+  code:
+  tsdbId: '146827'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/jvt49r1707919704.png'
+  color:
+LACROSSE_USA_PHILADELPHIA-WATERDOGS:
+  name: 'Philadelphia Waterdogs'
+  code:
+  tsdbId: '146832'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/vq47ut1707920192.png'
+  color:
+LACROSSE_USA_UTAH-ARCHERS:
+  name: 'Utah Archers'
+  code:
+  tsdbId: '146826'
+  goalServeId:
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/m8ivs71707919556.png'
+  color:
