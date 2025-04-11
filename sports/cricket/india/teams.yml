@@ -1,0 +1,80 @@
+CRICKET_INDIA_DELHI-CAPITALS:
+  name: 'Delhi Capitals'
+  code:
+  tsdbId: '135792'
+  goalServeId: '5879'
+  address: '0x6e5841055439d3aaf9f8d0f29c9f81e8072e8bfe'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/dg4g0z1587334054.png'
+  color: '2561AE'
+CRICKET_INDIA_GUJARAT-TITANS:
+  name: 'Gujarat Titans'
+  code:
+  tsdbId: '145834'
+  goalServeId: '6224'
+  address: '0x872bbb8435ce91d6a452c489a19669220c0fe100'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/6qw4r71654174508.png'
+  color: 'DCC06F'
+CRICKET_INDIA_ROYAL-CHALLENGERS-BANGALORE:
+  name: 'Royal Challengers Bangalore'
+  code:
+  tsdbId: '135796'
+  goalServeId: '2418'
+  address: '0xbe6eb0b925d32a9d97707672d44bbed4dbeae123'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/kynj5v1588331757.png'
+  color: 'D4B461'
+CRICKET_INDIA_KINGS-XI-PUNJAB:
+  name: 'Kings XI Punjab'
+  code:
+  tsdbId: '135793'
+  goalServeId: '2543'
+  address: '0xbd56081cbdb52a56644355d7fa3bd1fa4cad7fb5'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/r1tcie1630697821.png'
+  color: 'DC1E2B'
+CRICKET_INDIA_KOLKATA-KNIGHT-RIDERS:
+  name: 'Kolkata Knight Riders'
+  code:
+  tsdbId: '135794'
+  goalServeId: '2541'
+  address: '0x36d100f51781731300a8ecae6c7125dcba25ab2b'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/ows99r1487678296.png'
+  color: '3A225D'
+CRICKET_INDIA_LUCKNOW-SUPER-GIANTS:
+  name: 'Lucknow Super Giants'
+  code:
+  tsdbId: '145835'
+  goalServeId: '6225'
+  address: '0x803dcaf58b9a2dcb26159cf809599037757c0219'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/4tzmfa1647445839.png'
+  color: '39A9E0'
+CRICKET_INDIA_RAJASTHAN-ROYALS:
+  name: 'Rajasthan Royals'
+  code:
+  tsdbId: '135801'
+  goalServeId: '2542'
+  address: '0xc85e72726fefe42173705a510ce9e3b087cc3965'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/lehnfw1487601864.png'
+  color: 'E60693'
+CRICKET_INDIA_MUMBAI-INDIANS:
+  name: 'Mumbai Indians'
+  code:
+  tsdbId: '135795'
+  goalServeId: '2412'
+  address: '0xe29523aeed9d2e7ddbb6cc8ff081465991114c60'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/l40j8p1487678631.png'
+  color: 'F79433'
+CRICKET_INDIA_CHENNAI-SUPER-KINGS:
+  name: 'Chennai Super Kings'
+  code:
+  tsdbId: '135800'
+  goalServeId: '2415'
+  address: '0xa43f253d3996b7231b821856b379f39734d7fb0a'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/okceh51487601098.png'
+  color: 'F36F21'
+CRICKET_INDIA_SUNRISERS-HYDERABAD:
+  name: 'Sunrisers Hyderabad'
+  code:
+  tsdbId: '135797'
+  goalServeId: '3058'
+  address: '0x8957c3eab588981845b333cbf5636956492ae1b6'
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/sc7m161487419327.png'
+  color: 'E61935'

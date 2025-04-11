@@ -1,7 +1,7 @@
 country: 'World'
 name: 'Formula 1'
 logo: 'https://www.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png'
-externalId: 'formula 1'
+goalServeId: 'formula 1'
 challenges: []
 seasons:
   '2024/2025':
