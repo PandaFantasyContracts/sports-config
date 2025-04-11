@@ -1,7 +1,7 @@
 country: 'India'
 name: 'Indian Premier League'
 logo: 'https://www.thesportsdb.com/images/media/league/badge/gaiti11741709844.png'
-goalServeId: '1015'
+tsdId: '1015'
 challenges: []
 seasons:
   '2024/2025':
