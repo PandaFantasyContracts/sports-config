@@ -11,7 +11,7 @@ MOTORSPORT_WORLD_MCLAREN:
     goalServeId: '1024'
     address: '0x52cd5192e5a2ebb720db3d7243efd659cc50f419'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/bessk21740775415.png'
-    color: '#FF8000'
+    color: '#FFFFFF'
 MOTORSPORT_WORLD_MERCEDES:
     name: 'Mercedes'
     code: 'MER'
@@ -67,4 +67,4 @@ MOTORSPORT_WORLD_ALPINE:
     goalServeId: '1016'
     address: '0xa90c97a543010702f189685c68b3ee196e3ed48e'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/ozhoj31740774899.png'
-    color: '#FF87BC'
+    color: '#000000'
