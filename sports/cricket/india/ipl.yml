@@ -5,7 +5,7 @@ goalServeId: '1015'
 tsdbId: '4460'
 challenges: []
 seasons:
-  '2024/2025':
+  '2025':
     code: 'IPL_25'
     active: true
     startDate: '2025-03-22'
