@@ -4,7 +4,7 @@ FOOTBALL_ENGLAND_LIVERPOOL:
     tsdbId: '133602'
     address: '0x6869968fea1574bfdb60e864c986b72425228fd0'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png'
-    color: '#C8102E'
+    color: '#00B2A9'
 FOOTBALL_ENGLAND_ARSENAL:
     name: 'Arsenal'
     code: 'ARS'
