@@ -182,7 +182,7 @@ FOOTBALL_ENGLAND_DERBY:
     tsdbId: '133627'
     address: '0x87febdd855196bc29a21e223b1d0ca41415b7315'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png'
-    color:
+    color: '#FFFFFF'
 FOOTBALL_ENGLAND_HULL:
     name: 'Hull'
     code: 'HUL'
@@ -231,7 +231,7 @@ FOOTBALL_ENGLAND_OXFORD-UTD:
     tsdbId: '134361'
     address: '0x310236f7eff533c0976a5924a286a8fc05351faf'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/la34wg1601726102.png'
-    color:
+    color: '#ffdd00'
 FOOTBALL_ENGLAND_PLYMOUTH:
     name: 'Plymouth'
     code: 'PLA'
@@ -245,7 +245,7 @@ FOOTBALL_ENGLAND_PORTSMOUTH:
     tsdbId: '133629'
     address: '0x4203752c60554d2a1118d2fac07cc28e417a268c'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png'
-    color:
+    color: '#001489'
 FOOTBALL_ENGLAND_PRESTON:
     name: 'Preston'
     code: 'PNE'
