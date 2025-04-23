@@ -145,167 +145,167 @@ FOOTBALL_ENGLAND_BLACKBURN:
     name: 'Blackburn'
     code: 'BBR'
     tsdbId: '133598'
-    address:
+    address: '0x6a622c1728ce5d55d3f72a5eda0cfa641edbf7f1'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/rvryut1448810814.png'
     color: '#009EE0'
 FOOTBALL_ENGLAND_BRISTOL-CITY:
     name: 'Bristol City'
     code: 'BSC'
     tsdbId: '133621'
-    address:
+    address: '0x7a9b105b955f12cc9f91556eb400d8c2ac59bc86'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/0ejxwz1601721013.png'
     color: '#e21a23'
 FOOTBALL_ENGLAND_BURNLEY:
     name: 'Burnley'
     code: 'BSC'
     tsdbId: '133623'
-    address:
+    address: '0xf5dd51dfad243f173fb19008d193515f16ff49f7'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png'
     color: '#6C1D45'
 FOOTBALL_ENGLAND_CARDIFF:
     name: 'Cardiff'
     code: 'CDF'
     tsdbId: '133637'
-    address:
+    address: '0x779eab85d49a2e10ef8c410c93d9aef8d77f1325'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png'
     color: '#0070B5'
 FOOTBALL_ENGLAND_COVENTRY:
     name: 'Coventry'
     code: 'CDF'
     tsdbId: '133625'
-    address:
+    address: '0xfd90ef206c2400e8946d42b5a3a1b1513e4fb8fe'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png'
     color: '#77BBFF'
 FOOTBALL_ENGLAND_DERBY:
     name: 'Derby'
     code: 'DRB'
     tsdbId: '133627'
-    address:
+    address: '0x87febdd855196bc29a21e223b1d0ca41415b7315'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png'
     color:
 FOOTBALL_ENGLAND_HULL:
     name: 'Hull'
     code: 'HUL'
     tsdbId: '133617'
-    address:
+    address: '0x61e68436ab617456605615b4d911c46d6e88c0e0'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png'
     color: '#f5971d'
 FOOTBALL_ENGLAND_LEEDS:
     name: 'Leeds'
     code: 'LEE'
     tsdbId: '133635'
-    address:
+    address: '0x34597528b996197fd2bee06beec7bacdba8c021b'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/g0eqzw1598804097.png'
     color: '#1D428A'
 FOOTBALL_ENGLAND_LUTON:
     name: 'Luton'
     code: 'LUT'
     tsdbId: '133888'
-    address:
+    address: '0xeb56e3a7b3dd19209a1168209464ebd3d7083ccd'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png'
     color: '#f2922f'
 FOOTBALL_ENGLAND_MIDDLESBROUGH:
     name: 'Middlesbrough'
     code: 'MID'
     tsdbId: '133628'
-    address:
+    address: '0xce27c18f82d92487c04775f4239990b2f48c73fc'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/xxpttq1448811142.png'
     color: '#ff0000'
 FOOTBALL_ENGLAND_MILLWALL:
     name: 'Millwall'
     code: 'MLW'
     tsdbId: '133634'
-    address:
+    address: '0x69abcc4c6422cd6e3b2b143019131b84f9d4490f'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png'
     color: '#00194A'
 FOOTBALL_ENGLAND_NORWICH:
     name: 'Norwich'
     code: 'NOR'
     tsdbId: '133608'
-    address:
+    address: '0x0a612b86aa6dc7a4cfef98b81398e1dd981897cf'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png'
     color: '#FFF200'
 FOOTBALL_ENGLAND_OXFORD-UTD:
     name: 'Oxford Utd'
     code: 'OXF'
     tsdbId: '134361'
-    address:
+    address: '0x310236f7eff533c0976a5924a286a8fc05351faf'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/la34wg1601726102.png'
     color:
 FOOTBALL_ENGLAND_PLYMOUTH:
     name: 'Plymouth'
     code: 'PLA'
     tsdbId: '133836'
-    address:
+    address: '0xf83d39c759ccd0a647150ff46742c57879d77886'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png'
     color: '#005045'
 FOOTBALL_ENGLAND_PORTSMOUTH:
     name: 'Portsmouth'
     code: 'PTM'
     tsdbId: '133629'
-    address:
+    address: '0x4203752c60554d2a1118d2fac07cc28e417a268c'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png'
     color:
 FOOTBALL_ENGLAND_PRESTON:
     name: 'Preston'
     code: 'PNE'
     tsdbId: '133809'
-    address:
+    address: '0x5be6363ceec491953d8e6dccd53093fac3205d72'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/wqtwvw1448811512.png'
     color: '#002156'
 FOOTBALL_ENGLAND_QPR:
     name: 'QPR'
     code: 'QPR'
     tsdbId: '133605'
-    address:
+    address: '0xe95cc33cf95e3f30dad1fd2483b304f74f3686b4'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/l4qscx1601721022.png'
     color: '#1d5ba4'
 FOOTBALL_ENGLAND_SHEFFIELD-UTD:
     name: 'Sheffield Utd'
     code: 'SHU'
     tsdbId: '133811'
-    address:
+    address: '0xd5091a49a3757907fc7507fc15206a1f0b81b615'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png'
     color: '#EE2737'
 FOOTBALL_ENGLAND_SHEFFIELD-WEDS:
     name: 'Sheffield Weds'
     code: 'SHF'
     tsdbId: '133837'
-    address:
+    address: '0x7ce319e08cc7d107037364c040c90da483b5ea6f'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/lonnw91601721029.png'
     color: '#4681cf'
 FOOTBALL_ENGLAND_STOKE:
     name: 'Stoke'
     code: 'STK'
     tsdbId: '133609'
-    address:
+    address: '0xa923328090a2ce02908ce8ae5d1d575f81fd16ac'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/d16frn1678807158.png'
     color: '#E03A3E'
 FOOTBALL_ENGLAND_SUNDERLAND:
     name: 'Sunderland'
     code: 'SUN'
     tsdbId: '133603'
-    address:
+    address: '0x4a46f25261639c752d152bc9684ab9a321c25c03'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png'
     color: '#ff0000'
 FOOTBALL_ENGLAND_SWANSEA:
     name: 'Swansea'
     code: 'SWA'
     tsdbId: '133614'
-    address:
+    address: '0x2d4370ae18e74cc495a4183bae2fa6857d2dae0e'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png'
     color: '#FFFFFF'
 FOOTBALL_ENGLAND_WATFORD:
     name: 'Watford'
     code: 'WAT'
     tsdbId: '133624'
-    address:
+    address: '0xffa977f50d5cf27db16a08924f493332e5077aed'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png'
     color: '#FBEE23'
 FOOTBALL_ENGLAND_WEST-BROM:
     name: 'West Brom'
     code: 'WBA'
     tsdbId: '133611'
-    address:
+    address: '0xf021d9f9d06167b1d5ceb744c093004d7d4216fa'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png'
     color: '#122F67'
