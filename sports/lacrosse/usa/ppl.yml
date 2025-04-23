@@ -6,7 +6,7 @@ challenges: []
 seasons:
   '2025':
     code: 'PPL_25'
-    active: true
+    active: false
     startDate: '2025-05-30'
     endDate: '2025-08-09'
     teams:
