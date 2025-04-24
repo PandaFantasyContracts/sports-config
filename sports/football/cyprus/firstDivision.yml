@@ -6,7 +6,7 @@ challenges: ['PICK5_FREE', 'DIVIDENDS']
 seasons:
   '2024-2025':
     code: 'Cyprus_1_Div_24_25'
-    active: true
+    active: false
     startDate: '2024-08-23'
     endDate: '2025-03-01'
     teams:
