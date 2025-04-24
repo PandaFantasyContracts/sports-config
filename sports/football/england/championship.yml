@@ -6,7 +6,7 @@ challenges: ['PICK5_FREE', 'DIVIDENDS']
 seasons:
   '2024-2025':
     code: 'UK_CHAMPIONSHIP_24_25'
-    active: false
+    active: true
     startDate: '2024-08-09'
     endDate: '2025-05-03'
     teams:
