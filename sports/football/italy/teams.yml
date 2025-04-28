@@ -1,0 +1,28 @@
+'FOOTBALL_ITALY_AC-MILAN':
+  'address': '0x8443f3c5a3e74b2fc72f3a1310538707cdf26bd4'
+  'code': 'MIL'
+  'color': '#FB090B'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png'
+  'name': 'AC Milan'
+  'tsdbId': '133667'
+'FOOTBALL_ITALY_BOLOGNA':
+  'address': '0xf07887e56dc28189a19b7dea8fc88e876a2ae64b'
+  'code': ''
+  'color': '#A21C26'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png'
+  'name': 'Bologna'
+  'tsdbId': '134781'
+'FOOTBALL_ITALY_CAGLIARI':
+  'address': '0x33bb9a01966ecddbc70676704f2e84d77ba72d70'
+  'code': ''
+  'color': '#002350'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png'
+  'name': 'Cagliari'
+  'tsdbId': '134783'
+'FOOTBALL_ITALY_ATALANTA':
+  'address': '0xdfc55ef4713e973be8727d03981eebbebbe1713f'
+  'code': ''
+  'color': '#1E71B8'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png'
+  'name': 'Atalanta'
+  'tsdbId': '134782'
