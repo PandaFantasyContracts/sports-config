@@ -1,0 +1,30 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'country': 'France'
+'logo': 'https://www.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png'
+'name': 'French Ligue 1'
+'seasons':
+  '2024-2025':
+    'active': !!bool 'false'
+    'code': 'French_Ligue_1_2024_2025'
+    'endDate': 2025-05-29T18:30:00Z
+    'startDate': 2024-08-16T18:45:00Z
+    'teams':
+    - 'FOOTBALL_FRANCE_STRASBOURG'
+    - 'FOOTBALL_FRANCE_RENNES'
+    - 'FOOTBALL_FRANCE_LE-HAVRE'
+    - 'FOOTBALL_FRANCE_LYON'
+    - 'FOOTBALL_FRANCE_MONACO'
+    - 'FOOTBALL_FRANCE_STADE-DE-REIMS'
+    - 'FOOTBALL_FRANCE_TOULOUSE'
+    - 'FOOTBALL_FRANCE_LENS'
+    - 'FOOTBALL_FRANCE_ST-ETIENNE'
+    - 'FOOTBALL_FRANCE_AUXERRE'
+    - 'FOOTBALL_FRANCE_LILLE'
+    - 'FOOTBALL_FRANCE_NICE'
+    - 'FOOTBALL_FRANCE_MARSEILLE'
+    - 'FOOTBALL_FRANCE_ANGERS'
+    - 'FOOTBALL_FRANCE_MONTPELLIER'
+    - 'FOOTBALL_FRANCE_PARIS-SG'
+    - 'FOOTBALL_FRANCE_NANTES'
+    - 'FOOTBALL_FRANCE_BREST'
+'tsdbId': '4334'
