@@ -4,7 +4,7 @@
 'name': 'Italian Serie A'
 'seasons':
   '2024-2025':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'Italy_Serie_A_2024_2025'
     'endDate': 2025-05-25T13:00:00Z
     'startDate': 2024-08-17T16:30:00Z
