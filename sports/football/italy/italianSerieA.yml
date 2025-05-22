@@ -1,0 +1,32 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'country': 'Italy'
+'logo': 'https://www.thesportsdb.com/images/media/league/badge/67q3q21679951383.png'
+'name': 'Italian Serie A'
+'seasons':
+  '2024-2025':
+    'active': !!bool 'true'
+    'code': 'Italy_Serie_A_2024_2025'
+    'endDate': 2025-05-25T13:00:00Z
+    'startDate': 2024-08-17T16:30:00Z
+    'teams':
+    - 'FOOTBALL_ITALY_MONZA'
+    - 'FOOTBALL_ITALY_FIORENTINA'
+    - 'FOOTBALL_ITALY_VENEZIA'
+    - 'FOOTBALL_ITALY_AC-MILAN'
+    - 'FOOTBALL_ITALY_BOLOGNA'
+    - 'FOOTBALL_ITALY_NAPOLI'
+    - 'FOOTBALL_ITALY_CAGLIARI'
+    - 'FOOTBALL_ITALY_UDINESE'
+    - 'FOOTBALL_ITALY_JUVENTUS'
+    - 'FOOTBALL_ITALY_LAZIO'
+    - 'FOOTBALL_ITALY_ROMA'
+    - 'FOOTBALL_ITALY_LECCE'
+    - 'FOOTBALL_ITALY_PARMA-CALCIO-1913'
+    - 'FOOTBALL_ITALY_COMO'
+    - 'FOOTBALL_ITALY_VERONA'
+    - 'FOOTBALL_ITALY_ATALANTA'
+    - 'FOOTBALL_ITALY_EMPOLI'
+    - 'FOOTBALL_ITALY_INTER-MILAN'
+    - 'FOOTBALL_ITALY_GENOA'
+    - 'FOOTBALL_ITALY_TORINO'
+'tsdbId': '4332'
