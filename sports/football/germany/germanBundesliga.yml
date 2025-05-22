@@ -1,0 +1,30 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'country': 'Germany'
+'logo': 'https://www.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png'
+'name': 'German Bundesliga'
+'seasons':
+  '2024-2025':
+    'active': !!bool 'false'
+    'code': 'Germany_Bundesliga_2024_2025'
+    'endDate': 2025-05-17T13:30:00Z
+    'startDate': 2024-08-23T18:30:00Z
+    'teams':
+    - 'FOOTBALL_GERMANY_ST-PAULI'
+    - 'FOOTBALL_GERMANY_FC-AUGSBURG'
+    - 'FOOTBALL_GERMANY_UNION-BERLIN'
+    - 'FOOTBALL_GERMANY_EINTRACHT-FRANKFURT'
+    - 'FOOTBALL_GERMANY_MAINZ'
+    - 'FOOTBALL_GERMANY_STUTTGART'
+    - 'FOOTBALL_GERMANY_BORUSSIA-MÖNCHENGLADBACH'
+    - 'FOOTBALL_GERMANY_FC-HEIDENHEIM'
+    - 'FOOTBALL_GERMANY_HOLSTEIN-KIEL'
+    - 'FOOTBALL_GERMANY_HOFFENHEIM'
+    - 'FOOTBALL_GERMANY_RB-LEIPZIG'
+    - 'FOOTBALL_GERMANY_WOLFSBURG'
+    - 'FOOTBALL_GERMANY_BAYERN-MUNICH'
+    - 'FOOTBALL_GERMANY_WERDER-BREMEN'
+    - 'FOOTBALL_GERMANY_BAYER-LEVERKUSEN'
+    - 'FOOTBALL_GERMANY_FREIBURG'
+    - 'FOOTBALL_GERMANY_BORUSSIA-DORTMUND'
+    - 'FOOTBALL_GERMANY_BOCHUM'
+'tsdbId': '4331'
