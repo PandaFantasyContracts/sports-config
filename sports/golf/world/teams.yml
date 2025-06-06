@@ -1,0 +1,92 @@
+GOLF_WORLD_4ACES-GC:
+    name: '4Aces GC'
+    code:
+    tsdbId: '147261'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/4p6r541677791513.png'
+    color: '#1E3A8A'
+GOLF_WORLD_CLEEKS-GC:
+    name: 'Cleeks GC'
+    code:
+    tsdbId: '147262'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/rv7h6f1677791817.png'
+    color: '#22C55E'
+GOLF_WORLD_CRUSHERS-GC:
+    name: 'Crushers GC'
+    code:
+    tsdbId: '147260'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/hl2hco1677791561.png'
+    color: '#7C3AED'
+GOLF_WORLD_FIREBALLS-GC:
+    name: 'Fireballs GC'
+    code:
+    tsdbId: '147263'
+    address: '#DC2626'
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/yijd3q1677791981.png'
+    color: '#000000'
+GOLF_WORLD_HYFLYERS-GC:
+    name: 'HyFlyers GC'
+    code:
+    tsdbId: '147264'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/n8l6sa1706114634.png'
+    color: ' #000000'
+GOLF_WORLD_IRON-HEADS-GC:
+    name: 'Iron Heads'
+    code:
+    tsdbId: '147265'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/sniemn1677792615.png'
+    color: '#000000'
+GOLF_WORLD_LEGION-XIII:
+    name: 'Legion XIII'
+    code:
+    tsdbId: '148094'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/cuk3e51707077028.png'
+    color: '#991B1B'
+GOLF_WORLD_MAJESTICKS GC:
+    name: 'Majesticks GC'
+    code:
+    tsdbId: '147266'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/ab46fs1677792872.png'
+    color: '#0EA5E9'
+GOLF_WORLD_RANGEGOATS GC:
+    name: 'RangeGoats GC'
+    code:
+    tsdbId: '147267'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/ig753h1677793178.png'
+    color: '#16A34A'
+GOLF_WORLD_RIPPER GC:
+    name: 'Ripper GC'
+    code:
+    tsdbId: '147268'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/fsnirc1677793412.png'
+    color: '#B91C1C'
+GOLF_WORLD_SMASH GC:
+    name: 'Smash GC'
+    code:
+    tsdbId: '147269'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/7xrym81677793652.png'
+    color: '#2563EB'
+GOLF_WORLD_STINGER GC:
+    name: 'Stinger GC'
+    code:
+    tsdbId: '147271'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/m2cv0u1677794078.png'
+    color: '#EA580C'
+GOLF_WORLD_TORQUE GC:
+    name: 'Torque GC'
+    code:
+    tsdbId: '147272'
+    address:
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/cbro131677794355.png'
+    color: '#000000'
+

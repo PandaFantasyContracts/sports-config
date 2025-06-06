@@ -1,0 +1,23 @@
+country: 'World'
+name: 'LIV Golf'
+logo: 'https://www.thesportsdb.com/images/media/league/badge/x8p62j1659513228.png'
+tsdbId: '5329'
+challenges: []
+seasons:
+  '2025':
+    code: 'LIV_2025'
+    active: false
+    startDate: '2025-05-02'
+    endDate: '2025-08-15'
+    teams:
+      - MOTORSPORT_WORLD_ASTON-MARTIN
+      - MOTORSPORT_WORLD_MCLAREN
+      - MOTORSPORT_WORLD_MERCEDES
+      - MOTORSPORT_WORLD_RED-BULL
+      - MOTORSPORT_WORLD_WILLIAMS
+      - MOTORSPORT_WORLD_FERRARI
+      - MOTORSPORT_WORLD_HAAS
+      - MOTORSPORT_WORLD_KICK-SAUBER
+      - MOTORSPORT_WORLD_RACINGBULLS
+      - MOTORSPORT_WORLD_ALPINE
+
