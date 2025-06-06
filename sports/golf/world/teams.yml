@@ -23,7 +23,7 @@ GOLF_WORLD_FIREBALLS-GC:
     name: 'Fireballs GC'
     code:
     tsdbId: '147263'
-    address:
+    address: '0x7a518dc56f84d1dbe860bfcf91e3df17f9ed7ebb'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/yijd3q1677791981.png'
     color: '#DC2626'
 GOLF_WORLD_HYFLYERS-GC:
