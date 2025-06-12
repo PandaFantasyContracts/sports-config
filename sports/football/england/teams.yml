@@ -597,21 +597,21 @@
   'name': 'Wycombe Wanderers'
   'tsdbId': '134382'
 'FOOTBALL_ENGLAND_BIRMINGHAM-CITY':
-  'address':
+  'address': '0x60b8530ef24e93a7a0e5d06ae13f35fd791105da'
   'code': 'BRC'
   'color': '#0000FF'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png'
   'name': 'Birmingham City'
   'tsdbId': '133597'
 'FOOTBALL_ENGLAND_WREXHAM':
-  'address':
+  'address': '0xf5d0a997f508e6b5970673806713fcbfd103a59f'
   'code': 'WRE'
   'color': '#FF0000'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png'
   'name': 'Wrexham'
   'tsdbId': '134775'
 'FOOTBALL_ENGLAND_CHARLTON-ATHLETIC':
-  'address':
+  'address': '0x47b45b4fac5788a512e833b2d397e4c437cfd01b'
   'code': 'CHA'
   'color': '#000000'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png'
