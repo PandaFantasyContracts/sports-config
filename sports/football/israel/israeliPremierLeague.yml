@@ -1,0 +1,26 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'country': 'Israel'
+'logo': 'https://www.thesportsdb.com/images/media/league/badge/glvhg51664190048.png'
+'name': 'Israeli Premier League'
+'seasons':
+  '2025-2026':
+    'active': !!bool 'false'
+    'startDate' : '2025-08-24'
+    'endDate' : '2026-05-24'
+    'code': 'Israel_Premier_League_2025_2026'
+    'teams':
+    - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'
+    - 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV'
+    - 'FOOTBALL_ISRAEL_FC-ASHDOD'
+    - 'FOOTBALL_ISRAEL_MACCABI-HAIFA'
+    - 'FOOTBALL_ISRAEL_BEITAR-JERUSALEM'
+    - 'FOOTBALL_ISRAEL_IRONI-TIBERIAS'
+    - 'FOOTBALL_ISRAEL_HAPOEL-BE''ER-SHEVA'
+    - 'FOOTBALL_ISRAEL_HAPOEL-JERUSALEM'
+    - 'FOOTBALL_ISRAEL_HAPOEL-HADERA-ERAN'
+    - 'FOOTBALL_ISRAEL_MACCABI-PETACH-TIKVA'
+    - 'FOOTBALL_ISRAEL_MACCABI-NETANYA'
+    - 'FOOTBALL_ISRAEL_HAPOEL-KIRYAT-SHMONA'
+    - 'FOOTBALL_ISRAEL_HAPOEL-HAIFA'
+    - 'FOOTBALL_ISRAEL_BNEI-SAKHNIN'
+'tsdbId': '4644'
