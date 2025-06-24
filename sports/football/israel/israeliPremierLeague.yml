@@ -5,6 +5,8 @@
 'seasons':
   '2025-2026':
     'active': !!bool 'false'
+    'startDate' : '2025-08-24'
+    'endDate' : '2026-05-24'
     'code': 'Israel_Premier_League_2025_2026'
     'teams':
     - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'
