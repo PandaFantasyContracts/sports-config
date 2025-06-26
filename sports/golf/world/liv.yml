@@ -6,7 +6,7 @@ challenges: []
 seasons:
   '2025':
     code: 'LIV_2025'
-    active: true
+    active: false
     startDate: '2025-05-02'
     endDate: '2025-08-15'
     teams:
