@@ -1,0 +1,42 @@
+CRICKET_PAKISTAN_ISLAMABAD-UNITED:
+  name: 'Islamabad United'
+  code:
+  tsdbId: '142102'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/5bi3eb1709123559.png'
+  color:
+CRICKET_PAKISTAN_KARACHI-KINGS:
+  name: 'Karachi Kings'
+  code:
+  tsdbId: '142103'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/tfuvu11709123541.png'
+  color:
+CRICKET_PAKISTAN_LAHORE-QALANDARS:
+  name: 'Lahore Qalandars'
+  code:
+  tsdbId: '142104'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/hvrtrg1709123519.png'
+  color:
+CRICKET_PAKISTAN_MULTAN-SULTANS:
+  name: 'Multan Sultans'
+  code:
+  tsdbId: '142105'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/mpijr01709123512.png'
+  color:
+CRICKET_PAKISTAN_PESHWAR-ZALM:
+  name: 'Peshawar Zalm'
+  code:
+  tsdbId: '142106'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/frp6xj1709123501.png'
+  color:
+CRICKET_PAKISTAN_QUETTA-GLADIATORS:
+  name: 'Quetta Gladiators'
+  code:
+  tsdbId: '142107'
+  address:
+  logo: 'https://r2.thesportsdb.com/images/media/team/badge/rox6ge1709123486.png'
+  color:
