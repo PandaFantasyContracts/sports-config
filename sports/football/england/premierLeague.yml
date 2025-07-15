@@ -2,11 +2,12 @@ country: 'England'
 name: 'Premier League'
 logo: 'https://www.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
 tsdbId: '4328'
-challenges: ['PICK5_FREE', 'DIVIDENDS']
+challenges: [ 'PICK5_FREE', 'DIVIDENDS' ]
 seasons:
   '2024-2025':
     code: 'UK_PL_24_25'
     active: true
+    whitelisted: true
     startDate: '2024-08-16'
     endDate: '2025-05-25'
     teams:
