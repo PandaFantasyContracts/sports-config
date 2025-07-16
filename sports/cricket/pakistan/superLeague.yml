@@ -6,7 +6,8 @@ challenges: []
 seasons:
   '2025':
     code: 'PAKISTAN_SUPER_LEAGUE_CRICKET_2025'
-    active: false
+    active: true
+    whitelisted: true
     startDate: '2025-03-22'
     endDate: '2025-05-18'
     teams:

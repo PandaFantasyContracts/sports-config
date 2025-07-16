@@ -2,11 +2,12 @@ country: 'World'
 name: 'LIV Golf'
 logo: 'https://www.thesportsdb.com/images/media/league/badge/x8p62j1659513228.png'
 tsdbId: '5329'
-challenges: []
+challenges: [ ]
 seasons:
   '2025':
     code: 'LIV_2025'
-    active: false
+    active: true
+    whitelisted: true
     startDate: '2025-05-02'
     endDate: '2025-08-15'
     teams:

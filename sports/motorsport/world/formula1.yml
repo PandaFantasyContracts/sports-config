@@ -2,11 +2,12 @@ country: 'World'
 name: 'Formula 1'
 logo: 'https://www.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png'
 goalServeId: 'formula 1'
-challenges: []
+challenges: [ ]
 seasons:
   '2024/2025':
     code: 'FORMULA1_25'
     active: true
+    whitelisted: true
     startDate: '2025-03-16'
     endDate: '2025-12-07'
     teams:
