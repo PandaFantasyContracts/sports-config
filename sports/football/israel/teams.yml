@@ -103,3 +103,10 @@
     'logo': 'https://r2.thesportsdb.com/images/media/team/badge/viqboc1579020034.png'
     'name': 'Hapoel Tel-Aviv'
     'tsdbId': '134124'
+'FOOTBALL_ISRAEL_HAPOEL-PETAH-TIKVA':
+  'address': '0x9d291bc3f9039a603d115d336f5b409af7158379'
+  'code': 'HPT'
+  'color': '#000080'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/agaems1617289236.png'
+  'name': 'Hapoel Petah Tikva'
+  'tsdbId': '141238'
