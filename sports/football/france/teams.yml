@@ -124,3 +124,26 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png'
   'name': 'Brest'
   'tsdbId': '133704'
+'FOOTBALL_FRANCE_LORIENT':
+  'address': '0x1bb57d4f6fb79cd1c5c15dc14077b8d5c1758782'
+  'code': 'LOR'
+  'color': '#f58113'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png'
+  'name': 'Lorient'
+  'tsdbId': '133715'
+'FOOTBALL_FRANCE_METZ':
+  'address': '0x37081369b03d2f1ac9deabb3f13cddf70890b022'
+  'code': 'MTZ'
+  'color': '#6E0F12'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/1iuew61688452857.png'
+  'name': 'Metz'
+  'tsdbId': '133883'
+'FOOTBALL_FRANCE_PARIS-FC':
+  'address': '0xb6315dfd64d9c5d3b19632d2a9aa82bb39cff11b'
+  'code': 'PFC'
+  'color': '#000080'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png'
+  'name': 'Paris FC'
+  'tsdbId': '135465'
+
+

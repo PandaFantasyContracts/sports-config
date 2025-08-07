@@ -96,3 +96,28 @@ FOOTBALL_CYPRUS_OMONIA-29:
     address: '0x36f00c080e0fddec2e12c502bb49b99c40ce98c4'
     logo: 'https://r2.thesportsdb.com/images/media/team/badge/1rijst1707410501.png'
     color: '#35530A'
+FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS:
+    name: 'Akritas Chlorakas'
+    code: 'AKR'
+    tsdbId: '141091'
+    address: '0xbc7b3c9bc343a93c05678733dfaae4ce35feb491'
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/4ycs8n1615835199.png'
+    color: '#85BB65'
+FOOTBALL_CYPRUS_KRASAVA-YPSONA:
+    name: 'Krasava Ypsonas'
+    code: 'KRA'
+    tsdbId: '141098'
+    address: '0xa008ee4f74b60e3d42098bf1a935212d43fa7186'
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/n9fcdh1731012337.png'
+    color: '#FFD700'
+FOOTBALL_CYPRUS_OLYMPIAKOS:
+    name: 'Olympiakos Nicosia'
+    code: 'OLY'
+    tsdbId: '137927'
+    address: '0x4b65f6ad6dd924d1cd49bbca346e06df5489beb1'
+    logo: 'https://r2.thesportsdb.com/images/media/team/badge/mmo0kb1678201580.png'
+    color: '#006400'
+
+
+
+
