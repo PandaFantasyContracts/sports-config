@@ -124,3 +124,18 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png'
   'name': 'Bochum'
   'tsdbId': '133839'
+'FOOTBALL_GERMANY_HAMBURG':
+  'address': '0xf7735bc65b4a596b16bc10135cb6c0408005d5a6'
+  'code': 'HSV'
+  'color': '#0066CC'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png'
+  'name': 'Hamburg'
+  'tsdbId': '133651'
+'FOOTBALL_GERMANY_FC-COLOGNE':
+  'address': '0x7bc88ed6c349bac003eeff6e38716944fda45e6f'
+  'code': 'KOL'
+  'color': '#DC143C'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png'
+  'name': 'FC Cologne'
+  'tsdbId': '133654'
+

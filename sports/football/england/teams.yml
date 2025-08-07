@@ -378,13 +378,6 @@
   'name': 'QPR'
   'sport': 'football'
   'tsdbId': '133605'
-'FOOTBALL_ENGLAND_PLYMOUTH-ARGYLE':
-  'address': '0x910638b20295f95f2dc6fdbd7b89403f667fbb7b'
-  'code': 'PLA'
-  'color': '#005045'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png'
-  'name': 'Plymouth Argyle'
-  'tsdbId': '133836'
 'FOOTBALL_ENGLAND_STEVENAGE':
   'address': '0xd73706bdf8ca8ea66c683fe4ca71e9df2c9bf18a'
   'code': 'STV'
@@ -525,13 +518,6 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png'
   'name': 'Bradford City'
   'tsdbId': '134189'
-'FOOTBALL_ENGLAND_CARDIFF-CITY':
-  'address': '0x59f390e3673584accfe3642e5e32bf9c57f853fd'
-  'code': 'CDF'
-  'color': '#0070B5'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png'
-  'name': 'Cardiff City'
-  'tsdbId': '133637'
 'FOOTBALL_ENGLAND_WATFORD':
   'address': '0xffa977f50d5cf27db16a08924f493332e5077aed'
   'code': 'WAT'
