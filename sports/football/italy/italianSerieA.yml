@@ -4,7 +4,7 @@
 'name': 'Italian Serie A'
 'seasons':
   '2024-2025':
-    active: true
+    active: false
     whitelisted: true
     'code': 'Italy_Serie_A_2024_2025'
     'endDate': 2025-05-25T13:00:00Z
@@ -31,7 +31,7 @@
       - 'FOOTBALL_ITALY_GENOA'
       - 'FOOTBALL_ITALY_TORINO'
   '2025-2026':
-    active: false
+    active: true
     whitelisted: true
     'code': 'Italy_Serie_A_2025_2026'
     'endDate': '2026-05-24'
