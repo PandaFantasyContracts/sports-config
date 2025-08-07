@@ -4,7 +4,7 @@
 'name': 'German Bundesliga'
 'seasons':
   '2024-2025':
-    active: true
+    active: false
     whitelisted: true
     'code': 'Germany_Bundesliga_2024_2025'
     'endDate': 2025-05-17T13:30:00Z
@@ -29,7 +29,7 @@
       - 'FOOTBALL_GERMANY_BORUSSIA-DORTMUND'
       - 'FOOTBALL_GERMANY_BOCHUM'
   '2025-2026':
-    active: false
+    active: true
     whitelisted: true
     'code': 'Germany_Bundesliga_2025_2026'
     'endDate': '2026-05-16'

@@ -4,7 +4,7 @@
 'name': 'English League 1'
 'seasons':
   '2024-2025':
-    active: true
+    active: false
     whitelisted: true
     'code': 'England_English_League_1_2024_2025'
     'endDate': 2025-05-25T12:01:00Z
@@ -35,7 +35,7 @@
       - 'FOOTBALL_ENGLAND_WREXHAM'
       - 'FOOTBALL_ENGLAND_CHARLTON-ATHLETIC'
   '2025-2026':
-    active: false
+    active: true
     whitelisted: true
     'code': 'England_English_League_1_2025_2026'
     'endDate': '2026-05-02'
