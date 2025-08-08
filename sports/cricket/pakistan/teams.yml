@@ -35,7 +35,7 @@ CRICKET_PAKISTAN_PESHWAR-ZALM:
   color:
 CRICKET_PAKISTAN_QUETTA-GLADIATORS:
   name: 'Quetta Gladiators'
-  code:
+  code: 'QG'
   tsdbId: '142107'
   address: '0xf0007f7f3e6a0b95ec89918ceed84d2cbd6b612c'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/rox6ge1709123486.png'
