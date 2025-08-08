@@ -1,6 +1,6 @@
 CRICKET_INDIA_DELHI-CAPITALS:
   name: 'Delhi Capitals'
-  code:
+  code: 'DC'
   tsdbId: '135792'
   goalServeId: '5879'
   address: '0x6e5841055439d3aaf9f8d0f29c9f81e8072e8bfe'
@@ -8,7 +8,7 @@ CRICKET_INDIA_DELHI-CAPITALS:
   color: '2561AE'
 CRICKET_INDIA_GUJARAT-TITANS:
   name: 'Gujarat Titans'
-  code:
+  code: 'GT'
   tsdbId: '145834'
   goalServeId: '6224'
   address: '0x872bbb8435ce91d6a452c489a19669220c0fe100'
@@ -16,7 +16,7 @@ CRICKET_INDIA_GUJARAT-TITANS:
   color: 'DCC06F'
 CRICKET_INDIA_ROYAL-CHALLENGERS-BANGALORE:
   name: 'Royal Challengers Bangalore'
-  code:
+  code: 'RCB'
   tsdbId: '135796'
   goalServeId: '2418'
   address: '0xbe6eb0b925d32a9d97707672d44bbed4dbeae123'
@@ -24,7 +24,7 @@ CRICKET_INDIA_ROYAL-CHALLENGERS-BANGALORE:
   color: 'D4B461'
 CRICKET_INDIA_KINGS-XI-PUNJAB:
   name: 'Kings XI Punjab'
-  code:
+  code: 'KXIP'
   tsdbId: '135793'
   goalServeId: '2543'
   address: '0xbd56081cbdb52a56644355d7fa3bd1fa4cad7fb5'
@@ -32,7 +32,7 @@ CRICKET_INDIA_KINGS-XI-PUNJAB:
   color: 'DC1E2B'
 CRICKET_INDIA_KOLKATA-KNIGHT-RIDERS:
   name: 'Kolkata Knight Riders'
-  code:
+  code: 'KKR'
   tsdbId: '135794'
   goalServeId: '2541'
   address: '0x36d100f51781731300a8ecae6c7125dcba25ab2b'
@@ -40,7 +40,7 @@ CRICKET_INDIA_KOLKATA-KNIGHT-RIDERS:
   color: '3A225D'
 CRICKET_INDIA_LUCKNOW-SUPER-GIANTS:
   name: 'Lucknow Super Giants'
-  code:
+  code: 'LSG'
   tsdbId: '145835'
   goalServeId: '6225'
   address: '0x803dcaf58b9a2dcb26159cf809599037757c0219'
@@ -48,7 +48,7 @@ CRICKET_INDIA_LUCKNOW-SUPER-GIANTS:
   color: '39A9E0'
 CRICKET_INDIA_RAJASTHAN-ROYALS:
   name: 'Rajasthan Royals'
-  code:
+  code: 'RR'
   tsdbId: '135801'
   goalServeId: '2542'
   address: '0xc85e72726fefe42173705a510ce9e3b087cc3965'
@@ -56,7 +56,7 @@ CRICKET_INDIA_RAJASTHAN-ROYALS:
   color: 'E60693'
 CRICKET_INDIA_MUMBAI-INDIANS:
   name: 'Mumbai Indians'
-  code:
+  code: 'MI'
   tsdbId: '135795'
   goalServeId: '2412'
   address: '0xe29523aeed9d2e7ddbb6cc8ff081465991114c60'
@@ -64,7 +64,7 @@ CRICKET_INDIA_MUMBAI-INDIANS:
   color: 'F79433'
 CRICKET_INDIA_CHENNAI-SUPER-KINGS:
   name: 'Chennai Super Kings'
-  code:
+  code: 'CSK'
   tsdbId: '135800'
   goalServeId: '2415'
   address: '0xa43f253d3996b7231b821856b379f39734d7fb0a'
@@ -72,7 +72,7 @@ CRICKET_INDIA_CHENNAI-SUPER-KINGS:
   color: 'F36F21'
 CRICKET_INDIA_SUNRISERS-HYDERABAD:
   name: 'Sunrisers Hyderabad'
-  code:
+  code: 'SRH'
   tsdbId: '135797'
   goalServeId: '3058'
   address: '0x8957c3eab588981845b333cbf5636956492ae1b6'

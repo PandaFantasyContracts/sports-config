@@ -1,34 +1,34 @@
 CRICKET_PAKISTAN_ISLAMABAD-UNITED:
   name: 'Islamabad United'
-  code:
+  code: 'IU'
   tsdbId: '142102'
   address: '0x76af10a162ba1507d7cf53cae3765d5f7f8446db'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/5bi3eb1709123559.png'
   color:
 CRICKET_PAKISTAN_KARACHI-KINGS:
   name: 'Karachi Kings'
-  code:
+  code: 'KK'
   tsdbId: '142103'
   address: '0x982ece14f821006a06c6bd9ff3c6816cc76185d1'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/tfuvu11709123541.png'
   color:
 CRICKET_PAKISTAN_LAHORE-QALANDARS:
   name: 'Lahore Qalandars'
-  code:
+  code: 'LQ'
   tsdbId: '142104'
   address: '0xd43fb9c19ea7cbd01c0abe3e38b8f6ed08a2e9aa'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/hvrtrg1709123519.png'
   color:
 CRICKET_PAKISTAN_MULTAN-SULTANS:
   name: 'Multan Sultans'
-  code:
+  code: 'MS'
   tsdbId: '142105'
   address: '0xf5557f95d5ed7456fba5566587591cd20796721a'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/mpijr01709123512.png'
   color:
 CRICKET_PAKISTAN_PESHWAR-ZALM:
   name: 'Peshawar Zalm'
-  code:
+  code: 'PZ'
   tsdbId: '142106'
   address: '0xf51dfdc83fed698b3c3baae596020fc7b592aa5f'
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/frp6xj1709123501.png'
