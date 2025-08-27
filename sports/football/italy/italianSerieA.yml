@@ -2,6 +2,8 @@
 'country': 'Italy'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/67q3q21679951383.png'
 'name': 'Italian Serie A'
+standingsScraper: 'tsdb'
+weeksScraper: 'tsdb'
 'seasons':
   '2024-2025':
     active: false

@@ -2,6 +2,8 @@
 'country': 'Israel'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/glvhg51664190048.png'
 'name': 'Israeli Premier League'
+standingsScraper: 'tsdb'
+weeksScraper: 'tsdb'
 'seasons':
   '2025-2026':
     active: true
