@@ -27,7 +27,7 @@ CRICKET_PAKISTAN_MULTAN-SULTANS:
   logo: 'https://r2.thesportsdb.com/images/media/team/badge/mpijr01709123512.png'
   color:
 CRICKET_PAKISTAN_PESHWAR-ZALM:
-  name: 'Peshawar Zalm'
+  name: 'Peshawar Zalmi'
   code: 'PZ'
   tsdbId: '142106'
   address: '0xf51dfdc83fed698b3c3baae596020fc7b592aa5f'
