@@ -2,7 +2,8 @@
 'country': 'Israel'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/glvhg51664190048.png'
 'name': 'Israeli Premier League'
-standingsScraper: 'sofascore'
+'footyId': 'israel/israeli-premier-league'
+standingsScraper: 'footy'
 weeksScraper: 'tsdb'
 'seasons':
   '2025-2026':
@@ -11,7 +12,6 @@ weeksScraper: 'tsdb'
     'startDate': '2025-08-24'
     'endDate': '2026-05-24'
     'code': 'Israel_Premier_League_2025_2026'
-    'sofaScoreId': 'tournament/football/israel/israeli-premier-league/266#id:77635'
     'teams':
       - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'
       - 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV'
