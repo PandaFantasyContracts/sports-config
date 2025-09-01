@@ -2,6 +2,8 @@ country: 'World'
 name: 'LIV Golf'
 logo: 'https://www.thesportsdb.com/images/media/league/badge/x8p62j1659513228.png'
 tsdbId: '5329'
+standingsScraper: 'golf'
+weeksScraper: 'golf'
 challenges: [ ]
 seasons:
   '2025':
