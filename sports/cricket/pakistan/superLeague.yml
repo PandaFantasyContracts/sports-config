@@ -1,22 +1,24 @@
-country: 'Pakistan'
-name: 'Pakistan Super League'
-logo: 'https://r2.thesportsdb.com/images/media/league/badge/4xo0kt1709121687.png'
-tsdbId: '5067'
-standingsScraper: 'psl'
-weeksScraper: 'tsdb'
-challenges: []
-seasons:
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'challenges': []
+'country': 'Pakistan'
+'idLeague': 'superLeague'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/4xo0kt1709121687.png'
+'name': 'Pakistan Super League'
+'seasons':
   '2025':
-    code: 'PAKISTAN_SUPER_LEAGUE_CRICKET_2025'
-    active: true
-    whitelisted: true
-    startDate: '2025-03-22'
-    endDate: '2025-05-18'
-    teams:
-      - CRICKET_PAKISTAN_ISLAMABAD-UNITED
-      - CRICKET_PAKISTAN_KARACHI-KINGS
-      - CRICKET_PAKISTAN_LAHORE-QALANDARS
-      - CRICKET_PAKISTAN_MULTAN-SULTANS
-      - CRICKET_PAKISTAN_PESHWAR-ZALM
-      - CRICKET_PAKISTAN_QUETTA-GLADIATORS
-
+    'active': !!bool 'true'
+    'code': 'PAKISTAN_SUPER_LEAGUE_CRICKET_2025'
+    'endDate': !!timestamp '2025-05-18T00:00:00Z'
+    'startDate': !!timestamp '2025-03-22T00:00:00Z'
+    'teams':
+    - 'CRICKET_PAKISTAN_ISLAMABAD-UNITED'
+    - 'CRICKET_PAKISTAN_KARACHI-KINGS'
+    - 'CRICKET_PAKISTAN_LAHORE-QALANDARS'
+    - 'CRICKET_PAKISTAN_MULTAN-SULTANS'
+    - 'CRICKET_PAKISTAN_PESHWAR-ZALM'
+    - 'CRICKET_PAKISTAN_QUETTA-GLADIATORS'
+    'whitelisted': !!bool 'true'
+'sport': 'cricket'
+'standingsScraper': 'psl'
+'tsdbId': '5067'
+'weeksScraper': 'tsdb'

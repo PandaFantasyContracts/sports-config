@@ -1,62 +1,67 @@
-country: 'Spain'
-name: 'La Liga'
-logo: 'https://www.thesportsdb.com/images/media/league/badge/ja4it51687628717.png'
-tsdbId: '4335'
-standingsScraper: 'tsdb'
-weeksScraper: 'tsdb'
-challenges: [ 'PICK5_FREE', 'DIVIDENDS' ]
-seasons:
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'challenges':
+- 'PICK5_FREE'
+- 'DIVIDENDS'
+'country': 'Spain'
+'idLeague': 'laLiga'
+'logo': 'https://www.thesportsdb.com/images/media/league/badge/ja4it51687628717.png'
+'name': 'La Liga'
+'seasons':
   '2024-2025':
-    code: 'SP_LIGA_24_25'
-    active: false
-    whitelisted: true
-    startDate: '2024-08-15'
-    endDate: '2025-05-25'
-    teams:
-      - FOOTBALL_SPAIN_BARCELONA
-      - FOOTBALL_SPAIN_REAL-MADRID
-      - FOOTBALL_SPAIN_ATLETICO-MADRID
-      - FOOTBALL_SPAIN_ATHLETIC-BILBAO
-      - FOOTBALL_SPAIN_VILLARREAL
-      - FOOTBALL_SPAIN_RAYO-VALLECANO
-      - FOOTBALL_SPAIN_BETIS
-      - FOOTBALL_SPAIN_MALLORCA
-      - FOOTBALL_SPAIN_REAL-SOCIEDAD
-      - FOOTBALL_SPAIN_CELTA-VIGO
-      - FOOTBALL_SPAIN_SEVILLA
-      - FOOTBALL_SPAIN_OSASUNA
-      - FOOTBALL_SPAIN_GIRONA
-      - FOOTBALL_SPAIN_GETAFE
-      - FOOTBALL_SPAIN_ESPANYOL
-      - FOOTBALL_SPAIN_LEGANES
-      - FOOTBALL_SPAIN_LAS-PALMAS
-      - FOOTBALL_SPAIN_VALENCIA
-      - FOOTBALL_SPAIN_ALAVES
-      - FOOTBALL_SPAIN_VALLADOLID
+    'active': !!bool 'false'
+    'code': 'SP_LIGA_24_25'
+    'endDate': !!timestamp '2025-05-25T00:00:00Z'
+    'startDate': !!timestamp '2024-08-15T00:00:00Z'
+    'teams':
+    - 'FOOTBALL_SPAIN_BARCELONA'
+    - 'FOOTBALL_SPAIN_REAL-MADRID'
+    - 'FOOTBALL_SPAIN_ATLETICO-MADRID'
+    - 'FOOTBALL_SPAIN_ATHLETIC-BILBAO'
+    - 'FOOTBALL_SPAIN_VILLARREAL'
+    - 'FOOTBALL_SPAIN_RAYO-VALLECANO'
+    - 'FOOTBALL_SPAIN_BETIS'
+    - 'FOOTBALL_SPAIN_MALLORCA'
+    - 'FOOTBALL_SPAIN_REAL-SOCIEDAD'
+    - 'FOOTBALL_SPAIN_CELTA-VIGO'
+    - 'FOOTBALL_SPAIN_SEVILLA'
+    - 'FOOTBALL_SPAIN_OSASUNA'
+    - 'FOOTBALL_SPAIN_GIRONA'
+    - 'FOOTBALL_SPAIN_GETAFE'
+    - 'FOOTBALL_SPAIN_ESPANYOL'
+    - 'FOOTBALL_SPAIN_LEGANES'
+    - 'FOOTBALL_SPAIN_LAS-PALMAS'
+    - 'FOOTBALL_SPAIN_VALENCIA'
+    - 'FOOTBALL_SPAIN_ALAVES'
+    - 'FOOTBALL_SPAIN_VALLADOLID'
+    'whitelisted': !!bool 'true'
   '2025-2026':
-    code: 'SP_LIGA_25_26'
-    active: true
-    whitelisted: true
-    startDate: '2025-08-15'
-    endDate: '2026-05-24'
-    teams:
-      - FOOTBALL_SPAIN_BARCELONA
-      - FOOTBALL_SPAIN_REAL-MADRID
-      - FOOTBALL_SPAIN_ATLETICO-MADRID
-      - FOOTBALL_SPAIN_ATHLETIC-BILBAO
-      - FOOTBALL_SPAIN_REAL-SOCIEDAD
-      - FOOTBALL_SPAIN_VILLARREAL
-      - FOOTBALL_SPAIN_BETIS
-      - FOOTBALL_SPAIN_SEVILLA
-      - FOOTBALL_SPAIN_VALENCIA
-      - FOOTBALL_SPAIN_GIRONA
-      - FOOTBALL_SPAIN_ESPANYOL
-      - FOOTBALL_SPAIN_GETAFE
-      - FOOTBALL_SPAIN_OSASUNA
-      - FOOTBALL_SPAIN_MALLORCA
-      - FOOTBALL_SPAIN_RAYO-VALLECANO
-      - FOOTBALL_SPAIN_CELTA-VIGO
-      - FOOTBALL_SPAIN_ALAVES
-      - FOOTBALL_SPAIN_LEVANTE
-      - FOOTBALL_SPAIN_ELCHE
-      - FOOTBALL_SPAIN_REAL-OVIEDO
+    'active': !!bool 'true'
+    'code': 'SP_LIGA_25_26'
+    'endDate': !!timestamp '2026-05-24T00:00:00Z'
+    'startDate': !!timestamp '2025-08-15T00:00:00Z'
+    'teams':
+    - 'FOOTBALL_SPAIN_BARCELONA'
+    - 'FOOTBALL_SPAIN_REAL-MADRID'
+    - 'FOOTBALL_SPAIN_ATLETICO-MADRID'
+    - 'FOOTBALL_SPAIN_ATHLETIC-BILBAO'
+    - 'FOOTBALL_SPAIN_REAL-SOCIEDAD'
+    - 'FOOTBALL_SPAIN_VILLARREAL'
+    - 'FOOTBALL_SPAIN_BETIS'
+    - 'FOOTBALL_SPAIN_SEVILLA'
+    - 'FOOTBALL_SPAIN_VALENCIA'
+    - 'FOOTBALL_SPAIN_GIRONA'
+    - 'FOOTBALL_SPAIN_ESPANYOL'
+    - 'FOOTBALL_SPAIN_GETAFE'
+    - 'FOOTBALL_SPAIN_OSASUNA'
+    - 'FOOTBALL_SPAIN_MALLORCA'
+    - 'FOOTBALL_SPAIN_RAYO-VALLECANO'
+    - 'FOOTBALL_SPAIN_CELTA-VIGO'
+    - 'FOOTBALL_SPAIN_ALAVES'
+    - 'FOOTBALL_SPAIN_LEVANTE'
+    - 'FOOTBALL_SPAIN_ELCHE'
+    - 'FOOTBALL_SPAIN_REAL-OVIEDO'
+    'whitelisted': !!bool 'true'
+'sport': 'football'
+'standingsScraper': 'tsdb'
+'tsdbId': '4335'
+'weeksScraper': 'tsdb'

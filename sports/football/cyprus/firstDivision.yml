@@ -1,52 +1,55 @@
-country: 'Cyprus'
-name: '1. Division'
-logo: 'https://www.thesportsdb.com/images/media/league/badge/6tc1te1727711684.png'
-tsdbId: '4630'
-standingsScraper: 'tsdb'
-weeksScraper: 'tsdb'
-challenges: ['PICK5_FREE', 'DIVIDENDS']
-seasons:
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'challenges':
+- 'PICK5_FREE'
+- 'DIVIDENDS'
+'country': 'Cyprus'
+'idLeague': 'firstDivision'
+'logo': 'https://www.thesportsdb.com/images/media/league/badge/6tc1te1727711684.png'
+'name': '1. Division'
+'seasons':
   '2024-2025':
-    code: 'Cyprus_1_Div_24_25'
-    active: false
-    whitelisted: true
-    startDate: '2024-08-23'
-    endDate: '2025-03-01'
-    teams:
-      - FOOTBALL_CYPRUS_PAFOS
-      - FOOTBALL_CYPRUS_ARIS
-      - FOOTBALL_CYPRUS_AEK
-      - FOOTBALL_CYPRUS_OMONIA
-      - FOOTBALL_CYPRUS_APOEL
-      - FOOTBALL_CYPRUS_APOLLON
-      - FOOTBALL_CYPRUS_ANORTHOSIS
-      - FOOTBALL_CYPRUS_ETHNIKOS
-      - FOOTBALL_CYPRUS_AEL
-      - FOOTBALL_CYPRUS_KARMIOTISSA
-      - FOOTBALL_CYPRUS_OMONIA-ARADIPPOU
-      - FOOTBALL_CYPRUS_ENOSIS
-      - FOOTBALL_CYPRUS_SALAMIS
-      - FOOTBALL_CYPRUS_OMONIA-29
+    'active': !!bool 'false'
+    'code': 'Cyprus_1_Div_24_25'
+    'endDate': !!timestamp '2025-03-01T00:00:00Z'
+    'startDate': !!timestamp '2024-08-23T00:00:00Z'
+    'teams':
+    - 'FOOTBALL_CYPRUS_PAFOS'
+    - 'FOOTBALL_CYPRUS_ARIS'
+    - 'FOOTBALL_CYPRUS_AEK'
+    - 'FOOTBALL_CYPRUS_OMONIA'
+    - 'FOOTBALL_CYPRUS_APOEL'
+    - 'FOOTBALL_CYPRUS_APOLLON'
+    - 'FOOTBALL_CYPRUS_ANORTHOSIS'
+    - 'FOOTBALL_CYPRUS_ETHNIKOS'
+    - 'FOOTBALL_CYPRUS_AEL'
+    - 'FOOTBALL_CYPRUS_KARMIOTISSA'
+    - 'FOOTBALL_CYPRUS_OMONIA-ARADIPPOU'
+    - 'FOOTBALL_CYPRUS_ENOSIS'
+    - 'FOOTBALL_CYPRUS_SALAMIS'
+    - 'FOOTBALL_CYPRUS_OMONIA-29'
+    'whitelisted': !!bool 'true'
   '2025-2026':
-    code: 'Cyprus_1_Div_25_26'
-    active: true
-    whitelisted: true
-    startDate: '2025-08-23'
-    endDate: '2026-03-14'
-    teams:
-      - FOOTBALL_CYPRUS_AEK
-      - FOOTBALL_CYPRUS_AEL
-      - FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS
-      - FOOTBALL_CYPRUS_ANORTHOSIS
-      - FOOTBALL_CYPRUS_APOEL
-      - FOOTBALL_CYPRUS_APOLLON
-      - FOOTBALL_CYPRUS_ARIS
-      - FOOTBALL_CYPRUS_ENOSIS
-      - FOOTBALL_CYPRUS_ETHNIKOS
-      - FOOTBALL_CYPRUS_KRASAVA-YPSONA
-      - FOOTBALL_CYPRUS_OLYMPIAKOS
-      - FOOTBALL_CYPRUS_OMONIA-ARADIPPOU
-      - FOOTBALL_CYPRUS_OMONIA
-      - FOOTBALL_CYPRUS_PAFOS
-
-
+    'active': !!bool 'true'
+    'code': 'Cyprus_1_Div_25_26'
+    'endDate': !!timestamp '2026-03-14T00:00:00Z'
+    'startDate': !!timestamp '2025-08-23T00:00:00Z'
+    'teams':
+    - 'FOOTBALL_CYPRUS_AEK'
+    - 'FOOTBALL_CYPRUS_AEL'
+    - 'FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS'
+    - 'FOOTBALL_CYPRUS_ANORTHOSIS'
+    - 'FOOTBALL_CYPRUS_APOEL'
+    - 'FOOTBALL_CYPRUS_APOLLON'
+    - 'FOOTBALL_CYPRUS_ARIS'
+    - 'FOOTBALL_CYPRUS_ENOSIS'
+    - 'FOOTBALL_CYPRUS_ETHNIKOS'
+    - 'FOOTBALL_CYPRUS_KRASAVA-YPSONA'
+    - 'FOOTBALL_CYPRUS_OLYMPIAKOS'
+    - 'FOOTBALL_CYPRUS_OMONIA-ARADIPPOU'
+    - 'FOOTBALL_CYPRUS_OMONIA'
+    - 'FOOTBALL_CYPRUS_PAFOS'
+    'whitelisted': !!bool 'true'
+'sport': 'football'
+'standingsScraper': 'tsdb'
+'tsdbId': '4630'
+'weeksScraper': 'tsdb'
