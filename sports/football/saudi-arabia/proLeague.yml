@@ -4,7 +4,6 @@
 - 'PICK5_FREE'
 - 'DIVIDENDS'
 'country': 'Saudi Arabia'
-'idLeague': 'proLeague'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/w67i621701772123.png'
 'name': 'Pro League'
 'pick5PoolAmount': !!int '0'

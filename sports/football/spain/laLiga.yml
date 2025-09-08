@@ -4,7 +4,6 @@
 - 'PICK5_FREE'
 - 'DIVIDENDS'
 'country': 'Spain'
-'idLeague': 'laLiga'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/ja4it51687628717.png'
 'name': 'La Liga'
 'pick5PoolAmount': !!int '0'

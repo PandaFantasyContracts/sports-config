@@ -2,7 +2,6 @@
 'buybackPoolDivisor': !!int '0'
 'country': 'Israel'
 'footyId': 'israel/israeli-premier-league'
-'idLeague': 'israeliPremierLeague'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/glvhg51664190048.png'
 'name': 'Israeli Premier League'
 'pick5PoolAmount': !!int '0'

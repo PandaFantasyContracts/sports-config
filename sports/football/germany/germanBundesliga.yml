@@ -1,7 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '0'
 'country': 'Germany'
-'idLeague': 'germanBundesliga'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png'
 'name': 'German Bundesliga'
 'pick5PoolAmount': !!int '0'

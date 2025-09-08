@@ -4,7 +4,6 @@
 - 'PICK5_FREE'
 - 'DIVIDENDS'
 'country': 'Cyprus'
-'idLeague': 'firstDivision'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/6tc1te1727711684.png'
 'name': '1. Division'
 'pick5PoolAmount': !!int '0'

@@ -4,7 +4,6 @@
 - 'PICK5_FREE'
 - 'DIVIDENDS'
 'country': 'England'
-'idLeague': 'premierLeague'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
 'name': 'Premier League'
 'pick5PoolAmount': !!int '0'
