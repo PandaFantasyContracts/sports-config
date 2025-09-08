@@ -1,24 +1,26 @@
-country: 'USA'
-name: 'Premier Lacrosse League'
-logo: 'https://www.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
-tsdbId: '5337'
-standingsScraper: 'pll'
-weeksScraper: 'tsdb'
-challenges: [ ]
-seasons:
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'challenges': []
+'country': 'USA'
+'idLeague': 'ppl'
+'logo': 'https://www.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
+'name': 'Premier Lacrosse League'
+'seasons':
   '2025':
-    code: 'PPL_25'
-    active: true
-    whitelisted: true
-    startDate: '2025-05-30'
-    endDate: '2025-08-09'
-    teams:
-      - LACROSSE_USA_BOSTON-CANNONS
-      - LACROSSE_USA_CALIFORNIA-REDWOODS
-      - LACROSSE_USA_CAROLINA-CHAOS
-      - LACROSSE_USA_DENVER-OUTLAWS
-      - LACROSSE_USA_MARYLAND-WHIPSNAKES
-      - LACROSSE_USA_NEW-YORK-ATLAS
-      - LACROSSE_USA_PHILADELPHIA-WATERDOGS
-      - LACROSSE_USA_UTAH-ARCHERS
-
+    'active': !!bool 'true'
+    'code': 'PPL_25'
+    'endDate': !!timestamp '2025-08-09T00:00:00Z'
+    'startDate': !!timestamp '2025-05-30T00:00:00Z'
+    'teams':
+    - 'LACROSSE_USA_BOSTON-CANNONS'
+    - 'LACROSSE_USA_CALIFORNIA-REDWOODS'
+    - 'LACROSSE_USA_CAROLINA-CHAOS'
+    - 'LACROSSE_USA_DENVER-OUTLAWS'
+    - 'LACROSSE_USA_MARYLAND-WHIPSNAKES'
+    - 'LACROSSE_USA_NEW-YORK-ATLAS'
+    - 'LACROSSE_USA_PHILADELPHIA-WATERDOGS'
+    - 'LACROSSE_USA_UTAH-ARCHERS'
+    'whitelisted': !!bool 'true'
+'sport': 'lacrosse'
+'standingsScraper': 'pll'
+'tsdbId': '5337'
+'weeksScraper': 'tsdb'
