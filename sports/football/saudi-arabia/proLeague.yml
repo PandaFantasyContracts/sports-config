@@ -1,4 +1,5 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
 'challenges':
 - 'PICK5_FREE'
 - 'DIVIDENDS'
@@ -6,6 +7,7 @@
 'idLeague': 'proLeague'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/w67i621701772123.png'
 'name': 'Pro League'
+'pick5PoolAmount': !!int '0'
 'seasons':
   '2024-2025':
     'active': !!bool 'true'

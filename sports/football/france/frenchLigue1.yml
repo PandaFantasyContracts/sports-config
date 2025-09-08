@@ -1,8 +1,10 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
 'country': 'France'
 'idLeague': 'frenchLigue1'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png'
 'name': 'French Ligue 1'
+'pick5PoolAmount': !!int '0'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'

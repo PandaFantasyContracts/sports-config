@@ -1,9 +1,11 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '52'
 'challenges': []
 'country': 'USA'
 'idLeague': 'ppl'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
 'name': 'Premier Lacrosse League'
+'pick5PoolAmount': !!int '120'
 'seasons':
   '2025':
     'active': !!bool 'true'

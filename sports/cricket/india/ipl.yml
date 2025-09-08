@@ -1,10 +1,12 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
 'challenges': []
 'country': 'India'
 'goalServeId': '1015'
 'idLeague': 'ipl'
 'logo': 'https://www.thesportsdb.com/images/media/league/badge/gaiti11741709844.png'
 'name': 'Indian Premier League'
+'pick5PoolAmount': !!int '0'
 'seasons':
   '2025':
     'active': !!bool 'true'
