@@ -1,35 +1,39 @@
-country: 'Saudi Arabia'
-name: 'Pro League'
-logo: 'https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png'
-tsdbId: '4668'
-standingsScraper: 'tsdb'
-weeksScraper: 'tsdb'
-challenges: [ 'PICK5_FREE', 'DIVIDENDS' ]
-seasons:
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
+'challenges':
+- 'PICK5_FREE'
+- 'DIVIDENDS'
+'country': 'Saudi Arabia'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/w67i621701772123.png'
+'name': 'Pro League'
+'pick5PoolAmount': !!int '0'
+'seasons':
   '2024-2025':
-    code: 'ARABIA_LEAGUE_2425'
-    active: true
-    whitelisted: true
-    startDate: '2024-08-22'
-    endDate: '2025-05-26'
-    teams:
-      - FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD
-      - FOOTBALL_SAUDI-ARABIA_AL-HILAL
-      - FOOTBALL_SAUDI-ARABIA_AL-NASSR
-      - FOOTBALL_SAUDI-ARABIA_AL-QADSIAH
-      - FOOTBALL_SAUDI-ARABIA_AL-AHLI
-      - FOOTBALL_SAUDI-ARABIA_AL-SHABAB
-      - FOOTBALL_SAUDI-ARABIA_AL-ETTIFAQ
-      - FOOTBALL_SAUDI-ARABIA_AL-RIYADH
-      - FOOTBALL_SAUDI-ARABIA_AL-KHALEEJ
-      - FOOTBALL_SAUDI-ARABIA_AL-TAAWOUN
-      - FOOTBALL_SAUDI-ARABIA_AL-KHOLOOD
-      - FOOTBALL_SAUDI-ARABIA_DAMAC
-      - FOOTBALL_SAUDI-ARABIA_AL-ORUBAH
-      - FOOTBALL_SAUDI-ARABIA_AL-FAYHA
-      - FOOTBALL_SAUDI-ARABIA_AL-FATEH
-      - FOOTBALL_SAUDI-ARABIA_AL-RAED
-      - FOOTBALL_SAUDI-ARABIA_AL-OKHDOOD
-      - FOOTBALL_SAUDI-ARABIA_AL-WEHDA
-
-
+    'active': !!bool 'true'
+    'code': 'ARABIA_LEAGUE_2425'
+    'endDate': !!timestamp '2025-05-26T00:00:00Z'
+    'startDate': !!timestamp '2024-08-22T00:00:00Z'
+    'teams':
+    - 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-HILAL'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-NASSR'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-QADSIAH'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-AHLI'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-SHABAB'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-ETTIFAQ'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-RIYADH'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-KHALEEJ'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-TAAWOUN'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-KHOLOOD'
+    - 'FOOTBALL_SAUDI-ARABIA_DAMAC'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-ORUBAH'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-FAYHA'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-FATEH'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-RAED'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-OKHDOOD'
+    - 'FOOTBALL_SAUDI-ARABIA_AL-WEHDA'
+    'whitelisted': !!bool 'true'
+'sport': 'football'
+'standingsScraper': 'tsdb'
+'tsdbId': '4668'
+'weeksScraper': 'tsdb'

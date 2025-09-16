@@ -1,26 +1,29 @@
-country: 'World'
-name: 'Formula 1'
-logo: 'https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png'
-goalServeId: 'formula 1'
-standingsScraper: 'formula1'
-weeksScraper: 'formula1'
-challenges: [ ]
-seasons:
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
+'challenges': []
+'country': 'World'
+'goalServeId': 'formula 1'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png'
+'name': 'Formula 1'
+'pick5PoolAmount': !!int '0'
+'seasons':
   '2024/2025':
-    code: 'FORMULA1_25'
-    active: true
-    whitelisted: true
-    startDate: '2025-03-16'
-    endDate: '2025-12-07'
-    teams:
-      - MOTORSPORT_WORLD_ASTON-MARTIN
-      - MOTORSPORT_WORLD_MCLAREN
-      - MOTORSPORT_WORLD_MERCEDES
-      - MOTORSPORT_WORLD_RED-BULL
-      - MOTORSPORT_WORLD_WILLIAMS
-      - MOTORSPORT_WORLD_FERRARI
-      - MOTORSPORT_WORLD_HAAS
-      - MOTORSPORT_WORLD_KICK-SAUBER
-      - MOTORSPORT_WORLD_RACINGBULLS
-      - MOTORSPORT_WORLD_ALPINE
-
+    'active': !!bool 'true'
+    'code': 'FORMULA1_25'
+    'endDate': !!timestamp '2025-12-07T00:00:00Z'
+    'startDate': !!timestamp '2025-03-16T00:00:00Z'
+    'teams':
+    - 'MOTORSPORT_WORLD_ASTON-MARTIN'
+    - 'MOTORSPORT_WORLD_MCLAREN'
+    - 'MOTORSPORT_WORLD_MERCEDES'
+    - 'MOTORSPORT_WORLD_RED-BULL'
+    - 'MOTORSPORT_WORLD_WILLIAMS'
+    - 'MOTORSPORT_WORLD_FERRARI'
+    - 'MOTORSPORT_WORLD_HAAS'
+    - 'MOTORSPORT_WORLD_KICK-SAUBER'
+    - 'MOTORSPORT_WORLD_RACINGBULLS'
+    - 'MOTORSPORT_WORLD_ALPINE'
+    'whitelisted': !!bool 'true'
+'sport': 'motorsport'
+'standingsScraper': 'formula1'
+'weeksScraper': 'formula1'
