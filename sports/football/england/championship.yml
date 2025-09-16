@@ -1,6 +1,6 @@
 country: 'England'
 name: 'Championship'
-logo: 'https://www.thesportsdb.com/images/media/league/badge/ty5a681688770169.png'
+logo: 'https://r2.thesportsdb.com/images/media/league/badge/ty5a681688770169.png'
 tsdbId: '4329'
 standingsScraper: 'tsdb'
 weeksScraper: 'tsdb'

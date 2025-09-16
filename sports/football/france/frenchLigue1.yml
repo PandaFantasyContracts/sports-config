@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'country': 'France'
-'logo': 'https://www.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png'
 'name': 'French Ligue 1'
 standingsScraper: 'tsdb'
 weeksScraper: 'tsdb'

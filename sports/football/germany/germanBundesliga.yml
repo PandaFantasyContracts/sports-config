@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'country': 'Germany'
-'logo': 'https://www.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png'
 'name': 'German Bundesliga'
 standingsScraper: 'tsdb'
 weeksScraper: 'tsdb'
