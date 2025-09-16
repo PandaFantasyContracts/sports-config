@@ -1,30 +1,32 @@
-country: 'World'
-name: 'LIV Golf'
-logo: 'https://r2.thesportsdb.com/images/media/league/badge/x8p62j1659513228.png'
-tsdbId: '5329'
-standingsScraper: 'golf'
-weeksScraper: 'golf'
-challenges: [ ]
-seasons:
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
+'challenges': []
+'country': 'World'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/x8p62j1659513228.png'
+'name': 'LIV Golf'
+'pick5PoolAmount': !!int '0'
+'seasons':
   '2025':
-    code: 'LIV_2025'
-    active: true
-    whitelisted: true
-    startDate: '2025-05-02'
-    endDate: '2025-08-15'
-    teams:
-      - GOLF_WORLD_4ACES-GC
-      - GOLF_WORLD_CLEEKS-GC
-      - GOLF_WORLD_CRUSHERS-GC
-      - GOLF_WORLD_FIREBALLS-GC
-      - GOLF_WORLD_HYFLYERS-GC
-      - GOLF_WORLD_IRON-HEADS-GC
-      - GOLF_WORLD_LEGION-XIII
-      - GOLF_WORLD_MAJESTICKS GC
-      - GOLF_WORLD_RANGEGOATS GC
-      - GOLF_WORLD_RIPPER GC
-      - GOLF_WORLD_SMASH GC
-      - GOLF_WORLD_STINGER GC
-      - GOLF_WORLD_TORQUE GC
-
-
+    'active': !!bool 'true'
+    'code': 'LIV_2025'
+    'endDate': !!timestamp '2025-08-15T00:00:00Z'
+    'startDate': !!timestamp '2025-05-02T00:00:00Z'
+    'teams':
+    - 'GOLF_WORLD_4ACES-GC'
+    - 'GOLF_WORLD_CLEEKS-GC'
+    - 'GOLF_WORLD_CRUSHERS-GC'
+    - 'GOLF_WORLD_FIREBALLS-GC'
+    - 'GOLF_WORLD_HYFLYERS-GC'
+    - 'GOLF_WORLD_IRON-HEADS-GC'
+    - 'GOLF_WORLD_LEGION-XIII'
+    - 'GOLF_WORLD_MAJESTICKS GC'
+    - 'GOLF_WORLD_RANGEGOATS GC'
+    - 'GOLF_WORLD_RIPPER GC'
+    - 'GOLF_WORLD_SMASH GC'
+    - 'GOLF_WORLD_STINGER GC'
+    - 'GOLF_WORLD_TORQUE GC'
+    'whitelisted': !!bool 'true'
+'sport': 'golf'
+'standingsScraper': 'golf'
+'tsdbId': '5329'
+'weeksScraper': 'golf'

@@ -26,6 +26,13 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png'
   'name': 'AC Milan'
   'tsdbId': '133667'
+'FOOTBALL_ITALY_PISA':
+  'address': '0xe81eeddf82fd0dc4c113445aeb70a2e322d46036'
+  'code': 'PIS'
+  'color': '#000080'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png'
+  'name': 'Pisa'
+  'tsdbId': '133859'
 'FOOTBALL_ITALY_BOLOGNA':
   'address': '0xcccee9a8682af7c951d2c93226875bbd912d521d'
   'code': 'BOL'
@@ -40,6 +47,13 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png'
   'name': 'Napoli'
   'tsdbId': '133670'
+'FOOTBALL_ITALY_SASSUOLO':
+  'address': '0x4d033f578e7c04a9741b7dd10a874006c30d583f'
+  'code': 'SAS'
+  'color': '#00A752'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png'
+  'name': 'Sassuolo'
+  'tsdbId': '133701'
 'FOOTBALL_ITALY_CAGLIARI':
   'address': '0x0957097437de2300dbd05871cf8a6cd421b6dba9'
   'code': 'CAG'
@@ -75,13 +89,6 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xqpqpq1448806641.png'
   'name': 'Roma'
   'tsdbId': '133682'
-'FOOTBALL_ITALY_LECCE':
-  'address': '0xec1052b3a49bcbf54eaa4b13d59c9d4e47d535a3'
-  'code': 'LEC'
-  'color': '#FFF200'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png'
-  'name': 'Lecce'
-  'tsdbId': '133678'
 'FOOTBALL_ITALY_PARMA-CALCIO-1913':
   'address': '0x4be3914b292dd5b35f4e712e1fc5129240f1e5cc'
   'code': 'PAR'
@@ -89,6 +96,13 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png'
   'name': 'Parma Calcio 1913'
   'tsdbId': '135728'
+'FOOTBALL_ITALY_LECCE':
+  'address': '0xec1052b3a49bcbf54eaa4b13d59c9d4e47d535a3'
+  'code': 'LEC'
+  'color': '#FFF200'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png'
+  'name': 'Lecce'
+  'tsdbId': '133678'
 'FOOTBALL_ITALY_COMO':
   'address': '0x392964e13af8656840256e93de64f04f95bca217'
   'code': 'COM'
@@ -96,6 +110,13 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png'
   'name': 'Como'
   'tsdbId': '134243'
+'FOOTBALL_ITALY_CREMONESE':
+  'address': '0x2d2729191a66bcc7206b4f0e077226fa27c437a8'
+  'code': 'CRE'
+  'color': '#8B0000'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png'
+  'name': 'Cremonese'
+  'tsdbId': '134224'
 'FOOTBALL_ITALY_VERONA':
   'address': '0x4b071720fbcf09dcea2d43f6e99518097b4bb548'
   'code': 'VER'
@@ -138,24 +159,3 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png'
   'name': 'Torino'
   'tsdbId': '133687'
-'FOOTBALL_ITALY_CREMONESE':
-  'address': '0x2d2729191a66bcc7206b4f0e077226fa27c437a8'
-  'code': 'CRE'
-  'color': '#8B0000'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png'
-  'name': 'Cremonese'
-  'tsdbId': '134224'
-'FOOTBALL_ITALY_PISA':
-  'address': '0xe81eeddf82fd0dc4c113445aeb70a2e322d46036'
-  'code': 'PIS'
-  'color': '#000080'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png'
-  'name': 'Pisa'
-  'tsdbId': '133859'
-'FOOTBALL_ITALY_SASSUOLO':
-  'address': '0x4d033f578e7c04a9741b7dd10a874006c30d583f'
-  'code': 'SAS'
-  'color': '#00A752'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png'
-  'name': 'Sassuolo'
-  'tsdbId': '133701'
