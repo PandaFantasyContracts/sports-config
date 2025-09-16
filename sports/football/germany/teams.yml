@@ -5,6 +5,13 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png'
   'name': 'St Pauli'
   'tsdbId': '133813'
+'FOOTBALL_GERMANY_FC-COLOGNE':
+  'address': '0x7bc88ed6c349bac003eeff6e38716944fda45e6f'
+  'code': 'KOL'
+  'color': '#DC143C'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png'
+  'name': 'FC Cologne'
+  'tsdbId': '133654'
 'FOOTBALL_GERMANY_FC-AUGSBURG':
   'address': '0x0a1db478abae0d9cb4d1d171b0f125ad771902c6'
   'code': 'AUG'
@@ -61,13 +68,6 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png'
   'name': 'Holstein Kiel'
   'tsdbId': '136027'
-'FOOTBALL_GERMANY_HOFFENHEIM':
-  'address': '0xa6c95a3d10a060ce9b8968695dd5a45313171ffe'
-  'code': 'HOF'
-  'color': '#1961B5'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png'
-  'name': 'Hoffenheim'
-  'tsdbId': '133657'
 'FOOTBALL_GERMANY_RB-LEIPZIG':
   'address': '0x20b9ab6232a7389aeb2d04753e8f8510b52c7753'
   'code': 'RBL'
@@ -75,6 +75,13 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png'
   'name': 'RB Leipzig'
   'tsdbId': '134695'
+'FOOTBALL_GERMANY_HOFFENHEIM':
+  'address': '0xa6c95a3d10a060ce9b8968695dd5a45313171ffe'
+  'code': 'HOF'
+  'color': '#1961B5'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png'
+  'name': 'Hoffenheim'
+  'tsdbId': '133657'
 'FOOTBALL_GERMANY_WOLFSBURG':
   'address': '0x80d6a1a6dc27e9f8403d808f8db2944c187bdd83'
   'code': 'WOL'
@@ -103,6 +110,13 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png'
   'name': 'Bayer Leverkusen'
   'tsdbId': '133666'
+'FOOTBALL_GERMANY_HAMBURG':
+  'address': '0xf7735bc65b4a596b16bc10135cb6c0408005d5a6'
+  'code': 'HSV'
+  'color': '#0066CC'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png'
+  'name': 'Hamburg'
+  'tsdbId': '133651'
 'FOOTBALL_GERMANY_FREIBURG':
   'address': '0xc875e826c592fb5e7d5b6170ed07e1b588b7154e'
   'code': 'FRE'
@@ -124,18 +138,3 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png'
   'name': 'Bochum'
   'tsdbId': '133839'
-'FOOTBALL_GERMANY_HAMBURG':
-  'address': '0xf7735bc65b4a596b16bc10135cb6c0408005d5a6'
-  'code': 'HSV'
-  'color': '#0066CC'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png'
-  'name': 'Hamburg'
-  'tsdbId': '133651'
-'FOOTBALL_GERMANY_FC-COLOGNE':
-  'address': '0x7bc88ed6c349bac003eeff6e38716944fda45e6f'
-  'code': 'KOL'
-  'color': '#DC143C'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png'
-  'name': 'FC Cologne'
-  'tsdbId': '133654'
-
