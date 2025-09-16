@@ -1,12 +1,12 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
-'buybackPoolDivisor': !!int '0'
+'buybackPoolDivisor': !!int '52'
 'challenges':
 - 'PICK5_FREE'
 - 'DIVIDENDS'
 'country': 'England'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
 'name': 'Premier League'
-'pick5PoolAmount': !!int '0'
+'pick5PoolAmount': !!int '300'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
