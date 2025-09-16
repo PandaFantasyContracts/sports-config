@@ -1,5 +1,5 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
-'buybackPoolDivisor': !!int '52'
+'buybackPoolDivisor': !!int '520'
 'challenges': []
 'country': 'India'
 'goalServeId': '1015'

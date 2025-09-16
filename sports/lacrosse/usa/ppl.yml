@@ -1,5 +1,5 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
-'buybackPoolDivisor': !!int '52'
+'buybackPoolDivisor': !!int '520'
 'challenges': []
 'country': 'USA'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'

@@ -1,5 +1,5 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
-'buybackPoolDivisor': !!int '52'
+'buybackPoolDivisor': !!int '520'
 'challenges':
 - 'PICK5_FREE'
 - 'DIVIDENDS'
