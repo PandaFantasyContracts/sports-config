@@ -1,6 +1,6 @@
 country: 'Spain'
 name: 'La Liga'
-logo: 'https://www.thesportsdb.com/images/media/league/badge/ja4it51687628717.png'
+logo: 'https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png'
 tsdbId: '4335'
 standingsScraper: 'tsdb'
 weeksScraper: 'tsdb'

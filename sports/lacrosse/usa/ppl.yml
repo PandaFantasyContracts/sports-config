@@ -1,6 +1,6 @@
 country: 'USA'
 name: 'Premier Lacrosse League'
-logo: 'https://www.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
+logo: 'https://r2.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
 tsdbId: '5337'
 standingsScraper: 'pll'
 weeksScraper: 'tsdb'

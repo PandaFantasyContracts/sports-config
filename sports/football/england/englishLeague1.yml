@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'country': 'England'
-'logo': 'https://www.thesportsdb.com/images/media/league/badge/afedb31688770443.png'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/afedb31688770443.png'
 'name': 'English League 1'
 standingsScraper: 'tsdb'
 weeksScraper: 'tsdb'

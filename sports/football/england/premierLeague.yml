@@ -1,6 +1,6 @@
 country: 'England'
 name: 'Premier League'
-logo: 'https://www.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
+logo: 'https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
 tsdbId: '4328'
 standingsScraper: 'tsdb'
 weeksScraper: 'tsdb'
