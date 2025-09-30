@@ -23,7 +23,7 @@
     - 'MOTORSPORT_WORLD_KICK-SAUBER'
     - 'MOTORSPORT_WORLD_RACINGBULLS'
     - 'MOTORSPORT_WORLD_ALPINE'
-    'whitelisted': !!bool 'true'
+    'whitelisted': !!bool 'false'
 'sport': 'motorsport'
 'standingsScraper': 'formula1'
 'weeksScraper': 'formula1'
