@@ -28,6 +28,7 @@
     - 'FOOTBALL_ISRAEL_BNEI-SAKHNIN'
     'whitelisted': !!bool 'true'
 'sport': 'football'
-'standingsScraper': 'footy'
+'standingsScraper': 'soccer365'
+'soccer365Id': '761'
 'tsdbId': '4644'
 'weeksScraper': 'tsdb'
