@@ -25,6 +25,6 @@
     - 'CRICKET_INDIA_SUNRISERS-HYDERABAD'
     'whitelisted': !!bool 'true'
 'sport': 'cricket'
-'standingsScraper': 'cricket'
+'standingsScraper': 'ipl'
 'tsdbId': '4460'
 'weeksScraper': 'tsdb'
