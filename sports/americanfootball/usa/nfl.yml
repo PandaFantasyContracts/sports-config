@@ -43,6 +43,6 @@
       - 'AMERICANFOOTBALL_USA_WASHINGTON'
     'whitelisted': !!bool 'true'
 'sport': 'americanfootball'
-'standingsScraper': 'espn'
+'standingsScraper': 'nfl'
 'tsdbId': '4391'
 'weeksScraper': 'tsdb'
