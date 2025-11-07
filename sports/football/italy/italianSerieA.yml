@@ -1,5 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
+'color': '#007bff'
 'country': 'Italy'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png'
 'name': 'Italian Serie A'

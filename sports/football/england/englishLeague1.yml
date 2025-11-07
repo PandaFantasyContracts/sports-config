@@ -1,5 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
+'color': '#f2f2f2'
 'country': 'England'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/afedb31688770443.png'
 'name': 'English League One'
