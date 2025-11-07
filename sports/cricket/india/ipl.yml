@@ -1,6 +1,7 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges': []
+'color': '#1800d1'
 'country': 'India'
 'goalServeId': '1015'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gaiti11741709844.png'

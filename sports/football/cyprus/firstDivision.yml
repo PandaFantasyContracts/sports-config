@@ -3,6 +3,7 @@
 'challenges':
 - 'PICK5_FREE'
 - 'DIVIDENDS'
+'color': '#ff8800'
 'country': 'Cyprus'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/6tc1te1727711684.png'
 'name': '1. Division'
