@@ -8,6 +8,7 @@
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
+    'visible': !!bool 'false'
     'code': 'England_English_League_1_2024_2025'
     'endDate': !!timestamp '2025-05-25T12:01:00Z'
     'startDate': !!timestamp '2024-08-09T19:00:00Z'
@@ -39,6 +40,7 @@
     'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
+    'visible': !!bool 'true'
     'code': 'England_English_League_1_2025_2026'
     'endDate': !!timestamp '2026-05-02T00:00:00Z'
     'startDate': !!timestamp '2025-08-01T00:00:00Z'

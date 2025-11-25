@@ -11,6 +11,7 @@
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
+    'visible': !!bool 'false'
     'code': 'Cyprus_1_Div_24_25'
     'endDate': !!timestamp '2025-03-01T00:00:00Z'
     'startDate': !!timestamp '2024-08-23T00:00:00Z'
@@ -32,6 +33,7 @@
     'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
+    'visible': !!bool 'true'
     'code': 'Cyprus_1_Div_25_26'
     'endDate': !!timestamp '2026-03-14T00:00:00Z'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'

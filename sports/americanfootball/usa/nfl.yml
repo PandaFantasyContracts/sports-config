@@ -8,7 +8,8 @@
 'pick5PoolAmount': !!int '0'
 'seasons':
   '2025':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
+    'visible': !!bool 'false'
     'code': 'NFL_25'
     'endDate': !!timestamp '2026-01-04T00:00:00Z'
     'startDate': !!timestamp '2025-09-05T00:00:00Z'

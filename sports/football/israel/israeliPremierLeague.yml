@@ -9,6 +9,7 @@
 'seasons':
   '2025-2026':
     'active': !!bool 'true'
+    'visible': !!bool 'true'
     'code': 'Israel_Premier_League_2025_2026'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-24T00:00:00Z'

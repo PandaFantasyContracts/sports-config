@@ -9,6 +9,7 @@
 'seasons':
   '2025':
     'active': !!bool 'true'
+    'visible': !!bool 'true'
     'code': 'PPL_25'
     'endDate': !!timestamp '2025-08-09T00:00:00Z'
     'startDate': !!timestamp '2025-05-30T00:00:00Z'

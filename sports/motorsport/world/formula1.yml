@@ -10,6 +10,7 @@
 'seasons':
   '2024/2025':
     'active': !!bool 'true'
+    'visible': !!bool 'true'
     'code': 'FORMULA1_25'
     'endDate': !!timestamp '2025-12-07T00:00:00Z'
     'startDate': !!timestamp '2025-03-16T00:00:00Z'
