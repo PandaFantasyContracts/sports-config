@@ -5,6 +5,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vq47ut1707920192.png'
   'name': 'Philadelphia Waterdogs'
   'tsdbId': '146832'
+  'whitelisted': !!bool 'true'
 'LACROSSE_USA_CAROLINA-CHAOS':
   'address': '0x01b10b4556b7735c2581e8ffdfd50856e7d176c1'
   'code': 'CAC'
@@ -12,6 +13,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/dxr1za1707919860.png'
   'name': 'Carolina Chaos'
   'tsdbId': '146829'
+  'whitelisted': !!bool 'true'
 'LACROSSE_USA_UTAH-ARCHERS':
   'address': '0x100962be0bc61a7508b60a77e9e6366bd562e6ce'
   'code': 'UTA'
@@ -19,6 +21,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/m8ivs71707919556.png'
   'name': 'Utah Archers'
   'tsdbId': '146826'
+  'whitelisted': !!bool 'true'
 'LACROSSE_USA_DENVER-OUTLAWS':
   'address': '0x66360fb90d860cd886eed3f1fcf55f799211948d'
   'code': 'DEO'
@@ -26,6 +29,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/k2hm2e1707920030.png'
   'name': 'Denver Outlaws'
   'tsdbId': '146830'
+  'whitelisted': !!bool 'true'
 'LACROSSE_USA_NEW-YORK-ATLAS':
   'address': '0x0ed4f9f2b14d510bdf9fe5b5232e3e0ce6c82148'
   'code': 'NYA'
@@ -33,6 +37,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/jvt49r1707919704.png'
   'name': 'New York Atlas'
   'tsdbId': '146827'
+  'whitelisted': !!bool 'true'
 'LACROSSE_USA_MARYLAND-WHIPSNAKES':
   'address': '0xe641a3194f313b52fd5fd3af73cf2b88052e8e69'
   'code': 'MAW'
@@ -40,6 +45,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/fctspv1707920223.png'
   'name': 'Maryland Whipsnakes'
   'tsdbId': '146833'
+  'whitelisted': !!bool 'true'
 'LACROSSE_USA_CALIFORNIA-REDWOODS':
   'address': '0xb1c9a4a0cf7a9611256094911525f882843749de'
   'code': 'CAR'
@@ -47,6 +53,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/h4dbdm1707920143.png'
   'name': 'California Redwoods'
   'tsdbId': '146831'
+  'whitelisted': !!bool 'true'
 'LACROSSE_USA_BOSTON-CANNONS':
   'address': '0x59c6ec58c7581b5f59d204ef143eb3003f048d87'
   'code': 'BOC'
@@ -54,3 +61,4 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ist25n1707919826.png'
   'name': 'Boston Cannons'
   'tsdbId': '146828'
+  'whitelisted': !!bool 'true'

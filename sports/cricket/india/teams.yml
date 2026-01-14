@@ -7,6 +7,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6qw4r71654174508.png'
   'name': 'Gujarat Titans'
   'tsdbId': '145834'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_SUNRISERS-HYDERABAD':
   'address': '0x8957c3eab588981845b333cbf5636956492ae1b6'
   'code': 'SRH'
@@ -16,6 +17,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/sc7m161487419327.png'
   'name': 'Sunrisers Hyderabad'
   'tsdbId': '135797'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_LUCKNOW-SUPER-GIANTS':
   'address': '0x803dcaf58b9a2dcb26159cf809599037757c0219'
   'code': 'LSG'
@@ -25,6 +27,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/4tzmfa1647445839.png'
   'name': 'Lucknow Super Giants'
   'tsdbId': '145835'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_KINGS-XI-PUNJAB':
   'address': '0xbd56081cbdb52a56644355d7fa3bd1fa4cad7fb5'
   'code': 'KXIP'
@@ -34,6 +37,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/r1tcie1630697821.png'
   'name': 'Kings XI Punjab'
   'tsdbId': '135793'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_RAJASTHAN-ROYALS':
   'address': '0xc85e72726fefe42173705a510ce9e3b087cc3965'
   'code': 'RR'
@@ -43,6 +47,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lehnfw1487601864.png'
   'name': 'Rajasthan Royals'
   'tsdbId': '135801'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_MUMBAI-INDIANS':
   'address': '0xe29523aeed9d2e7ddbb6cc8ff081465991114c60'
   'code': 'MI'
@@ -52,6 +57,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/l40j8p1487678631.png'
   'name': 'Mumbai Indians'
   'tsdbId': '135795'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_ROYAL-CHALLENGERS-BANGALORE':
   'address': '0xbe6eb0b925d32a9d97707672d44bbed4dbeae123'
   'code': 'RCB'
@@ -61,6 +67,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kynj5v1588331757.png'
   'name': 'Royal Challengers Bangalore'
   'tsdbId': '135796'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_DELHI-CAPITALS':
   'address': '0x6e5841055439d3aaf9f8d0f29c9f81e8072e8bfe'
   'code': 'DC'
@@ -70,6 +77,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/dg4g0z1587334054.png'
   'name': 'Delhi Capitals'
   'tsdbId': '135792'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_CHENNAI-SUPER-KINGS':
   'address': '0xa43f253d3996b7231b821856b379f39734d7fb0a'
   'code': 'CSK'
@@ -79,6 +87,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/okceh51487601098.png'
   'name': 'Chennai Super Kings'
   'tsdbId': '135800'
+  'whitelisted': !!bool 'true'
 'CRICKET_INDIA_KOLKATA-KNIGHT-RIDERS':
   'address': '0x36d100f51781731300a8ecae6c7125dcba25ab2b'
   'code': 'KKR'
@@ -88,3 +97,4 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ows99r1487678296.png'
   'name': 'Kolkata Knight Riders'
   'tsdbId': '135794'
+  'whitelisted': !!bool 'true'

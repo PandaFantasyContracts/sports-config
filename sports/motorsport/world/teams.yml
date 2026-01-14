@@ -5,6 +5,7 @@
   'goalServeId': '1021'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tyqwwr1420588072.png'
   'name': 'Mercedes'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_RED-BULL':
   'address': '0xc5304ac95bdfe24e64c256b98131113c469f967c'
   'code': 'RBR'
@@ -12,6 +13,7 @@
   'goalServeId': '1019'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/nhlev81679826274.png'
   'name': 'Red Bull'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_ASTON-MARTIN':
   'address': '0x70c8d61c6dec333308afce70d6cd66ce61aeb26c'
   'code': 'AMA'
@@ -19,6 +21,7 @@
   'goalServeId': '1029'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ez5rlk1740774066.png'
   'name': 'Aston Martin'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_RACINGBULLS':
   'address': '0xbb630e326fcca1f44f5676862b1211afa966296f'
   'code': 'RBS'
@@ -26,6 +29,7 @@
   'goalServeId': '2031'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ot7pjx1740775883.png'
   'name': 'RacingBulls'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_HAAS':
   'address': '0x236c3d270008a0539fc289582a7a8d44984df967'
   'code': 'HAA'
@@ -33,6 +37,7 @@
   'goalServeId': '1034'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/9yp3s51740773680.png'
   'name': 'Haas'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_FERRARI':
   'address': '0x94db0a3f9c2464556dc51fed921c36d96730880c'
   'code': 'FER'
@@ -40,6 +45,7 @@
   'goalServeId': '1011'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rxwsqv1420417429.png'
   'name': 'Ferrari'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_WILLIAMS':
   'address': '0x088ed5c9f56e406dfd6f23c3aa443af3da1127f7'
   'code': 'WIL'
@@ -47,6 +53,7 @@
   'goalServeId': '1010'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/fp1cil1740776050.png'
   'name': 'Williams'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_ALPINE':
   'address': '0xa90c97a543010702f189685c68b3ee196e3ed48e'
   'code': 'ALP'
@@ -54,6 +61,7 @@
   'goalServeId': '1016'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ozhoj31740774899.png'
   'name': 'Alpine'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_MCLAREN':
   'address': '0x52cd5192e5a2ebb720db3d7243efd659cc50f419'
   'code': 'MCL'
@@ -61,6 +69,7 @@
   'goalServeId': '1024'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/bessk21740775415.png'
   'name': 'McLaren'
+  'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_KICK-SAUBER':
   'address': '0x6c3c4d4785b19ea933911860788c88368f5dbb57'
   'code': 'KSA'
@@ -68,3 +77,4 @@
   'goalServeId': '1026'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/psi58y1709367081.png'
   'name': 'Kick Sauber'
+  'whitelisted': !!bool 'true'

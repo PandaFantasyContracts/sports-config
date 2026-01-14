@@ -6,13 +6,18 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png'
 'name': 'NFL'
 'pick5PoolAmount': !!int '0'
+'visible': !!bool 'false'
+'sport': 'americanfootball'
+'code': 'NFL'
 'seasons':
   '2025':
     'active': !!bool 'true'
-    'visible': !!bool 'false'
     'code': 'NFL_25'
     'endDate': !!timestamp '2026-01-04T00:00:00Z'
     'startDate': !!timestamp '2025-09-05T00:00:00Z'
+    'standingsScraper': 'nfl'
+    'tsdbId': '4391'
+    'weeksScraper': 'nfl'
     'teams':
     - 'AMERICANFOOTBALL_USA_ARIZONA'
     - 'AMERICANFOOTBALL_USA_ATLANTA'
@@ -46,8 +51,5 @@
     - 'AMERICANFOOTBALL_USA_TAMPA'
     - 'AMERICANFOOTBALL_USA_TENNESSEE'
     - 'AMERICANFOOTBALL_USA_WASHINGTON'
-    'whitelisted': !!bool 'true'
-'sport': 'americanfootball'
-'standingsScraper': 'nfl'
-'tsdbId': '4391'
-'weeksScraper': 'nfl'
+
+

@@ -5,6 +5,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png'
   'name': 'Cardiff'
   'tsdbId': '133637'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SHEFFIELD-WEDS':
   'address': '0x7ce319e08cc7d107037364c040c90da483b5ea6f'
   'code': 'SHF'
@@ -12,6 +13,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lonnw91601721029.png'
   'name': 'Sheffield Weds'
   'tsdbId': '133837'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BOLTON-WANDERERS':
   'address': '0x566471824df65ab215f8a0eccdb396af512df428'
   'code': 'BOL'
@@ -19,6 +21,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/yvxxrv1448808301.png'
   'name': 'Bolton Wanderers'
   'tsdbId': '133606'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BARNSLEY':
   'address': '0xd3c0d9daf35d48b39d63b74851269c2fe5b83011'
   'code': 'BRS'
@@ -26,6 +29,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xvxsuv1447437855.png'
   'name': 'Barnsley'
   'tsdbId': '133630'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SOUTHAMPTON':
   'address': '0x2b3cc548a64873070ac2d7f4872b263a7aa67065'
   'code': 'SOU'
@@ -33,6 +37,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png'
   'name': 'Southampton'
   'tsdbId': '134778'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MIDDLESBROUGH':
   'address': '0xce27c18f82d92487c04775f4239990b2f48c73fc'
   'code': 'MID'
@@ -40,6 +45,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xxpttq1448811142.png'
   'name': 'Middlesbrough'
   'tsdbId': '133628'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_ASTON-VILLA':
   'address': '0x02628478a6a8b07cad896d5150ae401b13e17673'
   'code': 'AVL'
@@ -47,6 +53,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png'
   'name': 'Aston Villa'
   'tsdbId': '133601'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PORTSMOUTH':
   'address': '0x4203752c60554d2a1118d2fac07cc28e417a268c'
   'code': 'PTM'
@@ -54,6 +61,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png'
   'name': 'Portsmouth'
   'tsdbId': '133629'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_EXETER-CITY':
   'address': '0x0c95ca4b9b21f7f6788ddb2ff40fd1a620b88851'
   'code': 'EXE'
@@ -61,6 +69,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/98wt4h1521144923.png'
   'name': 'Exeter City'
   'tsdbId': '134365'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BLACKPOOL':
   'address': '0x61c112593445fdb59850b481a0dc9752b5dfb263'
   'code': 'BLK'
@@ -68,6 +77,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/utywru1448754934.png'
   'name': 'Blackpool'
   'tsdbId': '133618'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRISTOL-CITY':
   'address': '0x7a9b105b955f12cc9f91556eb400d8c2ac59bc86'
   'code': 'BSC'
@@ -75,6 +85,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/0ejxwz1601721013.png'
   'name': 'Bristol City'
   'tsdbId': '133621'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WEST-BROM':
   'address': '0xf021d9f9d06167b1d5ceb744c093004d7d4216fa'
   'code': 'WBA'
@@ -82,6 +93,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png'
   'name': 'West Brom'
   'tsdbId': '133611'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SUNDERLAND':
   'address': '0x4a46f25261639c752d152bc9684ab9a321c25c03'
   'code': 'SUN'
@@ -89,6 +101,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png'
   'name': 'Sunderland'
   'tsdbId': '133603'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MANCHESTER-CITY':
   'address': '0x22a1aaf104e27b7b3a050b445b73610c177d9a13'
   'code': 'MCI'
@@ -96,6 +109,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png'
   'name': 'Man City'
   'tsdbId': '133613'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NORWICH':
   'address': '0x0a612b86aa6dc7a4cfef98b81398e1dd981897cf'
   'code': 'NOR'
@@ -103,6 +117,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png'
   'name': 'Norwich'
   'tsdbId': '133608'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_ROTHERHAM-UNITED':
   'address': '0x09487bf332154ce1c4c48899c2c49cfce8ccf9d2'
   'code': 'RTU'
@@ -110,6 +125,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/uruupp1448811536.png'
   'name': 'Rotherham United'
   'tsdbId': '134231'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_TOTTENHAM':
   'address': '0x7a115e89de7f2df7e158b581178cb3b3f9bf400f'
   'code': 'TOT'
@@ -117,6 +133,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png'
   'name': 'Tottenham'
   'tsdbId': '133616'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WOLVES':
   'address': '0xc4f6b9da18f57bf6ed6bc3a3e24adbd004b69719'
   'code': 'WOL'
@@ -124,6 +141,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png'
   'name': 'Wolves'
   'tsdbId': '133599'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_EVERTON':
   'address': '0x7256e4eedfddb4043921a18bba2addad447a6a7c'
   'code': 'EVE'
@@ -131,6 +149,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png'
   'name': 'Everton'
   'tsdbId': '133615'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_HULL':
   'address': '0x61e68436ab617456605615b4d911c46d6e88c0e0'
   'code': 'HUL'
@@ -138,6 +157,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png'
   'name': 'Hull'
   'tsdbId': '133617'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BOURNEMOUTH':
   'address': '0x1afaf94d0f1417453db811cccb069a21d75cc9a2'
   'code': 'BOU'
@@ -145,6 +165,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png'
   'name': 'Bournemouth'
   'tsdbId': '134301'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_READING':
   'address': '0xa65816ada34b6f7786e39c9c18fcfaacb10a5fad'
   'code': 'RDG'
@@ -152,6 +173,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png'
   'name': 'Reading'
   'tsdbId': '133633'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_IPSWICH':
   'address': '0x9dd736728e3f0260c845a5085fa709e02b8ffc18'
   'code': 'IPS'
@@ -159,6 +181,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png'
   'name': 'Ipswich'
   'tsdbId': '133622'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SHEFFIELD-UTD':
   'address': '0xd5091a49a3757907fc7507fc15206a1f0b81b615'
   'code': 'SHU'
@@ -166,6 +189,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png'
   'name': 'Sheffield Utd'
   'tsdbId': '133811'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WEST-HAM':
   'address': '0xcc6a871cef898c65ed7b96e161596021b74cd9f2'
   'code': 'WHU'
@@ -173,6 +197,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png'
   'name': 'West Ham'
   'tsdbId': '133636'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MANSFIELD-TOWN':
   'address': '0x0d625803a03705840400a101faeec47af47334ca'
   'code': 'MSF'
@@ -180,6 +205,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vqtxwt1423804415.png'
   'name': 'Mansfield Town'
   'tsdbId': '134381'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_STOKE':
   'address': '0xa923328090a2ce02908ce8ae5d1d575f81fd16ac'
   'code': 'STK'
@@ -187,6 +213,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/d16frn1678807158.png'
   'name': 'Stoke'
   'tsdbId': '133609'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRIGHTON':
   'address': '0x13366fd3476b20da988c2d7b4edf96411235cdbb'
   'code': 'BHA'
@@ -194,6 +221,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png'
   'name': 'Brighton'
   'tsdbId': '133619'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BLACKBURN':
   'address': '0x6a622c1728ce5d55d3f72a5eda0cfa641edbf7f1'
   'code': 'BBR'
@@ -201,6 +229,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rvryut1448810814.png'
   'name': 'Blackburn'
   'tsdbId': '133598'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BURTON-ALBION':
   'address': '0x73b44541a08eebb55a9e6751153c8f280381bb15'
   'code': 'BRA'
@@ -208,6 +237,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png'
   'name': 'Burton Albion'
   'tsdbId': '134376'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PRESTON':
   'address': '0x5be6363ceec491953d8e6dccd53093fac3205d72'
   'code': 'PNE'
@@ -215,6 +245,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wqtwvw1448811512.png'
   'name': 'Preston'
   'tsdbId': '133809'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PLYMOUTH':
   'address': '0xf83d39c759ccd0a647150ff46742c57879d77886'
   'code': 'PLA'
@@ -222,6 +253,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png'
   'name': 'Plymouth'
   'tsdbId': '133836'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NEWCASTLE':
   'address': '0xff8945ec37cfb4cf6fcac2e0d98eb21770ef2e7e'
   'code': 'NEW'
@@ -229,6 +261,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png'
   'name': 'Newcastle'
   'tsdbId': '134777'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LEEDS':
   'address': '0x34597528b996197fd2bee06beec7bacdba8c021b'
   'code': 'LEE'
@@ -236,6 +269,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/g0eqzw1598804097.png'
   'name': 'Leeds'
   'tsdbId': '133635'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_DERBY':
   'address': '0x87febdd855196bc29a21e223b1d0ca41415b7315'
   'code': 'DRB'
@@ -243,6 +277,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png'
   'name': 'Derby'
   'tsdbId': '133627'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PETERBOROUGH-UNITED':
   'address': '0x5e6a4dbb623592468114b2c1ec0f1a62a807febe'
   'code': 'PTU'
@@ -250,6 +285,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tyxsvt1424033035.png'
   'name': 'Peterborough United'
   'tsdbId': '133631'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NORTHAMPTON-TOWN':
   'address': '0xe23d4cba51d5841c7b59982da77e63bccde1125e'
   'code': 'NHT'
@@ -257,6 +293,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/aa42641684131255.png'
   'name': 'Northampton Town'
   'tsdbId': '134370'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MANCHESTER-UNITED':
   'address': '0x234bda15f5ad4f665d54e0698c2379fc441d4d82'
   'code': 'MUN'
@@ -264,6 +301,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png'
   'name': 'Man Utd'
   'tsdbId': '133612'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CHARLTON-ATHLETIC':
   'address': '0x47b45b4fac5788a512e833b2d397e4c437cfd01b'
   'code': 'CHA'
@@ -271,6 +309,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png'
   'name': 'Charlton Athletic'
   'tsdbId': '133851'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SWANSEA':
   'address': '0x2d4370ae18e74cc495a4183bae2fa6857d2dae0e'
   'code': 'SWA'
@@ -278,6 +317,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png'
   'name': 'Swansea'
   'tsdbId': '133614'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MILLWALL':
   'address': '0x69abcc4c6422cd6e3b2b143019131b84f9d4490f'
   'code': 'MLW'
@@ -285,6 +325,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png'
   'name': 'Millwall'
   'tsdbId': '133634'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_QPR':
   'address': '0xe95cc33cf95e3f30dad1fd2483b304f74f3686b4'
   'code': 'QPR'
@@ -292,6 +333,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/l4qscx1601721022.png'
   'name': 'QPR'
   'tsdbId': '133605'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_STEVENAGE':
   'address': '0xd73706bdf8ca8ea66c683fe4ca71e9df2c9bf18a'
   'code': 'STV'
@@ -299,6 +341,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png'
   'name': 'Stevenage'
   'tsdbId': '134378'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_AFC-WIMBLEDON':
   'address': '0x1dd4d80d12226a0ab14881a6ef3dd3f1a3209572'
   'code': 'AWM'
@@ -306,6 +349,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/md7iqx1684129667.png'
   'name': 'AFC Wimbledon'
   'tsdbId': '134241'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_DONCASTER-ROVERS':
   'address': '0xbbf148ee585343cff0a98f017c45ff4b0d0437d0'
   'code': 'DNR'
@@ -313,6 +357,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ssvpvx1424033260.png'
   'name': 'Doncaster Rovers'
   'tsdbId': '133620'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LEICESTER':
   'address': '0xace811423d6a43b03780b30e3550d166f201b12a'
   'code': 'LEI'
@@ -320,6 +365,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png'
   'name': 'Leicester'
   'tsdbId': '133626'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_COVENTRY':
   'address': '0xfd90ef206c2400e8946d42b5a3a1b1513e4fb8fe'
   'code': 'CDF'
@@ -327,6 +373,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png'
   'name': 'Coventry'
   'tsdbId': '133625'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LINCOLN-CITY':
   'address': '0x7ee4f70b7e5a0d0d31ab218eb38e042cbf221f88'
   'code': 'LNC'
@@ -334,6 +381,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/x46tji1719860130.png'
   'name': 'Lincoln City'
   'tsdbId': '135900'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LEYTON-ORIENT':
   'address': '0x33265243bb00cb80b60a154de8028cb40b80412b'
   'code': 'LEY'
@@ -341,6 +389,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/g4d9bi1688678797.png'
   'name': 'Leyton Orient'
   'tsdbId': '134367'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LIVERPOOL':
   'address': '0x6869968fea1574bfdb60e864c986b72425228fd0'
   'code': 'LIV'
@@ -348,6 +397,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png'
   'name': 'Liverpool'
   'tsdbId': '133602'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WIGAN-ATHLETIC':
   'address': '0x477c8837050ea9504427318e05bf6fbb1f4ce4d9'
   'code': 'WIG'
@@ -355,6 +405,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wtxwyw1448759640.png'
   'name': 'Wigan Athletic'
   'tsdbId': '133607'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WREXHAM':
   'address': '0xf5d0a997f508e6b5970673806713fcbfd103a59f'
   'code': 'WRE'
@@ -362,6 +413,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png'
   'name': 'Wrexham'
   'tsdbId': '134775'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PORT-VALE':
   'address': '0x29610c78d7386101d59d94e5494f6f86181c51a9'
   'code': 'PTV'
@@ -369,6 +421,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wvpxpp1424033388.png'
   'name': 'Port Vale'
   'tsdbId': '134375'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_OXFORD-UTD':
   'address': '0x310236f7eff533c0976a5924a286a8fc05351faf'
   'code': 'OXF'
@@ -376,6 +429,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/la34wg1601726102.png'
   'name': 'Oxford Utd'
   'tsdbId': '134361'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LUTON-TOWN':
   'address': '0xeb56e3a7b3dd19209a1168209464ebd3d7083ccd'
   'code': 'LUT'
@@ -383,6 +437,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png'
   'name': 'Luton Town'
   'tsdbId': '133888'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRENTFORD':
   'address': '0x5f4b1cf3259ee2122809966e59f33d4bac19c33b'
   'code': 'BRE'
@@ -390,6 +445,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png'
   'name': 'Brentford'
   'tsdbId': '134355'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_STOCKPORT-COUNTY':
   'address': '0xd74c05ed60d2bf41c088c16c6dc729738a73cecb'
   'code': 'STO'
@@ -397,6 +453,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png'
   'name': 'Stockport County'
   'tsdbId': '134258'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CHELSEA':
   'address': '0x2fc8e4ac8cb61edf7fa18cf8244e1ed533dd0ef9'
   'code': 'CHE'
@@ -404,6 +461,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png'
   'name': 'Chelsea'
   'tsdbId': '133610'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NOTTINGHAM':
   'address': '0xe0980f9e422bcdecebeedd98b56fc346ca1d1d17'
   'code': 'NFO'
@@ -411,6 +469,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png'
   'name': 'Nottingham'
   'tsdbId': '133720'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRADFORD-CITY':
   'address': '0x6c1e9b71ecddb8d02c00d01b2c3df0f3b0986e49'
   'code': 'BDC'
@@ -418,6 +477,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/trwxxv1424033151.png'
   'name': 'Bradford City'
   'tsdbId': '134189'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BIRMINGHAM-CITY':
   'address': '0x60b8530ef24e93a7a0e5d06ae13f35fd791105da'
   'code': 'BRC'
@@ -425,6 +485,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png'
   'name': 'Birmingham City'
   'tsdbId': '133597'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WATFORD':
   'address': '0xffa977f50d5cf27db16a08924f493332e5077aed'
   'code': 'WAT'
@@ -432,6 +493,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png'
   'name': 'Watford'
   'tsdbId': '133624'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_ARSENAL':
   'address': '0x0cc4c91b2d769a7b66933d9ca9bd7b2bb2c62ccf'
   'code': 'ARS'
@@ -439,6 +501,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png'
   'name': 'Arsenal'
   'tsdbId': '133604'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CRYSTAL-PALACE':
   'address': '0x71ab22a5ef557a80ed4c6d486c47e39acb184e9e'
   'code': 'CRY'
@@ -446,6 +509,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png'
   'name': 'Crystal Palace'
   'tsdbId': '133632'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_FULHAM':
   'address': '0xceeb988533490e0f55fe5b6f4de3b3b34dccaae9'
   'code': 'FUL'
@@ -453,6 +517,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png'
   'name': 'Fulham'
   'tsdbId': '133600'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_HUDDERSFIELD-TOWN':
   'address': '0x0efe8cab1aead75bb9b5da7bbc4726a9ea682f2e'
   'code': 'HDD'
@@ -460,6 +525,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png'
   'name': 'Huddersfield Town'
   'tsdbId': '133932'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BURNLEY':
   'address': '0xf5dd51dfad243f173fb19008d193515f16ff49f7'
   'code': 'BSC'
@@ -467,6 +533,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png'
   'name': 'Burnley'
   'tsdbId': '133623'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WYCOMBE-WANDERERS':
   'address': '0x8b63a7220864ae3678f1c2a3d3a2d365332c24ea'
   'code': 'WYC'
@@ -474,3 +541,4 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/avi3bu1688678934.png'
   'name': 'Wycombe Wanderers'
   'tsdbId': '134382'
+  'whitelisted': !!bool 'true'

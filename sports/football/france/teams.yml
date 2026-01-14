@@ -5,6 +5,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/yuxtyy1464540071.png'
   'name': 'Strasbourg'
   'tsdbId': '133882'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_PARIS-FC':
   'address': '0xb6315dfd64d9c5d3b19632d2a9aa82bb39cff11b'
   'code': 'PFC'
@@ -12,6 +13,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png'
   'name': 'Paris FC'
   'tsdbId': '135465'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_RENNES':
   'address': '0x0e4b951cbb24058e170730182183414714cc146a'
   'code': 'REN'
@@ -19,6 +21,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png'
   'name': 'Rennes'
   'tsdbId': '133719'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_LYON':
   'address': '0xa098a84ee71442ce616405bfc88f5f8b97bf3e15'
   'code': 'LYO'
@@ -26,6 +29,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png'
   'name': 'Lyon'
   'tsdbId': '133713'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_LE-HAVRE':
   'address': '0x25251a3108eea41e7eeaec745575dff97036bf7a'
   'code': 'HAC'
@@ -33,6 +37,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png'
   'name': 'Le Havre'
   'tsdbId': '133862'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_MONACO':
   'address': '0x622ad9b463ffdc747f4a3e3692c45b66a92341aa'
   'code': 'MON'
@@ -40,6 +45,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png'
   'name': 'Monaco'
   'tsdbId': '133823'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_TOULOUSE':
   'address': '0xf79a3bbe89f6214201aacc538101568b47dfa56c'
   'code': 'TOU'
@@ -47,6 +53,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png'
   'name': 'Toulouse'
   'tsdbId': '133703'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_STADE-DE-REIMS':
   'address': '0x1793b35c3f38c24e26cf1dd461dd18fd1cf672b8'
   'code': 'REI'
@@ -54,6 +61,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xcrw1b1592925946.png'
   'name': 'Stade de Reims'
   'tsdbId': '133934'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_LENS':
   'address': '0x677fd79c750132278db9cb46d90fc2ac7251b723'
   'code': 'LNS'
@@ -61,6 +69,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png'
   'name': 'Lens'
   'tsdbId': '133822'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_METZ':
   'address': '0x37081369b03d2f1ac9deabb3f13cddf70890b022'
   'code': 'MTZ'
@@ -68,6 +77,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/1iuew61688452857.png'
   'name': 'Metz'
   'tsdbId': '133883'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_ST-ETIENNE':
   'address': '0xd29dd4fe2c7a6b5e63d1d0069d9b1143840a4c10'
   'code': 'ASS'
@@ -75,6 +85,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/m4ej831656423694.png'
   'name': 'St Etienne'
   'tsdbId': '133717'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_AUXERRE':
   'address': '0xb9cfd3a8be9039543ca80430a950f2c64bc4b83f'
   'code': 'AJA'
@@ -82,6 +93,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png'
   'name': 'Auxerre'
   'tsdbId': '134788'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_LORIENT':
   'address': '0x1bb57d4f6fb79cd1c5c15dc14077b8d5c1758782'
   'code': 'LOR'
@@ -89,6 +101,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png'
   'name': 'Lorient'
   'tsdbId': '133715'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_LILLE':
   'address': '0x4c3f9a405b9cb790363fbb01447fc6b12dd2ff04'
   'code': 'LIL'
@@ -96,6 +109,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png'
   'name': 'Lille'
   'tsdbId': '133711'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_NICE':
   'address': '0xb873041ce92c21009aa18bacc64dbdfb8d7b7fa7'
   'code': 'NIC'
@@ -103,6 +117,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png'
   'name': 'Nice'
   'tsdbId': '133712'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_MARSEILLE':
   'address': '0xb80fdf31c02e356bcc9eab20babcb357798b9ae1'
   'code': 'OLM'
@@ -110,6 +125,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png'
   'name': 'Marseille'
   'tsdbId': '133707'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_ANGERS':
   'address': '0x8974773fe621e59aba8c4f429115accdc5260d90'
   'code': 'SCO'
@@ -117,6 +133,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png'
   'name': 'Angers'
   'tsdbId': '134709'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_PARIS-SG':
   'address': '0x57ea8329c91acff80a3002319917e47319762637'
   'code': 'PSG'
@@ -124,6 +141,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png'
   'name': 'Paris SG'
   'tsdbId': '133714'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_MONTPELLIER':
   'address': '0x28f0e9e4638618a9e8dbe9c21062acb1ed9470f4'
   'code': 'MON'
@@ -131,6 +149,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ihjm481723228069.png'
   'name': 'Montpellier'
   'tsdbId': '133709'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_NANTES':
   'address': '0x3d55e413f3c32c874d499ff7a309cf5929424f60'
   'code': 'NAN'
@@ -138,6 +157,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/mla9x61678808018.png'
   'name': 'Nantes'
   'tsdbId': '133861'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_BREST':
   'address': '0x9cc47b42ad0e0631b9c81394861266b89d11a771'
   'code': 'BRS'
@@ -145,3 +165,4 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png'
   'name': 'Brest'
   'tsdbId': '133704'
+  'whitelisted': !!bool 'true'

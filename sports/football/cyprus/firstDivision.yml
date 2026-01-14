@@ -8,13 +8,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/6tc1te1727711684.png'
 'name': '1. Division'
 'pick5PoolAmount': !!int '100'
+'visible': !!bool 'true'
+'code': 'Cyprus_1_Div'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
-    'visible': !!bool 'false'
     'code': 'Cyprus_1_Div_24_25'
     'endDate': !!timestamp '2025-03-01T00:00:00Z'
     'startDate': !!timestamp '2024-08-23T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4630'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_CYPRUS_PAFOS'
     - 'FOOTBALL_CYPRUS_ARIS'
@@ -30,13 +34,14 @@
     - 'FOOTBALL_CYPRUS_ENOSIS'
     - 'FOOTBALL_CYPRUS_SALAMIS'
     - 'FOOTBALL_CYPRUS_OMONIA-29'
-    'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'Cyprus_1_Div_25_26'
     'endDate': !!timestamp '2026-03-14T00:00:00Z'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4630'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_CYPRUS_AEK'
     - 'FOOTBALL_CYPRUS_AEL'
@@ -52,8 +57,5 @@
     - 'FOOTBALL_CYPRUS_OMONIA-ARADIPPOU'
     - 'FOOTBALL_CYPRUS_OMONIA'
     - 'FOOTBALL_CYPRUS_PAFOS'
-    'whitelisted': !!bool 'true'
 'sport': 'football'
-'standingsScraper': 'tsdb'
-'tsdbId': '4630'
-'weeksScraper': 'tsdb'
+

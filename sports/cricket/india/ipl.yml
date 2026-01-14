@@ -7,13 +7,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gaiti11741709844.png'
 'name': 'Indian Premier League'
 'pick5PoolAmount': !!int '0'
+'code': 'IPL'
+'visible': !!bool 'true'
 'seasons':
   '2025':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'IPL_25'
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
+    'standingsScraper': 'ipl'
+    'tsdbId': '4460'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'CRICKET_INDIA_DELHI-CAPITALS'
     - 'CRICKET_INDIA_GUJARAT-TITANS'
@@ -25,8 +29,4 @@
     - 'CRICKET_INDIA_MUMBAI-INDIANS'
     - 'CRICKET_INDIA_CHENNAI-SUPER-KINGS'
     - 'CRICKET_INDIA_SUNRISERS-HYDERABAD'
-    'whitelisted': !!bool 'true'
 'sport': 'cricket'
-'standingsScraper': 'ipl'
-'tsdbId': '4460'
-'weeksScraper': 'tsdb'

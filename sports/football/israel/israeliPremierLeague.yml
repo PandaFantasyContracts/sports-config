@@ -6,13 +6,18 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/glvhg51664190048.png'
 'name': 'Israeli Premier League'
 'pick5PoolAmount': !!int '0'
+'code': 'Israel_Premier_League'
+'visible': !!bool 'true'
 'seasons':
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'Israel_Premier_League_2025_2026'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-24T00:00:00Z'
+    'soccer365Id': '761'
+    'standingsScraper': 'soccer365'
+    'tsdbId': '4644'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'
     - 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV'
@@ -28,9 +33,5 @@
     - 'FOOTBALL_ISRAEL_HAPOEL-KIRYAT-SHMONA'
     - 'FOOTBALL_ISRAEL_HAPOEL-HAIFA'
     - 'FOOTBALL_ISRAEL_BNEI-SAKHNIN'
-    'whitelisted': !!bool 'true'
-'soccer365Id': '761'
 'sport': 'football'
-'standingsScraper': 'soccer365'
-'tsdbId': '4644'
-'weeksScraper': 'tsdb'
+
