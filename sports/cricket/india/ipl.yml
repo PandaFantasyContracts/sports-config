@@ -3,7 +3,6 @@
 'challenges': []
 'color': '#1800d1'
 'country': 'India'
-'goalServeId': '1015'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gaiti11741709844.png'
 'name': 'Indian Premier League'
 'pick5PoolAmount': !!int '0'
@@ -17,6 +16,7 @@
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
     'standingsScraper': 'ipl'
     'tsdbId': '4460'
+    'goalServeId': '1015'
     'weeksScraper': 'tsdb'
     'teams':
     - 'CRICKET_INDIA_DELHI-CAPITALS'
