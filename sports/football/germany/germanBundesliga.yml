@@ -37,7 +37,6 @@
     - 'FOOTBALL_GERMANY_BOCHUM'
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'Germany_Bundesliga_2025_2026'
     'endDate': !!timestamp '2026-05-16T00:00:00Z'
     'startDate': !!timestamp '2025-08-22T00:00:00Z'
