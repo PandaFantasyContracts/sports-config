@@ -123,6 +123,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png'
   'name': 'New England Patriots'
   'tsdbId': '134920'
+  'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_NEWORLEANS':
   'address': '0xccc31fe05306238ba80925879f62cdedb8b275ff'
   'code': 'NO'
