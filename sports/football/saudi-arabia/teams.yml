@@ -5,6 +5,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kiqcvh1676213514.png'
   'name': 'Al Khaleej'
   'tsdbId': '139080'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-RAED':
   'address': '0x246a01059c79def9d70dbb9cbadc964c385348a5'
   'code': 'RAE'
@@ -12,6 +13,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/9vkdcc1677530862.png'
   'name': 'Al Raed'
   'tsdbId': '136016'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-AHLI':
   'address': '0x6948a8fcf53fd0db5e2657dc6529e78d27095094'
   'code': 'AHL'
@@ -19,6 +21,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/bygmnt1578242762.png'
   'name': 'Al Ahli'
   'tsdbId': '137721'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-TAAWOUN':
   'address': '0x3408194a3156625e87f290e0fb30d58ab13d8ba5'
   'code': 'TAA'
@@ -26,6 +29,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rlsmp91646835052.png'
   'name': 'Al Taawoun'
   'tsdbId': '136012'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-NASSR':
   'address': '0x33fcb164bcec677f7bc93f529cbf176a07d7d199'
   'code': 'NSR'
@@ -33,6 +37,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/9cyok11630591314.png'
   'name': 'Al Nassr'
   'tsdbId': '136022'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-KHOLOOD':
   'address': '0xb29e55e75e7c6429b76f1475884bfb29cadf3993'
   'code': 'KHL'
@@ -40,6 +45,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ooupjl1721742714.png'
   'name': 'Al Kholood'
   'tsdbId': '149112'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-RIYADH':
   'address': '0xe9a88e06bd96c41b4e8346675fb2e35934d3fdec'
   'code': 'RIY'
@@ -47,6 +53,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/i6fnjq1694761958.png'
   'name': 'Al Riyadh'
   'tsdbId': '147445'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-WEHDA':
   'address': '0x467ec3d07c15e09531b5ff878b309d00961e25d1'
   'code': 'WEH'
@@ -54,6 +61,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/j4nvuy1677530944.png'
   'name': 'Al Wehda'
   'tsdbId': '136199'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-FAYHA':
   'address': '0x2eccfb75dd451fd7c6178eb1b90dc37948d7c3aa'
   'code': 'FEI'
@@ -61,6 +69,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png'
   'name': 'Al Fayha'
   'tsdbId': '136014'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-HILAL':
   'address': '0x2dc5a7a2f20045b1cc1fcc4f4f735f5b13984787'
   'code': 'HIL'
@@ -68,6 +77,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png'
   'name': 'Al Hilal'
   'tsdbId': '136013'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD':
   'address': '0xcf618f53278e429199484ad5cc416c3876269b0c'
   'code': 'ITH'
@@ -75,6 +85,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/zrs4e11693025293.png'
   'name': 'Al Ittihad'
   'tsdbId': '136018'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-QADSIAH':
   'address': '0x7821aea23e6bfcab2d987c78cfa2b249ba549925'
   'code': 'QAD'
@@ -82,6 +93,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png'
   'name': 'Al Qadsiah'
   'tsdbId': '136015'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-ETTIFAQ':
   'address': '0xe61cfa3316659374709d5857317e849f6e1914c3'
   'code': 'ITF'
@@ -89,6 +101,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/m272h51694761970.png'
   'name': 'Al Ettifaq'
   'tsdbId': '136017'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-OKHDOOD':
   'address': '0x012fcf74ef59f1d7e5d3f961448be18cc96ee15e'
   'code': 'AKH'
@@ -96,6 +109,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/gkrenz1694761940.png'
   'name': 'Al Okhdood'
   'tsdbId': '147444'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_DAMAC':
   'address': '0xd3410badab083008c06f7c9b88e4639fbec63d7b'
   'code': 'DAM'
@@ -103,6 +117,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/z2l4w31677530963.png'
   'name': 'Damac'
   'tsdbId': '137852'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-FATEH':
   'address': '0x863b67533713780feeedfd49c33200d005d44b4a'
   'code': 'FAT'
@@ -110,6 +125,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/a5cjf41662659789.png'
   'name': 'Al Fateh'
   'tsdbId': '136011'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-ORUBAH':
   'address': '0xa0b3b0aa09b19edb50b22290122ce70ea9c68adc'
   'code': 'ORU'
@@ -117,6 +133,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/y1rnl91721742609.png'
   'name': 'Al Orubah'
   'tsdbId': '149111'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-SHABAB':
   'address': '0x8c420947e79b78e2dc8d4f45c791fecb69b9fe28'
   'code': 'SHA'
@@ -124,3 +141,4 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6st4qi1693023435.png'
   'name': 'Al Shabab'
   'tsdbId': '136020'
+  'whitelisted': !!bool 'true'

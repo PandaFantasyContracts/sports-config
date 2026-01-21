@@ -8,13 +8,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
 'name': 'Premier League'
 'pick5PoolAmount': !!int '300'
+'code': 'UK_PL'
+'visible': !!bool 'true'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
-    'visible': !!bool 'false'
     'code': 'UK_PL_24_25'
     'endDate': !!timestamp '2025-05-25T00:00:00Z'
     'startDate': !!timestamp '2024-08-16T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4328'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_LIVERPOOL'
     - 'FOOTBALL_ENGLAND_ARSENAL'
@@ -36,13 +40,14 @@
     - 'FOOTBALL_ENGLAND_IPSWICH'
     - 'FOOTBALL_ENGLAND_LEICESTER'
     - 'FOOTBALL_ENGLAND_SOUTHAMPTON'
-    'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'UK_PL_25_26'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4328'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_ARSENAL'
     - 'FOOTBALL_ENGLAND_ASTON-VILLA'
@@ -64,8 +69,5 @@
     - 'FOOTBALL_ENGLAND_TOTTENHAM'
     - 'FOOTBALL_ENGLAND_WEST-HAM'
     - 'FOOTBALL_ENGLAND_WOLVES'
-    'whitelisted': !!bool 'true'
 'sport': 'football'
-'standingsScraper': 'tsdb'
-'tsdbId': '4328'
-'weeksScraper': 'tsdb'
+

@@ -5,13 +5,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/9f7z9d1742983155.png'
 'name': 'French Ligue 1'
 'pick5PoolAmount': !!int '200'
+'code': 'French_Ligue_1'
+'visible': !!bool 'true'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
-    'visible': !!bool 'false'
     'code': 'French_Ligue_1_2024_2025'
     'endDate': !!timestamp '2025-05-29T18:30:00Z'
     'startDate': !!timestamp '2024-08-16T18:45:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4334'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_FRANCE_STRASBOURG'
     - 'FOOTBALL_FRANCE_RENNES'
@@ -31,13 +35,14 @@
     - 'FOOTBALL_FRANCE_PARIS-SG'
     - 'FOOTBALL_FRANCE_NANTES'
     - 'FOOTBALL_FRANCE_BREST'
-    'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'French_Ligue_1_2025_2026'
     'endDate': !!timestamp '2026-05-16T00:00:00Z'
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4334'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_FRANCE_ANGERS'
     - 'FOOTBALL_FRANCE_AUXERRE'
@@ -57,8 +62,5 @@
     - 'FOOTBALL_FRANCE_RENNES'
     - 'FOOTBALL_FRANCE_STRASBOURG'
     - 'FOOTBALL_FRANCE_TOULOUSE'
-    'whitelisted': !!bool 'true'
 'sport': 'football'
-'standingsScraper': 'tsdb'
-'tsdbId': '4334'
-'weeksScraper': 'tsdb'
+

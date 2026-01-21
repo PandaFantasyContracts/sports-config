@@ -3,17 +3,20 @@
 'challenges': []
 'color': '#ff1f01'
 'country': 'World'
-'goalServeId': 'formula 1'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png'
 'name': 'Formula 1'
 'pick5PoolAmount': !!int '250'
+'code': 'FORMULA1'
+'visible': !!bool 'true'
 'seasons':
   '2024/2025':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'FORMULA1_25'
     'endDate': !!timestamp '2025-12-07T00:00:00Z'
     'startDate': !!timestamp '2025-03-16T00:00:00Z'
+    'standingsScraper': 'formula1'
+    'weeksScraper': 'formula1'
+    'goalServeId': 'formula 1'
     'teams':
     - 'MOTORSPORT_WORLD_ASTON-MARTIN'
     - 'MOTORSPORT_WORLD_MCLAREN'
@@ -25,7 +28,5 @@
     - 'MOTORSPORT_WORLD_KICK-SAUBER'
     - 'MOTORSPORT_WORLD_RACINGBULLS'
     - 'MOTORSPORT_WORLD_ALPINE'
-    'whitelisted': !!bool 'true'
 'sport': 'motorsport'
-'standingsScraper': 'formula1'
-'weeksScraper': 'formula1'
+

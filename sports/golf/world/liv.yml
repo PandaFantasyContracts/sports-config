@@ -6,13 +6,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/x8p62j1659513228.png'
 'name': 'LIV Golf'
 'pick5PoolAmount': !!int '0'
+'code': 'LIV'
+'visible': !!bool 'true'
 'seasons':
   '2025':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'LIV_2025'
     'endDate': !!timestamp '2025-08-15T00:00:00Z'
     'startDate': !!timestamp '2025-05-02T00:00:00Z'
+    'standingsScraper': 'golf'
+    'tsdbId': '5329'
+    'weeksScraper': 'golf'
     'teams':
     - 'GOLF_WORLD_4ACES-GC'
     - 'GOLF_WORLD_CLEEKS-GC'
@@ -27,8 +31,5 @@
     - 'GOLF_WORLD_SMASH GC'
     - 'GOLF_WORLD_STINGER GC'
     - 'GOLF_WORLD_TORQUE GC'
-    'whitelisted': !!bool 'true'
 'sport': 'golf'
-'standingsScraper': 'golf'
-'tsdbId': '5329'
-'weeksScraper': 'golf'
+
