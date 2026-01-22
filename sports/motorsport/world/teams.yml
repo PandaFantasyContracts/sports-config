@@ -28,7 +28,7 @@
   'color': '#6692FF'
   'goalServeId': '2031'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ot7pjx1740775883.png'
-  'name': 'RacingBulls'
+  'name': 'Racing Bulls'
   'whitelisted': !!bool 'true'
 'MOTORSPORT_WORLD_HAAS':
   'address': '0x236c3d270008a0539fc289582a7a8d44984df967'
@@ -76,5 +76,5 @@
   'color': '#52E252'
   'goalServeId': '1026'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/psi58y1709367081.png'
-  'name': 'Kick Sauber'
+  'name': 'Sauber'
   'whitelisted': !!bool 'true'
