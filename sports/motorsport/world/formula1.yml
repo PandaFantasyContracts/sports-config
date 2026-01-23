@@ -9,7 +9,7 @@
 'code': 'FORMULA1'
 'visible': !!bool 'true'
 'seasons':
-  '2024/2025':
+  '2025':
     'active': !!bool 'true'
     'code': 'FORMULA1_25'
     'endDate': !!timestamp '2025-12-07T00:00:00Z'
