@@ -12,7 +12,7 @@
 'visible': !!bool 'true'
 'seasons':
   '2024-2025':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'ARABIA_LEAGUE_2425'
     'endDate': !!timestamp '2025-05-26T00:00:00Z'
     'startDate': !!timestamp '2024-08-22T00:00:00Z'
@@ -39,7 +39,7 @@
     - 'FOOTBALL_SAUDI-ARABIA_AL-OKHDOOD'
     - 'FOOTBALL_SAUDI-ARABIA_AL-WEHDA'
   '2025-2026':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'ARABIA_LEAGUE_2526'
     'endDate': !!timestamp '2026-05-21T00:00:00Z'
     'startDate': !!timestamp '2025-08-28T00:00:00Z'
