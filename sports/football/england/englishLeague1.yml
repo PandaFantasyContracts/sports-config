@@ -5,13 +5,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/afedb31688770443.png'
 'name': 'English League One'
 'pick5PoolAmount': !!int '100'
+'code': 'England_English_League_1'
+'visible': !!bool 'true'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
-    'visible': !!bool 'false'
     'code': 'England_English_League_1_2024_2025'
     'endDate': !!timestamp '2025-05-25T12:01:00Z'
     'startDate': !!timestamp '2024-08-09T19:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4396'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_BURTON-ALBION'
     - 'FOOTBALL_ENGLAND_PETERBOROUGH-UNITED'
@@ -37,13 +41,14 @@
     - 'FOOTBALL_ENGLAND_BIRMINGHAM-CITY'
     - 'FOOTBALL_ENGLAND_WREXHAM'
     - 'FOOTBALL_ENGLAND_CHARLTON-ATHLETIC'
-    'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'England_English_League_1_2025_2026'
     'endDate': !!timestamp '2026-05-02T00:00:00Z'
     'startDate': !!timestamp '2025-08-01T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4396'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_BARNSLEY'
     - 'FOOTBALL_ENGLAND_BLACKPOOL'
@@ -69,8 +74,5 @@
     - 'FOOTBALL_ENGLAND_PORT-VALE'
     - 'FOOTBALL_ENGLAND_BRADFORD-CITY'
     - 'FOOTBALL_ENGLAND_AFC-WIMBLEDON'
-    'whitelisted': !!bool 'true'
 'sport': 'football'
-'standingsScraper': 'tsdb'
-'tsdbId': '4396'
-'weeksScraper': 'tsdb'
+

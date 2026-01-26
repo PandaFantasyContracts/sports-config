@@ -5,6 +5,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/150a2b1544814418.png'
   'name': 'AEK Larnaca'
   'tsdbId': '136251'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_AEL':
   'address': '0x0e3a0374e09140c18e19e18411bc272d7570bb05'
   'code': 'AEL'
@@ -12,6 +13,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kijo451579035930.png'
   'name': 'AEL Limassol'
   'tsdbId': '137922'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OMONIA-ARADIPPOU':
   'address': '0xb2d262311cd00e86f39c7f5a5d41a7be56ffe0cf'
   'code': 'OAR'
@@ -19,6 +21,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/a7kaix1615835243.png'
   'name': 'Omonia Aradippou'
   'tsdbId': '141101'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_KARMIOTISSA':
   'address': '0xefe204fd1f2da1a9211c21cc860706ae35d60abb'
   'code': 'KAR'
@@ -26,6 +29,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6jiso01678201840.png'
   'name': 'Karmiotissa'
   'tsdbId': '140064'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ETHNIKOS':
   'address': '0xe0dfa6a2997bad4ec4c3a78148a6ae6fb7cdbcc6'
   'code': 'EA'
@@ -33,6 +37,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6zhk1u1690408020.png'
   'name': 'Ethnikos Achna'
   'tsdbId': '137925'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_KRASAVA-YPSONA':
   'address': '0xa008ee4f74b60e3d42098bf1a935212d43fa7186'
   'code': 'KRA'
@@ -40,6 +45,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/n9fcdh1731012337.png'
   'name': 'Krasava Ypsonas'
   'tsdbId': '141098'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS':
   'address': '0xbc7b3c9bc343a93c05678733dfaae4ce35feb491'
   'code': 'AKR'
@@ -47,6 +53,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/4ycs8n1615835199.png'
   'name': 'Akritas Chlorakas'
   'tsdbId': '141091'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OMONIA':
   'address': '0x9c38d38115487cefaeb034eb850febfd9bf1cc7f'
   'code': 'OMO'
@@ -54,6 +61,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ycwsf11683682783.png'
   'name': 'Omonia Nicosia'
   'tsdbId': '133986'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_APOLLON':
   'address': '0xa5bb4e25c404507b80673cc762baae4e21bacf11'
   'code': 'APOL'
@@ -61,6 +69,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/17nj4k1511608842.png'
   'name': 'Apollon'
   'tsdbId': '134407'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ENOSIS':
   'address': '0xbec4c30bd971270280e1e5c7624658a9f4133586'
   'code': 'ENP'
@@ -68,6 +77,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/0o6dwd1579035978.png'
   'name': 'Enosis'
   'tsdbId': '137924'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_PAFOS':
   'address': '0x1afd08682f4f5de462cecb466d50c88581aad02b'
   'code': 'PFC'
@@ -75,6 +85,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xom9xf1579036010.png'
   'name': 'Pafos'
   'tsdbId': '137928'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_APOEL':
   'address': '0x07bbc94b59d2fbaa10fc0b21ab5265b42497a66f'
   'code': 'APO'
@@ -82,6 +93,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ccra6l1579035947.png'
   'name': 'APOEL'
   'tsdbId': '133999'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ARIS':
   'address': '0x1f874d03f5074880ab5e9681d18da93cb5df0348'
   'code': 'ARS'
@@ -89,6 +101,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/14iqnt1615835212.png'
   'name': 'Aris Limassol'
   'tsdbId': '141094'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OMONIA-29':
   'address': '0x36f00c080e0fddec2e12c502bb49b99c40ce98c4'
   'code': 'O29'
@@ -96,6 +109,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/1rijst1707410501.png'
   'name': 'Omonia 29is Maiou'
   'tsdbId': '143789'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OLYMPIAKOS':
   'address': '0x4b65f6ad6dd924d1cd49bbca346e06df5489beb1'
   'code': 'OLY'
@@ -103,6 +117,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/mmo0kb1678201580.png'
   'name': 'Olympiakos Nicosia'
   'tsdbId': '137927'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_SALAMIS':
   'address': '0xc73428215afe5d06dcc5ab8e0204943b7647d938'
   'code': 'NS'
@@ -110,6 +125,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vup1i81656016654.png'
   'name': 'Nea Salamis'
   'tsdbId': '137926'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ANORTHOSIS':
   'address': '0x611940e4c630841b0eb4cc91136f294558d77788'
   'code': 'ANO'
@@ -117,3 +133,4 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/gwf24l1627657894.png'
   'name': 'Anorthosis'
   'tsdbId': '133994'
+  'whitelisted': !!bool 'true'

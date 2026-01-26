@@ -5,13 +5,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/teqh1b1679952008.png'
 'name': 'German Bundesliga'
 'pick5PoolAmount': !!int '250'
+'code': 'Germany_Bundesliga'
+'visible': !!bool 'true'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
-    'visible': !!bool 'false'
     'code': 'Germany_Bundesliga_2024_2025'
     'endDate': !!timestamp '2025-05-17T13:30:00Z'
     'startDate': !!timestamp '2024-08-23T18:30:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4331'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_GERMANY_ST-PAULI'
     - 'FOOTBALL_GERMANY_FC-AUGSBURG'
@@ -31,13 +35,14 @@
     - 'FOOTBALL_GERMANY_FREIBURG'
     - 'FOOTBALL_GERMANY_BORUSSIA-DORTMUND'
     - 'FOOTBALL_GERMANY_BOCHUM'
-    'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'Germany_Bundesliga_2025_2026'
     'endDate': !!timestamp '2026-05-16T00:00:00Z'
     'startDate': !!timestamp '2025-08-22T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4331'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_GERMANY_BAYERN-MUNICH'
     - 'FOOTBALL_GERMANY_BAYER-LEVERKUSEN'
@@ -57,8 +62,5 @@
     - 'FOOTBALL_GERMANY_FC-HEIDENHEIM'
     - 'FOOTBALL_GERMANY_HAMBURG'
     - 'FOOTBALL_GERMANY_FC-COLOGNE'
-    'whitelisted': !!bool 'true'
 'sport': 'football'
-'standingsScraper': 'tsdb'
-'tsdbId': '4331'
-'weeksScraper': 'tsdb'
+

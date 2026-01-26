@@ -5,13 +5,17 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png'
 'name': 'Italian Serie A'
 'pick5PoolAmount': !!int '250'
+'visible': !!bool 'true'
+'code': 'Italy_Serie_A'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
-    'visible': !!bool 'false'
     'code': 'Italy_Serie_A_2024_2025'
     'endDate': !!timestamp '2025-05-25T13:00:00Z'
     'startDate': !!timestamp '2024-08-17T16:30:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4332'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ITALY_MONZA'
     - 'FOOTBALL_ITALY_FIORENTINA'
@@ -33,13 +37,14 @@
     - 'FOOTBALL_ITALY_INTER-MILAN'
     - 'FOOTBALL_ITALY_GENOA'
     - 'FOOTBALL_ITALY_TORINO'
-    'whitelisted': !!bool 'true'
   '2025-2026':
     'active': !!bool 'true'
-    'visible': !!bool 'true'
     'code': 'Italy_Serie_A_2025_2026'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4332'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ITALY_ATALANTA'
     - 'FOOTBALL_ITALY_BOLOGNA'
@@ -61,8 +66,5 @@
     - 'FOOTBALL_ITALY_TORINO'
     - 'FOOTBALL_ITALY_UDINESE'
     - 'FOOTBALL_ITALY_VERONA'
-    'whitelisted': !!bool 'true'
 'sport': 'football'
-'standingsScraper': 'tsdb'
-'tsdbId': '4332'
-'weeksScraper': 'tsdb'
+
