@@ -5,6 +5,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/bzu3v71646775261.png'
   'name': 'Afghanistan'
   'tsdbId': '137147'
+  'espnId': '40'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_AUSTRALIA':
   'address': '0x33b6613982cc08c9b850c1e6a3643f26ea065e42'
@@ -13,6 +14,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/zvm8581646775132.png'
   'name': 'Australia'
   'tsdbId': '137146'
+  'espnId': '2'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_SCOTLAND':
   'address': '0x63877757bf7b94933245bc35985799792ad5d8e5'
@@ -21,6 +23,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/78woeh1646775360.png'
   'name': 'Scotland'
   'tsdbId': '139470'
+  'espnId': '30'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_CANADA':
   'address': '0x4d96c52da58b8720848295c80fa61c9d05ce104d'
@@ -29,6 +32,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/o49xhy1645907007.png'
   'name': 'Canada'
   'tsdbId': '145682'
+  'espnId': '17'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_ENGLAND':
   'address': '0x6ea91fdad24454295ef9bb6dde9c1703933fabe3'
@@ -37,6 +41,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/y5wcl81646775152.png'
   'name': 'England'
   'tsdbId': '137142'
+  'espnId': '1'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_INDIA':
   'address': ''
@@ -45,6 +50,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/donl7g1646775159.png'
   'name': 'India'
   'tsdbId': '137143'
+  'espnId': '6'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_IRELAND':
   'address': '0x5c27dd3d18be0d29e9cadef67cbd29d0a1653679'
@@ -53,6 +59,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wlryed1646775269.png'
   'name': 'Ireland'
   'tsdbId': '137148'
+  'espnId': '29'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_ITALY':
   'address': '0x6b57490efa5845392634c2abff256d84db34fb03'
@@ -61,6 +68,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/q76p1g1767086638.png'
   'name': 'Italy'
   'tsdbId': '154110'
+  'espnId': '31'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_NAMIBIA':
   'address': ''
@@ -69,6 +77,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/myxq3q1583580470.png'
   'name': 'Namibia'
   'tsdbId': '139467'
+  'espnId': '28'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_NEPAL':
   'address': '0x6a0152100e73355e29bf4e730e6d840759ec6de3'
@@ -77,6 +86,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/bn5wrv1646775335.png'
   'name': 'Nepal'
   'tsdbId': '142402'
+  'espnId': '33'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_NETHERLANDS':
   'address': '0x4c80d38447b3c5e8b3e6a593d08c3a6fd8b34e0a'
@@ -85,6 +95,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/z5v3lq1583580667.png'
   'name': 'Netherlands'
   'tsdbId': '139468'
+  'espnId': '15'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_NEW-ZELAND':
   'address': '0xc231f832c7e51c65b4b1765238cb6ab7f7aacb81'
@@ -93,6 +104,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/1yyh9s1646775166.png'
   'name': 'New Zealand'
   'tsdbId': '137145'
+  'espnId': '5'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_OMAN':
   'address': '0xc39fa70c37cf9c132c1c5c31c99b428e55520ff1'
@@ -101,6 +113,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/5ybzn71625862595.png'
   'name': 'Oman'
   'tsdbId': '142381'
+  'espnId': '37'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_PAKISTAN':
   'address': '0xe10b7fb5e5d56a7dd3310478361c7ee692afddf1'
@@ -109,6 +122,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/03o8241646775177.png'
   'name': 'Pakistan'
   'tsdbId': '137144'
+  'espnId': '7'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_SOUTH-AFRICA':
   'address': '0x505c18f89e960982b020c0523af5870305da2834'
@@ -117,6 +131,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/hn47e51646775185.png'
   'name': 'South Africa'
   'tsdbId': '137150'
+  'espnId': '3'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_SRI-LANKA':
   'address': '0x7c97ea8f9385eb6a009dc611dd6c0ceab458d4aa'
@@ -125,6 +140,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/i5fqg01646775193.png'
   'name': 'Sri Lanka'
   'tsdbId': '137149'
+  'espnId': '8'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_UAE':
   'address': '0x116c8636cce8a9bba50e4045a7a517edfb962ba4'
@@ -133,6 +149,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6poybf1583580847.png'
   'name': 'United Arab Emirates'
   'tsdbId': '139471'
+  'espnId': '27'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_USA':
   'address': '0xeab2b15958a317b55431cd7d0d701ccd944c8fe7'
@@ -141,6 +158,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/abmnzg1583580897.png'
   'name': 'United States'
   'tsdbId': '139469'
+  'espnId': '11'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_WEST-INDIES':
   'address': '0xc11bd3a39533abd54112dc6c20ba2b96bf43dbb5'
@@ -149,6 +167,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/1x0a681646775209.png'
   'name': 'West Indies'
   'tsdbId': '137151'
+  'espnId': '4'
   'whitelisted': !!bool 'true'
 'CRICKET_WORLD_ZIMBABWE':
   'address': '0xd6382f924e06a3a5779c755200a2273aec35e529'
@@ -157,4 +176,5 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/7ah0831646775278.png'
   'name': 'Zimbabwe'
   'tsdbId': '139472'
+  'espnId': '9'
   'whitelisted': !!bool 'true'

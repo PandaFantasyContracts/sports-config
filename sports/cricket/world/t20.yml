@@ -14,9 +14,9 @@
     'code': 'WORLD_CRICKET_T20_2026'
     'endDate': !!timestamp '2026-02-20T00:00:00Z'
     'startDate': !!timestamp '2026-02-07T00:00:00Z'
-    'standingsScraper': ''
+    'standingsScraper': 't20'
     'tsdbId': '5103'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 't20'
     'teams':
      - 'CRICKET_WORLD_AFGHANISTAN'
      - 'CRICKET_WORLD_AUSTRALIA'
