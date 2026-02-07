@@ -7,7 +7,7 @@
 'name': 'ICC Mens T20 World Cup'
 'pick5PoolAmount': !!int '0'
 'code': 'WORLD_CRICKET_T20'
-'visible': !!bool 'false'
+'visible': !!bool 'true'
 'seasons':
   '2026':
     'active': !!bool 'true'
