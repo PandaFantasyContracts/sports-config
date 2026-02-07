@@ -1,0 +1,43 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '520'
+'challenges': []
+'color': '#00990a'
+'country': 'World'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/jc2g4c1651173316.png'
+'name': 'ICC Mens T20 World Cup'
+'pick5PoolAmount': !!int '0'
+'code': 'WORLD_CRICKET_T20'
+'visible': !!bool 'true'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'WORLD_CRICKET_T20_2026'
+    'endDate': !!timestamp '2026-02-20T00:00:00Z'
+    'startDate': !!timestamp '2026-02-07T00:00:00Z'
+    'standingsScraper': 't20'
+    'tsdbId': '5103'
+    'weeksScraper': 't20'
+    'teams':
+     - 'CRICKET_WORLD_AFGHANISTAN'
+     - 'CRICKET_WORLD_AUSTRALIA'
+     - 'CRICKET_WORLD_SCOTLAND'
+     - 'CRICKET_WORLD_CANADA'
+     - 'CRICKET_WORLD_ENGLAND'
+     - 'CRICKET_WORLD_INDIA'
+     - 'CRICKET_WORLD_IRELAND'
+     - 'CRICKET_WORLD_ITALY'
+     - 'CRICKET_WORLD_NAMIBIA'
+     - 'CRICKET_WORLD_NEPAL'
+     - 'CRICKET_WORLD_NETHERLANDS'
+     - 'CRICKET_WORLD_NEW-ZELAND'
+     - 'CRICKET_WORLD_OMAN'
+     - 'CRICKET_WORLD_PAKISTAN'
+     - 'CRICKET_WORLD_SOUTH-AFRICA'
+     - 'CRICKET_WORLD_SRI-LANKA'
+     - 'CRICKET_WORLD_UAE'
+     - 'CRICKET_WORLD_USA'
+     - 'CRICKET_WORLD_WEST-INDIES'
+     - 'CRICKET_WORLD_ZIMBABWE'
+
+
+'sport': 'cricket'
