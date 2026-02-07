@@ -49,7 +49,7 @@
   'whitelisted': !!bool 'false'
   'tradeType': 'USDC'
 'CRICKET_WORLD_INDIA':
-  'address': ''
+  'address': '0xaeacde281f71291b34960665095a4faa398b28ea'
   'code': 'IND'
   'color': '#1E5AA8'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/donl7g1646775159.png'
@@ -79,7 +79,7 @@
   'whitelisted': !!bool 'false'
   'tradeType': 'USDC'
 'CRICKET_WORLD_NAMIBIA':
-  'address': ''
+  'address': '0xca493267fbb707352b262d0fad89382ccf88e3ca'
   'code': 'NAM'
   'color': '#0033A0'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/myxq3q1583580470.png'
