@@ -1,5 +1,5 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
-'buybackPoolDivisor': !!int '520'
+'buybackPoolDivisor': !!int '9'
 'challenges': []
 'color': '#00990a'
 'country': 'World'
