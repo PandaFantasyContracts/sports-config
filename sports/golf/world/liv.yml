@@ -7,7 +7,7 @@
 'name': 'LIV Golf'
 'pick5PoolAmount': !!int '0'
 'code': 'LIV'
-'visible': !!bool 'true'
+'visible': !!bool 'false'
 'seasons':
   '2025':
     'active': !!bool 'true'
