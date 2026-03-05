@@ -31,7 +31,7 @@
   '2026':
     'active': !!bool 'true'
     'code': 'FORMULA1_26'
-    'endDate': !!timestamp '22023-11-26T00:00:00Z'
+    'endDate': !!timestamp '2023-11-26T00:00:00Z'
     'startDate': !!timestamp '2023-03-03T00:00:00Z'
     'standingsScraper': 'formula1'
     'weeksScraper': 'formula1'
