@@ -7,10 +7,10 @@
 'name': 'Formula 1'
 'pick5PoolAmount': !!int '250'
 'code': 'FORMULA1'
-'visible': !!bool 'true'
+'visible': !!bool 'false'
 'seasons':
   '2025':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'FORMULA1_25'
     'endDate': !!timestamp '2025-12-07T00:00:00Z'
     'startDate': !!timestamp '2025-03-16T00:00:00Z'
@@ -28,5 +28,25 @@
     - 'MOTORSPORT_WORLD_KICK-SAUBER'
     - 'MOTORSPORT_WORLD_RACINGBULLS'
     - 'MOTORSPORT_WORLD_ALPINE'
+  '2026':
+    'active': !!bool 'true'
+    'code': 'FORMULA1_26'
+    'endDate': !!timestamp '22023-11-26T00:00:00Z'
+    'startDate': !!timestamp '2023-03-03T00:00:00Z'
+    'standingsScraper': 'formula1'
+    'weeksScraper': 'formula1'
+    'goalServeId': 'formula 1'
+    'teams':
+      - 'MOTORSPORT_WORLD_ASTON-MARTIN'
+      - 'MOTORSPORT_WORLD_MCLAREN'
+      - 'MOTORSPORT_WORLD_MERCEDES'
+      - 'MOTORSPORT_WORLD_RED-BULL'
+      - 'MOTORSPORT_WORLD_WILLIAMS'
+      - 'MOTORSPORT_WORLD_FERRARI'
+      - 'MOTORSPORT_WORLD_HAAS'
+      - 'MOTORSPORT_WORLD_RACINGBULLS'
+      - 'MOTORSPORT_WORLD_ALPINE'
+      - 'MOTORSPORT_WORLD_KICK-SAUBER'
+      - 'MOTORSPORT_WORLD_CADILLAC'
 'sport': 'motorsport'
 
