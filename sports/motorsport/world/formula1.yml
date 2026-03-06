@@ -7,7 +7,7 @@
 'name': 'Formula 1'
 'pick5PoolAmount': !!int '250'
 'code': 'FORMULA1'
-'visible': !!bool 'false'
+'visible': !!bool 'true'
 'seasons':
   '2025':
     'active': !!bool 'false'
