@@ -14,7 +14,7 @@
     'code': 'FIFA_WORLD_CUP_2026'
     'endDate': !!timestamp '2026-07-10T00:00:00Z'
     'startDate': !!timestamp '2026-06-10T00:00:00Z'
-    'standingsScraper':
+    'standingsScraper': 'default'
     'tsdbId': '4429'
     'weeksScraper':
     'teams':
