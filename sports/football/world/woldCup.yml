@@ -1,0 +1,23 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '520'
+'challenges':
+'color': '#ff0000'
+'country': 'World'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png'
+'name': 'FIFA World Cup'
+'pick5PoolAmount': !!int '250'
+'code': 'FIFA_WORLD_CUP'
+'visible': !!bool 'false'
+'seasons':
+  '2026':
+    'active': !!bool 'false'
+    'code': 'FIFA_WORLD_CUP_2026'
+    'endDate': !!timestamp '2026-07-10T00:00:00Z'
+    'startDate': !!timestamp '2026-06-10T00:00:00Z'
+    'standingsScraper':
+    'tsdbId':
+    'weeksScraper':
+    'teams':
+      - 'FOOTBALL_WORLD_CROATIA'
+'sport': 'football'
+
