@@ -1,0 +1,8 @@
+'FOOTBALL_WORLD_CROATIA':
+  'address': '0x42b2fdd2043c8d824ed73aff73eb93f4d9077669'
+  'code': 'CRO'
+  'color': '#ED1C24'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png'
+  'name': 'Croatia'
+  'tsdbId': '133912'
+  'whitelisted': !!bool 'true'
