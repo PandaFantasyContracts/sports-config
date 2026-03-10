@@ -6,3 +6,4 @@
   'name': 'Croatia'
   'tsdbId': '133912'
   'whitelisted': !!bool 'true'
+  'tradeType': 'USDC'
