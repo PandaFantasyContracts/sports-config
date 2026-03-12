@@ -1,8 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges':
-- 'PICK5_FREE'
-- 'DIVIDENDS'
 'color': '#4d2574'
 'country': 'England'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
