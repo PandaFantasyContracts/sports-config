@@ -407,7 +407,7 @@
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_MIAMI-OH':
   'address': '0x3c62e6275e338c4b974a581812da2e790379c7ac'
-  'code': 'M-OH'
+  'code': 'MOH'
   'color': '#B61E2E'
   'espnId': '193'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/193.png'
