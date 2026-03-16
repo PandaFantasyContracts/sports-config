@@ -4,7 +4,7 @@
 'color': '#0033A0'
 'country': 'USA'
 'logo': 'https://a.espncdn.com/i/espn/misc_logos/500/ncaa.png'
-'name': 'NCAA March Madness'
+'name': "NCAA Men's March Madness"
 'pick5PoolAmount': !!int '0'
 'visible': !!bool 'false'
 'sport': 'basketball'
