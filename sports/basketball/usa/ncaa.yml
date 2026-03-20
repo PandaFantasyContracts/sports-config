@@ -9,6 +9,7 @@
 'visible': !!bool 'true'
 'sport': 'basketball'
 'code': 'NCAA_MM'
+'tournamentType': 'KNOCKOUT'
 'seasons':
   '2026':
     'active': !!bool 'true'
