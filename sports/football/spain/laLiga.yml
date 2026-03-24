@@ -14,8 +14,9 @@
     'code': 'SP_LIGA_24_25'
     'endDate': !!timestamp '2025-05-25T00:00:00Z'
     'startDate': !!timestamp '2024-08-15T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4335'
+    'espnId': '2024'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_SPAIN_BARCELONA'
@@ -43,8 +44,9 @@
     'code': 'SP_LIGA_25_26'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4335'
+    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_SPAIN_BARCELONA'
@@ -67,5 +69,6 @@
     - 'FOOTBALL_SPAIN_LEVANTE'
     - 'FOOTBALL_SPAIN_ELCHE'
     - 'FOOTBALL_SPAIN_REAL-OVIEDO'
+'espnId': 'soccer/esp.1'
 'sport': 'football'
 

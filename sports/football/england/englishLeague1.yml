@@ -13,8 +13,9 @@
     'code': 'England_English_League_1_2024_2025'
     'endDate': !!timestamp '2025-05-25T12:01:00Z'
     'startDate': !!timestamp '2024-08-09T19:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4396'
+    'espnId': '2024'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_BURTON-ALBION'
@@ -46,8 +47,9 @@
     'code': 'England_English_League_1_2025_2026'
     'endDate': !!timestamp '2026-05-02T00:00:00Z'
     'startDate': !!timestamp '2025-08-01T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4396'
+    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_BARNSLEY'
@@ -74,5 +76,6 @@
     - 'FOOTBALL_ENGLAND_PORT-VALE'
     - 'FOOTBALL_ENGLAND_BRADFORD-CITY'
     - 'FOOTBALL_ENGLAND_AFC-WIMBLEDON'
+'espnId': 'soccer/eng.3'
 'sport': 'football'
 

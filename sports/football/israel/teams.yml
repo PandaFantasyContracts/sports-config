@@ -7,6 +7,7 @@
   'name': 'Maccabi Bnei Raina'
   'soccer365Id': '16420'
   'tsdbId': '141801'
+  'espnId': '21517'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV':
   'address': '0x0dd23f29ffcb146adf9baefde0b52189b69d0ab7'
@@ -17,6 +18,7 @@
   'name': 'Maccabi Tel Aviv'
   'soccer365Id': '6919'
   'tsdbId': '134315'
+  'espnId': '524'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_FC-ASHDOD':
   'address': '0xb8be3fe5e049aacc17ea64226c63e07bad4def93'
@@ -27,6 +29,7 @@
   'name': 'FC Ashdod'
   'soccer365Id': '7006'
   'tsdbId': '135991'
+  'espnId': '5269'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-HAIFA':
   'address': '0x8d8eec49d0b55cadf8a68b4cc8a2ad7aae7f1151'
@@ -37,6 +40,7 @@
   'name': 'Maccabi Haifa'
   'soccer365Id': '6918'
   'tsdbId': '134400'
+  'espnId': '611'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_BEITAR-JERUSALEM':
   'address': '0xda5b097650d99133a6ae3613789a3d588a29961d'
@@ -47,6 +51,7 @@
   'name': 'Beitar Jerusalem'
   'soccer365Id': '7058'
   'tsdbId': '135992'
+  'espnId': '5218'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_IRONI-TIBERIAS':
   'address': '0x4b07d56fd5442ff757f9debf8403e53249194284'
@@ -57,6 +62,7 @@
   'name': 'Ironi Tiberias'
   'soccer365Id': '8363'
   'tsdbId': '146401'
+  'espnId': '22311'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-BE''ER-SHEVA':
   'address': '0x901d34c3014e4d5a0db74ac10e5c32f1ba80e41f'
@@ -67,6 +73,7 @@
   'name': 'Hapoel Be''er Sheva'
   'soccer365Id': '6928'
   'tsdbId': '134799'
+  'espnId': '13083'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-JERUSALEM':
   'address': '0x00fa1feb10c37055451cd63f9770107870498ef0'
@@ -77,6 +84,7 @@
   'name': 'Hapoel Jerusalem'
   'soccer365Id': '8124'
   'tsdbId': '141235'
+  'espnId': '20970'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-HADERA-ERAN':
   'address': '0x1cc626cab60fe309418c2b28d8a7ed60f03c6960'
@@ -87,6 +95,7 @@
   'name': 'Hapoel Hadera Eran'
   'soccer365Id': '12407'
   'tsdbId': '136198'
+  'espnId': '19255'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-PETACH-TIKVA':
   'address': '0xf65f50624eada2fad50540d0b4d900490d78dff5'
@@ -97,6 +106,7 @@
   'name': 'Maccabi Petach Tikva'
   'soccer365Id': '8122'
   'tsdbId': '135998'
+  'espnId': '2983'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-NETANYA':
   'address': '0x637d1a84c9b25642776a67d892d212f47baa13e5'
@@ -107,6 +117,7 @@
   'name': 'Maccabi Netanya'
   'soccer365Id': '709'
   'tsdbId': '134087'
+  'espnId': '5945'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-KIRYAT-SHMONA':
   'address': '0x1a5ac9c4d149c60f272754f0b13fa3e660d8d73c'
@@ -117,6 +128,7 @@
   'name': 'Hapoel Kiryat Shmona'
   'soccer365Id': '6890'
   'tsdbId': '133950'
+  'espnId': '8327'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-HAIFA':
   'address': '0xa99bcbc913878071c1fcda5ce68f30d574c7f4be'
@@ -127,6 +139,7 @@
   'name': 'Hapoel Haifa'
   'soccer365Id': '7011'
   'tsdbId': '135995'
+  'espnId': '9577'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_BNEI-SAKHNIN':
   'address': '0x8036ec6b49e7cef4ccc14ef4933901d881bdee42'
@@ -137,6 +150,7 @@
   'name': 'Bnei Sakhnin'
   'soccer365Id': '7147'
   'tsdbId': '135994'
+  'espnId': '8329'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-TEL-AVIV':
   'address': '0x2e238b52b2399a49e7d22a5fe101121218f63209'

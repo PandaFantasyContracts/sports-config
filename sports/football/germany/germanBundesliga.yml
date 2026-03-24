@@ -13,8 +13,9 @@
     'code': 'Germany_Bundesliga_2024_2025'
     'endDate': !!timestamp '2025-05-17T13:30:00Z'
     'startDate': !!timestamp '2024-08-23T18:30:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4331'
+    'espnId': '2024'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_GERMANY_ST-PAULI'
@@ -40,8 +41,9 @@
     'code': 'Germany_Bundesliga_2025_2026'
     'endDate': !!timestamp '2026-05-16T00:00:00Z'
     'startDate': !!timestamp '2025-08-22T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4331'
+    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_GERMANY_BAYERN-MUNICH'
@@ -62,5 +64,6 @@
     - 'FOOTBALL_GERMANY_FC-HEIDENHEIM'
     - 'FOOTBALL_GERMANY_HAMBURG'
     - 'FOOTBALL_GERMANY_FC-COLOGNE'
+'espnId': 'soccer/ger.1'
 'sport': 'football'
 

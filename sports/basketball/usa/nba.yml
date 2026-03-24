@@ -6,7 +6,7 @@
 'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/nba.png'
 'name': 'NBA'
 'pick5PoolAmount': !!int '300'
-'visible': !!bool 'true'
+'visible': !!bool 'false'
 'sport': 'basketball'
 'code': 'NBA'
 'seasons':

@@ -14,8 +14,9 @@
     'code': 'PAKISTAN_SUPER_LEAGUE_CRICKET_2025'
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
-    'standingsScraper': 'psl'
+    'standingsScraper': 'espn'
     'tsdbId': '5067'
+    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
     - 'CRICKET_PAKISTAN_ISLAMABAD-UNITED'
@@ -24,4 +25,5 @@
     - 'CRICKET_PAKISTAN_MULTAN-SULTANS'
     - 'CRICKET_PAKISTAN_PESHWAR-ZALM'
     - 'CRICKET_PAKISTAN_QUETTA-GLADIATORS'
+'espnId': 'cricket/8679'
 'sport': 'cricket'
