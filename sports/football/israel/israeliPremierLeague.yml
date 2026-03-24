@@ -15,9 +15,8 @@
     'startDate': !!timestamp '2025-08-24T00:00:00Z'
     'footyId': 'israel/israeli-premier-league'
     'soccer365Id': '761'
-    'standingsScraper': 'espn'
+    'standingsScraper': 'soccer365'
     'tsdbId': '4644'
-    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'

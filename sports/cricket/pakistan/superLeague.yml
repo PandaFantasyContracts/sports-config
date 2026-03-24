@@ -16,7 +16,7 @@
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '5067'
-    'espnId': '2025'
+    'espnId': '2025:1'
     'weeksScraper': 'tsdb'
     'teams':
     - 'CRICKET_PAKISTAN_ISLAMABAD-UNITED'

@@ -16,7 +16,7 @@
     'startDate': !!timestamp '2024-08-23T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4630'
-    'espnId': '2024'
+    'espnId': '2024:1'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_CYPRUS_PAFOS'
@@ -40,7 +40,7 @@
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4630'
-    'espnId': '2025'
+    'espnId': '2025:1'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_CYPRUS_AEK'
