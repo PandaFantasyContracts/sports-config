@@ -5,6 +5,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png'
   'name': 'Atletico Madrid'
   'tsdbId': '133729'
+  'espnId': '1068'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_CELTA-VIGO':
   'address': '0xf26f40338c77a79b334142a9ba4f87941bf4a04d'
@@ -13,6 +14,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png'
   'name': 'Celta Vigo'
   'tsdbId': '133937'
+  'espnId': '85'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_ELCHE':
   'address': '0x899704194a158d5067aff913d2d0ec0b783799b5'
@@ -21,6 +23,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png'
   'name': 'Elche'
   'tsdbId': '134384'
+  'espnId': '3751'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_GIRONA':
   'address': '0xbcbac94b14c061cb1d2de146dc68d984fbe97869'
@@ -29,6 +32,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png'
   'name': 'Girona'
   'tsdbId': '134700'
+  'espnId': '9812'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_LEGANES':
   'address': '0x589a65856e8596ae434130cb04c60092ec96f1e9'
@@ -53,6 +57,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png'
   'name': 'Osasuna'
   'tsdbId': '133730'
+  'espnId': '97'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_VALLADOLID':
   'address': '0x2c8b826661ccf882c9defb93baea2dab6dedd4cb'
@@ -69,6 +74,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png'
   'name': 'Espanyol'
   'tsdbId': '133734'
+  'espnId': '88'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_RAYO-VALLECANO':
   'address': '0x6768e6fabc8789f48f745132485d14cdbde4e63f'
@@ -77,6 +83,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png'
   'name': 'Rayo Vallecano'
   'tsdbId': '133728'
+  'espnId': '101'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_LEVANTE':
   'address': '0x3ad323ff62e06a191d73b4bfb2f8d40b580d127c'
@@ -85,6 +92,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png'
   'name': 'Levante'
   'tsdbId': '133732'
+  'espnId': '1538'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_BARCELONA':
   'address': '0xb79b6986c2fdfaf9ee696ecf32c15df46f769cb7'
@@ -93,6 +101,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png'
   'name': 'Barcelona'
   'tsdbId': '133739'
+  'espnId': '83'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_ATHLETIC-BILBAO':
   'address': '0xcaaefcf362497f9fab068f484ae37e3eb5cc648f'
@@ -101,6 +110,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png'
   'name': 'Athletic Bilbao'
   'tsdbId': '133727'
+  'espnId': '93'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_ALAVES':
   'address': '0x6797c8e2b41d262c777ccf92e8d6b3e07d7bc853'
@@ -109,6 +119,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png'
   'name': 'Alaves'
   'tsdbId': '134221'
+  'espnId': '96'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_REAL-MADRID':
   'address': '0x0015f38bc013caba40c58c9e1c44cc64d69167ec'
@@ -117,6 +128,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png'
   'name': 'Real Madrid'
   'tsdbId': '133738'
+  'espnId': '86'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_SEVILLA':
   'address': '0xe2a104088b4b95814f25f1c3829e775327e9fbdf'
@@ -125,6 +137,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png'
   'name': 'Sevilla'
   'tsdbId': '133735'
+  'espnId': '243'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_MALLORCA':
   'address': '0x0e0c305bdc0c8606c9d773de3ad4d1012390143e'
@@ -133,6 +146,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png'
   'name': 'Mallorca'
   'tsdbId': '133733'
+  'espnId': '84'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_BETIS':
   'address': '0xa7f925547a479291cdfe17872c036ab3bf193339'
@@ -141,6 +155,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png'
   'name': 'Betis'
   'tsdbId': '133722'
+  'espnId': '244'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_GETAFE':
   'address': '0xd94b432c6f05ecc5e1c43367c47712da964edb59'
@@ -149,6 +164,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png'
   'name': 'Getafe'
   'tsdbId': '133731'
+  'espnId': '2922'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_REAL-SOCIEDAD':
   'address': '0x98fc67b04512d97ce0ea26ef3daf754f1f9e817a'
@@ -157,6 +173,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png'
   'name': 'Real Sociedad'
   'tsdbId': '133724'
+  'espnId': '89'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_VALENCIA':
   'address': '0xbddc6b199404b642cb6b6d4d375d1d53c300f069'
@@ -165,6 +182,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png'
   'name': 'Valencia'
   'tsdbId': '133725'
+  'espnId': '94'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_VILLARREAL':
   'address': '0x39beef29e1e697a83f3a263bf9c72cee442750e3'
@@ -173,6 +191,7 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png'
   'name': 'Villarreal'
   'tsdbId': '133740'
+  'espnId': '102'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_REAL-OVIEDO':
   'address': '0xbce7bd39fc6647e685df85ab426f3628c306d925'
@@ -181,4 +200,5 @@
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png'
   'name': 'Real Oviedo'
   'tsdbId': '135455'
+  'espnId': '92'
   'whitelisted': !!bool 'true'

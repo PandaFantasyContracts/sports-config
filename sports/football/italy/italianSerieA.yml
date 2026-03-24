@@ -13,8 +13,9 @@
     'code': 'Italy_Serie_A_2024_2025'
     'endDate': !!timestamp '2025-05-25T13:00:00Z'
     'startDate': !!timestamp '2024-08-17T16:30:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4332'
+    'espnId': '2024'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ITALY_MONZA'
@@ -42,8 +43,9 @@
     'code': 'Italy_Serie_A_2025_2026'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4332'
+    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ITALY_ATALANTA'
@@ -66,5 +68,6 @@
     - 'FOOTBALL_ITALY_TORINO'
     - 'FOOTBALL_ITALY_UDINESE'
     - 'FOOTBALL_ITALY_VERONA'
+'espnId': 'soccer/ita.1'
 'sport': 'football'
 

@@ -7,6 +7,7 @@
 'name': 'NFL'
 'pick5PoolAmount': !!int '0'
 'visible': !!bool 'false'
+'espnId': 'football/nfl'
 'sport': 'americanfootball'
 'code': 'NFL'
 'seasons':
@@ -15,8 +16,9 @@
     'code': 'NFL_25'
     'endDate': !!timestamp '2026-01-04T00:00:00Z'
     'startDate': !!timestamp '2025-09-05T00:00:00Z'
-    'standingsScraper': 'nfl'
+    'standingsScraper': 'espn'
     'tsdbId': '4391'
+    'espnId': '2025'
     'weeksScraper': 'nfl'
     'teams':
     - 'AMERICANFOOTBALL_USA_ARIZONA'

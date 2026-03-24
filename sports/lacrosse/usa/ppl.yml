@@ -14,8 +14,9 @@
     'code': 'PPL_25'
     'endDate': !!timestamp '2025-08-09T00:00:00Z'
     'startDate': !!timestamp '2025-05-30T00:00:00Z'
-    'standingsScraper': 'pll'
+    'standingsScraper': 'espn'
     'tsdbId': '5337'
+    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
     - 'LACROSSE_USA_BOSTON-CANNONS'
@@ -26,5 +27,6 @@
     - 'LACROSSE_USA_NEW-YORK-ATLAS'
     - 'LACROSSE_USA_PHILADELPHIA-WATERDOGS'
     - 'LACROSSE_USA_UTAH-ARCHERS'
+'espnId': 'lacrosse/pll'
 'sport': 'lacrosse'
 

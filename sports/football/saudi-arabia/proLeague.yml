@@ -14,8 +14,9 @@
     'code': 'ARABIA_LEAGUE_2425'
     'endDate': !!timestamp '2025-05-26T00:00:00Z'
     'startDate': !!timestamp '2024-08-22T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4668'
+    'espnId': '2024'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD'
@@ -41,8 +42,9 @@
     'code': 'ARABIA_LEAGUE_2526'
     'endDate': !!timestamp '2026-05-21T00:00:00Z'
     'startDate': !!timestamp '2025-08-28T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'espn'
     'tsdbId': '4668'
+    'espnId': '2025'
     'weeksScraper': 'tsdb'
     'teams':
       - 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD'
@@ -63,5 +65,6 @@
       - 'FOOTBALL_SAUDI-ARABIA_NEOM'
       - 'FOOTBALL_SAUDI-ARABIA_AL-HAZEM'
       - 'FOOTBALL_SAUDI-ARABIA_AL-NAJMA-UNAIZAH'
+'espnId': 'soccer/ksa.1'
 'sport': 'football'
 

@@ -14,8 +14,9 @@
     'code': 'IPL_25'
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
-    'standingsScraper': 'ipl'
+    'standingsScraper': 'espn'
     'tsdbId': '4460'
+    'espnId': '2025'
     'goalServeId': '1015'
     'weeksScraper': 'tsdb'
     'teams':
@@ -29,4 +30,5 @@
     - 'CRICKET_INDIA_MUMBAI-INDIANS'
     - 'CRICKET_INDIA_CHENNAI-SUPER-KINGS'
     - 'CRICKET_INDIA_SUNRISERS-HYDERABAD'
+'espnId': 'cricket/8048'
 'sport': 'cricket'
