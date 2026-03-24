@@ -14,9 +14,8 @@
     'code': 'Cyprus_1_Div_24_25'
     'endDate': !!timestamp '2025-03-01T00:00:00Z'
     'startDate': !!timestamp '2024-08-23T00:00:00Z'
-    'standingsScraper': 'espn'
+    'standingsScraper': 'tsdb'
     'tsdbId': '4630'
-    'espnId': '2024:1'
     'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_CYPRUS_PAFOS'
