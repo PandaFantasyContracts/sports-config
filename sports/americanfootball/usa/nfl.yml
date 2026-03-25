@@ -16,7 +16,7 @@
     'code': 'NFL_25'
     'endDate': !!timestamp '2026-01-04T00:00:00Z'
     'startDate': !!timestamp '2025-09-05T00:00:00Z'
-    'standingsScraper': 'espn'
+    'standingsScraper': 'nfl'
     'tsdbId': '4391'
     'espnId': '2025'
     'weeksScraper': 'nfl'
