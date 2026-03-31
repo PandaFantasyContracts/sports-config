@@ -1,0 +1,287 @@
+'HOCKEY_USA_ANAHEIM-DUCKS':
+  'address': '0xae64f61dfe782deeebbbceccc46cc7ba97c30c73'
+  'name': 'Anaheim Ducks'
+  'code': 'ANA'
+  'espnId': '25'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/ana.png'
+  'color': '#fc4c02'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_BOSTON-BRUINS':
+  'address': '0xf609f2c29412725e147762932c5def54c3cf3413'
+  'name': 'Boston Bruins'
+  'code': 'BOS'
+  'espnId': '1'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/bos.png'
+  'color': '#231f20'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_BUFFALO-SABRES':
+  'address': '0x21f88b54f5d1296aac41c589da24e57f5599135a'
+  'name': 'Buffalo Sabres'
+  'code': 'BUF'
+  'espnId': '2'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/buf.png'
+  'color': '#00468b'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_CALGARY-FLAMES':
+  'address': '0x53c441d419a2315ff13322e47e70879c392e8cee'
+  'name': 'Calgary Flames'
+  'code': 'CGY'
+  'espnId': '3'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png'
+  'color': '#dd1a32'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_CAROLINA-HURRICANES':
+  'address': '0xc847cfbbcc9f5a29c2ca8c5b60ba196c7075da9f'
+  'name': 'Carolina Hurricanes'
+  'code': 'CAR'
+  'espnId': '7'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/car.png'
+  'color': '#e30426'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_CHICAGO-BLACKHAWKS':
+  'address': '0xa5dcacf2f091f64d7978e6e5225db172b0d04b77'
+  'name': 'Chicago Blackhawks'
+  'code': 'CHI'
+  'espnId': '4'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/chi.png'
+  'color': '#e31937'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_COLORADO-AVALANCHE':
+  'address': '0x2f216121cb1d9c2824cedf220588427bcdc486a8'
+  'name': 'Colorado Avalanche'
+  'code': 'COL'
+  'espnId': '17'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/col.png'
+  'color': '#860038'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_COLUMBUS-BLUE-JACKETS':
+  'address': '0x435bb55e3b9acadaf460b19b1510b2fb3f89cdab'
+  'name': 'Columbus Blue Jackets'
+  'code': 'CBJ'
+  'espnId': '29'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png'
+  'color': '#002d62'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_DALLAS-STARS':
+  'address': '0x0ca06d0faa871f94cc1afba6bf9b171482a45696'
+  'name': 'Dallas Stars'
+  'code': 'DAL'
+  'espnId': '9'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/dal.png'
+  'color': '#20864c'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_DETROIT-RED-WINGS':
+  'address': '0xc166e8550e65f1722ef65ec6d50481bbb1b29f72'
+  'name': 'Detroit Red Wings'
+  'code': 'DET'
+  'espnId': '5'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/det.png'
+  'color': '#e30526'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_EDMONTON-OILERS':
+  'address': '0xbbe7aa7703effefafa4eebf19be3310676ee7e0f'
+  'name': 'Edmonton Oilers'
+  'code': 'EDM'
+  'espnId': '6'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/edm.png'
+  'color': '#00205b'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_FLORIDA-PANTHERS':
+  'address': '0x4e41c15b9fe86eb768557a7672b39d936eb33ee3'
+  'name': 'Florida Panthers'
+  'code': 'FLA'
+  'espnId': '26'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/fla.png'
+  'color': '#e51937'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_LOS-ANGELES-KINGS':
+  'address': '0xe22365afff7b230db5fd23607df797d2a464da45'
+  'name': 'Los Angeles Kings'
+  'code': 'LA'
+  'espnId': '8'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/la.png'
+  'color': '#121212'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_MINNESOTA-WILD':
+  'address': '0x7c5ffd6867f3324672f68a9472d5e760dd5ba114'
+  'name': 'Minnesota Wild'
+  'code': 'MIN'
+  'espnId': '30'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/min.png'
+  'color': '#124734'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_MONTREAL-CANADIENS':
+  'address': '0x36738981a98c442aa122143154a10952e75a9f42'
+  'name': 'Montreal Canadiens'
+  'code': 'MTL'
+  'espnId': '10'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png'
+  'color': '#c41230'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_NASHVILLE-PREDATORS':
+  'address': '0xa55424b396339f638fba1cf62b748bd89bc2fad6'
+  'name': 'Nashville Predators'
+  'code': 'NSH'
+  'espnId': '27'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png'
+  'color': '#fdba31'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_NEW-JERSEY-DEVILS':
+  'address': '0x80deb1483cefd1ffd42b4c6830154ed6b563d035'
+  'name': 'New Jersey Devils'
+  'code': 'NJ'
+  'espnId': '11'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/nj.png'
+  'color': '#e30b2b'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_NEW-YORK-ISLANDERS':
+  'address': '0xf20a1d452c403d6a933c9fbc70c51bf175346bd5'
+  'name': 'New York Islanders'
+  'code': 'NYI'
+  'espnId': '12'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png'
+  'color': '#00529b'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_NEW-YORK-RANGERS':
+  'address': '0x79e63139b8135f7535387ca112e88c64b37b36b7'
+  'name': 'New York Rangers'
+  'code': 'NYR'
+  'espnId': '13'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png'
+  'color': '#0056ae'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_OTTAWA-SENATORS':
+  'address': '0xf9e1a6dae015e6d6994b57e2bb8eb776e7a2ceb6'
+  'name': 'Ottawa Senators'
+  'code': 'OTT'
+  'espnId': '14'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/ott.png'
+  'color': '#dd1a32'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_PHILADELPHIA-FLYERS':
+  'address': '0x10036eb85d1b86a6bd9739bd029d4d53f3614b0b'
+  'name': 'Philadelphia Flyers'
+  'code': 'PHI'
+  'espnId': '15'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/phi.png'
+  'color': '#fe5823'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_PITTSBURGH-PENGUINS':
+  'address': '0xd2dc8a59e8c3d8d7435e5949453ed29361ff1375'
+  'name': 'Pittsburgh Penguins'
+  'code': 'PIT'
+  'espnId': '16'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/pit.png'
+  'color': '#000000'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_SAN-JOSE-SHARKS':
+  'address': '0xef4a8cf8d60e03b9588a6b2854f5989bc904974d'
+  'name': 'San Jose Sharks'
+  'code': 'SJ'
+  'espnId': '18'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/sj.png'
+  'color': '#00788a'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_SEATTLE-KRAKEN':
+  'address': '0x33345deeed66277451f64ef0ccbec577f4f940fd'
+  'name': 'Seattle Kraken'
+  'code': 'SEA'
+  'espnId': '124292'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/sea.png'
+  'color': '#000d33'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_ST-LOUIS-BLUES':
+  'address': '0xd9ff7b290df1adea0ebd82c29106b53034b38efd'
+  'name': 'St. Louis Blues'
+  'code': 'STL'
+  'espnId': '19'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/stl.png'
+  'color': '#0070b9'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_TAMPA-BAY-LIGHTNING':
+  'address': '0xe18aab8e2ebfad030ca676d58f0d6f56a97d102d'
+  'name': 'Tampa Bay Lightning'
+  'code': 'TB'
+  'espnId': '20'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/tb.png'
+  'color': '#003e7e'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_TORONTO-MAPLE-LEAFS':
+  'address': '0x2ec0bed2408b3b1a4d3d7cffc30d897dc56d8fb5'
+  'name': 'Toronto Maple Leafs'
+  'code': 'TOR'
+  'espnId': '21'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/tor.png'
+  'color': '#003e7e'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_UTAH-MAMMOTH':
+  'address': '0x1588d3eb1edda287210a96871adc83985d6c0718'
+  'name': 'Utah Mammoth'
+  'code': 'UTAH'
+  'espnId': '129764'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/utah.png'
+  'color': '#000000'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_VANCOUVER-CANUCKS':
+  'address': '0xb0d1139b289b6a483217f19c7c299ea613378626'
+  'name': 'Vancouver Canucks'
+  'code': 'VAN'
+  'espnId': '22'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/van.png'
+  'color': '#003e7e'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_VEGAS-GOLDEN-KNIGHTS':
+  'address': '0xbe0b6259f7c513b8ee258044dea9ff19a8f7d5d6'
+  'name': 'Vegas Golden Knights'
+  'code': 'VGK'
+  'espnId': '37'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png'
+  'color': '#344043'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_WASHINGTON-CAPITALS':
+  'address': '0x50eb7c6af44a496e6c9c7652e383fb83af4d4379'
+  'name': 'Washington Capitals'
+  'code': 'WSH'
+  'espnId': '23'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png'
+  'color': '#d71830'
+  'whitelisted': !!bool 'false'
+
+'HOCKEY_USA_WINNIPEG-JETS':
+  'address': '0xae2b5fbcd7e17ada8c37242a03d29df9e9d49779'
+  'name': 'Winnipeg Jets'
+  'code': 'WPG'
+  'espnId': '28'
+  'logo': 'https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png'
+  'color': '#002d62'
+  'whitelisted': !!bool 'false'
