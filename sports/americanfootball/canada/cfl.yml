@@ -1,0 +1,29 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '520'
+'challenges': []
+'color': '#ff6600'
+'country': 'Canada'
+'logo': 'https://r2.thesportsdb.com/images/media/league/badge/b42gyq1636467704.png'
+'name': 'CFL'
+'pick5PoolAmount': !!int '0'
+'visible': !!bool 'false'
+'sport': 'americanfootball'
+'code': 'CFL'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'CFL_26'
+    'startDate': !!timestamp '2026-06-05T00:00:00Z'
+    'endDate': !!timestamp '2026-11-22T00:00:00Z'
+    'standingsScraper': 'cfl'
+    'weeksScraper': 'cfl'
+    'teams':
+    - 'AMERICANFOOTBALL_CANADA_BC-LIONS'
+    - 'AMERICANFOOTBALL_CANADA_CALGARY-STAMPEDERS'
+    - 'AMERICANFOOTBALL_CANADA_EDMONTON-ELKS'
+    - 'AMERICANFOOTBALL_CANADA_HAMILTON-TIGER-CATS'
+    - 'AMERICANFOOTBALL_CANADA_MONTREAL-ALOUETTES'
+    - 'AMERICANFOOTBALL_CANADA_OTTAWA-REDBLACKS'
+    - 'AMERICANFOOTBALL_CANADA_SASKATCHEWAN-ROUGHRIDERS'
+    - 'AMERICANFOOTBALL_CANADA_TORONTO-ARGONAUTS'
+    - 'AMERICANFOOTBALL_CANADA_WINNIPEG-BLUE-BOMBERS'
