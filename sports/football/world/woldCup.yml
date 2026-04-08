@@ -14,8 +14,8 @@
     'code': 'FIFA_WORLD_CUP_2026'
     'endDate': !!timestamp '2026-07-19T00:00:00Z'
     'startDate': !!timestamp '2026-06-11T00:00:00Z'
-    'standingsScraper': 'espn'
-    'weeksScraper': 'espn'
+    'standingsScraper': 'fifa-world-cup'
+    'weeksScraper': 'fifa-world-cup'
     'espnId': '2026'
     'teams':
       - 'FOOTBALL_WORLD_ALGERIA'
