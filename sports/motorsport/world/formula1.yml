@@ -31,8 +31,8 @@
   '2026':
     'active': !!bool 'true'
     'code': 'FORMULA1_26'
-    'endDate': !!timestamp '2023-11-26T00:00:00Z'
-    'startDate': !!timestamp '2023-03-03T00:00:00Z'
+    'endDate': !!timestamp '2026-12-06T00:00:00Z'
+    'startDate': !!timestamp '2026-03-16T00:00:00Z'
     'standingsScraper': 'formula1'
     'weeksScraper': 'formula1'
     'goalServeId': 'formula 1'
