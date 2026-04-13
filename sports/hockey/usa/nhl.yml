@@ -1,22 +1,19 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges': []
+'code': 'NHL'
 'color': '#000000'
 'country': 'USA'
 'logo': 'https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png'
 'name': 'NHL'
 'pick5PoolAmount': !!int '0'
-'visible': !!bool 'false'
-'sport': 'hockey'
-'code': 'NHL'
 'seasons':
   '2025-2026':
     'active': !!bool 'true'
     'code': 'NHL_25_26'
-    'startDate': !!timestamp '2025-10-07T00:00:00Z'
     'endDate': !!timestamp '2026-04-17T00:00:00Z'
     'standingsScraper': 'nhl'
-    'weeksScraper': 'nhl'
+    'startDate': !!timestamp '2025-10-07T00:00:00Z'
     'teams':
     - 'HOCKEY_USA_ANAHEIM-DUCKS'
     - 'HOCKEY_USA_BOSTON-BRUINS'
@@ -50,3 +47,7 @@
     - 'HOCKEY_USA_VEGAS-GOLDEN-KNIGHTS'
     - 'HOCKEY_USA_WASHINGTON-CAPITALS'
     - 'HOCKEY_USA_WINNIPEG-JETS'
+    'weeksScraper': 'nhl'
+'sport': 'hockey'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

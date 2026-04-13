@@ -1,25 +1,21 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges': []
+'code': 'NFL'
 'color': '#0014ad'
 'country': 'USA'
+'espnId': 'football/nfl'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/g85fqz1662057187.png'
 'name': 'NFL'
 'pick5PoolAmount': !!int '0'
-'visible': !!bool 'false'
-'espnId': 'football/nfl'
-'sport': 'americanfootball'
-'code': 'NFL'
 'seasons':
   '2025':
     'active': !!bool 'true'
     'code': 'NFL_25'
     'endDate': !!timestamp '2026-01-04T00:00:00Z'
-    'startDate': !!timestamp '2025-09-05T00:00:00Z'
-    'standingsScraper': 'default'
-    'tsdbId': '4391'
     'espnId': '2025'
-    'weeksScraper': 'nfl'
+    'standingsScraper': 'default'
+    'startDate': !!timestamp '2025-09-05T00:00:00Z'
     'teams':
     - 'AMERICANFOOTBALL_USA_ARIZONA'
     - 'AMERICANFOOTBALL_USA_ATLANTA'
@@ -53,5 +49,8 @@
     - 'AMERICANFOOTBALL_USA_TAMPA'
     - 'AMERICANFOOTBALL_USA_TENNESSEE'
     - 'AMERICANFOOTBALL_USA_WASHINGTON'
-
-
+    'tsdbId': '4391'
+    'weeksScraper': 'nfl'
+'sport': 'americanfootball'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

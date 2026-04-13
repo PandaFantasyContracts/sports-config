@@ -1,23 +1,21 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges': []
+'code': 'PAKISTAN_SUPER_LEAGUE_CRICKET'
 'color': '#00990a'
 'country': 'Pakistan'
+'espnId': 'cricket/8679'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/4xo0kt1709121687.png'
 'name': 'Pakistan Super League'
 'pick5PoolAmount': !!int '0'
-'code': 'PAKISTAN_SUPER_LEAGUE_CRICKET'
-'visible': !!bool 'true'
 'seasons':
   '2025':
     'active': !!bool 'true'
     'code': 'PAKISTAN_SUPER_LEAGUE_CRICKET_2025'
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
-    'startDate': !!timestamp '2025-03-22T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '5067'
     'espnId': '2025:1'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2025-03-22T00:00:00Z'
     'teams':
     - 'CRICKET_PAKISTAN_ISLAMABAD-UNITED'
     - 'CRICKET_PAKISTAN_KARACHI-KINGS'
@@ -25,5 +23,8 @@
     - 'CRICKET_PAKISTAN_MULTAN-SULTANS'
     - 'CRICKET_PAKISTAN_PESHWAR-ZALM'
     - 'CRICKET_PAKISTAN_QUETTA-GLADIATORS'
-'espnId': 'cricket/8679'
+    'tsdbId': '5067'
+    'weeksScraper': 'tsdb'
 'sport': 'cricket'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'true'

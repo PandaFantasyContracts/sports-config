@@ -1,23 +1,21 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges': []
+'code': 'PPL'
 'color': '#ffc800'
 'country': 'USA'
+'espnId': 'lacrosse/pll'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
 'name': 'Premier Lacrosse League'
 'pick5PoolAmount': !!int '0'
-'visible': !!bool 'true'
-'code': 'PPL'
 'seasons':
   '2025':
     'active': !!bool 'true'
     'code': 'PPL_25'
     'endDate': !!timestamp '2025-08-09T00:00:00Z'
-    'startDate': !!timestamp '2025-05-30T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '5337'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2025-05-30T00:00:00Z'
     'teams':
     - 'LACROSSE_USA_BOSTON-CANNONS'
     - 'LACROSSE_USA_CALIFORNIA-REDWOODS'
@@ -27,6 +25,8 @@
     - 'LACROSSE_USA_NEW-YORK-ATLAS'
     - 'LACROSSE_USA_PHILADELPHIA-WATERDOGS'
     - 'LACROSSE_USA_UTAH-ARCHERS'
-'espnId': 'lacrosse/pll'
+    'tsdbId': '5337'
+    'weeksScraper': 'tsdb'
 'sport': 'lacrosse'
-
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'true'
