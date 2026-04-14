@@ -4,7 +4,7 @@
 'color': '#00990a'
 'country': 'World'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/jc2g4c1651173316.png'
-'name': 'ICC Mens T20 World Cup'
+'name': "ICC Men's T20 World Cup"
 'pick5PoolAmount': !!int '0'
 'code': 'WORLD_CRICKET_T20'
 'visible': !!bool 'true'
