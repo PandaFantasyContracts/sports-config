@@ -1,20 +1,23 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'code': 'UK_CHAMPIONSHIP'
+'challenges':
 'color': '#eac84d'
 'country': 'England'
-'espnId': 'soccer/eng.2'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/ty5a681688770169.png'
 'name': 'Championship'
 'pick5PoolAmount': !!int '175'
+'visible': !!bool 'true'
+'code': 'UK_CHAMPIONSHIP'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
     'code': 'UK_CHAMPIONSHIP_24_25'
     'endDate': !!timestamp '2025-05-03T00:00:00Z'
-    'espnId': '2024'
-    'standingsScraper': 'espn'
     'startDate': !!timestamp '2024-08-09T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4329'
+    'espnId': '2024'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_BLACKBURN'
     - 'FOOTBALL_ENGLAND_BRISTOL-CITY'
@@ -40,15 +43,15 @@
     - 'FOOTBALL_ENGLAND_SWANSEA'
     - 'FOOTBALL_ENGLAND_WATFORD'
     - 'FOOTBALL_ENGLAND_WEST-BROM'
-    'tsdbId': '4329'
-    'weeksScraper': 'tsdb'
   '2025-2026':
     'active': !!bool 'true'
     'code': 'UK_CHAMPIONSHIP_25_26'
     'endDate': !!timestamp '2026-05-02T00:00:00Z'
-    'espnId': '2025'
-    'standingsScraper': 'espn'
     'startDate': !!timestamp '2025-08-08T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4329'
+    'espnId': '2025'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_ENGLAND_BLACKBURN'
     - 'FOOTBALL_ENGLAND_BRISTOL-CITY'
@@ -74,8 +77,6 @@
     - 'FOOTBALL_ENGLAND_BIRMINGHAM-CITY'
     - 'FOOTBALL_ENGLAND_WREXHAM'
     - 'FOOTBALL_ENGLAND_CHARLTON-ATHLETIC'
-    'tsdbId': '4329'
-    'weeksScraper': 'tsdb'
+'espnId': 'soccer/eng.2'
 'sport': 'football'
-'tournamentType': 'LEAGUE'
-'visible': !!bool 'true'
+

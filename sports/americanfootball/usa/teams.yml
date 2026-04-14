@@ -5,7 +5,6 @@
   'espnId': '34'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wqyryy1421436627.png'
   'name': 'Houston Texans'
-  'tradeType': 'ALL'
   'tsdbId': '134926'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_JACKSONVILLE':
@@ -15,7 +14,6 @@
   'espnId': '30'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png'
   'name': 'Jacksonville Jaguars'
-  'tradeType': 'ALL'
   'tsdbId': '134928'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_TAMPA':
@@ -25,18 +23,7 @@
   'espnId': '27'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png'
   'name': 'Tampa Bay Buccaneers'
-  'tradeType': 'ALL'
   'tsdbId': '134945'
-  'whitelisted': !!bool 'true'
-'AMERICANFOOTBALL_USA_NEWYORK-GIANTS':
-  'address': '0x3a05ad052cd06ca58653e5493a254d31621eac93'
-  'code': 'NYG'
-  'color': '#0B2265'
-  'espnId': '19'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vxppup1423669459.png'
-  'name': 'New York Giants'
-  'tradeType': 'ALL'
-  'tsdbId': '134935'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_DALLAS':
   'address': '0x0658c1fc3d374befafdc7dd027c9532cd5696e2f'
@@ -45,7 +32,6 @@
   'espnId': '6'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wrxssu1450018209.png'
   'name': 'Dallas Cowboys'
-  'tradeType': 'ALL'
   'tsdbId': '134934'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_SEATTLE':
@@ -55,18 +41,7 @@
   'espnId': '26'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wwuqyr1421434817.png'
   'name': 'Seattle Seahawks'
-  'tradeType': 'ALL'
   'tsdbId': '134949'
-  'whitelisted': !!bool 'true'
-'AMERICANFOOTBALL_USA_NEWORLEANS':
-  'address': '0xccc31fe05306238ba80925879f62cdedb8b275ff'
-  'code': 'NO'
-  'color': '#9F8958'
-  'espnId': '18'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png'
-  'name': 'New Orleans Saints'
-  'tradeType': 'ALL'
-  'tsdbId': '134944'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_INDIANAPOLIS':
   'address': '0xb82a8f24e6de04bffc604ef32988b90f858f71a7'
@@ -75,7 +50,6 @@
   'espnId': '11'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png'
   'name': 'Indianapolis Colts'
-  'tradeType': 'ALL'
   'tsdbId': '134927'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_TENNESSEE':
@@ -85,7 +59,6 @@
   'espnId': '10'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/m48yia1515847376.png'
   'name': 'Tennessee Titans'
-  'tradeType': 'ALL'
   'tsdbId': '134929'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_CINCINNATI':
@@ -95,7 +68,6 @@
   'espnId': '4'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png'
   'name': 'Cincinnati Bengals'
-  'tradeType': 'ALL'
   'tsdbId': '134923'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_LOSANGELES-RAMS':
@@ -105,7 +77,6 @@
   'espnId': '14'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/8e8v4i1599764614.png'
   'name': 'Los Angeles Rams'
-  'tradeType': 'ALL'
   'tsdbId': '135907'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_ATLANTA':
@@ -115,7 +86,6 @@
   'espnId': '1'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rrpvpr1420658174.png'
   'name': 'Atlanta Falcons'
-  'tradeType': 'ALL'
   'tsdbId': '134942'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_GREENBAY':
@@ -125,7 +95,6 @@
   'espnId': '9'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png'
   'name': 'Green Bay Packers'
-  'tradeType': 'ALL'
   'tsdbId': '134940'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_NEWYORK':
@@ -135,8 +104,34 @@
   'espnId': '20'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/hz92od1607953467.png'
   'name': 'New York Jets'
-  'tradeType': 'ALL'
   'tsdbId': '134921'
+  'whitelisted': !!bool 'true'
+'AMERICANFOOTBALL_USA_NEWYORK-GIANTS':
+  'address': '0x3a05ad052cd06ca58653e5493a254d31621eac93'
+  'code': 'NYG'
+  'color': '#0B2265'
+  'espnId': '19'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vxppup1423669459.png'
+  'name': 'New York Giants'
+  'tsdbId': '134935'
+  'whitelisted': !!bool 'true'
+'AMERICANFOOTBALL_USA_NEWENGLAND':
+  'address': '0xc33d0a2edde7fcd523727e55f077a2031012033e'
+  'code': 'NE'
+  'color': '#002244'
+  'espnId': '17'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png'
+  'name': 'New England Patriots'
+  'tsdbId': '134920'
+  'whitelisted': !!bool 'true'
+'AMERICANFOOTBALL_USA_NEWORLEANS':
+  'address': '0xccc31fe05306238ba80925879f62cdedb8b275ff'
+  'code': 'NO'
+  'color': '#9F8958'
+  'espnId': '18'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png'
+  'name': 'New Orleans Saints'
+  'tsdbId': '134944'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_BALTIMORE':
   'address': '0x33803bbc2451cd7c3f05a81c233b6e06a7e09e78'
@@ -145,7 +140,6 @@
   'espnId': '33'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png'
   'name': 'Baltimore Ravens'
-  'tradeType': 'ALL'
   'tsdbId': '134922'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_KANSASCITY':
@@ -155,7 +149,6 @@
   'espnId': '12'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/936t161515847222.png'
   'name': 'Kansas City Chiefs'
-  'tradeType': 'ALL'
   'tsdbId': '134931'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_CLEVELAND':
@@ -165,7 +158,6 @@
   'espnId': '5'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/squvxy1420942389.png'
   'name': 'Cleveland Browns'
-  'tradeType': 'ALL'
   'tsdbId': '134924'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_ARIZONA':
@@ -175,18 +167,7 @@
   'espnId': '22'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png'
   'name': 'Arizona Cardinals'
-  'tradeType': 'ALL'
   'tsdbId': '134946'
-  'whitelisted': !!bool 'true'
-'AMERICANFOOTBALL_USA_NEWENGLAND':
-  'address': '0xc33d0a2edde7fcd523727e55f077a2031012033e'
-  'code': 'NE'
-  'color': '#002244'
-  'espnId': '17'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png'
-  'name': 'New England Patriots'
-  'tradeType': 'ALL'
-  'tsdbId': '134920'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_CAROLINA':
   'address': '0x9c3fade1f4c0f2d9d655a651cb82b3ffe59fa1be'
@@ -195,7 +176,6 @@
   'espnId': '29'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png'
   'name': 'Carolina Panthers'
-  'tradeType': 'ALL'
   'tsdbId': '134943'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_BUFFALO':
@@ -205,7 +185,6 @@
   'espnId': '2'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6pb37b1515849026.png'
   'name': 'Buffalo Bills'
-  'tradeType': 'ALL'
   'tsdbId': '134918'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_DETROIT':
@@ -215,7 +194,6 @@
   'espnId': '8'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png'
   'name': 'Detroit Lions'
-  'tradeType': 'ALL'
   'tsdbId': '134939'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_WASHINGTON':
@@ -225,7 +203,6 @@
   'espnId': '28'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png'
   'name': 'Washington Commanders'
-  'tradeType': 'ALL'
   'tsdbId': '134937'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_LOSANGELES-CHARGERS':
@@ -235,7 +212,6 @@
   'espnId': '24'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/vrqanp1687734910.png'
   'name': 'Los Angeles Chargers'
-  'tradeType': 'ALL'
   'tsdbId': '135908'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_MIAMI':
@@ -245,8 +221,16 @@
   'espnId': '15'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/trtusv1421435081.png'
   'name': 'Miami Dolphins'
-  'tradeType': 'ALL'
   'tsdbId': '134919'
+  'whitelisted': !!bool 'true'
+'AMERICANFOOTBALL_USA_MINNESOTA':
+  'address': '0x5cc1dea08e13c99cb5840d0d57fb7878d7e84cd8'
+  'code': 'MIN'
+  'color': '#4F2683'
+  'espnId': '16'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png'
+  'name': 'Minnesota Vikings'
+  'tsdbId': '134941'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_DENVER':
   'address': '0xb9888d9ceb1a0e50a7cdb0ab2f43f1f273ba6773'
@@ -255,7 +239,6 @@
   'espnId': '7'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png'
   'name': 'Denver Broncos'
-  'tradeType': 'ALL'
   'tsdbId': '134930'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_PHILADELPHIA':
@@ -265,18 +248,7 @@
   'espnId': '21'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png'
   'name': 'Philadelphia Eagles'
-  'tradeType': 'ALL'
   'tsdbId': '134936'
-  'whitelisted': !!bool 'true'
-'AMERICANFOOTBALL_USA_MINNESOTA':
-  'address': '0x5cc1dea08e13c99cb5840d0d57fb7878d7e84cd8'
-  'code': 'MIN'
-  'color': '#4F2683'
-  'espnId': '16'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png'
-  'name': 'Minnesota Vikings'
-  'tradeType': 'ALL'
-  'tsdbId': '134941'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_SANFRANCISCO':
   'address': '0xf458bd546a4f5fb5163257cb52410e41cb9ed553'
@@ -285,7 +257,6 @@
   'espnId': '25'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png'
   'name': 'San Francisco 49ers'
-  'tradeType': 'ALL'
   'tsdbId': '134948'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_LASVEGAS':
@@ -295,7 +266,6 @@
   'espnId': '13'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png'
   'name': 'Las Vegas Raiders'
-  'tradeType': 'ALL'
   'tsdbId': '134932'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_PITTSBURGH':
@@ -305,7 +275,6 @@
   'espnId': '23'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png'
   'name': 'Pittsburgh Steelers'
-  'tradeType': 'ALL'
   'tsdbId': '134925'
   'whitelisted': !!bool 'true'
 'AMERICANFOOTBALL_USA_CHICAGO':
@@ -315,6 +284,5 @@
   'espnId': '3'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png'
   'name': 'Chicago Bears'
-  'tradeType': 'ALL'
   'tsdbId': '134938'
   'whitelisted': !!bool 'true'

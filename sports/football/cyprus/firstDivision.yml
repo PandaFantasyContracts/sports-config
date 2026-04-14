@@ -1,19 +1,22 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'code': 'Cyprus_1_Div'
+'challenges':
 'color': '#ff8800'
 'country': 'Cyprus'
-'espnId': 'soccer/cyp.1'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/6tc1te1727711684.png'
 'name': '1. Division'
 'pick5PoolAmount': !!int '100'
+'visible': !!bool 'true'
+'code': 'Cyprus_1_Div'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
     'code': 'Cyprus_1_Div_24_25'
     'endDate': !!timestamp '2025-03-01T00:00:00Z'
-    'standingsScraper': 'tsdb'
     'startDate': !!timestamp '2024-08-23T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4630'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_CYPRUS_PAFOS'
     - 'FOOTBALL_CYPRUS_ARIS'
@@ -29,15 +32,15 @@
     - 'FOOTBALL_CYPRUS_ENOSIS'
     - 'FOOTBALL_CYPRUS_SALAMIS'
     - 'FOOTBALL_CYPRUS_OMONIA-29'
-    'tsdbId': '4630'
-    'weeksScraper': 'tsdb'
   '2025-2026':
     'active': !!bool 'true'
     'code': 'Cyprus_1_Div_25_26'
     'endDate': !!timestamp '2026-03-14T00:00:00Z'
-    'espnId': '2025:1'
-    'standingsScraper': 'espn'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4630'
+    'espnId': '2025:1'
+    'weeksScraper': 'tsdb'
     'teams':
     - 'FOOTBALL_CYPRUS_AEK'
     - 'FOOTBALL_CYPRUS_AEL'
@@ -53,8 +56,6 @@
     - 'FOOTBALL_CYPRUS_OMONIA-ARADIPPOU'
     - 'FOOTBALL_CYPRUS_OMONIA'
     - 'FOOTBALL_CYPRUS_PAFOS'
-    'tsdbId': '4630'
-    'weeksScraper': 'tsdb'
+'espnId': 'soccer/cyp.1'
 'sport': 'football'
-'tournamentType': 'LEAGUE'
-'visible': !!bool 'true'
+
