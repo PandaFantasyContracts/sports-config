@@ -1,23 +1,19 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges': []
+'code': 'CFL'
 'color': '#ff6600'
 'country': 'Canada'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/ffypv51488739128.png'
 'name': 'CFL'
 'pick5PoolAmount': !!int '0'
-'visible': !!bool 'false'
-'sport': 'americanfootball'
-'code': 'CFL'
 'seasons':
   '2025':
     'active': !!bool 'true'
     'code': 'CFL_25'
-    'startDate': !!timestamp '2025-06-05T00:00:00Z'
     'endDate': !!timestamp '2025-11-22T00:00:00Z'
     'standingsScraper': 'cfl'
-    'weeksScraper': 'tsdb'
-    'tsdbId': '4405'
+    'startDate': !!timestamp '2025-06-05T00:00:00Z'
     'teams':
     - 'AMERICANFOOTBALL_CANADA_BC-LIONS'
     - 'AMERICANFOOTBALL_CANADA_CALGARY-STAMPEDERS'
@@ -28,14 +24,14 @@
     - 'AMERICANFOOTBALL_CANADA_SASKATCHEWAN-ROUGHRIDERS'
     - 'AMERICANFOOTBALL_CANADA_TORONTO-ARGONAUTS'
     - 'AMERICANFOOTBALL_CANADA_WINNIPEG-BLUE-BOMBERS'
+    'tsdbId': '4405'
+    'weeksScraper': 'tsdb'
   '2026':
     'active': !!bool 'false'
     'code': 'CFL_26'
-    'startDate': !!timestamp '2026-06-05T00:00:00Z'
     'endDate': !!timestamp '2026-11-22T00:00:00Z'
     'standingsScraper': 'cfl'
-    'weeksScraper': 'tsdb'
-    'tsdbId': '4405'
+    'startDate': !!timestamp '2026-06-05T00:00:00Z'
     'teams':
     - 'AMERICANFOOTBALL_CANADA_BC-LIONS'
     - 'AMERICANFOOTBALL_CANADA_CALGARY-STAMPEDERS'
@@ -46,3 +42,8 @@
     - 'AMERICANFOOTBALL_CANADA_SASKATCHEWAN-ROUGHRIDERS'
     - 'AMERICANFOOTBALL_CANADA_TORONTO-ARGONAUTS'
     - 'AMERICANFOOTBALL_CANADA_WINNIPEG-BLUE-BOMBERS'
+    'tsdbId': '4405'
+    'weeksScraper': 'tsdb'
+'sport': 'americanfootball'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

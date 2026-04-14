@@ -1,23 +1,20 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'challenges':
+'code': 'UK_PL'
 'color': '#4d2574'
 'country': 'England'
+'espnId': 'soccer/eng.1'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png'
 'name': 'Premier League'
 'pick5PoolAmount': !!int '300'
-'code': 'UK_PL'
-'visible': !!bool 'true'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
     'code': 'UK_PL_24_25'
     'endDate': !!timestamp '2025-05-25T00:00:00Z'
-    'startDate': !!timestamp '2024-08-16T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4328'
     'espnId': '2024'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2024-08-16T00:00:00Z'
     'teams':
     - 'FOOTBALL_ENGLAND_LIVERPOOL'
     - 'FOOTBALL_ENGLAND_ARSENAL'
@@ -39,15 +36,15 @@
     - 'FOOTBALL_ENGLAND_IPSWICH'
     - 'FOOTBALL_ENGLAND_LEICESTER'
     - 'FOOTBALL_ENGLAND_SOUTHAMPTON'
+    'tsdbId': '4328'
+    'weeksScraper': 'tsdb'
   '2025-2026':
     'active': !!bool 'true'
     'code': 'UK_PL_25_26'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
-    'startDate': !!timestamp '2025-08-15T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4328'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2025-08-15T00:00:00Z'
     'teams':
     - 'FOOTBALL_ENGLAND_ARSENAL'
     - 'FOOTBALL_ENGLAND_ASTON-VILLA'
@@ -69,6 +66,8 @@
     - 'FOOTBALL_ENGLAND_TOTTENHAM'
     - 'FOOTBALL_ENGLAND_WEST-HAM'
     - 'FOOTBALL_ENGLAND_WOLVES'
-'espnId': 'soccer/eng.1'
+    'tsdbId': '4328'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'true'

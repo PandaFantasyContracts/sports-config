@@ -6,6 +6,7 @@
   'goalServeId': '6224'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/6qw4r71654174508.png'
   'name': 'Gujarat Titans'
+  'tradeType': 'ALL'
   'tsdbId': '145834'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_SUNRISERS-HYDERABAD':
@@ -16,6 +17,7 @@
   'goalServeId': '3058'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/sc7m161487419327.png'
   'name': 'Sunrisers Hyderabad'
+  'tradeType': 'ALL'
   'tsdbId': '135797'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_LUCKNOW-SUPER-GIANTS':
@@ -26,6 +28,7 @@
   'goalServeId': '6225'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/4tzmfa1647445839.png'
   'name': 'Lucknow Super Giants'
+  'tradeType': 'ALL'
   'tsdbId': '145835'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_KINGS-XI-PUNJAB':
@@ -36,6 +39,7 @@
   'goalServeId': '2543'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/r1tcie1630697821.png'
   'name': 'Kings XI Punjab'
+  'tradeType': 'ALL'
   'tsdbId': '135793'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_RAJASTHAN-ROYALS':
@@ -46,6 +50,7 @@
   'goalServeId': '2542'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lehnfw1487601864.png'
   'name': 'Rajasthan Royals'
+  'tradeType': 'ALL'
   'tsdbId': '135801'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_MUMBAI-INDIANS':
@@ -56,6 +61,7 @@
   'goalServeId': '2412'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/l40j8p1487678631.png'
   'name': 'Mumbai Indians'
+  'tradeType': 'ALL'
   'tsdbId': '135795'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_ROYAL-CHALLENGERS-BANGALORE':
@@ -66,17 +72,8 @@
   'goalServeId': '2418'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/kynj5v1588331757.png'
   'name': 'Royal Challengers Bangalore'
+  'tradeType': 'ALL'
   'tsdbId': '135796'
-  'whitelisted': !!bool 'true'
-'CRICKET_INDIA_DELHI-CAPITALS':
-  'address': '0x6e5841055439d3aaf9f8d0f29c9f81e8072e8bfe'
-  'code': 'DC'
-  'color': '2561AE'
-  'espnId': '335975'
-  'goalServeId': '5879'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/dg4g0z1587334054.png'
-  'name': 'Delhi Capitals'
-  'tsdbId': '135792'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_CHENNAI-SUPER-KINGS':
   'address': '0xa43f253d3996b7231b821856b379f39734d7fb0a'
@@ -86,7 +83,19 @@
   'goalServeId': '2415'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/okceh51487601098.png'
   'name': 'Chennai Super Kings'
+  'tradeType': 'ALL'
   'tsdbId': '135800'
+  'whitelisted': !!bool 'true'
+'CRICKET_INDIA_DELHI-CAPITALS':
+  'address': '0x6e5841055439d3aaf9f8d0f29c9f81e8072e8bfe'
+  'code': 'DC'
+  'color': '2561AE'
+  'espnId': '335975'
+  'goalServeId': '5879'
+  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/dg4g0z1587334054.png'
+  'name': 'Delhi Capitals'
+  'tradeType': 'ALL'
+  'tsdbId': '135792'
   'whitelisted': !!bool 'true'
 'CRICKET_INDIA_KOLKATA-KNIGHT-RIDERS':
   'address': '0x36d100f51781731300a8ecae6c7125dcba25ab2b'
@@ -96,5 +105,6 @@
   'goalServeId': '2541'
   'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ows99r1487678296.png'
   'name': 'Kolkata Knight Riders'
+  'tradeType': 'ALL'
   'tsdbId': '135794'
   'whitelisted': !!bool 'true'

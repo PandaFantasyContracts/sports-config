@@ -1,24 +1,22 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
 'challenges': []
+'code': 'IPL'
 'color': '#1800d1'
 'country': 'India'
+'espnId': 'cricket/8048'
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/gaiti11741709844.png'
 'name': 'Indian Premier League'
 'pick5PoolAmount': !!int '0'
-'code': 'IPL'
-'visible': !!bool 'true'
 'seasons':
   '2025':
     'active': !!bool 'true'
     'code': 'IPL_25'
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
-    'startDate': !!timestamp '2025-03-22T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4460'
     'espnId': '2025'
     'goalServeId': '1015'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2025-03-22T00:00:00Z'
     'teams':
     - 'CRICKET_INDIA_DELHI-CAPITALS'
     - 'CRICKET_INDIA_GUJARAT-TITANS'
@@ -30,5 +28,8 @@
     - 'CRICKET_INDIA_MUMBAI-INDIANS'
     - 'CRICKET_INDIA_CHENNAI-SUPER-KINGS'
     - 'CRICKET_INDIA_SUNRISERS-HYDERABAD'
-'espnId': 'cricket/8048'
+    'tsdbId': '4460'
+    'weeksScraper': 'tsdb'
 'sport': 'cricket'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'true'
