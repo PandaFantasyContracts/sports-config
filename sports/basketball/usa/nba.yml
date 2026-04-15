@@ -48,3 +48,17 @@
       - 'BASKETBALL_USA_TORONTO-RAPTORS'
       - 'BASKETBALL_USA_UTAH-JAZZ'
       - 'BASKETBALL_USA_WASHINGTON-WIZARDS'
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'DEFAULT'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'TOTAL_POINTS'
+        - 'HOME_TEAM_TOTAL'
+        - 'AWAY_TEAM_TOTAL'
+        - 'FIRST_HALF_TOTAL'
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

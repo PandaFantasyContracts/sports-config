@@ -48,3 +48,17 @@
       - 'BASEBALL_USA_TEXAS-RANGERS'
       - 'BASEBALL_USA_TORONTO-BLUE-JAYS'
       - 'BASEBALL_USA_WASHINGTON-NATIONALS'
+
+'challengeProfile':
+  'poolAmountDistributor': 'HALVING'
+  'participateValidator': 'DEFAULT'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'TOTAL_POINTS'
+        - 'HOME_TEAM_TOTAL'
+        - 'AWAY_TEAM_TOTAL'
+        - 'FIRST_HALF_TOTAL'
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

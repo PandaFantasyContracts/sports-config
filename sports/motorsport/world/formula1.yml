@@ -50,3 +50,13 @@
       - 'MOTORSPORT_WORLD_CADILLAC'
 'sport': 'motorsport'
 
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'POSITION'
+      'selectedMarketValidator': 'RACE'

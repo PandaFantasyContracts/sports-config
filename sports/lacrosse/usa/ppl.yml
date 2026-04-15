@@ -30,3 +30,13 @@
 'espnId': 'lacrosse/pll'
 'sport': 'lacrosse'
 
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

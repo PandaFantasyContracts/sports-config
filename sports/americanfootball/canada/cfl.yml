@@ -46,3 +46,13 @@
     - 'AMERICANFOOTBALL_CANADA_SASKATCHEWAN-ROUGHRIDERS'
     - 'AMERICANFOOTBALL_CANADA_TORONTO-ARGONAUTS'
     - 'AMERICANFOOTBALL_CANADA_WINNIPEG-BLUE-BOMBERS'
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
