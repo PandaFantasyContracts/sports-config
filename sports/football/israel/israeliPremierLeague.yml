@@ -15,7 +15,7 @@
     'startDate': !!timestamp '2025-08-24T00:00:00Z'
     'footyId': 'israel/israeli-premier-league'
     'soccer365Id': '761'
-    'standingsScraper': 'soccer365'
+    'standingsScraper': 'default'
     'tsdbId': '4644'
     'weeksScraper': 'tsdb'
     'teams':
