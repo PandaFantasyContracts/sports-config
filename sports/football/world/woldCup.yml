@@ -75,14 +75,26 @@
   'participateValidator': 'TOURNAMENT'
   'phases':
     - 'name': 'GROUP'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Group Stage'
       'markets':
         - 'GROUP_POSITION'
       'selectedMarketValidator': 'TOURNAMENT'
     - 'name': 'KNOCKOUT'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Round of 32'
+        - 'Round of 16'
+        - 'Quarterfinals'
+        - 'Semifinals'
       'markets':
         - 'KNOCKOUT_WINNER'
       'selectedMarketValidator': 'TOURNAMENT'
     - 'name': 'FINAL'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Final'
       'markets':
         - 'FINALE_WINNER'
         - 'FINALE_SCORE'
