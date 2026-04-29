@@ -7,7 +7,7 @@
 'name': 'Premier League'
 'pick5PoolAmount': !!int '300'
 'code': 'UK_PL'
-'visible': !!bool 'true'
+'visible': !!bool 'false'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'

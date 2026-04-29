@@ -6,7 +6,7 @@
   'espnId': '150'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/150.png'
   'name': 'Duke Blue Devils'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_ARIZONA':
   'address': '0xd41f4d70f7c163d51943c60643d6ab7f4cdc9627'
@@ -15,7 +15,7 @@
   'espnId': '12'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/12.png'
   'name': 'Arizona Wildcats'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_MICHIGAN':
   'address': '0x237631155e10116fc5bd149ef0be8535e4c3a737'
@@ -24,7 +24,7 @@
   'espnId': '130'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/130.png'
   'name': 'Michigan Wolverines'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_FLORIDA':
   'address': '0xd0caf75a88bb4103784f8cbb38cefb0d17f85a76'
@@ -33,7 +33,7 @@
   'espnId': '57'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/57.png'
   'name': 'Florida Gators'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 2-SEEDS ===
 'BASKETBALL_USA_UCONN':
@@ -43,7 +43,7 @@
   'espnId': '41'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/41.png'
   'name': 'Connecticut Huskies'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_HOUSTON':
   'address': '0x6b07ab8a36db178804fb4714683a64cac61e46d1'
@@ -52,7 +52,7 @@
   'espnId': '248'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/248.png'
   'name': 'Houston Cougars'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_PURDUE':
   'address': '0x6208defc1c7d54cc16554c17f4bdc49d879038d0'
@@ -61,7 +61,7 @@
   'espnId': '2509'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png'
   'name': 'Purdue Boilermakers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_IOWA-STATE':
   'address': '0xebcd5d5070d2999de2a3f4da5089b033579d7680'
@@ -70,7 +70,7 @@
   'espnId': '66'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/66.png'
   'name': 'Iowa State Cyclones'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 3-SEEDS ===
 'BASKETBALL_USA_MICHIGAN-STATE':
@@ -80,7 +80,7 @@
   'espnId': '127'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/127.png'
   'name': 'Michigan State Spartans'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_ILLINOIS':
   'address': '0x3e45145ef3b012618be8d692795b51688675a3a7'
@@ -89,7 +89,7 @@
   'espnId': '356'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/356.png'
   'name': 'Illinois Fighting Illini'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_GONZAGA':
   'address': '0x3e430ab32585b3996ca2e95ed044fab28c458432'
@@ -98,7 +98,7 @@
   'espnId': '2250'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png'
   'name': 'Gonzaga Bulldogs'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_VIRGINIA':
   'address': '0x14d5a5269b1b09bdbaadb29d39d6bf06907c2d63'
@@ -107,7 +107,7 @@
   'espnId': '258'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/258.png'
   'name': 'Virginia Cavaliers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 4-SEEDS ===
 'BASKETBALL_USA_KANSAS':
@@ -117,7 +117,7 @@
   'espnId': '2305'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png'
   'name': 'Kansas Jayhawks'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_NEBRASKA':
   'address': '0x38fabe22a7178c9afdf93805e4374c26ae4c53e1'
@@ -126,7 +126,7 @@
   'espnId': '158'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/158.png'
   'name': 'Nebraska Cornhuskers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_ARKANSAS':
   'address': '0xddf05f2c8621a9fff4b9af38e55ad0a2dd8fd2bc'
@@ -135,7 +135,7 @@
   'espnId': '8'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/8.png'
   'name': 'Arkansas Razorbacks'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_ALABAMA':
   'address': '0xaf752726eb103fe04702b5eb19059eafea66232a'
@@ -144,7 +144,7 @@
   'espnId': '333'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/333.png'
   'name': 'Alabama Crimson Tide'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 5-SEEDS ===
 'BASKETBALL_USA_ST-JOHNS':
@@ -154,7 +154,7 @@
   'espnId': '2599'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png'
   'name': "St. John's Red Storm"
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_VANDERBILT':
   'address': '0xdd671c66c2477f06dd289684de9f11129ef39476'
@@ -163,7 +163,7 @@
   'espnId': '238'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/238.png'
   'name': 'Vanderbilt Commodores'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_WISCONSIN':
   'address': '0x3f10b8e676028dc3500732a9320d570dd9327025'
@@ -172,7 +172,7 @@
   'espnId': '275'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/275.png'
   'name': 'Wisconsin Badgers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_TEXAS-TECH':
   'address': '0x2531da428fad6afb3104478004a229456a11b10b'
@@ -181,7 +181,7 @@
   'espnId': '2641'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png'
   'name': 'Texas Tech Red Raiders'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 6-SEEDS ===
 'BASKETBALL_USA_LOUISVILLE':
@@ -191,7 +191,7 @@
   'espnId': '97'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/97.png'
   'name': 'Louisville Cardinals'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_NORTH-CAROLINA':
   'address': '0x8a1336b3c9ec98ade78bc812d92c6d569e166a65'
@@ -200,7 +200,7 @@
   'espnId': '153'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/153.png'
   'name': 'North Carolina Tar Heels'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_BYU':
   'address': '0x5653b333a52462345b919185344631465f60d440'
@@ -209,7 +209,7 @@
   'espnId': '252'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/252.png'
   'name': 'BYU Cougars'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_TENNESSEE':
   'address': '0x36c9f11b048da6b3b286c6fab41d7adff5cf9ed1'
@@ -218,7 +218,7 @@
   'espnId': '2633'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png'
   'name': 'Tennessee Volunteers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 7-SEEDS ===
 'BASKETBALL_USA_UCLA':
@@ -228,7 +228,7 @@
   'espnId': '26'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/26.png'
   'name': 'UCLA Bruins'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_SAINT-MARYS':
   'address': '0xd253f69eaf8bfc065c31fff17652242d055ee322'
@@ -237,7 +237,7 @@
   'espnId': '2608'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png'
   'name': "Saint Mary's Gaels"
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_MIAMI':
   'address': '0x5e4b9c7e1709b36ff7fdaaef74758b864d1fec58'
@@ -246,7 +246,7 @@
   'espnId': '2390'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png'
   'name': 'Miami Hurricanes'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_KENTUCKY':
   'address': '0xd237d0d01b37731a1aabb15e85ca9bb08e037de6'
@@ -255,7 +255,7 @@
   'espnId': '96'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/96.png'
   'name': 'Kentucky Wildcats'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 8-SEEDS ===
 'BASKETBALL_USA_OHIO-STATE':
@@ -265,7 +265,7 @@
   'espnId': '194'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/194.png'
   'name': 'Ohio State Buckeyes'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_CLEMSON':
   'address': '0xf56163aa230d02b5892fdfde6873ab3ca1c17e50'
@@ -274,7 +274,7 @@
   'espnId': '228'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/228.png'
   'name': 'Clemson Tigers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_VILLANOVA':
   'address': '0xc88302ea798ab149a77bcb9acccaf92083a1c3da'
@@ -283,7 +283,7 @@
   'espnId': '222'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/222.png'
   'name': 'Villanova Wildcats'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_GEORGIA':
   'address': '0xe67d3f6e565c495510fe2e141dc1f8061edbf5ea'
@@ -292,7 +292,7 @@
   'espnId': '61'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/61.png'
   'name': 'Georgia Bulldogs'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 9-SEEDS ===
 'BASKETBALL_USA_TCU':
@@ -302,7 +302,7 @@
   'espnId': '2628'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png'
   'name': 'TCU Horned Frogs'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_IOWA':
   'address': '0xf9406921f5cb6a1275dcfc038608d984494d068e'
@@ -311,7 +311,7 @@
   'espnId': '2294'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png'
   'name': 'Iowa Hawkeyes'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_UTAH-STATE':
   'address': '0x8f8efad1af642ebe426ebfc8f11cb41f2fbaa859'
@@ -320,7 +320,7 @@
   'espnId': '328'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/328.png'
   'name': 'Utah State Aggies'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_ST-LOUIS':
   'address': '0x92f9cc36ca25796bd976c0df4b527af85901da9e'
@@ -329,7 +329,7 @@
   'espnId': '139'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/139.png'
   'name': 'Saint Louis Billikens'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 10-SEEDS ===
 'BASKETBALL_USA_UCF':
@@ -339,7 +339,7 @@
   'espnId': '2116'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png'
   'name': 'UCF Knights'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_TEXAS-AM':
   'address': '0x87958b6d1d10a9a6288bfda2b36e5f015f08895c'
@@ -348,7 +348,7 @@
   'espnId': '245'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/245.png'
   'name': 'Texas A&M Aggies'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_MISSOURI':
   'address': '0x79d7dc5edc8c84155c55ef1bf64f7fc856f494e9'
@@ -357,7 +357,7 @@
   'espnId': '142'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/142.png'
   'name': 'Missouri Tigers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_SANTA-CLARA':
   'address': '0xed83b45c0296e6b98d46dd95459a2da32cd152b8'
@@ -366,7 +366,7 @@
   'espnId': '2541'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png'
   'name': 'Santa Clara Broncos'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 11-SEEDS ===
 'BASKETBALL_USA_SOUTH-FLORIDA':
@@ -376,7 +376,7 @@
   'espnId': '58'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/58.png'
   'name': 'South Florida Bulls'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_VCU':
   'address': '0x971b99e94b2588acc371ec275bd226afc4b48a76'
@@ -385,7 +385,7 @@
   'espnId': '2670'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png'
   'name': 'VCU Rams'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_TEXAS':
   'address': '0x4a6d54c2ec4c70de4a9699515f5516d921680bc7'
@@ -394,7 +394,7 @@
   'espnId': '251'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/251.png'
   'name': 'Texas Longhorns'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_NC-STATE':
   'address': '0xe5ee7ed69e811ce9813a34b1d5124d65acb4076c'
@@ -403,7 +403,7 @@
   'espnId': '152'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/152.png'
   'name': 'NC State Wolfpack'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_MIAMI-OH':
   'address': '0x3c62e6275e338c4b974a581812da2e790379c7ac'
@@ -412,7 +412,7 @@
   'espnId': '193'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/193.png'
   'name': 'Miami (OH) RedHawks'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_SMU':
   'address': '0xfaa33955cca46335f1b1b066ef6c4b805a4ae254'
@@ -421,7 +421,7 @@
   'espnId': '2567'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png'
   'name': 'SMU Mustangs'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 12-SEEDS ===
 'BASKETBALL_USA_NORTHERN-IOWA':
@@ -431,7 +431,7 @@
   'espnId': '2460'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png'
   'name': 'Northern Iowa Panthers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_MCNEESE':
   'address': '0x3802bebc0e2aa60671b78390b2629832c02d0cc0'
@@ -440,7 +440,7 @@
   'espnId': '2377'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png'
   'name': 'McNeese Cowboys'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_HIGH-POINT':
   'address': '0xc73cfeea0db0f888c7b66c55868b0097cb05dffb'
@@ -449,7 +449,7 @@
   'espnId': '2272'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2272.png'
   'name': 'High Point Panthers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_AKRON':
   'address': '0x9111cacbdce3ad3a9d24a29f23eeb0d241fc6c6e'
@@ -458,7 +458,7 @@
   'espnId': '2006'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png'
   'name': 'Akron Zips'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 13-SEEDS ===
 'BASKETBALL_USA_CAL-BAPTIST':
@@ -468,7 +468,7 @@
   'espnId': '2856'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2856.png'
   'name': 'Cal Baptist Lancers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_TROY':
   'address': '0x09436780b6c392b7f7e6c113835fdaa66fb70e02'
@@ -477,7 +477,7 @@
   'espnId': '2653'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png'
   'name': 'Troy Trojans'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_HAWAII':
   'address': '0xe5fc953a9edeafddc98b53bfc6d628ab90e1c65e'
@@ -486,7 +486,7 @@
   'espnId': '62'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/62.png'
   'name': "Hawai'i Rainbow Warriors"
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_HOFSTRA':
   'address': '0x72279bc244fcddb857d7b3af3ec40df4af4442c6'
@@ -495,7 +495,7 @@
   'espnId': '2275'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png'
   'name': 'Hofstra Pride'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 14-SEEDS ===
 'BASKETBALL_USA_NORTH-DAKOTA-STATE':
@@ -505,7 +505,7 @@
   'espnId': '2449'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png'
   'name': 'North Dakota State Bison'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_PENN':
   'address': '0x7cb430c6fa23be4d63c4ffc28612cca851767cec'
@@ -514,7 +514,7 @@
   'espnId': '219'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/219.png'
   'name': 'Penn Quakers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_KENNESAW-STATE':
   'address': '0x9bc1f894517ef74aa4d739df4eccfe1ae7c3ffa9'
@@ -523,7 +523,7 @@
   'espnId': '338'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/338.png'
   'name': 'Kennesaw State Owls'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_WRIGHT-STATE':
   'address': '0x3f02396041ac0251561dbde3199f80ff5f70ca2b'
@@ -532,7 +532,7 @@
   'espnId': '2750'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2750.png'
   'name': 'Wright State Raiders'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 15-SEEDS ===
 'BASKETBALL_USA_FURMAN':
@@ -542,7 +542,7 @@
   'espnId': '231'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/231.png'
   'name': 'Furman Paladins'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_IDAHO':
   'address': '0xfcaa14548600bdc070eacfce25ee33f31d451074'
@@ -551,7 +551,7 @@
   'espnId': '70'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/70.png'
   'name': 'Idaho Vandals'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_QUEENS':
   'address': '0x077ebcfaae7217ba42ff694481771caff3ac3d1e'
@@ -560,7 +560,7 @@
   'espnId': '2511'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2511.png'
   'name': 'Queens Royals'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_TENNESSEE-STATE':
   'address': '0x5988cb143c912d6127afb23aabe20324086c05e2'
@@ -569,7 +569,7 @@
   'espnId': '2634'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png'
   'name': 'Tennessee State Tigers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 # === 16-SEEDS ===
 'BASKETBALL_USA_UMBC':
@@ -579,7 +579,7 @@
   'espnId': '2378'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2378.png'
   'name': 'UMBC Retrievers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_HOWARD':
   'address': '0x68f35914ae62304c7aacac9ac9c02cfd73d40125'
@@ -588,7 +588,7 @@
   'espnId': '47'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/47.png'
   'name': 'Howard Bison'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_PRAIRIE-VIEW':
   'address': '0x9d540e07ec2304c84847e2f66b5339a7e930edab'
@@ -597,7 +597,7 @@
   'espnId': '2504'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png'
   'name': 'Prairie View A&M Panthers'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_LEHIGH':
   'address': '0x3b08eaceda291a5a8186553ad51610fd6b1c800b'
@@ -606,7 +606,7 @@
   'espnId': '2329'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2329.png'
   'name': 'Lehigh Mountain Hawks'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_LIU':
   'address': '0x1066beae923b0f4e80c67cc1fcd89551f34788b8'
@@ -615,7 +615,7 @@
   'espnId': '112358'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png'
   'name': 'LIU Sharks'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
 'BASKETBALL_USA_SIENA':
   'address': '0x8e47a4d109f663420676108f8eba4a04cfc5d351'
@@ -624,7 +624,7 @@
   'espnId': '2561'
   'logo': 'https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png'
   'name': 'Siena Saints'
-  'tradeType': 'USDC'
+  'tradeType': 'ALL'
   'whitelisted': !!bool 'false'
   # === NBA TEAMS ===
 'BASKETBALL_USA_ATLANTA-HAWKS':
