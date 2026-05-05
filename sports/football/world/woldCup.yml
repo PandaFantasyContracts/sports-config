@@ -7,7 +7,7 @@
 'name': 'FIFA World Cup'
 'pick5PoolAmount': !!int '250'
 'code': 'FIFA_WORLD_CUP'
-'visible': !!bool 'false'
+'visible': !!bool 'true'
 'seasons':
   '2026':
     'active': !!bool 'true'
