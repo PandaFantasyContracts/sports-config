@@ -6,7 +6,7 @@
 'logo': 'https://r2.thesportsdb.com/images/media/league/badge/t66wbl1660749781.png'
 'name': 'Premier Lacrosse League'
 'pick5PoolAmount': !!int '0'
-'visible': !!bool 'true'
+'visible': !!bool 'false'
 'code': 'PPL'
 'seasons':
   '2025':
