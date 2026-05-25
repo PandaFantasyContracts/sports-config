@@ -27,3 +27,13 @@
     - 'CRICKET_PAKISTAN_QUETTA-GLADIATORS'
 'espnId': 'cricket/8679'
 'sport': 'cricket'
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

@@ -50,3 +50,13 @@
     - 'HOCKEY_USA_VEGAS-GOLDEN-KNIGHTS'
     - 'HOCKEY_USA_WASHINGTON-CAPITALS'
     - 'HOCKEY_USA_WINNIPEG-JETS'
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'DEFAULT'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

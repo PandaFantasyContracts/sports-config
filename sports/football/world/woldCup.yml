@@ -68,3 +68,36 @@
       - 'FOOTBALL_WORLD_UZBEKISTAN'
 'espnId': 'soccer/fifa.world'
 'sport': 'football'
+'tournamentType': 'TOURNAMENT'
+'challengeProfile':
+  'hasFinalPrize': !!bool 'true'
+  'poolAmountDistributor': 'HALVING'
+  'participateValidator': 'SOCIAL_FOLLOWER'
+  'phases':
+    - 'name': 'GROUP'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Group Stage'
+      'markets':
+        - 'GROUP_POSITION'
+      'selectedMarketValidator': 'TOURNAMENT'
+    - 'name': 'KNOCKOUT'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Round of 32'
+        - 'Round of 16'
+        - 'Quarterfinals'
+        - 'Semifinals'
+      'markets':
+        - 'KNOCKOUT_WINNER'
+      'selectedMarketValidator': 'TOURNAMENT'
+    - 'name': 'FINAL'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Final'
+      'markets':
+        - 'FINALE_WINNER'
+        - 'FINALE_SCORE'
+        - 'FINALE_FIRST_GOAL'
+        - 'FINALE_PENALTIES'
+      'selectedMarketValidator': 'TOURNAMENT'
