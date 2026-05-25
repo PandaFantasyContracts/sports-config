@@ -32,3 +32,13 @@
     - 'CRICKET_INDIA_SUNRISERS-HYDERABAD'
 'espnId': 'cricket/8048'
 'sport': 'cricket'
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
