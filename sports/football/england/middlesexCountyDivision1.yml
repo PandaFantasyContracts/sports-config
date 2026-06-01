@@ -7,7 +7,7 @@
 'name': 'Middlesex County Football League - Division 1'
 'pick5PoolAmount': !!int '0'
 'code': 'UK_MIDDLESEX_D1'
-'visible': !!bool 'false'
+'visible': !!bool 'true'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
