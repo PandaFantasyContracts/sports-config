@@ -10,7 +10,7 @@
 'visible': !!bool 'false'
 'seasons':
   '2026-2027':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'UK_MIDDLESEX_D1_26_27'
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
     'startDate': !!timestamp '2026-08-15T00:00:00Z'
