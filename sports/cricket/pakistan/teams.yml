@@ -5,7 +5,7 @@
   'name': 'Lahore Qalandars'
   'tsdbId': '142104'
   'espnId': '953847'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_PESHWAR-ZALM':
   'address': '0xf51dfdc83fed698b3c3baae596020fc7b592aa5f'
   'code': 'PZ'
@@ -13,7 +13,7 @@
   'name': 'Peshawar Zalmi'
   'tsdbId': '142106'
   'espnId': '953833'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_MULTAN-SULTANS':
   'address': '0xf5557f95d5ed7456fba5566587591cd20796721a'
   'code': 'MS'
@@ -21,7 +21,7 @@
   'name': 'Multan Sultans'
   'tsdbId': '142105'
   'espnId': '1117814'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_QUETTA-GLADIATORS':
   'address': '0xf0007f7f3e6a0b95ec89918ceed84d2cbd6b612c'
   'code': 'QG'
@@ -29,7 +29,7 @@
   'name': 'Quetta Gladiators'
   'tsdbId': '142107'
   'espnId': '953845'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_KARACHI-KINGS':
   'address': '0x982ece14f821006a06c6bd9ff3c6816cc76185d1'
   'code': 'KK'
@@ -37,7 +37,7 @@
   'name': 'Karachi Kings'
   'tsdbId': '142103'
   'espnId': '953835'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_ISLAMABAD-UNITED':
   'address': '0x76af10a162ba1507d7cf53cae3765d5f7f8446db'
   'code': 'IU'
@@ -45,4 +45,4 @@
   'name': 'Islamabad United'
   'tsdbId': '142102'
   'espnId': '953843'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
