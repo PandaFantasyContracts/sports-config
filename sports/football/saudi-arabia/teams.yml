@@ -6,7 +6,7 @@
   'name': 'Al Khaleej'
   'tsdbId': '139080'
   'espnId': '21829'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-RAED':
   'address': '0x246a01059c79def9d70dbb9cbadc964c385348a5'
   'code': 'RAE'
@@ -23,7 +23,7 @@
   'name': 'Al Ahli'
   'tsdbId': '137721'
   'espnId': '8346'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-TAAWOUN':
   'address': '0x3408194a3156625e87f290e0fb30d58ab13d8ba5'
   'code': 'TAA'
@@ -32,7 +32,7 @@
   'name': 'Al Taawoun'
   'tsdbId': '136012'
   'espnId': '18459'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-NASSR':
   'address': '0x33fcb164bcec677f7bc93f529cbf176a07d7d199'
   'code': 'NSR'
@@ -41,7 +41,7 @@
   'name': 'Al Nassr'
   'tsdbId': '136022'
   'espnId': '817'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-KHOLOOD':
   'address': '0xb29e55e75e7c6429b76f1475884bfb29cadf3993'
   'code': 'KHL'
@@ -50,7 +50,7 @@
   'name': 'Al Kholood'
   'tsdbId': '149112'
   'espnId': '22028'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-RIYADH':
   'address': '0xe9a88e06bd96c41b4e8346675fb2e35934d3fdec'
   'code': 'RIY'
@@ -59,7 +59,7 @@
   'name': 'Al Riyadh'
   'tsdbId': '147445'
   'espnId': '21965'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-WEHDA':
   'address': '0x467ec3d07c15e09531b5ff878b309d00961e25d1'
   'code': 'WEH'
@@ -76,7 +76,7 @@
   'name': 'Al Fayha'
   'tsdbId': '136014'
   'espnId': '21827'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-HILAL':
   'address': '0x2dc5a7a2f20045b1cc1fcc4f4f735f5b13984787'
   'code': 'HIL'
@@ -85,7 +85,7 @@
   'name': 'Al Hilal'
   'tsdbId': '136013'
   'espnId': '929'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD':
   'address': '0xcf618f53278e429199484ad5cc416c3876269b0c'
   'code': 'ITH'
@@ -94,7 +94,7 @@
   'name': 'Al Ittihad'
   'tsdbId': '136018'
   'espnId': '2276'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-QADSIAH':
   'address': '0x7821aea23e6bfcab2d987c78cfa2b249ba549925'
   'code': 'QAD'
@@ -103,7 +103,7 @@
   'name': 'Al Qadsiah'
   'tsdbId': '136015'
   'espnId': '22022'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-ETTIFAQ':
   'address': '0xe61cfa3316659374709d5857317e849f6e1914c3'
   'code': 'ITF'
@@ -112,7 +112,7 @@
   'name': 'Al Ettifaq'
   'tsdbId': '136017'
   'espnId': '8363'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-OKHDOOD':
   'address': '0x012fcf74ef59f1d7e5d3f961448be18cc96ee15e'
   'code': 'AKH'
@@ -121,7 +121,7 @@
   'name': 'Al Okhdood'
   'tsdbId': '147444'
   'espnId': '21966'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_DAMAC':
   'address': '0xd3410badab083008c06f7c9b88e4639fbec63d7b'
   'code': 'DAM'
@@ -130,7 +130,7 @@
   'name': 'Damac'
   'tsdbId': '137852'
   'espnId': '21828'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-FATEH':
   'address': '0x863b67533713780feeedfd49c33200d005d44b4a'
   'code': 'FAT'
@@ -139,7 +139,7 @@
   'name': 'Al Fateh'
   'tsdbId': '136011'
   'espnId': '13033'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-ORUBAH':
   'address': '0xa0b3b0aa09b19edb50b22290122ce70ea9c68adc'
   'code': 'ORU'
@@ -156,7 +156,7 @@
   'name': 'Al Shabab'
   'tsdbId': '136020'
   'espnId': '793'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_NEOM':
   'address': '0xbaa993638091538b2998e6803c4fcb9f19166742'
   'code': 'NEO'
@@ -165,7 +165,7 @@
   'name': 'Neom'
   'tsdbId': '150637'
   'espnId': '130899'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-HAZEM':
   'address': '0xaf274a1d77158d56895b474ac45a7cb53fe0eef6'
   'code': 'HAZ'
@@ -174,7 +174,7 @@
   'name': 'Al-Hazem'
   'tsdbId': '136200'
   'espnId': '21964'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-NAJMA-UNAIZAH':
   'address': '0x591ba3f30890a2e31f96bc72488b55b633a85f3f'
   'code': 'NAJ'
@@ -183,4 +183,4 @@
   'name': 'Al-Najma Unaizah'
   'tsdbId': '150638'
   'espnId': '22023'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
