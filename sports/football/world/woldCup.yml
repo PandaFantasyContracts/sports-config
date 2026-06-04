@@ -3,7 +3,7 @@
 'challenges':
 'color': '#ff0000'
 'country': 'World'
-'logo': 'https://r2.thesportsdb.com/images/media/league/badge/e7er5g1696521789.png'
+'logo': 'https://static.thesportexchange.com/images/fifa_wc_2026.png'
 'name': 'FIFA World Cup'
 'pick5PoolAmount': !!int '250'
 'code': 'FIFA_WORLD_CUP'
