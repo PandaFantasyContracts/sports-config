@@ -3,7 +3,7 @@
 'challenges':
 'color': '#0E5C2D'
 'country': 'England'
-'logo': '/middlesex-d1/logo-MiddlesexCounty.png'
+'logo': 'https://static.thesportexchange.com/images/logo-MiddlesexCounty.png'
 'name': 'Middlesex County Football League - Division 1'
 'pick5PoolAmount': !!int '0'
 'code': 'UK_MIDDLESEX_D1'
