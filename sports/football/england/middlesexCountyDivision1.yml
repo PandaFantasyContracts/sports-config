@@ -7,7 +7,7 @@
 'name': 'Middlesex County Football League - Division 1'
 'pick5PoolAmount': !!int '0'
 'code': 'UK_MIDDLESEX_D1'
-'visible': !!bool 'true'
+'visible': !!bool 'false'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
@@ -18,16 +18,6 @@
     'weeksScraper': 'default'
     'teams':
     - 'FOOTBALL_ENGLAND_MIDDLESEX_LONDON-ALBION-CITY'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_EXPLORERS'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_AFC-SOUTHALL'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_BARNES'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_ICKENHAM'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_RUISLIP-TOWN'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_WISEMAN-WEST'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_TOWNMEAD'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_FELTHAM'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_HAYES-TOWN'
-    - 'FOOTBALL_ENGLAND_MIDDLESEX_UXBRIDGE-ATHLETIC'
 'sport': 'football'
 
 
