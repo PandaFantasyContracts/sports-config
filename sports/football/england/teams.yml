@@ -616,4 +616,4 @@
   'color': '#1B2D5B'
   'logo': 'https://static.thesportexchange.com/images/london_albion_city_fc.png'
   'name': 'London Albion City FC'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
