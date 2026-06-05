@@ -1,0 +1,32 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '520'
+'challenges':
+'color': '#0E5C2D'
+'country': 'England'
+'logo': 'https://static.thesportexchange.com/images/logo-MiddlesexCounty.png'
+'name': 'Middlesex County Football League - Division 1'
+'pick5PoolAmount': !!int '0'
+'code': 'UK_MIDDLESEX_D1'
+'visible': !!bool 'true'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'UK_MIDDLESEX_D1_26_27'
+    'endDate': !!timestamp '2027-05-23T00:00:00Z'
+    'startDate': !!timestamp '2026-08-15T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+    - 'FOOTBALL_ENGLAND_MIDDLESEX_LONDON-ALBION-CITY'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

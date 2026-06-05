@@ -610,3 +610,10 @@
   'tsdbId': '134382'
   'espnId': '344'
   'whitelisted': !!bool 'false'
+'FOOTBALL_ENGLAND_MIDDLESEX_LONDON-ALBION-CITY':
+  'address': '0x867f3c2f8e39d310d3453d2b4bc46a9712279898'
+  'code': 'LAC'
+  'color': '#1B2D5B'
+  'logo': 'https://static.thesportexchange.com/images/london_albion_city_fc.png'
+  'name': 'London Albion City FC'
+  'whitelisted': !!bool 'false'
