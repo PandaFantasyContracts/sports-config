@@ -77,7 +77,7 @@
     - 'name': 'GROUP'
       'creation': 'STATIC'
       'rounds':
-        - 'Group Stage'
+        - 'Group Stage - Day 8'
       'markets':
         - 'GROUP_POSITION'
       'selectedMarketValidator': 'TOURNAMENT'
