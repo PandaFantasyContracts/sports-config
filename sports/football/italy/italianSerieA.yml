@@ -2,7 +2,7 @@
 'buybackPoolDivisor': !!int '33'
 'color': '#007bff'
 'country': 'Italy'
-'logo': 'https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-italianseriea.png'
 'name': 'Italian Serie A'
 'pick5PoolAmount': !!int '250'
 'visible': !!bool 'true'

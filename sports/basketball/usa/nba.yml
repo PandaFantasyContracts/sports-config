@@ -3,7 +3,7 @@
 'challenges': ['PICK5']
 'color': '#1D428A'
 'country': 'USA'
-'logo': 'https://a.espncdn.com/i/teamlogos/nba/500/nba.png'
+'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-nba.png'
 'name': 'NBA'
 'pick5PoolAmount': !!int '300'
 'visible': !!bool 'false'

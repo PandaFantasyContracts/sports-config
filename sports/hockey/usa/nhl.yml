@@ -3,7 +3,7 @@
 'challenges': []
 'color': '#000000'
 'country': 'USA'
-'logo': 'https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png'
+'logo': 'https://static.thesportexchange.com/images/logos/256/hockey-usa-nhl.png'
 'name': 'NHL'
 'pick5PoolAmount': !!int '0'
 'visible': !!bool 'false'

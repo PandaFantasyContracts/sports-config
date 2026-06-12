@@ -4,7 +4,7 @@
   'color': '#27F4D2'
   'espnId': '106893'
   'goalServeId': '1021'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/tyqwwr1420588072.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-mercedes.png'
   'name': 'Mercedes'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_RED-BULL':
@@ -13,7 +13,7 @@
   'color': '#3671C6'
   'espnId': '106921'
   'goalServeId': '1019'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/nhlev81679826274.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-red-bull.png'
   'name': 'Red Bull'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_ASTON-MARTIN':
@@ -22,7 +22,7 @@
   'color': '#229971'
   'espnId': '123986'
   'goalServeId': '1029'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ez5rlk1740774066.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-aston-martin.png'
   'name': 'Aston Martin'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_RACINGBULLS':
@@ -31,7 +31,7 @@
   'color': '#6692FF'
   'espnId': '123988'
   'goalServeId': '2031'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ot7pjx1740775883.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-racingbulls.png'
   'name': 'Racing Bulls'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_HAAS':
@@ -40,7 +40,7 @@
   'color': '#B6BABD'
   'espnId': '111427'
   'goalServeId': '1034'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/9yp3s51740773680.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-haas.png'
   'name': 'Haas'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_FERRARI':
@@ -49,7 +49,7 @@
   'color': '#E8002D'
   'espnId': '106842'
   'goalServeId': '1011'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/rxwsqv1420417429.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-ferrari.png'
   'name': 'Ferrari'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_WILLIAMS':
@@ -58,7 +58,7 @@
   'color': '#64C4FF'
   'espnId': '106967'
   'goalServeId': '1010'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/fp1cil1740776050.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-williams.png'
   'name': 'Williams'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_ALPINE':
@@ -67,7 +67,7 @@
   'color': '#000000'
   'espnId': '106922'
   'goalServeId': '1016'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ozhoj31740774899.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-alpine.png'
   'name': 'Alpine'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_MCLAREN':
@@ -76,7 +76,7 @@
   'color': '#FFFFFF'
   'espnId': '106892'
   'goalServeId': '1024'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/bessk21740775415.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-mclaren.png'
   'name': 'McLaren'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_KICK-SAUBER':
@@ -85,7 +85,7 @@
   'color': '#F50537'
   'espnId': '132212'
   'goalServeId': '1026'
-  'logo': 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Audif1.com_logo17_%28cropped%29.svg/250px-Audif1.com_logo17_%28cropped%29.svg.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-kick-sauber.png'
   'name': 'Audi'
   'whitelisted': !!bool 'false'
 'MOTORSPORT_WORLD_CADILLAC':
@@ -93,6 +93,6 @@
   'code': 'CAD'
   'color': '#ffffff'
   'espnId': '132211'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/2wqnjo1769429652.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-cadillac.png'
   'name': 'Cadillac'
   'whitelisted': !!bool 'false'

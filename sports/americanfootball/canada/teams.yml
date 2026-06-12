@@ -4,7 +4,7 @@
   'code': 'BCL'
   'espnId': '79'
   'tsdbId': '135006'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ysxssy1424732039.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-bc-lions.png'
   'color': '#f05623'
   'whitelisted': !!bool 'false'
 
@@ -14,7 +14,7 @@
   'code': 'CSP'
   'espnId': '80'
   'tsdbId': '135007'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/lksemj1565196917.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-calgary-stampeders.png'
   'color': '#c8102e'
   'whitelisted': !!bool 'false'
 
@@ -24,7 +24,7 @@
   'code': 'EES'
   'espnId': '81'
   'tsdbId': '135008'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/ehy8wx1770834697.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-edmonton-elks.png'
   'color': '#2d6734'
   'whitelisted': !!bool 'false'
 
@@ -34,7 +34,7 @@
   'code': 'HTC'
   'espnId': '82'
   'tsdbId': '135002'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/qtwsuq1424727420.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-hamilton-tiger-cats.png'
   'color': '#ffb81c'
   'whitelisted': !!bool 'false'
 
@@ -44,7 +44,7 @@
   'code': 'MTA'
   'espnId': '83'
   'tsdbId': '135003'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/8m9v4n1770835125.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-montreal-alouettes.png'
   'color': '#862633'
   'whitelisted': !!bool 'false'
 
@@ -54,7 +54,7 @@
   'code': 'ORB'
   'espnId': '87'
   'tsdbId': '135004'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/k8wjz71546002654.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-ottawa-redblacks.png'
   'color': '#000000'
   'whitelisted': !!bool 'false'
 
@@ -64,7 +64,7 @@
   'code': 'SRR'
   'espnId': '84'
   'tsdbId': '135009'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/xrdull1630952245.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-saskatchewan-roughriders.png'
   'color': '#006341'
   'whitelisted': !!bool 'false'
 
@@ -74,7 +74,7 @@
   'code': 'TAT'
   'espnId': '85'
   'tsdbId': '135005'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/5a57ou1628555372.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-toronto-argonauts.png'
   'color': '#003f87'
   'whitelisted': !!bool 'false'
 
@@ -84,6 +84,6 @@
   'code': 'WBB'
   'espnId': '86'
   'tsdbId': '135010'
-  'logo': 'https://r2.thesportsdb.com/images/media/team/badge/4bo4wj1561667273.png'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-canada-winnipeg-blue-bombers.png'
   'color': '#003087'
   'whitelisted': !!bool 'false'
