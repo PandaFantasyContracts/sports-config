@@ -3,7 +3,7 @@
 'challenges':
 'color': '#eac84d'
 'country': 'England'
-'logo': 'https://r2.thesportsdb.com/images/media/league/badge/ty5a681688770169.png'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-england-championship.png'
 'name': 'Championship'
 'pick5PoolAmount': !!int '175'
 'visible': !!bool 'true'
