@@ -1,0 +1,31 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'color': '#E40521'
+'country': 'Croatia'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-hnl.png'
+'name': 'HNL'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Croatia_HNL'
+'seasons':
+  '2025-2026':
+    'active': !!bool 'true'
+    'code': 'Croatia_HNL_25_26'
+    'endDate': !!timestamp '2026-05-24T00:00:00Z'
+    'startDate': !!timestamp '2025-08-08T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4629'
+    'weeksScraper': 'tsdb'
+    'teams': []
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
