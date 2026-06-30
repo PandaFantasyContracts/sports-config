@@ -71,7 +71,7 @@
 'tournamentType': 'TOURNAMENT'
 'challengeProfile':
   'hasFinalPrize': !!bool 'true'
-  'poolAmountDistributor': 'HALVING'
+  'poolAmountDistributor': 'DEFAULT'
   'participateValidator': 'SOCIAL_FOLLOWER'
   'phases':
     - 'name': 'GROUP'
