@@ -98,6 +98,8 @@
       'markets':
         - 'FINALE_WINNER'
         - 'FINALE_SCORE'
+        - 'FINALE_HALFTIME_RESULT'
+        - 'FINALE_OUTCOME'
         - 'FINALE_FIRST_GOAL'
-        - 'FINALE_PENALTIES'
+        - 'FINALE_CARDS'
       'selectedMarketValidator': 'TOURNAMENT'
