@@ -103,3 +103,4 @@
         - 'FINALE_FIRST_GOAL'
         - 'FINALE_CARDS'
       'selectedMarketValidator': 'TOURNAMENT'
+      'resultCalculator': 'WINNER_KEYS'
