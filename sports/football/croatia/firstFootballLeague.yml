@@ -1,0 +1,42 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#c8102e'
+'country': 'Croatia'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-hnl.png'
+'name': 'HNL'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'true'
+'code': 'Croatia_HNL'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Croatia_HNL_26_27'
+    'endDate': !!timestamp '2027-05-22T00:00:00Z'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4629'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_CROATIA_DINAMO-ZAGREB'
+    - 'FOOTBALL_CROATIA_HAJDUK-SPLIT'
+    - 'FOOTBALL_CROATIA_RIJEKA'
+    - 'FOOTBALL_CROATIA_OSIJEK'
+    - 'FOOTBALL_CROATIA_VARAZDIN'
+    - 'FOOTBALL_CROATIA_GORICA'
+    - 'FOOTBALL_CROATIA_ISTRA-1961'
+    - 'FOOTBALL_CROATIA_LOKOMOTIVA'
+    - 'FOOTBALL_CROATIA_SLAVEN-BELUPO'
+    - 'FOOTBALL_CROATIA_RUDES'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
