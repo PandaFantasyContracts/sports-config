@@ -6,7 +6,7 @@
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-hnl.png'
 'name': 'HNL'
 'pick5PoolAmount': !!int '100'
-'visible': !!bool 'false'
+'visible': !!bool 'true'
 'code': 'Croatia_HNL'
 'seasons':
   '2026-2027':
