@@ -50,7 +50,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-gorica.png'
   'name': 'HNK Gorica'
   'tsdbId': '137794'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CROATIA_ISTRA-1961':
   'address': '0x48242209cf6775386414f49cde0923e729f80c6e'
   'code': 'IST'
@@ -58,7 +58,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-istra-1961.png'
   'name': 'Istra 1961'
   'tsdbId': '137797'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CROATIA_LOKOMOTIVA':
   'address': '0x805a9a557d0f62d38d9ba68a9211d14cbdb6c0c8'
   'code': 'LOK'
@@ -66,7 +66,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-lokomotiva.png'
   'name': 'Lokomotiva Zagreb'
   'tsdbId': '137795'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CROATIA_SLAVEN-BELUPO':
   'address': '0x46e8a9ba643eb159421e7e214a74dc5396cd04f7'
   'code': 'SLA'
@@ -74,7 +74,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-slaven-belupo.png'
   'name': 'Slaven Belupo'
   'tsdbId': '133989'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CROATIA_RUDES':
   'address': '0xf08bc59d39f008fc18f6a033ebca19ab7fce0c2e'
   'code': 'RUD'
@@ -82,4 +82,4 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-rudes.png'
   'name': 'Rudeš'
   'tsdbId': '141086'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
