@@ -10,7 +10,7 @@
 'visible': !!bool 'true'
 'seasons':
   '2025':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'PAKISTAN_SUPER_LEAGUE_CRICKET_2025'
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
@@ -25,6 +25,24 @@
     - 'CRICKET_PAKISTAN_MULTAN-SULTANS'
     - 'CRICKET_PAKISTAN_PESHWAR-ZALM'
     - 'CRICKET_PAKISTAN_QUETTA-GLADIATORS'
+  '2026':
+    'active': !!bool 'true'
+    'code': 'PAKISTAN_SUPER_LEAGUE_CRICKET_2026'
+    'endDate': !!timestamp '2026-05-03T00:00:00Z'
+    'startDate': !!timestamp '2026-03-26T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '5067'
+    'espnId': '2026:1'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'CRICKET_PAKISTAN_HYDERABAD-KINGSMEN'
+    - 'CRICKET_PAKISTAN_ISLAMABAD-UNITED'
+    - 'CRICKET_PAKISTAN_KARACHI-KINGS'
+    - 'CRICKET_PAKISTAN_LAHORE-QALANDARS'
+    - 'CRICKET_PAKISTAN_MULTAN-SULTANS'
+    - 'CRICKET_PAKISTAN_PESHWAR-ZALM'
+    - 'CRICKET_PAKISTAN_QUETTA-GLADIATORS'
+    - 'CRICKET_PAKISTAN_RAWALPINDIZ'
 'espnId': 'cricket/8679'
 'sport': 'cricket'
 
