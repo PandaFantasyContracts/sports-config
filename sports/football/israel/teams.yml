@@ -172,3 +172,13 @@
   'soccer365Id': '8757'
   'tsdbId': '141238'
   'whitelisted': !!bool 'true'
+'FOOTBALL_ISRAEL_HAPOEL-RAMAT-GAN':
+  'address': '0x55c07efa9640b31dde1892ce22d2f41dce9912e5'
+  'code': 'HRG'
+  'color': '#E01020'
+  'footyId': '2405'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-ramat-gan.png'
+  'name': 'Hapoel Ramat Gan'
+  'soccer365Id': '7340'
+  'tsdbId': '134796'
+  'whitelisted': !!bool 'true'

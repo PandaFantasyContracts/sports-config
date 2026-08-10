@@ -32,7 +32,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-karmiotissa.png'
   'name': 'Karmiotissa'
   'tsdbId': '140064'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_ETHNIKOS':
   'address': '0xe0dfa6a2997bad4ec4c3a78148a6ae6fb7cdbcc6'
   'code': 'EA'
@@ -121,7 +121,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-omonia-29.png'
   'name': 'Omonia 29is Maiou'
   'tsdbId': '143789'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_OLYMPIAKOS':
   'address': '0x4b65f6ad6dd924d1cd49bbca346e06df5489beb1'
   'code': 'OLY'
@@ -138,7 +138,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-salamis.png'
   'name': 'Nea Salamis'
   'tsdbId': '137926'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_ANORTHOSIS':
   'address': '0x611940e4c630841b0eb4cc91136f294558d77788'
   'code': 'ANO'

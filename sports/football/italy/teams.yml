@@ -5,7 +5,8 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-monza.png'
   'name': 'Monza'
   'tsdbId': '134270'
-  'whitelisted': !!bool 'true'
+  'espnId': '4007'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_FIORENTINA':
   'address': '0x47ab9cf96b8a70abdb452f64ec57423cbbc128d0'
   'code': 'FIO'
@@ -22,7 +23,8 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-venezia.png'
   'name': 'Venezia'
   'tsdbId': '134234'
-  'whitelisted': !!bool 'true'
+  'espnId': '17530'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_AC-MILAN':
   'address': '0xecbe637edfa47e2f55f51dd891b5dea64fc80004'
   'code': 'MIL'
@@ -201,4 +203,13 @@
   'name': 'Torino'
   'tsdbId': '133687'
   'espnId': '239'
+  'whitelisted': !!bool 'false'
+'FOOTBALL_ITALY_FROSINONE':
+  'address': '0xb5044f14d4e8df20552b2ec85b62884c66bf4563'
+  'code': 'FRO'
+  'color': '#004090'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-frosinone.png'
+  'name': 'Frosinone'
+  'tsdbId': '133818'
+  'espnId': '4057'
   'whitelisted': !!bool 'false'
