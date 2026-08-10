@@ -184,7 +184,7 @@
   'name': 'Schalke 04'
   'tsdbId': '133661'
   'espnId': '133'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_ELVERSBERG':
   'address': '0x32f95af487cec6f2ff3f3060d67537de71928afa'
   'code': 'ELV'
@@ -193,7 +193,7 @@
   'name': 'Elversberg'
   'tsdbId': '138411'
   'espnId': '10388'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_PADERBORN':
   'address': '0x62cdfc7556090cb2aef4d579a6114242e0c9dc71'
   'code': 'SCP'
@@ -202,4 +202,4 @@
   'name': 'Paderborn'
   'tsdbId': '134551'
   'espnId': '3307'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'

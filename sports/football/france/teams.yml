@@ -192,7 +192,7 @@
   'name': 'Le Mans'
   'tsdbId': '133848'
   'espnId': '2697'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_TROYES':
   'address': '0x77e9cb8a22910ba036751431f560039e11cb410c'
   'code': 'TRO'
@@ -201,4 +201,4 @@
   'name': 'Troyes'
   'tsdbId': '134789'
   'espnId': '170'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'

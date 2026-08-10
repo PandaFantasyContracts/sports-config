@@ -192,7 +192,7 @@
   'name': 'Abha'
   'tsdbId': '137855'
   'espnId': '21833'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-FAISALY':
   'address': '0x5ec6310dbaa5c335b86f0e6d3c518640252474ce'
   'code': 'FAI'
@@ -201,7 +201,7 @@
   'name': 'Al-Faisaly'
   'tsdbId': '136021'
   'espnId': '21446'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_SAUDI-ARABIA_AL-DIRIYAH':
   'address': '0x7ccde3efc4d5836c7a55e3ce25349c41101752f1'
   'code': 'DIR'
@@ -210,4 +210,4 @@
   'name': 'Al-Diriyah'
   'tsdbId': '152917'
   'espnId': '131746'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'

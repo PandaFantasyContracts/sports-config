@@ -625,7 +625,7 @@
   'name': 'Bromley'
   'tsdbId': '136033'
   'espnId': '3129'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CAMBRIDGE-UNITED':
   'address': '0xd740e0b13a374ed25c684cef5df9252d1c563d0f'
   'code': 'CAM'
@@ -634,7 +634,7 @@
   'name': 'Cambridge United'
   'tsdbId': '134586'
   'espnId': '351'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MILTON-KEYNES-DONS':
   'address': '0xd2a240db0e49e9560991c4474c06f8c33a19f1b5'
   'code': 'MKD'
@@ -643,7 +643,7 @@
   'name': 'MK Dons'
   'tsdbId': '134371'
   'espnId': '390'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NOTTS-COUNTY':
   'address': '0xb5ba00942c851a3919f20951c48378ab7d5c0826'
   'code': 'NCO'
@@ -652,4 +652,4 @@
   'name': 'Notts County'
   'tsdbId': '134373'
   'espnId': '340'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'

@@ -212,4 +212,4 @@
   'name': 'Frosinone'
   'tsdbId': '133818'
   'espnId': '4057'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
