@@ -78,7 +78,7 @@
   'name': 'Exeter City'
   'tsdbId': '134365'
   'espnId': '324'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BLACKPOOL':
   'address': '0x61c112593445fdb59850b481a0dc9752b5dfb263'
   'code': 'BLK'
@@ -141,7 +141,7 @@
   'name': 'Rotherham United'
   'tsdbId': '134231'
   'espnId': '402'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_TOTTENHAM':
   'address': '0x7a115e89de7f2df7e158b581178cb3b3f9bf400f'
   'code': 'TOT'
@@ -330,7 +330,7 @@
   'name': 'Northampton Town'
   'tsdbId': '134370'
   'espnId': '353'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MANCHESTER-UNITED':
   'address': '0x234bda15f5ad4f665d54e0698c2379fc441d4d82'
   'code': 'MUN'
@@ -474,7 +474,7 @@
   'name': 'Port Vale'
   'tsdbId': '134375'
   'espnId': '348'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_OXFORD-UTD':
   'address': '0x310236f7eff533c0976a5924a286a8fc05351faf'
   'code': 'OXF'
@@ -625,7 +625,7 @@
   'name': 'Bromley'
   'tsdbId': '136033'
   'espnId': '3129'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_ENGLAND_CAMBRIDGE-UNITED':
   'address': '0xd740e0b13a374ed25c684cef5df9252d1c563d0f'
   'code': 'CAM'
@@ -634,7 +634,7 @@
   'name': 'Cambridge United'
   'tsdbId': '134586'
   'espnId': '351'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_ENGLAND_MILTON-KEYNES-DONS':
   'address': '0xd2a240db0e49e9560991c4474c06f8c33a19f1b5'
   'code': 'MKD'
@@ -643,7 +643,7 @@
   'name': 'MK Dons'
   'tsdbId': '134371'
   'espnId': '390'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_ENGLAND_NOTTS-COUNTY':
   'address': '0xb5ba00942c851a3919f20951c48378ab7d5c0826'
   'code': 'NCO'
@@ -652,4 +652,4 @@
   'name': 'Notts County'
   'tsdbId': '134373'
   'espnId': '340'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'

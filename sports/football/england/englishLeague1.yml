@@ -43,7 +43,7 @@
     - 'FOOTBALL_ENGLAND_WREXHAM'
     - 'FOOTBALL_ENGLAND_CHARLTON-ATHLETIC'
   '2025-2026':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'England_English_League_1_2025_2026'
     'endDate': !!timestamp '2026-05-02T00:00:00Z'
     'startDate': !!timestamp '2025-08-01T00:00:00Z'
@@ -77,7 +77,7 @@
     - 'FOOTBALL_ENGLAND_BRADFORD-CITY'
     - 'FOOTBALL_ENGLAND_AFC-WIMBLEDON'
   '2026-2027':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'England_English_League_1_2026_2027'
     'endDate': !!timestamp '2027-05-01T00:00:00Z'
     'startDate': !!timestamp '2026-08-15T00:00:00Z'

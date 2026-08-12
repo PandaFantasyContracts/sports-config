@@ -42,7 +42,7 @@
   'name': 'Pisa'
   'tsdbId': '133859'
   'espnId': '3956'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_BOLOGNA':
   'address': '0xcccee9a8682af7c951d2c93226875bbd912d521d'
   'code': 'BOL'
@@ -150,7 +150,7 @@
   'name': 'Cremonese'
   'tsdbId': '134224'
   'espnId': '4050'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_VERONA':
   'address': '0x4b071720fbcf09dcea2d43f6e99518097b4bb548'
   'code': 'VER'
@@ -159,7 +159,7 @@
   'name': 'Verona'
   'tsdbId': '134784'
   'espnId': '119'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_ATALANTA':
   'address': '0x04caf54de4a6651cf042e44585a74c0010d9bc62'
   'code': 'ATA'
@@ -212,4 +212,4 @@
   'name': 'Frosinone'
   'tsdbId': '133818'
   'espnId': '4057'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'

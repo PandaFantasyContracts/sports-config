@@ -40,7 +40,7 @@
     - 'FOOTBALL_ENGLAND_LEICESTER'
     - 'FOOTBALL_ENGLAND_SOUTHAMPTON'
   '2025-2026':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'UK_PL_25_26'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
@@ -70,7 +70,7 @@
     - 'FOOTBALL_ENGLAND_WEST-HAM'
     - 'FOOTBALL_ENGLAND_WOLVES'
   '2026-2027':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'UK_PL_26_27'
     'endDate': !!timestamp '2027-05-30T00:00:00Z'
     'startDate': !!timestamp '2026-08-21T00:00:00Z'

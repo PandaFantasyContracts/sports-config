@@ -33,7 +33,7 @@
     - 'FOOTBALL_CYPRUS_SALAMIS'
     - 'FOOTBALL_CYPRUS_OMONIA-29'
   '2025-2026':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'Cyprus_1_Div_25_26'
     'endDate': !!timestamp '2026-03-14T00:00:00Z'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
@@ -57,7 +57,7 @@
     - 'FOOTBALL_CYPRUS_OMONIA'
     - 'FOOTBALL_CYPRUS_PAFOS'
   '2026-2027':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'Cyprus_1_Div_26_27'
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
     'startDate': !!timestamp '2026-08-29T00:00:00Z'

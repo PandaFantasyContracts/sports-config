@@ -40,7 +40,7 @@
     - 'FOOTBALL_SPAIN_ALAVES'
     - 'FOOTBALL_SPAIN_VALLADOLID'
   '2025-2026':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'SP_LIGA_25_26'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
@@ -70,7 +70,7 @@
     - 'FOOTBALL_SPAIN_ELCHE'
     - 'FOOTBALL_SPAIN_REAL-OVIEDO'
   '2026-2027':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'SP_LIGA_26_27'
     'endDate': !!timestamp '2027-05-30T00:00:00Z'
     'startDate': !!timestamp '2026-08-14T00:00:00Z'

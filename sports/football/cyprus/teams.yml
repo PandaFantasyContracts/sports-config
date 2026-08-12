@@ -41,7 +41,7 @@
   'name': 'Ethnikos Achna'
   'tsdbId': '137925'
   'espnId': '4045'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_KRASAVA-YPSONA':
   'address': '0xa008ee4f74b60e3d42098bf1a935212d43fa7186'
   'code': 'KRA'
@@ -59,7 +59,7 @@
   'name': 'Akritas Chlorakas'
   'tsdbId': '141091'
   'espnId': '131460'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OMONIA':
   'address': '0x9c38d38115487cefaeb034eb850febfd9bf1cc7f'
   'code': 'OMO'
@@ -86,7 +86,7 @@
   'name': 'Enosis'
   'tsdbId': '137924'
   'espnId': '131461'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_PAFOS':
   'address': '0x1afd08682f4f5de462cecb466d50c88581aad02b'
   'code': 'PFC'

@@ -9,7 +9,7 @@
 'visible': !!bool 'false'
 'seasons':
   '2025-2026':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'Israel_Premier_League_2025_2026'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-24T00:00:00Z'
@@ -34,7 +34,7 @@
     - 'FOOTBALL_ISRAEL_HAPOEL-HAIFA'
     - 'FOOTBALL_ISRAEL_BNEI-SAKHNIN'
   '2026-2027':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'Israel_Premier_League_2026_2027'
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
     'startDate': !!timestamp '2026-08-22T00:00:00Z'

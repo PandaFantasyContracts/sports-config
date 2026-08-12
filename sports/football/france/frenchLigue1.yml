@@ -37,7 +37,7 @@
     - 'FOOTBALL_FRANCE_NANTES'
     - 'FOOTBALL_FRANCE_BREST'
   '2025-2026':
-    'active': !!bool 'true'
+    'active': !!bool 'false'
     'code': 'French_Ligue_1_2025_2026'
     'endDate': !!timestamp '2026-05-16T00:00:00Z'
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
@@ -65,7 +65,7 @@
     - 'FOOTBALL_FRANCE_STRASBOURG'
     - 'FOOTBALL_FRANCE_TOULOUSE'
   '2026-2027':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'French_Ligue_1_2026_2027'
     'endDate': !!timestamp '2027-05-29T00:00:00Z'
     'startDate': !!timestamp '2026-08-21T00:00:00Z'

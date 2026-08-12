@@ -86,7 +86,7 @@
   'name': 'Metz'
   'tsdbId': '133883'
   'espnId': '177'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_ST-ETIENNE':
   'address': '0xd29dd4fe2c7a6b5e63d1d0069d9b1143840a4c10'
   'code': 'ASS'
@@ -174,7 +174,7 @@
   'name': 'Nantes'
   'tsdbId': '133861'
   'espnId': '165'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_FRANCE_BREST':
   'address': '0x9cc47b42ad0e0631b9c81394861266b89d11a771'
   'code': 'BRS'
@@ -192,7 +192,7 @@
   'name': 'Le Mans'
   'tsdbId': '133848'
   'espnId': '2697'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_FRANCE_TROYES':
   'address': '0x77e9cb8a22910ba036751431f560039e11cb410c'
   'code': 'TRO'
@@ -201,4 +201,4 @@
   'name': 'Troyes'
   'tsdbId': '134789'
   'espnId': '170'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
