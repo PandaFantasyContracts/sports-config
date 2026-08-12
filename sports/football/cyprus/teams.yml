@@ -32,7 +32,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-karmiotissa.png'
   'name': 'Karmiotissa'
   'tsdbId': '140064'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_ETHNIKOS':
   'address': '0xe0dfa6a2997bad4ec4c3a78148a6ae6fb7cdbcc6'
   'code': 'EA'
@@ -41,7 +41,7 @@
   'name': 'Ethnikos Achna'
   'tsdbId': '137925'
   'espnId': '4045'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_KRASAVA-YPSONA':
   'address': '0xa008ee4f74b60e3d42098bf1a935212d43fa7186'
   'code': 'KRA'
@@ -59,7 +59,7 @@
   'name': 'Akritas Chlorakas'
   'tsdbId': '141091'
   'espnId': '131460'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OMONIA':
   'address': '0x9c38d38115487cefaeb034eb850febfd9bf1cc7f'
   'code': 'OMO'
@@ -86,7 +86,7 @@
   'name': 'Enosis'
   'tsdbId': '137924'
   'espnId': '131461'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_PAFOS':
   'address': '0x1afd08682f4f5de462cecb466d50c88581aad02b'
   'code': 'PFC'
@@ -121,7 +121,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-omonia-29.png'
   'name': 'Omonia 29is Maiou'
   'tsdbId': '143789'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_OLYMPIAKOS':
   'address': '0x4b65f6ad6dd924d1cd49bbca346e06df5489beb1'
   'code': 'OLY'
@@ -138,7 +138,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-salamis.png'
   'name': 'Nea Salamis'
   'tsdbId': '137926'
-  'whitelisted': !!bool 'true'
+  'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_ANORTHOSIS':
   'address': '0x611940e4c630841b0eb4cc91136f294558d77788'
   'code': 'ANO'
