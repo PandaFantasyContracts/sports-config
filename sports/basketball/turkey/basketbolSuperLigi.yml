@@ -1,0 +1,48 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#E30A17'
+'country': 'Turkey'
+'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-turkey-bsl.png'
+'name': 'Basketbol Süper Ligi'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Turkey_BSL'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Turkey_BSL_26_27'
+    'endDate': !!timestamp '2027-05-07T00:00:00Z'
+    'startDate': !!timestamp '2026-09-25T00:00:00Z'
+    'standingsScraper': 'default'
+    'tsdbId': '4475'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'BASKETBALL_TURKEY_ANADOLU-EFES'
+    - 'BASKETBALL_TURKEY_BAHCESEHIR-KOLEJI'
+    - 'BASKETBALL_TURKEY_BESIKTAS-BASKETBOL'
+    - 'BASKETBALL_TURKEY_BORDO-SPORTIF'
+    - 'BASKETBALL_TURKEY_BURSASPOR-BASKETBOL'
+    - 'BASKETBALL_TURKEY_CAYIROVA-BASKETBOL'
+    - 'BASKETBALL_TURKEY_ESENLER-EROKSPOR'
+    - 'BASKETBALL_TURKEY_FENERBAHCE-BASKETBOL'
+    - 'BASKETBALL_TURKEY_GALATASARAY-SK'
+    - 'BASKETBALL_TURKEY_KARSIYAKA-BASKET'
+    - 'BASKETBALL_TURKEY_MANISA-BB'
+    - 'BASKETBALL_TURKEY_MERKEZEFENDI-DENIZLI'
+    - 'BASKETBALL_TURKEY_PETKIM-SPOR'
+    - 'BASKETBALL_TURKEY_TOFAS-SK'
+    - 'BASKETBALL_TURKEY_TRABZONSPOR-BK'
+    - 'BASKETBALL_TURKEY_TURK-TELEKOM-BK'
+'sport': 'basketball'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

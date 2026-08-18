@@ -1,0 +1,45 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#0D5EAF'
+'country': 'Greece'
+'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-greece-basketleague.png'
+'name': 'Basket League'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Greece_BL'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Greece_BL_26_27'
+    'endDate': !!timestamp '2027-06-12T00:00:00Z'
+    'startDate': !!timestamp '2026-10-03T00:00:00Z'
+    'standingsScraper': 'default'
+    'tsdbId': '4452'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'BASKETBALL_GREECE_AEK-BC'
+    - 'BASKETBALL_GREECE_ARIS-BC'
+    - 'BASKETBALL_GREECE_ASK-KARDITSAS-BC'
+    - 'BASKETBALL_GREECE_IRAKLIS-BC'
+    - 'BASKETBALL_GREECE_KOLOSSOS-BC'
+    - 'BASKETBALL_GREECE_MAROUSSI-BC'
+    - 'BASKETBALL_GREECE_MYKONOS-BC'
+    - 'BASKETBALL_GREECE_OLYMPIACOS-BC'
+    - 'BASKETBALL_GREECE_PANATHINAIKOS-BC'
+    - 'BASKETBALL_GREECE_PANIONIOS-BC'
+    - 'BASKETBALL_GREECE_PAOK-BC'
+    - 'BASKETBALL_GREECE_PERISTERI-BC'
+    - 'BASKETBALL_GREECE_PROMITHEAS-PATRAS-BC'
+'sport': 'basketball'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
