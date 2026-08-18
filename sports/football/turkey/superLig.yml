@@ -1,0 +1,52 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#E30A17'
+'country': 'Turkey'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-superlig.png'
+'name': 'Süper Lig'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Turkey_SL'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Turkey_SL_26_27'
+    'endDate': !!timestamp '2027-05-23T00:00:00Z'
+    'startDate': !!timestamp '2026-08-14T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4339'
+    'espnId': '2026'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_TURKEY_ALANYASPOR'
+    - 'FOOTBALL_TURKEY_AMEDSPOR'
+    - 'FOOTBALL_TURKEY_BESIKTAS'
+    - 'FOOTBALL_TURKEY_CORUM-FK'
+    - 'FOOTBALL_TURKEY_ERZURUMSPOR'
+    - 'FOOTBALL_TURKEY_EYUPSPOR'
+    - 'FOOTBALL_TURKEY_FENERBAHCE'
+    - 'FOOTBALL_TURKEY_GALATASARAY'
+    - 'FOOTBALL_TURKEY_GAZIANTEP-FK'
+    - 'FOOTBALL_TURKEY_GENCLERBIRLIGI'
+    - 'FOOTBALL_TURKEY_GOZTEPE'
+    - 'FOOTBALL_TURKEY_ISTANBUL-BASAKSEHIR'
+    - 'FOOTBALL_TURKEY_KASIMPASA'
+    - 'FOOTBALL_TURKEY_KOCAELISPOR'
+    - 'FOOTBALL_TURKEY_KONYASPOR'
+    - 'FOOTBALL_TURKEY_CAYKUR-RIZESPOR'
+    - 'FOOTBALL_TURKEY_SAMSUNSPOR'
+    - 'FOOTBALL_TURKEY_TRABZONSPOR'
+'espnId': 'soccer/tur.1'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
