@@ -6,7 +6,7 @@
   'name': 'AEK Athens'
   'tsdbId': '133753'
   'espnId': '887'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_ARIS':
   'address': '0xbbac159b490dd17698a1323c9c30b9fe013cda8f'
   'code': 'ARI'
@@ -15,7 +15,7 @@
   'name': 'Aris'
   'tsdbId': '133742'
   'espnId': '11553'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_ASTERAS-TRIPOLIS':
   'address': '0xa3a6339b0dcfb30c14ad8cade25bd17c0fa11eb9'
   'code': 'AST'
@@ -24,7 +24,7 @@
   'name': 'Asteras Tripolis'
   'tsdbId': '133752'
   'espnId': '8354'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_ATROMITOS':
   'address': '0x421a7294c1baba6640ecb43c8145394e776090ed'
   'code': 'ATRO'
@@ -33,7 +33,7 @@
   'name': 'Atromitos'
   'tsdbId': '133744'
   'espnId': '6790'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_IRAKLIS-1908':
   'address': '0x77db2c6b7cb623021e8c667d42c1bbbdfda66158'
   'code': 'IRAK'
@@ -42,7 +42,7 @@
   'name': 'Iraklis 1908'
   'tsdbId': '144154'
   'espnId': '2575'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_KALAMATA':
   'address': '0x7f472f33b1536e90fd8f679f565a0440d934f0ec'
   'code': 'KAL'
@@ -51,7 +51,7 @@
   'name': 'Kalamata'
   'tsdbId': '134275'
   'espnId': '132429'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_KIFISIA':
   'address': '0x57570fed04936fbbecee97aaaea33cbca388988e'
   'code': 'KIF'
@@ -60,7 +60,7 @@
   'name': 'Kifisia'
   'tsdbId': '144147'
   'espnId': '21969'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_LEVADIAKOS':
   'address': '0x45d47d492d2ca51f7f4be318ac46bc874d3abb0f'
   'code': 'LEV'
@@ -69,7 +69,7 @@
   'name': 'Levadiakos'
   'tsdbId': '133755'
   'espnId': '5276'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_OFI-CRETE':
   'address': '0xf189d0e8b21723b94391dc8d8915962136d8a352'
   'code': 'OFI'
@@ -78,7 +78,7 @@
   'name': 'OFI Crete'
   'tsdbId': '133743'
   'espnId': '1010'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_OLYMPIACOS':
   'address': '0xa75771ec1e27fa99c474d333055b64f9461f422d'
   'code': 'OLY'
@@ -87,7 +87,7 @@
   'name': 'Olympiacos'
   'tsdbId': '133754'
   'espnId': '435'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_PAOK':
   'address': '0x399b69caed7074ca2d3c0e5ef063399675205510'
   'code': 'PAOK'
@@ -96,7 +96,7 @@
   'name': 'PAOK'
   'tsdbId': '133749'
   'espnId': '605'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_PANATHINAIKOS':
   'address': '0x0ef3e4128a64e2dd808c4bc4934e2d2dbdce50ac'
   'code': 'PAO'
@@ -105,7 +105,7 @@
   'name': 'Panathinaikos'
   'tsdbId': '133746'
   'espnId': '443'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_PANETOLIKOS':
   'address': '0x8f8d6b7d9e942fbf72a44208c52d6c65d00b93ab'
   'code': 'PAN'
@@ -114,7 +114,7 @@
   'name': 'Panetolikos'
   'tsdbId': '133751'
   'espnId': '11431'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_VOLOS-NFC':
   'address': '0x8f86ea6654dea36a9424e8370d5a877abb8f3ac9'
   'code': 'VOL'
@@ -123,4 +123,4 @@
   'name': 'Volos NFC'
   'tsdbId': '136853'
   'espnId': '20043'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'

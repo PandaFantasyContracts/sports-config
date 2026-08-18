@@ -6,7 +6,7 @@
   'name': 'Alanyaspor'
   'tsdbId': '135676'
   'espnId': '9078'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_AMEDSPOR':
   'address': '0x3ba64e0620aae856da515cbcd912a6168043227c'
   'code': 'AMED'
@@ -15,7 +15,7 @@
   'name': 'Amedspor'
   'tsdbId': '138959'
   'espnId': '132335'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_BESIKTAS':
   'address': '0x8854ada837a742cf4641f573e95ddbb34691353e'
   'code': 'BES'
@@ -24,7 +24,7 @@
   'name': 'Beşiktaş'
   'tsdbId': '133794'
   'espnId': '1895'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_CORUM-FK':
   'address': '0x6493c704e131af54a4c9110e99a03af4677264eb'
   'code': 'COR'
@@ -33,7 +33,7 @@
   'name': 'Çorum FK'
   'tsdbId': '138951'
   'espnId': '132334'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_ERZURUMSPOR':
   'address': '0xa212143b9ac8e03fb9fdca5120afd5a44ee51c3b'
   'code': 'ERZ'
@@ -42,7 +42,7 @@
   'name': 'Erzurumspor'
   'tsdbId': '134272'
   'espnId': '19267'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_EYUPSPOR':
   'address': '0x17ae61fd6e12e701c81b616713b88529c2217257'
   'code': 'EYU'
@@ -51,7 +51,7 @@
   'name': 'Eyüpspor'
   'tsdbId': '138977'
   'espnId': '20729'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_FENERBAHCE':
   'address': '0x75a30a6a0948068d973db4fcb880415e2b299012'
   'code': 'FEN'
@@ -60,7 +60,7 @@
   'name': 'Fenerbahçe'
   'tsdbId': '133807'
   'espnId': '436'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GALATASARAY':
   'address': '0x1229a0e55b6e66204385653f00b988821eb561ba'
   'code': 'GAL'
@@ -69,7 +69,7 @@
   'name': 'Galatasaray'
   'tsdbId': '133804'
   'espnId': '432'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GAZIANTEP-FK':
   'address': '0x410d26ccf9c81cca8723e881041744c5a29cb49e'
   'code': 'GAZ'
@@ -78,7 +78,7 @@
   'name': 'Gaziantep FK'
   'tsdbId': '138092'
   'espnId': '20070'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GENCLERBIRLIGI':
   'address': '0x4d14c4a51177b5996a068b8c2663a77a5a3984b9'
   'code': 'GEN'
@@ -87,7 +87,7 @@
   'name': 'Gençlerbirliği'
   'tsdbId': '133798'
   'espnId': '996'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GOZTEPE':
   'address': '0xe98a14c89b6156bd42db4d9163fb9832505d598e'
   'code': 'GOZ'
@@ -96,7 +96,7 @@
   'name': 'Göztepe'
   'tsdbId': '135891'
   'espnId': '789'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_ISTANBUL-BASAKSEHIR':
   'address': '0xf271de754d25c19a0d2c88baff91b23ca96ef680'
   'code': 'IBFK'
@@ -105,7 +105,7 @@
   'name': 'İstanbul Başakşehir'
   'tsdbId': '134589'
   'espnId': '7914'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_KASIMPASA':
   'address': '0x870f4eea9e1ed222eb8901952c2d52194469b240'
   'code': 'KAS'
@@ -114,7 +114,7 @@
   'name': 'Kasımpaşa'
   'tsdbId': '133834'
   'espnId': '6870'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_KOCAELISPOR':
   'address': '0x8b13740f7b0e60a137170d3f1ac40eff2be532dc'
   'code': 'KOC'
@@ -123,7 +123,7 @@
   'name': 'Kocaelispor'
   'tsdbId': '133870'
   'espnId': '995'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_KONYASPOR':
   'address': '0xbb23f8045dd310768802bba247710497caf6d7cb'
   'code': 'KNY'
@@ -132,7 +132,7 @@
   'name': 'Konyaspor'
   'tsdbId': '133835'
   'espnId': '7648'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_CAYKUR-RIZESPOR':
   'address': '0xdfb37edb55ff997fbd4fecad503d295600d1b5ff'
   'code': 'CAY'
@@ -141,7 +141,7 @@
   'name': 'Çaykur Rizespor'
   'tsdbId': '133885'
   'espnId': '7656'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_SAMSUNSPOR':
   'address': '0x5ab65955de8b99084fbb4255d2510989274d9efb'
   'code': 'SAM'
@@ -150,7 +150,7 @@
   'name': 'Samsunspor'
   'tsdbId': '133797'
   'espnId': '11429'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_TRABZONSPOR':
   'address': '0x791268d47e34410a52bab274d8de51b03a2c7488'
   'code': 'TRAB'
@@ -159,4 +159,4 @@
   'name': 'Trabzonspor'
   'tsdbId': '133796'
   'espnId': '997'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
