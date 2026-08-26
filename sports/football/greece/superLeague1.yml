@@ -1,0 +1,48 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#0D5EAF'
+'country': 'Greece'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-superleague1.png'
+'name': 'Super League 1'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Greece_SL1'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Greece_SL1_26_27'
+    'endDate': !!timestamp '2027-05-23T00:00:00Z'
+    'startDate': !!timestamp '2026-08-22T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4336'
+    'espnId': '2026'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_GREECE_AEK-ATHENS'
+    - 'FOOTBALL_GREECE_ARIS'
+    - 'FOOTBALL_GREECE_ASTERAS-TRIPOLIS'
+    - 'FOOTBALL_GREECE_ATROMITOS'
+    - 'FOOTBALL_GREECE_IRAKLIS-1908'
+    - 'FOOTBALL_GREECE_KALAMATA'
+    - 'FOOTBALL_GREECE_KIFISIA'
+    - 'FOOTBALL_GREECE_LEVADIAKOS'
+    - 'FOOTBALL_GREECE_OFI-CRETE'
+    - 'FOOTBALL_GREECE_OLYMPIACOS'
+    - 'FOOTBALL_GREECE_PAOK'
+    - 'FOOTBALL_GREECE_PANATHINAIKOS'
+    - 'FOOTBALL_GREECE_PANETOLIKOS'
+    - 'FOOTBALL_GREECE_VOLOS-NFC'
+'espnId': 'soccer/gre.1'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
