@@ -8,6 +8,7 @@
 'pick5PoolAmount': !!int '100'
 'visible': !!bool 'true'
 'code': 'Croatia_HNL'
+'partnerUrl': 'https://hns.family/en/news/31138/thesportexchange-and-hns-explore-a-new-category-of-digital-sports-participation-ahead-of-the-2026-fifa-world-cup'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
