@@ -1,0 +1,49 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#C41230'
+'country': 'USA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-usa-big-12.png'
+'name': 'Big 12'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'espnId': 'football/college-football?group=4'
+'sport': 'americanfootball'
+'code': 'NCAAF_B12'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'NCAAF_B12_26'
+    'startDate': !!timestamp '2026-08-22T00:00:00Z'
+    'endDate': !!timestamp '2026-12-13T00:00:00Z'
+    'standingsScraper': 'espn'
+    'espnId': '2026'
+    'weeksScraper': 'college-football'
+    'teams':
+    - 'AMERICANFOOTBALL_USA_ARIZONA-STATE-SUN-DEVILS'
+    - 'AMERICANFOOTBALL_USA_ARIZONA-WILDCATS'
+    - 'AMERICANFOOTBALL_USA_BAYLOR-BEARS'
+    - 'AMERICANFOOTBALL_USA_BYU-COUGARS'
+    - 'AMERICANFOOTBALL_USA_CINCINNATI-BEARCATS'
+    - 'AMERICANFOOTBALL_USA_COLORADO-BUFFALOES'
+    - 'AMERICANFOOTBALL_USA_HOUSTON-COUGARS'
+    - 'AMERICANFOOTBALL_USA_IOWA-STATE-CYCLONES'
+    - 'AMERICANFOOTBALL_USA_KANSAS-JAYHAWKS'
+    - 'AMERICANFOOTBALL_USA_KANSAS-STATE-WILDCATS'
+    - 'AMERICANFOOTBALL_USA_OKLAHOMA-STATE-COWBOYS'
+    - 'AMERICANFOOTBALL_USA_TCU-HORNED-FROGS'
+    - 'AMERICANFOOTBALL_USA_TEXAS-TECH-RED-RAIDERS'
+    - 'AMERICANFOOTBALL_USA_UCF-KNIGHTS'
+    - 'AMERICANFOOTBALL_USA_UTAH-UTES'
+    - 'AMERICANFOOTBALL_USA_WEST-VIRGINIA-MOUNTAINEERS'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

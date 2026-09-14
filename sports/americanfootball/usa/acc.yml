@@ -1,0 +1,52 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#013CA6'
+'country': 'USA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-usa-acc.png'
+'name': 'ACC'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'espnId': 'football/college-football?group=1'
+'sport': 'americanfootball'
+'code': 'NCAAF_ACC'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'NCAAF_ACC_26'
+    'startDate': !!timestamp '2026-08-22T00:00:00Z'
+    'endDate': !!timestamp '2026-12-13T00:00:00Z'
+    'standingsScraper': 'espn'
+    'espnId': '2026'
+    'weeksScraper': 'college-football'
+    'teams':
+    - 'AMERICANFOOTBALL_USA_BOSTON-COLLEGE-EAGLES'
+    - 'AMERICANFOOTBALL_USA_CALIFORNIA-GOLDEN-BEARS'
+    - 'AMERICANFOOTBALL_USA_CLEMSON-TIGERS'
+    - 'AMERICANFOOTBALL_USA_DUKE-BLUE-DEVILS'
+    - 'AMERICANFOOTBALL_USA_FLORIDA-STATE-SEMINOLES'
+    - 'AMERICANFOOTBALL_USA_GEORGIA-TECH-YELLOW-JACKETS'
+    - 'AMERICANFOOTBALL_USA_LOUISVILLE-CARDINALS'
+    - 'AMERICANFOOTBALL_USA_MIAMI-HURRICANES'
+    - 'AMERICANFOOTBALL_USA_NC-STATE-WOLFPACK'
+    - 'AMERICANFOOTBALL_USA_NORTH-CAROLINA-TAR-HEELS'
+    # Notre Dame is an FBS independent but plays most of its schedule against ACC teams
+    - 'AMERICANFOOTBALL_USA_NOTRE-DAME-FIGHTING-IRISH'
+    - 'AMERICANFOOTBALL_USA_PITTSBURGH-PANTHERS'
+    - 'AMERICANFOOTBALL_USA_SMU-MUSTANGS'
+    - 'AMERICANFOOTBALL_USA_STANFORD-CARDINAL'
+    - 'AMERICANFOOTBALL_USA_SYRACUSE-ORANGE'
+    - 'AMERICANFOOTBALL_USA_VIRGINIA-CAVALIERS'
+    - 'AMERICANFOOTBALL_USA_VIRGINIA-TECH-HOKIES'
+    - 'AMERICANFOOTBALL_USA_WAKE-FOREST-DEMON-DEACONS'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
