@@ -1,0 +1,56 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#e30613'
+'country': 'Spain'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-laliga2.png'
+'name': 'La Liga 2'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'SP_LIGA_2'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'SP_LIGA_2_26_27'
+    'endDate': !!timestamp '2027-06-06T00:00:00Z'
+    'startDate': !!timestamp '2026-08-14T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4400'
+    'espnId': '2026'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_SPAIN_ALBACETE'
+    - 'FOOTBALL_SPAIN_ALMERIA'
+    - 'FOOTBALL_SPAIN_BURGOS'
+    - 'FOOTBALL_SPAIN_CADIZ'
+    - 'FOOTBALL_SPAIN_CASTELLON'
+    - 'FOOTBALL_SPAIN_CELTA-FORTUNA'
+    - 'FOOTBALL_SPAIN_CEUTA'
+    - 'FOOTBALL_SPAIN_CORDOBA'
+    - 'FOOTBALL_SPAIN_EIBAR'
+    - 'FOOTBALL_SPAIN_ELDENSE'
+    - 'FOOTBALL_SPAIN_FC-ANDORRA'
+    - 'FOOTBALL_SPAIN_GIRONA'
+    - 'FOOTBALL_SPAIN_GRANADA'
+    - 'FOOTBALL_SPAIN_LAS-PALMAS'
+    - 'FOOTBALL_SPAIN_LEGANES'
+    - 'FOOTBALL_SPAIN_MALLORCA'
+    - 'FOOTBALL_SPAIN_REAL-OVIEDO'
+    - 'FOOTBALL_SPAIN_REAL-SOCIEDAD-B'
+    - 'FOOTBALL_SPAIN_VALLADOLID'
+    - 'FOOTBALL_SPAIN_SABADELL'
+    - 'FOOTBALL_SPAIN_SPORTING-GIJON'
+    - 'FOOTBALL_SPAIN_TENERIFE'
+'espnId': 'soccer/esp.2'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

@@ -1,0 +1,52 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#0b3d91'
+'country': 'France'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-france-frenchligue2.png'
+'name': 'French Ligue 2'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'French_Ligue_2'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'French_Ligue_2_2026_2027'
+    'endDate': !!timestamp '2027-05-22T00:00:00Z'
+    'startDate': !!timestamp '2026-08-08T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4401'
+    'espnId': '2026'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_FRANCE_ANNECY'
+    - 'FOOTBALL_FRANCE_BOULOGNE'
+    - 'FOOTBALL_FRANCE_CLERMONT-FOOT'
+    - 'FOOTBALL_FRANCE_DIJON'
+    - 'FOOTBALL_FRANCE_DUNKERQUE'
+    - 'FOOTBALL_FRANCE_GRENOBLE'
+    - 'FOOTBALL_FRANCE_GUINGAMP'
+    - 'FOOTBALL_FRANCE_LAVAL'
+    - 'FOOTBALL_FRANCE_METZ'
+    - 'FOOTBALL_FRANCE_MONTPELLIER'
+    - 'FOOTBALL_FRANCE_NANCY'
+    - 'FOOTBALL_FRANCE_NANTES'
+    - 'FOOTBALL_FRANCE_PAU'
+    - 'FOOTBALL_FRANCE_RED-STAR-FC'
+    - 'FOOTBALL_FRANCE_RODEZ'
+    - 'FOOTBALL_FRANCE_ST-ETIENNE'
+    - 'FOOTBALL_FRANCE_SOCHAUX'
+    - 'FOOTBALL_FRANCE_STADE-DE-REIMS'
+'espnId': 'soccer/fra.2'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
