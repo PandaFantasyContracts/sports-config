@@ -6,7 +6,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-arizona-diamondbacks.png'
   'color': '#A71930'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_ATHLETICS':
   'address': '0xd68cd8d466b4de0fa5a1ac3ad008386f8c83a15b'
   'name': 'Athletics'
@@ -15,7 +15,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-athletics.png'
   'color': '#003831'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_ATLANTA-BRAVES':
   'address': '0x59cc06534d6bb11d44dadc48df4e187d0c9a7ccf'
   'name': 'Atlanta Braves'
@@ -24,7 +24,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-atlanta-braves.png'
   'color': '#CE1141'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_BALTIMORE-ORIOLES':
   'address': '0x9d54bc91fd56ffbd9e541024d51a6292d24f9989'
   'name': 'Baltimore Orioles'
@@ -33,7 +33,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-baltimore-orioles.png'
   'color': '#DF4601'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_BOSTON-RED-SOX':
   'address': '0x66ea417d141167711a7d5302281bd254d24011b6'
   'name': 'Boston Red Sox'
@@ -42,7 +42,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-boston-red-sox.png'
   'color': '#BD3039'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_CHICAGO-CUBS':
   'address': '0xff78c395b38ecd7f5d7788978434666ece1ea6af'
   'name': 'Chicago Cubs'
@@ -51,7 +51,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-chicago-cubs.png'
   'color': '#0E3386'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_CHICAGO-WHITE-SOX':
   'address': '0xe49955669849dbb7e47ccba53c37e7a31cd12316'
   'name': 'Chicago White Sox'
@@ -60,7 +60,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-chicago-white-sox.png'
   'color': '#27251F'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_CINCINNATI-REDS':
   'address': '0xf85ef05ca24e76c32ad48f7c253d748076e11541'
   'name': 'Cincinnati Reds'
@@ -69,7 +69,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-cincinnati-reds.png'
   'color': '#C6011F'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_CLEVELAND-GUARDIANS':
   'address': '0x2940964d0cf502b80cd931717511d5ad71f9f049'
   'name': 'Cleveland Guardians'
@@ -78,7 +78,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-cleveland-guardians.png'
   'color': '#00385D'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_COLORADO-ROCKIES':
   'address': '0x0ee9622e168e158ba486e7c771fc4bfc39c64630'
   'name': 'Colorado Rockies'
@@ -87,7 +87,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-colorado-rockies.png'
   'color': '#33006F'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_DETROIT-TIGERS':
   'address': '0xd6073b33d776c746430b85563fa5a6b3d8f2f7ff'
   'name': 'Detroit Tigers'
@@ -96,7 +96,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-detroit-tigers.png'
   'color': '#0C2340'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_HOUSTON-ASTROS':
   'address': '0x7cfc5b00333f299b1995bae30f06da691075b1c7'
   'name': 'Houston Astros'
@@ -105,7 +105,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-houston-astros.png'
   'color': '#002D62'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_KANSAS-CITY-ROYALS':
   'address': '0x3fb520c78323fa1fa38c5a12b7fecaea75835a81'
   'name': 'Kansas City Royals'
@@ -114,7 +114,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-kansas-city-royals.png'
   'color': '#004687'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_LOS-ANGELES-ANGELS':
   'address': '0xd191750fa0153e869046cf2579ef9b7e42503168'
   'name': 'Los Angeles Angels'
@@ -123,7 +123,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-los-angeles-angels.png'
   'color': '#BA0021'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_LOS-ANGELES-DODGERS':
   'address': '0x1af39e47dd73cddfd5eea671039140e8e89227df'
   'name': 'Los Angeles Dodgers'
@@ -132,7 +132,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-los-angeles-dodgers.png'
   'color': '#005A9C'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_MIAMI-MARLINS':
   'address': '0x3db9f2f705735fd05b1e331dc93757db077e9da0'
   'name': 'Miami Marlins'
@@ -141,7 +141,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-miami-marlins.png'
   'color': '#00A3E0'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_MILWAUKEE-BREWERS':
   'address': '0x0a1132deabfb6f26cf0065e0e189b84ae20aef4d'
   'name': 'Milwaukee Brewers'
@@ -150,7 +150,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-milwaukee-brewers.png'
   'color': '#12284B'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_MINNESOTA-TWINS':
   'address': '0x1e214fdac642b5334e1d86d3777bd3078fdc6f9a'
   'name': 'Minnesota Twins'
@@ -159,7 +159,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-minnesota-twins.png'
   'color': '#002B5C'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_NEW-YORK-METS':
   'address': '0xce6686c7e65a59394cceb00d0eb69f9a95613724'
   'name': 'New York Mets'
@@ -168,7 +168,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-new-york-mets.png'
   'color': '#002D72'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_NEW-YORK-YANKEES':
   'address': '0x9b7d8f675f6c90903c1fdefdd99e2edae3589835'
   'name': 'New York Yankees'
@@ -177,7 +177,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-new-york-yankees.png'
   'color': '#003087'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_PHILADELPHIA-PHILLIES':
   'address': '0xfc6b59a293f8adac0c8dd32c14827790dd87b984'
   'name': 'Philadelphia Phillies'
@@ -186,7 +186,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-philadelphia-phillies.png'
   'color': '#E81828'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_PITTSBURGH-PIRATES':
   'address': '0xa5444591f89bc951e96325f039ffa30e06bc995e'
   'name': 'Pittsburgh Pirates'
@@ -195,7 +195,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-pittsburgh-pirates.png'
   'color': '#27251F'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_SAN-DIEGO-PADRES':
   'address': '0xf8149053aa16a54f7de4b16244c88b0a329c3245'
   'name': 'San Diego Padres'
@@ -204,7 +204,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-san-diego-padres.png'
   'color': '#2F241D'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_SAN-FRANCISCO-GIANTS':
   'address': '0xec50504a56cf430ab0b5a7dc8b45b958cc7cc396'
   'name': 'San Francisco Giants'
@@ -213,7 +213,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-san-francisco-giants.png'
   'color': '#FD5A1E'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_SEATTLE-MARINERS':
   'address': '0x3ecefa14369e7a21120a8c52552c667d75508eba'
   'name': 'Seattle Mariners'
@@ -222,7 +222,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-seattle-mariners.png'
   'color': '#0C2C56'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_ST-LOUIS-CARDINALS':
   'address': '0xfdb78e25d338e96a8f22737b3beaa444898d0bde'
   'name': 'St. Louis Cardinals'
@@ -231,7 +231,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-st-louis-cardinals.png'
   'color': '#C41E3A'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_TAMPA-BAY-RAYS':
   'address': '0x71039449eab8a27cecc6cd7f34e5cf30c186862a'
   'name': 'Tampa Bay Rays'
@@ -240,7 +240,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-tampa-bay-rays.png'
   'color': '#092C5C'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_TEXAS-RANGERS':
   'address': '0xa12ec111c29e31fe6beec736867d50f6a8dd3516'
   'name': 'Texas Rangers'
@@ -249,7 +249,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-texas-rangers.png'
   'color': '#003278'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_TORONTO-BLUE-JAYS':
   'address': '0x0c972b9710d2771287e6800cdb465e86fbc40091'
   'name': 'Toronto Blue Jays'
@@ -258,7 +258,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-toronto-blue-jays.png'
   'color': '#134A8E'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASEBALL_USA_WASHINGTON-NATIONALS':
   'address': '0x62a8a4bbb4cedceb513e5c0c28823b311914ff77'
   'name': 'Washington Nationals'
@@ -267,4 +267,4 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-washington-nationals.png'
   'color': '#AB0003'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'

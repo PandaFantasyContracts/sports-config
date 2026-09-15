@@ -7,7 +7,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-duke.png'
   'name': 'Duke Blue Devils'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_ARIZONA':
   'address': '0xd41f4d70f7c163d51943c60643d6ab7f4cdc9627'
   'code': 'ARIZ'
@@ -16,7 +16,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-arizona.png'
   'name': 'Arizona Wildcats'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MICHIGAN':
   'address': '0x237631155e10116fc5bd149ef0be8535e4c3a737'
   'code': 'MICH'
@@ -25,7 +25,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-michigan.png'
   'name': 'Michigan Wolverines'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_FLORIDA':
   'address': '0xd0caf75a88bb4103784f8cbb38cefb0d17f85a76'
   'code': 'FLA'
@@ -34,7 +34,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-florida.png'
   'name': 'Florida Gators'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 2-SEEDS ===
 'BASKETBALL_USA_UCONN':
   'address': '0xeaf96fceaca967dac7f32abdb67b54e191c09a91'
@@ -44,7 +44,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-uconn.png'
   'name': 'Connecticut Huskies'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_HOUSTON':
   'address': '0x6b07ab8a36db178804fb4714683a64cac61e46d1'
   'code': 'HOU'
@@ -53,7 +53,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-houston.png'
   'name': 'Houston Cougars'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_PURDUE':
   'address': '0x6208defc1c7d54cc16554c17f4bdc49d879038d0'
   'code': 'PUR'
@@ -62,7 +62,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-purdue.png'
   'name': 'Purdue Boilermakers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_IOWA-STATE':
   'address': '0xebcd5d5070d2999de2a3f4da5089b033579d7680'
   'code': 'ISU'
@@ -71,7 +71,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-iowa-state.png'
   'name': 'Iowa State Cyclones'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 3-SEEDS ===
 'BASKETBALL_USA_MICHIGAN-STATE':
   'address': '0xb3cedebc4558e68ca804da43caa23864e0384b96'
@@ -81,7 +81,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-michigan-state.png'
   'name': 'Michigan State Spartans'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_ILLINOIS':
   'address': '0x3e45145ef3b012618be8d692795b51688675a3a7'
   'code': 'ILL'
@@ -90,7 +90,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-illinois.png'
   'name': 'Illinois Fighting Illini'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_GONZAGA':
   'address': '0x3e430ab32585b3996ca2e95ed044fab28c458432'
   'code': 'GONZ'
@@ -99,7 +99,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-gonzaga.png'
   'name': 'Gonzaga Bulldogs'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_VIRGINIA':
   'address': '0x14d5a5269b1b09bdbaadb29d39d6bf06907c2d63'
   'code': 'UVA'
@@ -108,7 +108,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-virginia.png'
   'name': 'Virginia Cavaliers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 4-SEEDS ===
 'BASKETBALL_USA_KANSAS':
   'address': '0xb8141a11ee607979c23232698033630f8ab0c8ae'
@@ -118,7 +118,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-kansas.png'
   'name': 'Kansas Jayhawks'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NEBRASKA':
   'address': '0x38fabe22a7178c9afdf93805e4374c26ae4c53e1'
   'code': 'NEB'
@@ -127,7 +127,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-nebraska.png'
   'name': 'Nebraska Cornhuskers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_ARKANSAS':
   'address': '0xddf05f2c8621a9fff4b9af38e55ad0a2dd8fd2bc'
   'code': 'ARK'
@@ -136,7 +136,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-arkansas.png'
   'name': 'Arkansas Razorbacks'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_ALABAMA':
   'address': '0xaf752726eb103fe04702b5eb19059eafea66232a'
   'code': 'BAMA'
@@ -145,7 +145,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-alabama.png'
   'name': 'Alabama Crimson Tide'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 5-SEEDS ===
 'BASKETBALL_USA_ST-JOHNS':
   'address': '0xc8076ce56f6c8b5694f5c56fadb4759da61d40e2'
@@ -155,7 +155,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-st-johns.png'
   'name': "St. John's Red Storm"
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_VANDERBILT':
   'address': '0xdd671c66c2477f06dd289684de9f11129ef39476'
   'code': 'VAN'
@@ -164,7 +164,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-vanderbilt.png'
   'name': 'Vanderbilt Commodores'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_WISCONSIN':
   'address': '0x3f10b8e676028dc3500732a9320d570dd9327025'
   'code': 'WISC'
@@ -173,7 +173,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-wisconsin.png'
   'name': 'Wisconsin Badgers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TEXAS-TECH':
   'address': '0x2531da428fad6afb3104478004a229456a11b10b'
   'code': 'TTU'
@@ -182,7 +182,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-texas-tech.png'
   'name': 'Texas Tech Red Raiders'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 6-SEEDS ===
 'BASKETBALL_USA_LOUISVILLE':
   'address': '0x3c5e81990a34098a351f55f39f7f18d939a5b7d1'
@@ -192,7 +192,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-louisville.png'
   'name': 'Louisville Cardinals'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NORTH-CAROLINA':
   'address': '0x8a1336b3c9ec98ade78bc812d92c6d569e166a65'
   'code': 'UNC'
@@ -201,7 +201,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-north-carolina.png'
   'name': 'North Carolina Tar Heels'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_BYU':
   'address': '0x5653b333a52462345b919185344631465f60d440'
   'code': 'BYU'
@@ -210,7 +210,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-byu.png'
   'name': 'BYU Cougars'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TENNESSEE':
   'address': '0x36c9f11b048da6b3b286c6fab41d7adff5cf9ed1'
   'code': 'TENN'
@@ -219,7 +219,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-tennessee.png'
   'name': 'Tennessee Volunteers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 7-SEEDS ===
 'BASKETBALL_USA_UCLA':
   'address': '0xfdc196c5a66fa1ee537b606a839ac07f7362bf5c'
@@ -229,7 +229,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-ucla.png'
   'name': 'UCLA Bruins'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SAINT-MARYS':
   'address': '0xd253f69eaf8bfc065c31fff17652242d055ee322'
   'code': 'SMC'
@@ -238,7 +238,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-saint-marys.png'
   'name': "Saint Mary's Gaels"
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MIAMI':
   'address': '0x5e4b9c7e1709b36ff7fdaaef74758b864d1fec58'
   'code': 'MIA'
@@ -247,7 +247,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-miami.png'
   'name': 'Miami Hurricanes'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_KENTUCKY':
   'address': '0xd237d0d01b37731a1aabb15e85ca9bb08e037de6'
   'code': 'UK'
@@ -256,7 +256,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-kentucky.png'
   'name': 'Kentucky Wildcats'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 8-SEEDS ===
 'BASKETBALL_USA_OHIO-STATE':
   'address': '0x7ead693b0f2289e31fe2415bc01ffe6460e015f3'
@@ -266,7 +266,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-ohio-state.png'
   'name': 'Ohio State Buckeyes'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_CLEMSON':
   'address': '0xf56163aa230d02b5892fdfde6873ab3ca1c17e50'
   'code': 'CLEM'
@@ -275,7 +275,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-clemson.png'
   'name': 'Clemson Tigers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_VILLANOVA':
   'address': '0xc88302ea798ab149a77bcb9acccaf92083a1c3da'
   'code': 'NOVA'
@@ -284,7 +284,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-villanova.png'
   'name': 'Villanova Wildcats'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_GEORGIA':
   'address': '0xe67d3f6e565c495510fe2e141dc1f8061edbf5ea'
   'code': 'UGA'
@@ -293,7 +293,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-georgia.png'
   'name': 'Georgia Bulldogs'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 9-SEEDS ===
 'BASKETBALL_USA_TCU':
   'address': '0x1db6084331fa618dd8bf8f51e5124d03e2ed594d'
@@ -303,7 +303,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-tcu.png'
   'name': 'TCU Horned Frogs'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_IOWA':
   'address': '0xf9406921f5cb6a1275dcfc038608d984494d068e'
   'code': 'IOWA'
@@ -312,7 +312,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-iowa.png'
   'name': 'Iowa Hawkeyes'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_UTAH-STATE':
   'address': '0x8f8efad1af642ebe426ebfc8f11cb41f2fbaa859'
   'code': 'USU'
@@ -321,7 +321,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-utah-state.png'
   'name': 'Utah State Aggies'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_ST-LOUIS':
   'address': '0x92f9cc36ca25796bd976c0df4b527af85901da9e'
   'code': 'SLU'
@@ -330,7 +330,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-st-louis.png'
   'name': 'Saint Louis Billikens'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 10-SEEDS ===
 'BASKETBALL_USA_UCF':
   'address': '0x6d828a3f492c8da62a65e901075c0de23d8705fa'
@@ -340,7 +340,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-ucf.png'
   'name': 'UCF Knights'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TEXAS-AM':
   'address': '0x87958b6d1d10a9a6288bfda2b36e5f015f08895c'
   'code': 'TAMU'
@@ -349,7 +349,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-texas-am.png'
   'name': 'Texas A&M Aggies'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MISSOURI':
   'address': '0x79d7dc5edc8c84155c55ef1bf64f7fc856f494e9'
   'code': 'MIZ'
@@ -358,7 +358,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-missouri.png'
   'name': 'Missouri Tigers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SANTA-CLARA':
   'address': '0xed83b45c0296e6b98d46dd95459a2da32cd152b8'
   'code': 'SCU'
@@ -367,7 +367,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-santa-clara.png'
   'name': 'Santa Clara Broncos'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 11-SEEDS ===
 'BASKETBALL_USA_SOUTH-FLORIDA':
   'address': '0x37a504499f582675287823117fad07b410153d0e'
@@ -377,7 +377,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-south-florida.png'
   'name': 'South Florida Bulls'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_VCU':
   'address': '0x971b99e94b2588acc371ec275bd226afc4b48a76'
   'code': 'VCU'
@@ -386,7 +386,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-vcu.png'
   'name': 'VCU Rams'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TEXAS':
   'address': '0x4a6d54c2ec4c70de4a9699515f5516d921680bc7'
   'code': 'TEX'
@@ -395,7 +395,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-texas.png'
   'name': 'Texas Longhorns'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NC-STATE':
   'address': '0xe5ee7ed69e811ce9813a34b1d5124d65acb4076c'
   'code': 'NCST'
@@ -404,7 +404,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-nc-state.png'
   'name': 'NC State Wolfpack'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MIAMI-OH':
   'address': '0x3c62e6275e338c4b974a581812da2e790379c7ac'
   'code': 'MOH'
@@ -413,7 +413,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-miami-oh.png'
   'name': 'Miami (OH) RedHawks'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SMU':
   'address': '0xfaa33955cca46335f1b1b066ef6c4b805a4ae254'
   'code': 'SMU'
@@ -422,7 +422,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-smu.png'
   'name': 'SMU Mustangs'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 12-SEEDS ===
 'BASKETBALL_USA_NORTHERN-IOWA':
   'address': '0x00a2f4b6eb9ca7b1257c2f55003f8e4da05bbee4'
@@ -432,7 +432,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-northern-iowa.png'
   'name': 'Northern Iowa Panthers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MCNEESE':
   'address': '0x3802bebc0e2aa60671b78390b2629832c02d0cc0'
   'code': 'MCN'
@@ -441,7 +441,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-mcneese.png'
   'name': 'McNeese Cowboys'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_HIGH-POINT':
   'address': '0xc73cfeea0db0f888c7b66c55868b0097cb05dffb'
   'code': 'HPU'
@@ -450,7 +450,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-high-point.png'
   'name': 'High Point Panthers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_AKRON':
   'address': '0x9111cacbdce3ad3a9d24a29f23eeb0d241fc6c6e'
   'code': 'AKR'
@@ -459,7 +459,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-akron.png'
   'name': 'Akron Zips'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 13-SEEDS ===
 'BASKETBALL_USA_CAL-BAPTIST':
   'address': '0x7aa841636b4395ddc2117bef01f2a55ead32dfc5'
@@ -469,7 +469,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-cal-baptist.png'
   'name': 'Cal Baptist Lancers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TROY':
   'address': '0x09436780b6c392b7f7e6c113835fdaa66fb70e02'
   'code': 'TROY'
@@ -478,7 +478,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-troy.png'
   'name': 'Troy Trojans'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_HAWAII':
   'address': '0xe5fc953a9edeafddc98b53bfc6d628ab90e1c65e'
   'code': 'HAW'
@@ -487,7 +487,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-hawaii.png'
   'name': "Hawai'i Rainbow Warriors"
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_HOFSTRA':
   'address': '0x72279bc244fcddb857d7b3af3ec40df4af4442c6'
   'code': 'HOF'
@@ -496,7 +496,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-hofstra.png'
   'name': 'Hofstra Pride'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 14-SEEDS ===
 'BASKETBALL_USA_NORTH-DAKOTA-STATE':
   'address': '0x264499abcba6d76d6b694d3e6ff4e712592be92c'
@@ -506,7 +506,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-north-dakota-state.png'
   'name': 'North Dakota State Bison'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_PENN':
   'address': '0x7cb430c6fa23be4d63c4ffc28612cca851767cec'
   'code': 'PENN'
@@ -515,7 +515,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-penn.png'
   'name': 'Penn Quakers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_KENNESAW-STATE':
   'address': '0x9bc1f894517ef74aa4d739df4eccfe1ae7c3ffa9'
   'code': 'KENN'
@@ -524,7 +524,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-kennesaw-state.png'
   'name': 'Kennesaw State Owls'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_WRIGHT-STATE':
   'address': '0x3f02396041ac0251561dbde3199f80ff5f70ca2b'
   'code': 'WSU'
@@ -533,7 +533,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-wright-state.png'
   'name': 'Wright State Raiders'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 15-SEEDS ===
 'BASKETBALL_USA_FURMAN':
   'address': '0x5db6c3a003cbd22736ce2d9669dbde8625614643'
@@ -543,7 +543,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-furman.png'
   'name': 'Furman Paladins'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_IDAHO':
   'address': '0xfcaa14548600bdc070eacfce25ee33f31d451074'
   'code': 'IDHO'
@@ -552,7 +552,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-idaho.png'
   'name': 'Idaho Vandals'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_QUEENS':
   'address': '0x077ebcfaae7217ba42ff694481771caff3ac3d1e'
   'code': 'QU'
@@ -561,7 +561,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-queens.png'
   'name': 'Queens Royals'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TENNESSEE-STATE':
   'address': '0x5988cb143c912d6127afb23aabe20324086c05e2'
   'code': 'TNST'
@@ -570,7 +570,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-tennessee-state.png'
   'name': 'Tennessee State Tigers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 # === 16-SEEDS ===
 'BASKETBALL_USA_UMBC':
   'address': '0x9033aaf6ef68735ee6a6629f8154fd5a84d30811'
@@ -580,7 +580,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-umbc.png'
   'name': 'UMBC Retrievers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_HOWARD':
   'address': '0x68f35914ae62304c7aacac9ac9c02cfd73d40125'
   'code': 'HOW'
@@ -589,7 +589,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-howard.png'
   'name': 'Howard Bison'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_PRAIRIE-VIEW':
   'address': '0x9d540e07ec2304c84847e2f66b5339a7e930edab'
   'code': 'PVAM'
@@ -598,7 +598,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-prairie-view.png'
   'name': 'Prairie View A&M Panthers'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_LEHIGH':
   'address': '0x3b08eaceda291a5a8186553ad51610fd6b1c800b'
   'code': 'LEH'
@@ -607,7 +607,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-lehigh.png'
   'name': 'Lehigh Mountain Hawks'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_LIU':
   'address': '0x1066beae923b0f4e80c67cc1fcd89551f34788b8'
   'code': 'LIU'
@@ -616,7 +616,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-liu.png'
   'name': 'LIU Sharks'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SIENA':
   'address': '0x8e47a4d109f663420676108f8eba4a04cfc5d351'
   'code': 'SIEN'
@@ -625,7 +625,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-siena.png'
   'name': 'Siena Saints'
   'tradeType': 'ALL'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
   # === NBA TEAMS ===
 'BASKETBALL_USA_ATLANTA-HAWKS':
   'address': '0xa78ffbde7c55a688e10030767afedc4941e58cf2'
@@ -634,7 +634,7 @@
   'espnId': '1'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-atlanta-hawks.png'
   'color': '#E03A3E'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_BOSTON-CELTICS':
   'address': '0x47aeac24f44e1e4006aada7b88e377b068916a61'
   'name': 'Boston Celtics'
@@ -642,7 +642,7 @@
   'espnId': '2'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-boston-celtics.png'
   'color': '#007A33'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_BROOKLYN-NETS':
   'address': '0x07e77f6360346ad2c3f2ca392372ac3472904f75'
   'name': 'Brooklyn Nets'
@@ -650,7 +650,7 @@
   'espnId': '17'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-brooklyn-nets.png'
   'color': '#000000'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_CHARLOTTE-HORNETS':
   'address': '0xfcb126a3946bd82fa059404559f2c44f1fe98c9d'
   'name': 'Charlotte Hornets'
@@ -658,7 +658,7 @@
   'espnId': '30'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-charlotte-hornets.png'
   'color': '#1D1160'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_CHICAGO-BULLS':
   'address': '0x091bd2d962c932508a33eaedb4d521a620f2c001'
   'name': 'Chicago Bulls'
@@ -666,7 +666,7 @@
   'espnId': '4'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-chicago-bulls.png'
   'color': '#CE1141'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_CLEVELAND-CAVALIERS':
   'address': '0xad8eededfd4108da2e6012f293f6b9433537d34c'
   'name': 'Cleveland Cavaliers'
@@ -674,7 +674,7 @@
   'espnId': '5'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-cleveland-cavaliers.png'
   'color': '#860038'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_DALLAS-MAVERICKS':
   'address': '0x453c42585da4ee5c02fda9fdb20d5a4e96e19335'
   'name': 'Dallas Mavericks'
@@ -682,7 +682,7 @@
   'espnId': '6'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-dallas-mavericks.png'
   'color': '#00538C'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_DENVER-NUGGETS':
   'address': '0xdf4dcce06a7bc8f30bd99a7ed52886ef06f69098'
   'name': 'Denver Nuggets'
@@ -690,7 +690,7 @@
   'espnId': '7'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-denver-nuggets.png'
   'color': '#0E2240'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_DETROIT-PISTONS':
   'address': '0x581da39ac81c6132a0c74464647993001625f8cc'
   'name': 'Detroit Pistons'
@@ -698,7 +698,7 @@
   'espnId': '8'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-detroit-pistons.png'
   'color': '#C8102E'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_GOLDEN-STATE-WARRIORS':
   'address': '0xe3137c6411d0ea9149043005d7865be9d88a1091'
   'name': 'Golden State Warriors'
@@ -706,7 +706,7 @@
   'espnId': '9'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-golden-state-warriors.png'
   'color': '#1D428A'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_HOUSTON-ROCKETS':
   'address': '0x41ec36bcc3f171246761e615f799d8453574d015'
   'name': 'Houston Rockets'
@@ -714,7 +714,7 @@
   'espnId': '10'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-houston-rockets.png'
   'color': '#CE1141'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_INDIANA-PACERS':
   'address': '0x080dc73cb5f11a1dbad0f263b24680c46d788c82'
   'name': 'Indiana Pacers'
@@ -722,7 +722,7 @@
   'espnId': '11'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-indiana-pacers.png'
   'color': '#002D62'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_LA-CLIPPERS':
   'address': '0x6dde4a5beae81b12a424a6b2ca5bdb2fba387466'
   'name': 'LA Clippers'
@@ -730,7 +730,7 @@
   'espnId': '12'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-la-clippers.png'
   'color': '#C8102E'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_LOS-ANGELES-LAKERS':
   'address': '0x30d17abc505d13e146e8a54d3a8240b6c752174b'
   'name': 'Los Angeles Lakers'
@@ -738,7 +738,7 @@
   'espnId': '13'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-los-angeles-lakers.png'
   'color': '#552583'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MEMPHIS-GRIZZLIES':
   'address': '0x7287134faa2ee32bd6fa54c30a192e4e10ca983a'
   'name': 'Memphis Grizzlies'
@@ -746,7 +746,7 @@
   'espnId': '29'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-memphis-grizzlies.png'
   'color': '#5D76A9'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MIAMI-HEAT':
   'address': '0xf151ee033d06f21febceeb36fe6bc898e44d6e2f'
   'name': 'Miami Heat'
@@ -754,7 +754,7 @@
   'espnId': '14'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-miami-heat.png'
   'color': '#98002E'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MILWAUKEE-BUCKS':
   'address': '0xa3b17975bb8efc2ed0ca625d992f4fedd76a95fd'
   'name': 'Milwaukee Bucks'
@@ -762,7 +762,7 @@
   'espnId': '15'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-milwaukee-bucks.png'
   'color': '#00471B'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MINNESOTA-TIMBERWOLVES':
   'address': '0x68367b1f8d2c5c725704239443e148273be17a8a'
   'name': 'Minnesota Timberwolves'
@@ -770,7 +770,7 @@
   'espnId': '16'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-minnesota-timberwolves.png'
   'color': '#0C2340'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NEW-ORLEANS-PELICANS':
   'address': '0xb7835bada1946c8970459003a790bae8273d04e5'
   'name': 'New Orleans Pelicans'
@@ -778,7 +778,7 @@
   'espnId': '3'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-new-orleans-pelicans.png'
   'color': '#0C2340'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NEW-YORK-KNICKS':
   'address': '0x68bc105114afb901e6baba9ccdf5cd47a0ea3727'
   'name': 'New York Knicks'
@@ -786,7 +786,7 @@
   'espnId': '18'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-new-york-knicks.png'
   'color': '#006BB6'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_OKLAHOMA-CITY-THUNDER':
   'address': '0x2600634f2474b00928dd5da2f153e936ddd37c89'
   'name': 'Oklahoma City Thunder'
@@ -794,7 +794,7 @@
   'espnId': '25'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-oklahoma-city-thunder.png'
   'color': '#007AC1'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_ORLANDO-MAGIC':
   'address': '0x7ad16c30210a92f6d6c90b1c981eaa7927a2cae0'
   'name': 'Orlando Magic'
@@ -802,7 +802,7 @@
   'espnId': '19'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-orlando-magic.png'
   'color': '#0077C0'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_PHILADELPHIA-76ERS':
   'address': '0x521cb9c99a60ad7b746875b5fa09bc1a3100060d'
   'name': 'Philadelphia 76ers'
@@ -810,7 +810,7 @@
   'espnId': '20'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-philadelphia-76ers.png'
   'color': '#006BB6'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_PHOENIX-SUNS':
   'address': '0x4b22136d1d7ad1c50215247d264d0679f2a17129'
   'name': 'Phoenix Suns'
@@ -818,7 +818,7 @@
   'espnId': '21'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-phoenix-suns.png'
   'color': '#1D1160'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_PORTLAND-TRAIL-BLAZERS':
   'address': '0x445ab1ab96a33cb8bee03373410bec3472429a8f'
   'name': 'Portland Trail Blazers'
@@ -826,7 +826,7 @@
   'espnId': '22'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-portland-trail-blazers.png'
   'color': '#E03A3E'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SACRAMENTO-KINGS':
   'address': '0x690cd5742e3f1188867ff2d1307fba20cc4f2050'
   'name': 'Sacramento Kings'
@@ -834,7 +834,7 @@
   'espnId': '23'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-sacramento-kings.png'
   'color': '#5A2D81'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SAN-ANTONIO-SPURS':
   'address': '0xce73e4be68e4aa081d83b7909bbcb47950ba4c13'
   'name': 'San Antonio Spurs'
@@ -842,7 +842,7 @@
   'espnId': '24'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-san-antonio-spurs.png'
   'color': '#C4CED4'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TORONTO-RAPTORS':
   'address': '0x60e4769c32326c9a3b9bdea032165dfc55eb070a'
   'name': 'Toronto Raptors'
@@ -850,7 +850,7 @@
   'espnId': '28'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-toronto-raptors.png'
   'color': '#CE1141'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_UTAH-JAZZ':
   'address': '0x8464b83390381ccc3aec2141909bb033303bace9'
   'name': 'Utah Jazz'
@@ -858,7 +858,7 @@
   'espnId': '26'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-utah-jazz.png'
   'color': '#002B5C'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'BASKETBALL_USA_WASHINGTON-WIZARDS':
   'address': '0xbf4763fd1681d4e8bed54dd89de54d919ec5de03'
   'name': 'Washington Wizards'
@@ -866,4 +866,4 @@
   'espnId': '27'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-washington-wizards.png'
   'color': '#002B5C'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'

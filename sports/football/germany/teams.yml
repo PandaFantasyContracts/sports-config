@@ -15,7 +15,7 @@
   'name': 'FC Cologne'
   'tsdbId': '133654'
   'espnId': '122'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_FC-AUGSBURG':
   'address': '0x0a1db478abae0d9cb4d1d171b0f125ad771902c6'
   'code': 'AUG'
@@ -24,7 +24,7 @@
   'name': 'FC Augsburg'
   'tsdbId': '133652'
   'espnId': '3841'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_UNION-BERLIN':
   'address': '0x4974cfd2fe7f90226fc730feafdf9879f5925c49'
   'code': 'FCU'
@@ -33,7 +33,7 @@
   'name': 'Union Berlin'
   'tsdbId': '134690'
   'espnId': '598'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_EINTRACHT-FRANKFURT':
   'address': '0x2a1ba643ba12f24239275f398c5c6fe420869d0a'
   'code': 'SGE'
@@ -42,7 +42,7 @@
   'name': 'Eintracht Frankfurt'
   'tsdbId': '133814'
   'espnId': '125'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_MAINZ':
   'address': '0xb3e2ac917a60f50076f801babddce572a781d637'
   'code': 'MAI'
@@ -51,7 +51,7 @@
   'name': 'Mainz'
   'tsdbId': '133665'
   'espnId': '2950'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_STUTTGART':
   'address': '0xcd9bb694ba638a3a5dbc45f0ae6ceb33f13a4c9b'
   'code': 'STU'
@@ -60,7 +60,7 @@
   'name': 'Stuttgart'
   'tsdbId': '133660'
   'espnId': '134'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_BORUSSIA-MÖNCHENGLADBACH':
   'address': '0xbe9213f93a2f5dd0350bb4ace6eb04852c8f61be'
   'code': 'BOM'
@@ -69,7 +69,7 @@
   'name': 'Borussia Mönchengladbach'
   'tsdbId': '134779'
   'espnId': '268'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_FC-HEIDENHEIM':
   'address': '0x0ce0d0fe6dd417d547567b4df29a45dd4e92497c'
   'code': 'HEI'
@@ -96,7 +96,7 @@
   'name': 'RB Leipzig'
   'tsdbId': '134695'
   'espnId': '11420'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_HOFFENHEIM':
   'address': '0xa6c95a3d10a060ce9b8968695dd5a45313171ffe'
   'code': 'HOF'
@@ -105,7 +105,7 @@
   'name': 'Hoffenheim'
   'tsdbId': '133657'
   'espnId': '7911'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_WOLFSBURG':
   'address': '0x80d6a1a6dc27e9f8403d808f8db2944c187bdd83'
   'code': 'WOL'
@@ -123,7 +123,7 @@
   'name': 'Bayern Munich'
   'tsdbId': '133664'
   'espnId': '132'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_WERDER-BREMEN':
   'address': '0xa88923a0134d10e640f4954a29c18db091a4b106'
   'code': 'BRE'
@@ -132,7 +132,7 @@
   'name': 'Werder Bremen'
   'tsdbId': '133662'
   'espnId': '137'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_BAYER-LEVERKUSEN':
   'address': '0x59a5c3ac22fff20f47b4435c0b45b5dda3be853c'
   'code': 'B04'
@@ -141,7 +141,7 @@
   'name': 'Bayer Leverkusen'
   'tsdbId': '133666'
   'espnId': '131'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_HAMBURG':
   'address': '0xf7735bc65b4a596b16bc10135cb6c0408005d5a6'
   'code': 'HSV'
@@ -150,7 +150,7 @@
   'name': 'Hamburg'
   'tsdbId': '133651'
   'espnId': '127'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_FREIBURG':
   'address': '0xc875e826c592fb5e7d5b6170ed07e1b588b7154e'
   'code': 'FRE'
@@ -159,7 +159,7 @@
   'name': 'Freiburg'
   'tsdbId': '133653'
   'espnId': '126'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_BORUSSIA-DORTMUND':
   'address': '0x67ee2017b968609d7990e69a480651c79ce1e9e6'
   'code': 'DOR'
@@ -168,7 +168,7 @@
   'name': 'Borussia Dortmund'
   'tsdbId': '133650'
   'espnId': '124'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_BOCHUM':
   'address': '0xcd3cca38507250c616442d3921ce48e82b3360dd'
   'code': 'BOC'
@@ -186,7 +186,7 @@
   'name': 'Schalke 04'
   'tsdbId': '133661'
   'espnId': '133'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_ELVERSBERG':
   'address': '0x32f95af487cec6f2ff3f3060d67537de71928afa'
   'code': 'ELV'
@@ -195,7 +195,7 @@
   'name': 'Elversberg'
   'tsdbId': '138411'
   'espnId': '10388'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_PADERBORN':
   'address': '0x62cdfc7556090cb2aef4d579a6114242e0c9dc71'
   'code': 'SCP'
@@ -204,7 +204,7 @@
   'name': 'Paderborn'
   'tsdbId': '134551'
   'espnId': '3307'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_ARMINIA-BIELEFELD':
   'address': '0x4b0c7619f06597066edf7274969202d56fc4e7cf'
   'code': 'DSC'

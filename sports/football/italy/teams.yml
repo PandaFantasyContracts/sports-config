@@ -6,7 +6,7 @@
   'name': 'Monza'
   'tsdbId': '134270'
   'espnId': '4007'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_FIORENTINA':
   'address': '0x47ab9cf96b8a70abdb452f64ec57423cbbc128d0'
   'code': 'FIO'
@@ -15,7 +15,7 @@
   'name': 'Fiorentina'
   'tsdbId': '133674'
   'espnId': '109'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_VENEZIA':
   'address': '0x162d9862d1a7dfa0b8fa049747f55e7fc0f13acc'
   'code': 'VEN'
@@ -24,7 +24,7 @@
   'name': 'Venezia'
   'tsdbId': '134234'
   'espnId': '17530'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_AC-MILAN':
   'address': '0xecbe637edfa47e2f55f51dd891b5dea64fc80004'
   'code': 'MIL'
@@ -33,7 +33,7 @@
   'name': 'AC Milan'
   'tsdbId': '133667'
   'espnId': '103'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_PISA':
   'address': '0xe81eeddf82fd0dc4c113445aeb70a2e322d46036'
   'code': 'PIS'
@@ -51,7 +51,7 @@
   'name': 'Bologna'
   'tsdbId': '134781'
   'espnId': '107'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_NAPOLI':
   'address': '0x22f0e5bab851e9f590734632d68fb8078646dbfa'
   'code': 'NAP'
@@ -60,7 +60,7 @@
   'name': 'Napoli'
   'tsdbId': '133670'
   'espnId': '114'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_SASSUOLO':
   'address': '0x4d033f578e7c04a9741b7dd10a874006c30d583f'
   'code': 'SAS'
@@ -69,7 +69,7 @@
   'name': 'Sassuolo'
   'tsdbId': '133701'
   'espnId': '3997'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_CAGLIARI':
   'address': '0x0957097437de2300dbd05871cf8a6cd421b6dba9'
   'code': 'CAG'
@@ -78,7 +78,7 @@
   'name': 'Cagliari'
   'tsdbId': '134783'
   'espnId': '2925'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_UDINESE':
   'address': '0xb42361848a6a9a23d133aac1bba2aba8300ec05c'
   'code': 'UDI'
@@ -87,7 +87,7 @@
   'name': 'Udinese'
   'tsdbId': '133679'
   'espnId': '118'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_JUVENTUS':
   'address': '0x1ac5ea248032a3c396fb179049391f2231abb104'
   'code': 'JUV'
@@ -96,7 +96,7 @@
   'name': 'Juventus'
   'tsdbId': '133676'
   'espnId': '111'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_LAZIO':
   'address': '0x44ecd51abf37294e04aa7c9b6265bb5430a86cc3'
   'code': 'LAZ'
@@ -105,7 +105,7 @@
   'name': 'Lazio'
   'tsdbId': '133668'
   'espnId': '112'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_ROMA':
   'address': '0x859766d6608e2572c8d71a32b646faf191e021ca'
   'code': 'ROM'
@@ -114,7 +114,7 @@
   'name': 'Roma'
   'tsdbId': '133682'
   'espnId': '104'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_PARMA-CALCIO-1913':
   'address': '0x4be3914b292dd5b35f4e712e1fc5129240f1e5cc'
   'code': 'PAR'
@@ -123,7 +123,7 @@
   'name': 'Parma Calcio 1913'
   'tsdbId': '135728'
   'espnId': '115'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_LECCE':
   'address': '0xec1052b3a49bcbf54eaa4b13d59c9d4e47d535a3'
   'code': 'LEC'
@@ -132,7 +132,7 @@
   'name': 'Lecce'
   'tsdbId': '133678'
   'espnId': '113'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_COMO':
   'address': '0x392964e13af8656840256e93de64f04f95bca217'
   'code': 'COM'
@@ -141,7 +141,7 @@
   'name': 'Como'
   'tsdbId': '134243'
   'espnId': '2572'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_CREMONESE':
   'address': '0x2d2729191a66bcc7206b4f0e077226fa27c437a8'
   'code': 'CRE'
@@ -168,7 +168,7 @@
   'name': 'Atalanta'
   'tsdbId': '134782'
   'espnId': '105'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_EMPOLI':
   'address': '0xf0e39a9db2df7873fc7b37854d5dd9768ac7d833'
   'code': 'EMP'
@@ -186,7 +186,7 @@
   'name': 'Inter Milan'
   'tsdbId': '133681'
   'espnId': '110'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_GENOA':
   'address': '0xf5b8a0b925d7776706380b9358497a48b079aa3a'
   'code': 'GEN'
@@ -195,7 +195,7 @@
   'name': 'Genoa'
   'tsdbId': '133675'
   'espnId': '3263'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_TORINO':
   'address': '0x6b2e57c76bf86d4abdc09462a541037fbdc43b13'
   'code': 'TOR'
@@ -204,7 +204,7 @@
   'name': 'Torino'
   'tsdbId': '133687'
   'espnId': '239'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_FROSINONE':
   'address': '0xb5044f14d4e8df20552b2ec85b62884c66bf4563'
   'code': 'FRO'
@@ -213,7 +213,7 @@
   'name': 'Frosinone'
   'tsdbId': '133818'
   'espnId': '4057'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_AREZZO':
   'address': '0x3891c94421bd05295d6470a832777fa8fdae0ce5'
   'code': 'ARE'

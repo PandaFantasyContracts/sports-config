@@ -6,7 +6,7 @@
   'name': 'Cardiff'
   'tsdbId': '133637'
   'espnId': '347'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SHEFFIELD-WEDS':
   'address': '0x7ce319e08cc7d107037364c040c90da483b5ea6f'
   'code': 'SHF'
@@ -15,7 +15,7 @@
   'name': 'Sheffield Weds'
   'tsdbId': '133837'
   'espnId': '399'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BOLTON-WANDERERS':
   'address': '0x566471824df65ab215f8a0eccdb396af512df428'
   'code': 'BOL'
@@ -24,7 +24,7 @@
   'name': 'Bolton Wanderers'
   'tsdbId': '133606'
   'espnId': '358'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BARNSLEY':
   'address': '0xd3c0d9daf35d48b39d63b74851269c2fe5b83011'
   'code': 'BRS'
@@ -33,7 +33,7 @@
   'name': 'Barnsley'
   'tsdbId': '133630'
   'espnId': '397'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SOUTHAMPTON':
   'address': '0x2b3cc548a64873070ac2d7f4872b263a7aa67065'
   'code': 'SOU'
@@ -42,7 +42,7 @@
   'name': 'Southampton'
   'tsdbId': '134778'
   'espnId': '376'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MIDDLESBROUGH':
   'address': '0xce27c18f82d92487c04775f4239990b2f48c73fc'
   'code': 'MID'
@@ -51,7 +51,7 @@
   'name': 'Middlesbrough'
   'tsdbId': '133628'
   'espnId': '369'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_ASTON-VILLA':
   'address': '0x02628478a6a8b07cad896d5150ae401b13e17673'
   'code': 'AVL'
@@ -60,7 +60,7 @@
   'name': 'Aston Villa'
   'tsdbId': '133601'
   'espnId': '362'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PORTSMOUTH':
   'address': '0x4203752c60554d2a1118d2fac07cc28e417a268c'
   'code': 'PTM'
@@ -69,7 +69,7 @@
   'name': 'Portsmouth'
   'tsdbId': '133629'
   'espnId': '385'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_EXETER-CITY':
   'address': '0x0c95ca4b9b21f7f6788ddb2ff40fd1a620b88851'
   'code': 'EXE'
@@ -87,7 +87,7 @@
   'name': 'Blackpool'
   'tsdbId': '133618'
   'espnId': '346'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRISTOL-CITY':
   'address': '0x7a9b105b955f12cc9f91556eb400d8c2ac59bc86'
   'code': 'BSC'
@@ -96,7 +96,7 @@
   'name': 'Bristol City'
   'tsdbId': '133621'
   'espnId': '333'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WEST-BROM':
   'address': '0xf021d9f9d06167b1d5ceb744c093004d7d4216fa'
   'code': 'WBA'
@@ -105,7 +105,7 @@
   'name': 'West Brom'
   'tsdbId': '133611'
   'espnId': '383'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SUNDERLAND':
   'address': '0x4a46f25261639c752d152bc9684ab9a321c25c03'
   'code': 'SUN'
@@ -114,7 +114,7 @@
   'name': 'Sunderland'
   'tsdbId': '133603'
   'espnId': '366'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MANCHESTER-CITY':
   'address': '0x22a1aaf104e27b7b3a050b445b73610c177d9a13'
   'code': 'MCI'
@@ -123,7 +123,7 @@
   'name': 'Man City'
   'tsdbId': '133613'
   'espnId': '382'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NORWICH':
   'address': '0x0a612b86aa6dc7a4cfef98b81398e1dd981897cf'
   'code': 'NOR'
@@ -132,7 +132,7 @@
   'name': 'Norwich'
   'tsdbId': '133608'
   'espnId': '381'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_ROTHERHAM-UNITED':
   'address': '0x09487bf332154ce1c4c48899c2c49cfce8ccf9d2'
   'code': 'RTU'
@@ -150,7 +150,7 @@
   'name': 'Tottenham'
   'tsdbId': '133616'
   'espnId': '367'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WOLVES':
   'address': '0xc4f6b9da18f57bf6ed6bc3a3e24adbd004b69719'
   'code': 'WOL'
@@ -159,7 +159,7 @@
   'name': 'Wolves'
   'tsdbId': '133599'
   'espnId': '380'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_EVERTON':
   'address': '0x7256e4eedfddb4043921a18bba2addad447a6a7c'
   'code': 'EVE'
@@ -168,7 +168,7 @@
   'name': 'Everton'
   'tsdbId': '133615'
   'espnId': '368'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_HULL':
   'address': '0x61e68436ab617456605615b4d911c46d6e88c0e0'
   'code': 'HUL'
@@ -177,7 +177,7 @@
   'name': 'Hull'
   'tsdbId': '133617'
   'espnId': '306'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BOURNEMOUTH':
   'address': '0x1afaf94d0f1417453db811cccb069a21d75cc9a2'
   'code': 'BOU'
@@ -186,7 +186,7 @@
   'name': 'Bournemouth'
   'tsdbId': '134301'
   'espnId': '349'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_READING':
   'address': '0xa65816ada34b6f7786e39c9c18fcfaacb10a5fad'
   'code': 'RDG'
@@ -195,7 +195,7 @@
   'name': 'Reading'
   'tsdbId': '133633'
   'espnId': '338'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_IPSWICH':
   'address': '0x9dd736728e3f0260c845a5085fa709e02b8ffc18'
   'code': 'IPS'
@@ -204,7 +204,7 @@
   'name': 'Ipswich'
   'tsdbId': '133622'
   'espnId': '373'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SHEFFIELD-UTD':
   'address': '0xd5091a49a3757907fc7507fc15206a1f0b81b615'
   'code': 'SHU'
@@ -213,7 +213,7 @@
   'name': 'Sheffield Utd'
   'tsdbId': '133811'
   'espnId': '398'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WEST-HAM':
   'address': '0xcc6a871cef898c65ed7b96e161596021b74cd9f2'
   'code': 'WHU'
@@ -222,7 +222,7 @@
   'name': 'West Ham'
   'tsdbId': '133636'
   'espnId': '371'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MANSFIELD-TOWN':
   'address': '0x0d625803a03705840400a101faeec47af47334ca'
   'code': 'MSF'
@@ -231,7 +231,7 @@
   'name': 'Mansfield Town'
   'tsdbId': '134381'
   'espnId': '304'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_STOKE':
   'address': '0xa923328090a2ce02908ce8ae5d1d575f81fd16ac'
   'code': 'STK'
@@ -240,7 +240,7 @@
   'name': 'Stoke'
   'tsdbId': '133609'
   'espnId': '336'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRIGHTON':
   'address': '0x13366fd3476b20da988c2d7b4edf96411235cdbb'
   'code': 'BHA'
@@ -249,7 +249,7 @@
   'name': 'Brighton'
   'tsdbId': '133619'
   'espnId': '331'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BLACKBURN':
   'address': '0x6a622c1728ce5d55d3f72a5eda0cfa641edbf7f1'
   'code': 'BBR'
@@ -258,7 +258,7 @@
   'name': 'Blackburn'
   'tsdbId': '133598'
   'espnId': '365'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BURTON-ALBION':
   'address': '0x73b44541a08eebb55a9e6751153c8f280381bb15'
   'code': 'BRA'
@@ -267,7 +267,7 @@
   'name': 'Burton Albion'
   'tsdbId': '134376'
   'espnId': '2567'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PRESTON':
   'address': '0x5be6363ceec491953d8e6dccd53093fac3205d72'
   'code': 'PNE'
@@ -276,7 +276,7 @@
   'name': 'Preston'
   'tsdbId': '133809'
   'espnId': '394'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PLYMOUTH':
   'address': '0xf83d39c759ccd0a647150ff46742c57879d77886'
   'code': 'PLA'
@@ -285,7 +285,7 @@
   'name': 'Plymouth'
   'tsdbId': '133836'
   'espnId': '307'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NEWCASTLE':
   'address': '0xff8945ec37cfb4cf6fcac2e0d98eb21770ef2e7e'
   'code': 'NEW'
@@ -294,7 +294,7 @@
   'name': 'Newcastle'
   'tsdbId': '134777'
   'espnId': '361'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LEEDS':
   'address': '0x34597528b996197fd2bee06beec7bacdba8c021b'
   'code': 'LEE'
@@ -303,7 +303,7 @@
   'name': 'Leeds'
   'tsdbId': '133635'
   'espnId': '357'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_DERBY':
   'address': '0x87febdd855196bc29a21e223b1d0ca41415b7315'
   'code': 'DRB'
@@ -312,7 +312,7 @@
   'name': 'Derby'
   'tsdbId': '133627'
   'espnId': '374'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PETERBOROUGH-UNITED':
   'address': '0x5e6a4dbb623592468114b2c1ec0f1a62a807febe'
   'code': 'PTU'
@@ -321,7 +321,7 @@
   'name': 'Peterborough United'
   'tsdbId': '133631'
   'espnId': '342'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NORTHAMPTON-TOWN':
   'address': '0xe23d4cba51d5841c7b59982da77e63bccde1125e'
   'code': 'NHT'
@@ -339,7 +339,7 @@
   'name': 'Man Utd'
   'tsdbId': '133612'
   'espnId': '360'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CHARLTON-ATHLETIC':
   'address': '0x47b45b4fac5788a512e833b2d397e4c437cfd01b'
   'code': 'CHA'
@@ -348,7 +348,7 @@
   'name': 'Charlton Athletic'
   'tsdbId': '133851'
   'espnId': '372'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_SWANSEA':
   'address': '0x2d4370ae18e74cc495a4183bae2fa6857d2dae0e'
   'code': 'SWA'
@@ -357,7 +357,7 @@
   'name': 'Swansea'
   'tsdbId': '133614'
   'espnId': '318'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MILLWALL':
   'address': '0x69abcc4c6422cd6e3b2b143019131b84f9d4490f'
   'code': 'MLW'
@@ -366,7 +366,7 @@
   'name': 'Millwall'
   'tsdbId': '133634'
   'espnId': '391'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_QPR':
   'address': '0xe95cc33cf95e3f30dad1fd2483b304f74f3686b4'
   'code': 'QPR'
@@ -375,7 +375,7 @@
   'name': 'QPR'
   'tsdbId': '133605'
   'espnId': '334'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_STEVENAGE':
   'address': '0xd73706bdf8ca8ea66c683fe4ca71e9df2c9bf18a'
   'code': 'STV'
@@ -384,7 +384,7 @@
   'name': 'Stevenage'
   'tsdbId': '134378'
   'espnId': '285'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_AFC-WIMBLEDON':
   'address': '0x1dd4d80d12226a0ab14881a6ef3dd3f1a3209572'
   'code': 'AWM'
@@ -393,7 +393,7 @@
   'name': 'AFC Wimbledon'
   'tsdbId': '134241'
   'espnId': '3802'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_DONCASTER-ROVERS':
   'address': '0xbbf148ee585343cff0a98f017c45ff4b0d0437d0'
   'code': 'DNR'
@@ -402,7 +402,7 @@
   'name': 'Doncaster Rovers'
   'tsdbId': '133620'
   'espnId': '279'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LEICESTER':
   'address': '0xace811423d6a43b03780b30e3550d166f201b12a'
   'code': 'LEI'
@@ -411,7 +411,7 @@
   'name': 'Leicester'
   'tsdbId': '133626'
   'espnId': '375'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_COVENTRY':
   'address': '0xfd90ef206c2400e8946d42b5a3a1b1513e4fb8fe'
   'code': 'COV'
@@ -420,7 +420,7 @@
   'name': 'Coventry'
   'tsdbId': '133625'
   'espnId': '388'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LINCOLN-CITY':
   'address': '0x7ee4f70b7e5a0d0d31ab218eb38e042cbf221f88'
   'code': 'LNC'
@@ -429,7 +429,7 @@
   'name': 'Lincoln City'
   'tsdbId': '135900'
   'espnId': '314'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LEYTON-ORIENT':
   'address': '0x33265243bb00cb80b60a154de8028cb40b80412b'
   'code': 'LEY'
@@ -438,7 +438,7 @@
   'name': 'Leyton Orient'
   'tsdbId': '134367'
   'espnId': '309'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LIVERPOOL':
   'address': '0x6869968fea1574bfdb60e864c986b72425228fd0'
   'code': 'LIV'
@@ -447,7 +447,7 @@
   'name': 'Liverpool'
   'tsdbId': '133602'
   'espnId': '364'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WIGAN-ATHLETIC':
   'address': '0x477c8837050ea9504427318e05bf6fbb1f4ce4d9'
   'code': 'WIG'
@@ -456,7 +456,7 @@
   'name': 'Wigan Athletic'
   'tsdbId': '133607'
   'espnId': '350'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WREXHAM':
   'address': '0xf5d0a997f508e6b5970673806713fcbfd103a59f'
   'code': 'WRE'
@@ -465,7 +465,7 @@
   'name': 'Wrexham'
   'tsdbId': '134775'
   'espnId': '352'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_PORT-VALE':
   'address': '0x29610c78d7386101d59d94e5494f6f86181c51a9'
   'code': 'PTV'
@@ -483,7 +483,7 @@
   'name': 'Oxford Utd'
   'tsdbId': '134361'
   'espnId': '311'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_LUTON-TOWN':
   'address': '0xeb56e3a7b3dd19209a1168209464ebd3d7083ccd'
   'code': 'LUT'
@@ -492,7 +492,7 @@
   'name': 'Luton Town'
   'tsdbId': '133888'
   'espnId': '301'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRENTFORD':
   'address': '0x5f4b1cf3259ee2122809966e59f33d4bac19c33b'
   'code': 'BRE'
@@ -501,7 +501,7 @@
   'name': 'Brentford'
   'tsdbId': '134355'
   'espnId': '337'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_STOCKPORT-COUNTY':
   'address': '0xd74c05ed60d2bf41c088c16c6dc729738a73cecb'
   'code': 'STO'
@@ -510,7 +510,7 @@
   'name': 'Stockport County'
   'tsdbId': '134258'
   'espnId': '400'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CHELSEA':
   'address': '0x2fc8e4ac8cb61edf7fa18cf8244e1ed533dd0ef9'
   'code': 'CHE'
@@ -519,7 +519,7 @@
   'name': 'Chelsea'
   'tsdbId': '133610'
   'espnId': '363'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NOTTINGHAM':
   'address': '0xe0980f9e422bcdecebeedd98b56fc346ca1d1d17'
   'code': 'NFO'
@@ -528,7 +528,7 @@
   'name': 'Nottingham'
   'tsdbId': '133720'
   'espnId': '393'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BRADFORD-CITY':
   'address': '0x6c1e9b71ecddb8d02c00d01b2c3df0f3b0986e49'
   'code': 'BDC'
@@ -537,7 +537,7 @@
   'name': 'Bradford City'
   'tsdbId': '134189'
   'espnId': '387'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BIRMINGHAM-CITY':
   'address': '0x60b8530ef24e93a7a0e5d06ae13f35fd791105da'
   'code': 'BRC'
@@ -546,7 +546,7 @@
   'name': 'Birmingham City'
   'tsdbId': '133597'
   'espnId': '392'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WATFORD':
   'address': '0xffa977f50d5cf27db16a08924f493332e5077aed'
   'code': 'WAT'
@@ -555,7 +555,7 @@
   'name': 'Watford'
   'tsdbId': '133624'
   'espnId': '395'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_ARSENAL':
   'address': '0x0cc4c91b2d769a7b66933d9ca9bd7b2bb2c62ccf'
   'code': 'ARS'
@@ -564,7 +564,7 @@
   'name': 'Arsenal'
   'tsdbId': '133604'
   'espnId': '359'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CRYSTAL-PALACE':
   'address': '0x71ab22a5ef557a80ed4c6d486c47e39acb184e9e'
   'code': 'CRY'
@@ -573,7 +573,7 @@
   'name': 'Crystal Palace'
   'tsdbId': '133632'
   'espnId': '384'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_FULHAM':
   'address': '0xceeb988533490e0f55fe5b6f4de3b3b34dccaae9'
   'code': 'FUL'
@@ -582,7 +582,7 @@
   'name': 'Fulham'
   'tsdbId': '133600'
   'espnId': '370'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_HUDDERSFIELD-TOWN':
   'address': '0x0efe8cab1aead75bb9b5da7bbc4726a9ea682f2e'
   'code': 'HDD'
@@ -591,7 +591,7 @@
   'name': 'Huddersfield Town'
   'tsdbId': '133932'
   'espnId': '335'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BURNLEY':
   'address': '0xf5dd51dfad243f173fb19008d193515f16ff49f7'
   'code': 'BUR'
@@ -600,7 +600,7 @@
   'name': 'Burnley'
   'tsdbId': '133623'
   'espnId': '379'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_WYCOMBE-WANDERERS':
   'address': '0x8b63a7220864ae3678f1c2a3d3a2d365332c24ea'
   'code': 'WYC'
@@ -609,14 +609,14 @@
   'name': 'Wycombe Wanderers'
   'tsdbId': '134382'
   'espnId': '344'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MIDDLESEX_LONDON-ALBION-CITY':
   'address': '0x867f3c2f8e39d310d3453d2b4bc46a9712279898'
   'code': 'LAC'
   'color': '#1B2D5B'
   'logo': 'https://static.thesportexchange.com/images/london_albion_city_fc.png'
   'name': 'London Albion City FC'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BROMLEY':
   'address': '0xa9b38837610562d901c22c6231bda80bdd9961b6'
   'code': 'BRO'
@@ -625,7 +625,7 @@
   'name': 'Bromley'
   'tsdbId': '136033'
   'espnId': '3129'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_CAMBRIDGE-UNITED':
   'address': '0xd740e0b13a374ed25c684cef5df9252d1c563d0f'
   'code': 'CAM'
@@ -634,7 +634,7 @@
   'name': 'Cambridge United'
   'tsdbId': '134586'
   'espnId': '351'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MILTON-KEYNES-DONS':
   'address': '0xd2a240db0e49e9560991c4474c06f8c33a19f1b5'
   'code': 'MKD'
@@ -643,7 +643,7 @@
   'name': 'MK Dons'
   'tsdbId': '134371'
   'espnId': '390'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_NOTTS-COUNTY':
   'address': '0xb5ba00942c851a3919f20951c48378ab7d5c0826'
   'code': 'NCO'
@@ -652,4 +652,4 @@
   'name': 'Notts County'
   'tsdbId': '134373'
   'espnId': '340'
-  'whitelisted': !!bool 'false'
+  'whitelisted': !!bool 'true'
