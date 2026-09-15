@@ -1,0 +1,52 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#d20515'
+'country': 'Germany'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-german2bundesliga.png'
+'name': 'German 2. Bundesliga'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Germany_Bundesliga_2'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Germany_Bundesliga_2_2026_2027'
+    'endDate': !!timestamp '2027-05-23T00:00:00Z'
+    'startDate': !!timestamp '2026-08-07T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4399'
+    'espnId': '2026'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_GERMANY_ARMINIA-BIELEFELD'
+    - 'FOOTBALL_GERMANY_BOCHUM'
+    - 'FOOTBALL_GERMANY_DARMSTADT'
+    - 'FOOTBALL_GERMANY_DYNAMO-DRESDEN'
+    - 'FOOTBALL_GERMANY_EINTRACHT-BRAUNSCHWEIG'
+    - 'FOOTBALL_GERMANY_ENERGIE-COTTBUS'
+    - 'FOOTBALL_GERMANY_GREUTHER-FURTH'
+    - 'FOOTBALL_GERMANY_HANNOVER-96'
+    - 'FOOTBALL_GERMANY_FC-HEIDENHEIM'
+    - 'FOOTBALL_GERMANY_HERTHA-BERLIN'
+    - 'FOOTBALL_GERMANY_HOLSTEIN-KIEL'
+    - 'FOOTBALL_GERMANY_KAISERSLAUTERN'
+    - 'FOOTBALL_GERMANY_KARLSRUHE'
+    - 'FOOTBALL_GERMANY_MAGDEBURG'
+    - 'FOOTBALL_GERMANY_NURNBERG'
+    - 'FOOTBALL_GERMANY_OSNABRUCK'
+    - 'FOOTBALL_GERMANY_ST-PAULI'
+    - 'FOOTBALL_GERMANY_WOLFSBURG'
+'espnId': 'soccer/ger.2'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
