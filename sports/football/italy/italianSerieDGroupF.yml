@@ -14,8 +14,7 @@
     'code': 'Italy_Serie_D_F_2026_2027'
     'endDate': !!timestamp '2027-05-02T00:00:00Z'
     'startDate': !!timestamp '2026-09-05T00:00:00Z'
-    'footyId': 'italy/serie-d-group-f'
-    'standingsScraper': 'footy'
+    'standingsScraper': 'default'
     'tsdbId': '4782'
     'weeksScraper': 'tsdb'
     'teams':
