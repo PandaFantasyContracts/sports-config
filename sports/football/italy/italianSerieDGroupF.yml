@@ -1,0 +1,50 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
+'challenges':
+'color': '#B51615'
+'country': 'Italy'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-italianseriedgroupf.png'
+'name': 'Italian Serie D - Group F'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Italy_Serie_D_F'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Italy_Serie_D_F_2026_2027'
+    'endDate': !!timestamp '2027-05-02T00:00:00Z'
+    'startDate': !!timestamp '2026-09-05T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4782'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_ITALY_ANCONA'
+    - 'FOOTBALL_ITALY_ANGELANA'
+    - 'FOOTBALL_ITALY_ATLETICO-ASCOLI'
+    - 'FOOTBALL_ITALY_FOLIGNO'
+    - 'FOOTBALL_ITALY_FORSEMPRONESE'
+    - 'FOOTBALL_ITALY_GIULIANOVA'
+    - 'FOOTBALL_ITALY_LAQUILA'
+    - 'FOOTBALL_ITALY_LANCIANO'
+    - 'FOOTBALL_ITALY_MACERATESE'
+    - 'FOOTBALL_ITALY_MONTECCHIO-GALLO'
+    - 'FOOTBALL_ITALY_NOTARESCO'
+    - 'FOOTBALL_ITALY_PIETRALUNGHESE'
+    - 'FOOTBALL_ITALY_RECANATESE'
+    - 'FOOTBALL_ITALY_SANTEGIDIESE'
+    - 'FOOTBALL_ITALY_TERAMO'
+    - 'FOOTBALL_ITALY_TERMOLI'
+    - 'FOOTBALL_ITALY_TRESTINA'
+    - 'FOOTBALL_ITALY_VIGOR-SENIGALLIA'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
