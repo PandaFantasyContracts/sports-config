@@ -1,0 +1,51 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#0088CE'
+'country': 'USA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-usa-big-ten.png'
+'name': 'Big Ten'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'espnId': 'football/college-football?group=5'
+'sport': 'americanfootball'
+'code': 'NCAAF_B1G'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'NCAAF_B1G_26'
+    'startDate': !!timestamp '2026-08-22T00:00:00Z'
+    'endDate': !!timestamp '2026-12-13T00:00:00Z'
+    'standingsScraper': 'espn'
+    'espnId': '2026'
+    'weeksScraper': 'college-football'
+    'teams':
+    - 'AMERICANFOOTBALL_USA_ILLINOIS-FIGHTING-ILLINI'
+    - 'AMERICANFOOTBALL_USA_INDIANA-HOOSIERS'
+    - 'AMERICANFOOTBALL_USA_IOWA-HAWKEYES'
+    - 'AMERICANFOOTBALL_USA_MARYLAND-TERRAPINS'
+    - 'AMERICANFOOTBALL_USA_MICHIGAN-STATE-SPARTANS'
+    - 'AMERICANFOOTBALL_USA_MICHIGAN-WOLVERINES'
+    - 'AMERICANFOOTBALL_USA_MINNESOTA-GOLDEN-GOPHERS'
+    - 'AMERICANFOOTBALL_USA_NEBRASKA-CORNHUSKERS'
+    - 'AMERICANFOOTBALL_USA_NORTHWESTERN-WILDCATS'
+    - 'AMERICANFOOTBALL_USA_OHIO-STATE-BUCKEYES'
+    - 'AMERICANFOOTBALL_USA_OREGON-DUCKS'
+    - 'AMERICANFOOTBALL_USA_PENN-STATE-NITTANY-LIONS'
+    - 'AMERICANFOOTBALL_USA_PURDUE-BOILERMAKERS'
+    - 'AMERICANFOOTBALL_USA_RUTGERS-SCARLET-KNIGHTS'
+    - 'AMERICANFOOTBALL_USA_UCLA-BRUINS'
+    - 'AMERICANFOOTBALL_USA_USC-TROJANS'
+    - 'AMERICANFOOTBALL_USA_WASHINGTON-HUSKIES'
+    - 'AMERICANFOOTBALL_USA_WISCONSIN-BADGERS'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

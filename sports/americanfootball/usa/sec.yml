@@ -1,0 +1,49 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#1D4F91'
+'country': 'USA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-usa-sec.png'
+'name': 'SEC'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'espnId': 'football/college-football?group=8'
+'sport': 'americanfootball'
+'code': 'NCAAF_SEC'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'NCAAF_SEC_26'
+    'startDate': !!timestamp '2026-08-22T00:00:00Z'
+    'endDate': !!timestamp '2026-12-13T00:00:00Z'
+    'standingsScraper': 'espn'
+    'espnId': '2026'
+    'weeksScraper': 'college-football'
+    'teams':
+    - 'AMERICANFOOTBALL_USA_ALABAMA-CRIMSON-TIDE'
+    - 'AMERICANFOOTBALL_USA_ARKANSAS-RAZORBACKS'
+    - 'AMERICANFOOTBALL_USA_AUBURN-TIGERS'
+    - 'AMERICANFOOTBALL_USA_FLORIDA-GATORS'
+    - 'AMERICANFOOTBALL_USA_GEORGIA-BULLDOGS'
+    - 'AMERICANFOOTBALL_USA_KENTUCKY-WILDCATS'
+    - 'AMERICANFOOTBALL_USA_LSU-TIGERS'
+    - 'AMERICANFOOTBALL_USA_MISSISSIPPI-STATE-BULLDOGS'
+    - 'AMERICANFOOTBALL_USA_MISSOURI-TIGERS'
+    - 'AMERICANFOOTBALL_USA_OKLAHOMA-SOONERS'
+    - 'AMERICANFOOTBALL_USA_OLE-MISS-REBELS'
+    - 'AMERICANFOOTBALL_USA_SOUTH-CAROLINA-GAMECOCKS'
+    - 'AMERICANFOOTBALL_USA_TENNESSEE-VOLUNTEERS'
+    - 'AMERICANFOOTBALL_USA_TEXAS-AM-AGGIES'
+    - 'AMERICANFOOTBALL_USA_TEXAS-LONGHORNS'
+    - 'AMERICANFOOTBALL_USA_VANDERBILT-COMMODORES'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
