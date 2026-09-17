@@ -16,7 +16,7 @@
     'startDate': !!timestamp '2026-09-05T00:00:00Z'
     'standingsScraper': 'default'
     'tsdbId': '4782'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'default'
     'teams':
     - 'FOOTBALL_ITALY_ANCONA'
     - 'FOOTBALL_ITALY_ANGELANA'
