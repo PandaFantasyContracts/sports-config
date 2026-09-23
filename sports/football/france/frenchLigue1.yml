@@ -1,22 +1,30 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'French_Ligue_1'
 'color': '#002aff'
 'country': 'France'
+'espnId': 'soccer/fra.1'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-france-frenchligue1.png'
 'name': 'French Ligue 1'
 'pick5PoolAmount': !!int '200'
-'code': 'French_Ligue_1'
-'visible': !!bool 'true'
 'seasons':
   '2024-2025':
     'active': !!bool 'false'
     'code': 'French_Ligue_1_2024_2025'
     'endDate': !!timestamp '2025-05-29T18:30:00Z'
-    'startDate': !!timestamp '2024-08-16T18:45:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4334'
     'espnId': '2024'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2024-08-16T18:45:00Z'
     'teams':
     - 'FOOTBALL_FRANCE_STRASBOURG'
     - 'FOOTBALL_FRANCE_RENNES'
@@ -36,15 +44,15 @@
     - 'FOOTBALL_FRANCE_PARIS-SG'
     - 'FOOTBALL_FRANCE_NANTES'
     - 'FOOTBALL_FRANCE_BREST'
+    'tsdbId': '4334'
+    'weeksScraper': 'tsdb'
   '2025-2026':
     'active': !!bool 'false'
     'code': 'French_Ligue_1_2025_2026'
     'endDate': !!timestamp '2026-05-16T00:00:00Z'
-    'startDate': !!timestamp '2025-08-15T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4334'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2025-08-15T00:00:00Z'
     'teams':
     - 'FOOTBALL_FRANCE_ANGERS'
     - 'FOOTBALL_FRANCE_AUXERRE'
@@ -64,15 +72,15 @@
     - 'FOOTBALL_FRANCE_RENNES'
     - 'FOOTBALL_FRANCE_STRASBOURG'
     - 'FOOTBALL_FRANCE_TOULOUSE'
+    'tsdbId': '4334'
+    'weeksScraper': 'tsdb'
   '2026-2027':
     'active': !!bool 'true'
     'code': 'French_Ligue_1_2026_2027'
     'endDate': !!timestamp '2027-05-29T00:00:00Z'
-    'startDate': !!timestamp '2026-08-21T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4334'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2026-08-21T00:00:00Z'
     'teams':
     - 'FOOTBALL_FRANCE_ANGERS'
     - 'FOOTBALL_FRANCE_AUXERRE'
@@ -92,16 +100,8 @@
     - 'FOOTBALL_FRANCE_STRASBOURG'
     - 'FOOTBALL_FRANCE_TOULOUSE'
     - 'FOOTBALL_FRANCE_TROYES'
-'espnId': 'soccer/fra.1'
+    'tsdbId': '4334'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'true'

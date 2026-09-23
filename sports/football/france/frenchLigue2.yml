@@ -1,23 +1,30 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'French_Ligue_2'
 'color': '#0b3d91'
 'country': 'France'
+'espnId': 'soccer/fra.2'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-france-frenchligue2.png'
 'name': 'French Ligue 2'
 'pick5PoolAmount': !!int '100'
-'visible': !!bool 'false'
-'code': 'French_Ligue_2'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
     'code': 'French_Ligue_2_2026_2027'
     'endDate': !!timestamp '2027-05-22T00:00:00Z'
-    'startDate': !!timestamp '2026-08-08T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4401'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2026-08-08T00:00:00Z'
     'teams':
     - 'FOOTBALL_FRANCE_ANNECY'
     - 'FOOTBALL_FRANCE_BOULOGNE'
@@ -37,16 +44,8 @@
     - 'FOOTBALL_FRANCE_ST-ETIENNE'
     - 'FOOTBALL_FRANCE_SOCHAUX'
     - 'FOOTBALL_FRANCE_STADE-DE-REIMS'
-'espnId': 'soccer/fra.2'
+    'tsdbId': '4401'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

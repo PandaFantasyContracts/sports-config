@@ -1,23 +1,30 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'Italy_Serie_B'
 'color': '#1d4f91'
 'country': 'Italy'
+'espnId': 'soccer/ita.2'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-italianserieb.png'
 'name': 'Italian Serie B'
 'pick5PoolAmount': !!int '100'
-'visible': !!bool 'false'
-'code': 'Italy_Serie_B'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
     'code': 'Italy_Serie_B_2026_2027'
     'endDate': !!timestamp '2027-05-14T00:00:00Z'
-    'startDate': !!timestamp '2026-08-21T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4394'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2026-08-21T00:00:00Z'
     'teams':
     - 'FOOTBALL_ITALY_AREZZO'
     - 'FOOTBALL_ITALY_ASCOLI'
@@ -39,16 +46,8 @@
     - 'FOOTBALL_ITALY_SUDTIROL'
     - 'FOOTBALL_ITALY_VICENZA'
     - 'FOOTBALL_ITALY_VIRTUS-ENTELLA'
-'espnId': 'soccer/ita.2'
+    'tsdbId': '4394'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

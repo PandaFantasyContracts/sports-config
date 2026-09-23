@@ -1,22 +1,29 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'POSITION'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'RACE'
+  'poolAmountDistributor': 'DEFAULT'
 'challenges': []
+'code': 'LIV'
 'color': '#1f1f1f'
 'country': 'World'
 'logo': 'https://static.thesportexchange.com/images/logos/256/golf-world-liv.png'
 'name': 'LIV Golf'
 'pick5PoolAmount': !!int '0'
-'code': 'LIV'
-'visible': !!bool 'false'
 'seasons':
   '2025':
     'active': !!bool 'true'
     'code': 'LIV_2025'
     'endDate': !!timestamp '2025-08-15T00:00:00Z'
-    'startDate': !!timestamp '2025-05-02T00:00:00Z'
     'standingsScraper': 'default'
-    'tsdbId': '5329'
-    'weeksScraper': 'golf'
+    'startDate': !!timestamp '2025-05-02T00:00:00Z'
     'teams':
     - 'GOLF_WORLD_4ACES-GC'
     - 'GOLF_WORLD_CLEEKS-GC'
@@ -31,15 +38,8 @@
     - 'GOLF_WORLD_SMASH GC'
     - 'GOLF_WORLD_STINGER GC'
     - 'GOLF_WORLD_TORQUE GC'
+    'tsdbId': '5329'
+    'weeksScraper': 'golf'
 'sport': 'golf'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'POSITION'
-      'selectedMarketValidator': 'RACE'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

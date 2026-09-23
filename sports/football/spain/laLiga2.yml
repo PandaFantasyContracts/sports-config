@@ -1,23 +1,30 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'SP_LIGA_2'
 'color': '#e30613'
 'country': 'Spain'
+'espnId': 'soccer/esp.2'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-laliga2.png'
 'name': 'La Liga 2'
 'pick5PoolAmount': !!int '100'
-'visible': !!bool 'false'
-'code': 'SP_LIGA_2'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
     'code': 'SP_LIGA_2_26_27'
     'endDate': !!timestamp '2027-06-06T00:00:00Z'
-    'startDate': !!timestamp '2026-08-14T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4400'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2026-08-14T00:00:00Z'
     'teams':
     - 'FOOTBALL_SPAIN_ALBACETE'
     - 'FOOTBALL_SPAIN_ALMERIA'
@@ -41,16 +48,8 @@
     - 'FOOTBALL_SPAIN_SABADELL'
     - 'FOOTBALL_SPAIN_SPORTING-GIJON'
     - 'FOOTBALL_SPAIN_TENERIFE'
-'espnId': 'soccer/esp.2'
+    'tsdbId': '4400'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

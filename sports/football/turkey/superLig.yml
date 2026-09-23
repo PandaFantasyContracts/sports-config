@@ -1,23 +1,30 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'Turkey_SL'
 'color': '#E30A17'
 'country': 'Turkey'
+'espnId': 'soccer/tur.1'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-superlig.png'
 'name': 'Süper Lig'
 'pick5PoolAmount': !!int '100'
-'visible': !!bool 'false'
-'code': 'Turkey_SL'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
     'code': 'Turkey_SL_26_27'
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
-    'startDate': !!timestamp '2026-08-14T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4339'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2026-08-14T00:00:00Z'
     'teams':
     - 'FOOTBALL_TURKEY_ALANYASPOR'
     - 'FOOTBALL_TURKEY_AMEDSPOR'
@@ -37,16 +44,8 @@
     - 'FOOTBALL_TURKEY_CAYKUR-RIZESPOR'
     - 'FOOTBALL_TURKEY_SAMSUNSPOR'
     - 'FOOTBALL_TURKEY_TRABZONSPOR'
-'espnId': 'soccer/tur.1'
+    'tsdbId': '4339'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

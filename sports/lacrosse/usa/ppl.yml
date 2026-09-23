@@ -1,23 +1,31 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
 'challenges': []
+'code': 'PPL'
 'color': '#ffc800'
 'country': 'USA'
+'espnId': 'lacrosse/pll'
 'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-ppl.png'
 'name': 'Premier Lacrosse League'
 'pick5PoolAmount': !!int '0'
-'visible': !!bool 'false'
-'code': 'PPL'
 'seasons':
   '2025':
     'active': !!bool 'true'
     'code': 'PPL_25'
     'endDate': !!timestamp '2025-08-09T00:00:00Z'
-    'startDate': !!timestamp '2025-05-30T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '5337'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2025-05-30T00:00:00Z'
     'teams':
     - 'LACROSSE_USA_BOSTON-CANNONS'
     - 'LACROSSE_USA_CALIFORNIA-REDWOODS'
@@ -27,16 +35,8 @@
     - 'LACROSSE_USA_NEW-YORK-ATLAS'
     - 'LACROSSE_USA_PHILADELPHIA-WATERDOGS'
     - 'LACROSSE_USA_UTAH-ARCHERS'
-'espnId': 'lacrosse/pll'
+    'tsdbId': '5337'
+    'weeksScraper': 'tsdb'
 'sport': 'lacrosse'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

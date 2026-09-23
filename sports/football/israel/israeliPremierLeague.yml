@@ -1,23 +1,31 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'Israel_Premier_League'
 'color': '#ffae00'
 'country': 'Israel'
+'espnId': 'soccer/isr.1'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-israelipremierleague.png'
 'name': 'Israeli Premier League'
 'pick5PoolAmount': !!int '0'
-'code': 'Israel_Premier_League'
-'visible': !!bool 'false'
 'seasons':
   '2025-2026':
     'active': !!bool 'false'
     'code': 'Israel_Premier_League_2025_2026'
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
-    'startDate': !!timestamp '2025-08-24T00:00:00Z'
     'footyId': 'israel/israeli-premier-league'
     'soccer365Id': '761'
     'standingsScraper': 'default'
-    'tsdbId': '4644'
-    'weeksScraper': 'tsdb'
+    'startDate': !!timestamp '2025-08-24T00:00:00Z'
     'teams':
     - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'
     - 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV'
@@ -33,16 +41,16 @@
     - 'FOOTBALL_ISRAEL_HAPOEL-KIRYAT-SHMONA'
     - 'FOOTBALL_ISRAEL_HAPOEL-HAIFA'
     - 'FOOTBALL_ISRAEL_BNEI-SAKHNIN'
+    'tsdbId': '4644'
+    'weeksScraper': 'tsdb'
   '2026-2027':
     'active': !!bool 'true'
     'code': 'Israel_Premier_League_2026_2027'
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
-    'startDate': !!timestamp '2026-08-22T00:00:00Z'
     'footyId': 'israel/israeli-premier-league'
     'soccer365Id': '761'
     'standingsScraper': 'default'
-    'tsdbId': '4644'
-    'weeksScraper': 'tsdb'
+    'startDate': !!timestamp '2026-08-22T00:00:00Z'
     'teams':
     - 'FOOTBALL_ISRAEL_BEITAR-JERUSALEM'
     - 'FOOTBALL_ISRAEL_BNEI-SAKHNIN'
@@ -58,16 +66,8 @@
     - 'FOOTBALL_ISRAEL_MACCABI-NETANYA'
     - 'FOOTBALL_ISRAEL_MACCABI-PETACH-TIKVA'
     - 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV'
-'espnId': 'soccer/isr.1'
+    'tsdbId': '4644'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

@@ -1,23 +1,29 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'Croatia_HNL'
 'color': '#c8102e'
 'country': 'Croatia'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-croatia-hnl.png'
 'name': 'HNL'
-'pick5PoolAmount': !!int '100'
-'visible': !!bool 'true'
-'code': 'Croatia_HNL'
 'partnerUrl': 'https://hns.family/en/news/31138/thesportexchange-and-hns-explore-a-new-category-of-digital-sports-participation-ahead-of-the-2026-fifa-world-cup'
+'pick5PoolAmount': !!int '100'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
     'code': 'Croatia_HNL_26_27'
     'endDate': !!timestamp '2027-05-22T00:00:00Z'
-    'startDate': !!timestamp '2026-08-01T00:00:00Z'
     'standingsScraper': 'tsdb'
-    'tsdbId': '4629'
-    'weeksScraper': 'tsdb'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
     'teams':
     - 'FOOTBALL_CROATIA_DINAMO-ZAGREB'
     - 'FOOTBALL_CROATIA_HAJDUK-SPLIT'
@@ -29,15 +35,8 @@
     - 'FOOTBALL_CROATIA_LOKOMOTIVA'
     - 'FOOTBALL_CROATIA_SLAVEN-BELUPO'
     - 'FOOTBALL_CROATIA_RUDES'
+    'tsdbId': '4629'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'true'

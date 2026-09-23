@@ -1,22 +1,28 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'Portugal_Liga_2'
 'color': '#0066cc'
 'country': 'Portugal'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-ligaportugal2.png'
 'name': 'Liga Portugal 2'
 'pick5PoolAmount': !!int '100'
-'visible': !!bool 'false'
-'code': 'Portugal_Liga_2'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
     'code': 'Portugal_Liga_2_2026_2027'
     'endDate': !!timestamp '2027-05-16T00:00:00Z'
-    'startDate': !!timestamp '2026-08-08T00:00:00Z'
     'standingsScraper': 'tsdb'
-    'tsdbId': '4662'
-    'weeksScraper': 'tsdb'
+    'startDate': !!timestamp '2026-08-08T00:00:00Z'
     'teams':
     - 'FOOTBALL_PORTUGAL_AVS'
     - 'FOOTBALL_PORTUGAL_ACADEMICA-DE-COIMBRA'
@@ -36,15 +42,8 @@
     - 'FOOTBALL_PORTUGAL_TORREENSE'
     - 'FOOTBALL_PORTUGAL_UNIAO-DE-LEIRIA'
     - 'FOOTBALL_PORTUGAL_VIZELA'
+    'tsdbId': '4662'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'

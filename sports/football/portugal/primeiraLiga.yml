@@ -1,23 +1,30 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challengeProfile':
+  'hasFinalPrize': !!bool 'false'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+  - 'creation': 'DYNAMIC'
+    'markets':
+    - 'WINNER'
+    'name': 'WEEK'
+    'selectedMarketValidator': 'MATCH'
+  'poolAmountDistributor': 'DEFAULT'
+'code': 'Portugal_Primeira_Liga'
 'color': '#006600'
 'country': 'Portugal'
+'espnId': 'soccer/por.1'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-primeiraliga.png'
 'name': 'Primeira Liga'
 'pick5PoolAmount': !!int '100'
-'visible': !!bool 'false'
-'code': 'Portugal_Primeira_Liga'
 'seasons':
   '2026-2027':
     'active': !!bool 'true'
     'code': 'Portugal_Primeira_Liga_2026_2027'
     'endDate': !!timestamp '2027-05-16T00:00:00Z'
-    'startDate': !!timestamp '2026-08-07T00:00:00Z'
-    'standingsScraper': 'espn'
-    'tsdbId': '4344'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'espn'
+    'startDate': !!timestamp '2026-08-07T00:00:00Z'
     'teams':
     - 'FOOTBALL_PORTUGAL_ACADEMICO-DE-VISEU'
     - 'FOOTBALL_PORTUGAL_ALVERCA'
@@ -37,16 +44,8 @@
     - 'FOOTBALL_PORTUGAL_SANTA-CLARA'
     - 'FOOTBALL_PORTUGAL_SPORTING-CP'
     - 'FOOTBALL_PORTUGAL_VITORIA-DE-GUIMARAES'
-'espnId': 'soccer/por.1'
+    'tsdbId': '4344'
+    'weeksScraper': 'tsdb'
 'sport': 'football'
-
-
-'challengeProfile':
-  'poolAmountDistributor': 'DEFAULT'
-  'participateValidator': 'KEY_OWNERS'
-  'phases':
-    - 'name': 'WEEK'
-      'creation': 'DYNAMIC'
-      'markets':
-        - 'WINNER'
-      'selectedMarketValidator': 'MATCH'
+'tournamentType': 'LEAGUE'
+'visible': !!bool 'false'
