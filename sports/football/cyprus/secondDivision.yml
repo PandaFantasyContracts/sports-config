@@ -1,0 +1,48 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
+'challenges':
+'color': '#04559E'
+'country': 'Cyprus'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-seconddivision.png'
+'name': '2. Division'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Cyprus_2_Div'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Cyprus_2_Div_26_27'
+    'endDate': !!timestamp '2027-05-01T00:00:00Z'
+    'startDate': !!timestamp '2026-09-11T00:00:00Z'
+    'standingsScraper': 'tsdb'
+    'tsdbId': '4953'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_CYPRUS_AEP-POLEMIDION'
+    - 'FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS'
+    - 'FOOTBALL_CYPRUS_ANAGENNISI-DERYNEIA'
+    - 'FOOTBALL_CYPRUS_APEA-AKROTIRI'
+    - 'FOOTBALL_CYPRUS_ASIL-LYSI'
+    - 'FOOTBALL_CYPRUS_AYIA-NAPA'
+    - 'FOOTBALL_CYPRUS_CHALKANORAS-IDALIOU'
+    - 'FOOTBALL_CYPRUS_DIGENIS-MORPHOU'
+    - 'FOOTBALL_CYPRUS_DOXA-KATOKOPIAS'
+    - 'FOOTBALL_CYPRUS_ENOSIS'
+    - 'FOOTBALL_CYPRUS_ERMIS-ARADIPPOU'
+    - 'FOOTBALL_CYPRUS_ETHNIKOS'
+    - 'FOOTBALL_CYPRUS_IRAKLIS-GEROLAKKOU'
+    - 'FOOTBALL_CYPRUS_MEAP-NISOU'
+    - 'FOOTBALL_CYPRUS_PAEEK'
+    - 'FOOTBALL_CYPRUS_SPARTAKOS-KITIOU'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
