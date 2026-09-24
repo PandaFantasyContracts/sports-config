@@ -83,7 +83,7 @@
   'code': 'ENP'
   'color': '#EF224B'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-enosis.png'
-  'name': 'Enosis'
+  'name': 'Enosis Paralimni'
   'tsdbId': '137924'
   'espnId': '131461'
   'whitelisted': !!bool 'true'
@@ -193,7 +193,7 @@
   'code': 'DIG'
   'color': '#007834'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-digenis-morphou.png'
-  'name': 'Digenis Akritas Morphou'
+  'name': 'Digenis Morphou'
   'tsdbId': '141097'
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_DOXA-KATOKOPIAS':
