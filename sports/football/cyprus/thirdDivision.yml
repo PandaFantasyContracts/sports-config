@@ -1,0 +1,47 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
+'challenges':
+'color': '#255A9D'
+'country': 'Cyprus'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-thirddivision.png'
+'name': '3. Division'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Cyprus_3_Div'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Cyprus_3_Div_26_27'
+    'endDate': !!timestamp '2027-04-25T00:00:00Z'
+    'startDate': !!timestamp '2026-09-26T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+    - 'FOOTBALL_CYPRUS_ACHYRONAS-ONISILOS'
+    - 'FOOTBALL_CYPRUS_AEK-KELLIA'
+    - 'FOOTBALL_CYPRUS_AEN-VRYSOULLON'
+    - 'FOOTBALL_CYPRUS_AEZ-ZAKAKIOU'
+    - 'FOOTBALL_CYPRUS_ALKI-LARNACA'
+    - 'FOOTBALL_CYPRUS_ANORTHOSIS-MOUTTAGIAKAS'
+    - 'FOOTBALL_CYPRUS_ASPIS-PYLAS'
+    - 'FOOTBALL_CYPRUS_ETHNIKOS-ASSIA'
+    - 'FOOTBALL_CYPRUS_ETHNIKOS-LATSION'
+    - 'FOOTBALL_CYPRUS_KEDROS-SKYLLOURA'
+    - 'FOOTBALL_CYPRUS_LIVADIA'
+    - 'FOOTBALL_CYPRUS_OMONIA-PSEVDA'
+    - 'FOOTBALL_CYPRUS_ORMIDEIA'
+    - 'FOOTBALL_CYPRUS_OTHELLOS-ATHIENOU'
+    - 'FOOTBALL_CYPRUS_THOI-LAKATAMIA'
+    - 'FOOTBALL_CYPRUS_XYLOFAGOU'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
