@@ -12,7 +12,7 @@
   '2026-2027':
     'active': !!bool 'true'
     'code': 'Cyprus_3_Div_26_27'
-    'endDate': !!timestamp '2027-05-16T00:00:00Z'
+    'endDate': !!timestamp '2027-04-25T00:00:00Z'
     'startDate': !!timestamp '2026-09-26T00:00:00Z'
     'standingsScraper': 'default'
     'weeksScraper': 'default'
