@@ -21,6 +21,7 @@ season by the tests that need them.
 | File | League | Purpose |
 |---|---|---|
 | `sports/motorsport/world/qaFormula1Payout.yml` | `QA_FORMULA1_PAYOUT`, season `QA_FORMULA1_25_PAYOUT` | A copy of Formula 1 2025 for the Pick5 payout test. Past season: the simulator replays its real results, so the expected winners and payouts are known. Shares the real Formula 1 teams, so their markets and keys. |
+| `sports/motorsport/world/qaFormula1Corrections.yml` | `QA_FORMULA1_CORRECTIONS`, season `QA_FORMULA1_25_CORRECTIONS` | A second copy of Formula 1 2025, for the Pick5 correction tests (recalculate, repay, reopen a settled round), so they never share a round with the payout test. |
 | `sports/football/qa/teams.yml`, `qaWhitelist.yml` | `QA_WHITELIST`, season `QA_WHITELIST_26_27` | Four QA-only teams, two whitelisted and two open, with their own markets, for the whitelist permutations. |
 
 ## Rules for adding a league here
