@@ -1,0 +1,32 @@
+# QA only: four teams that exist for the QA-tests whitelist permutations. They belong to no
+# real league and have their own markets on the contract. Addresses are fixed on purpose:
+# sha256 of the team id, first 20 bytes (a missing address would get a new random wallet on
+# every sync, and a new country on the contract with it).
+'FOOTBALL_QA_WHITELISTED-A':
+  'address': '0xe3e8620af3839cf22a19b9c1ed5deadcc9584b6d'
+  'code': 'QWA'
+  'color': '#1F7A3F'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Whitelisted A'
+  'whitelisted': !!bool 'true'
+'FOOTBALL_QA_WHITELISTED-B':
+  'address': '0x180ce3da434bd88eb29ddf5a339c177cc945fb9b'
+  'code': 'QWB'
+  'color': '#2F5FB3'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Whitelisted B'
+  'whitelisted': !!bool 'true'
+'FOOTBALL_QA_OPEN-A':
+  'address': '0xa06b3d682527928b167ca8506e3a43818b3ab0d3'
+  'code': 'QOA'
+  'color': '#B33A2F'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Open A'
+  'whitelisted': !!bool 'false'
+'FOOTBALL_QA_OPEN-B':
+  'address': '0xf2ab82f182ae4cbb742f979a90377bc5a4269698'
+  'code': 'QOB'
+  'color': '#8A5A00'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Open B'
+  'whitelisted': !!bool 'false'

@@ -1,0 +1,38 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: a league of four QA teams, two whitelisted and two open, for the whitelist
+# permutations of QA-tests (whitelisted / non-whitelisted user x whitelisted / open team).
+# No fixtures, no standings, no challenge: the default scrapers return nothing.
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#00c26e'
+'country': 'QA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+'name': 'QA Whitelist League'
+'pick5PoolAmount': !!int '0'
+'code': 'QA_WHITELIST'
+'visible': !!bool 'true'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'QA_WHITELIST_26_27'
+    'endDate': !!timestamp '2027-06-30T00:00:00Z'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+      - 'FOOTBALL_QA_WHITELISTED-A'
+      - 'FOOTBALL_QA_WHITELISTED-B'
+      - 'FOOTBALL_QA_OPEN-A'
+      - 'FOOTBALL_QA_OPEN-B'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

@@ -1,0 +1,46 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: a copy of Formula 1 2025 owned by the QA-tests Pick5 payout test. The season is
+# in the past, so the simulator replays its real results and the expected winners and
+# payouts are known in advance. Same teams as Formula 1 (they share markets and keys);
+# its own league, challenge and pool. Do not make it visible on production.
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#ff1f01'
+'country': 'World'
+'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-formula1.png'
+'name': 'QA Formula 1 2025 (payout)'
+'pick5PoolAmount': !!int '250'
+'code': 'QA_FORMULA1_PAYOUT'
+'visible': !!bool 'true'
+'seasons':
+  '2025':
+    'active': !!bool 'true'
+    'code': 'QA_FORMULA1_25_PAYOUT'
+    'endDate': !!timestamp '2025-12-07T00:00:00Z'
+    'startDate': !!timestamp '2025-03-16T00:00:00Z'
+    'standingsScraper': 'formula1'
+    'weeksScraper': 'formula1'
+    'goalServeId': 'formula 1'
+    'teams':
+      - 'MOTORSPORT_WORLD_ASTON-MARTIN'
+      - 'MOTORSPORT_WORLD_MCLAREN'
+      - 'MOTORSPORT_WORLD_MERCEDES'
+      - 'MOTORSPORT_WORLD_RED-BULL'
+      - 'MOTORSPORT_WORLD_WILLIAMS'
+      - 'MOTORSPORT_WORLD_FERRARI'
+      - 'MOTORSPORT_WORLD_HAAS'
+      - 'MOTORSPORT_WORLD_KICK-SAUBER'
+      - 'MOTORSPORT_WORLD_RACINGBULLS'
+      - 'MOTORSPORT_WORLD_ALPINE'
+'sport': 'motorsport'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'POSITION'
+      'selectedMarketValidator': 'RACE'
