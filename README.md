@@ -23,6 +23,7 @@ season by the tests that need them.
 | `sports/motorsport/world/qaFormula1Payout.yml` | `QA_FORMULA1_PAYOUT`, season `QA_FORMULA1_25_PAYOUT` | A copy of Formula 1 2025 for the Pick5 payout test. Past season: the simulator replays its real results, so the expected winners and payouts are known. Shares the real Formula 1 teams, so their markets and keys. |
 | `sports/motorsport/world/qaFormula1Corrections.yml` | `QA_FORMULA1_CORRECTIONS`, season `QA_FORMULA1_25_CORRECTIONS` | A second copy of Formula 1 2025, for the Pick5 correction tests (recalculate, repay, reopen a settled round), so they never share a round with the payout test. |
 | `sports/football/spain/qaLaLigaPayout.yml` | `QA_LA_LIGA_PAYOUT`, season `QA_LA_LIGA_25_26_PAYOUT` | A copy of La Liga 2025-2026 for the football Pick5 payout test (WINNER markets, MATCH validator). Past season: the simulator replays the real TheSportsDB results against the final ESPN table. Shares the real La Liga teams. |
+| `sports/basketball/usa/qaNcaaPayout.yml` | `QA_NCAA_MM_PAYOUT`, season `QA_NCAA_MM_26_PAYOUT` | A copy of NCAA Men's March Madness 2026 for the match-week Pick5 payout test (five markets per game: total points, team totals, first-half total, winner). Shares the real NCAA teams. |
 | `sports/football/qa/teams.yml`, `qaWhitelist.yml` | `QA_WHITELIST`, season `QA_WHITELIST_26_27` | Four QA-only teams, two whitelisted and two open, with their own markets, for the whitelist permutations. |
 
 ## Rules for adding a league here
