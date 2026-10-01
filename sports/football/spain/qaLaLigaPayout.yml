@@ -1,0 +1,59 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: a copy of La Liga 2025-2026 owned by the QA-tests football Pick5 payout test. The
+# season is in the past, so the simulator replays its real results (TheSportsDB) against the
+# final ESPN table, and the expected scores and payouts are known in advance. Same teams as La
+# Liga (they share markets and keys); its own league, challenge and pool. Do not make it visible
+# on production.
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#ff0000'
+'country': 'Spain'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-laliga.png'
+'name': 'QA La Liga 2025-2026 (payout)'
+'pick5PoolAmount': !!int '250'
+'code': 'QA_LA_LIGA_PAYOUT'
+'visible': !!bool 'true'
+'seasons':
+  '2025-2026':
+    'active': !!bool 'true'
+    'code': 'QA_LA_LIGA_25_26_PAYOUT'
+    'endDate': !!timestamp '2026-05-24T00:00:00Z'
+    'startDate': !!timestamp '2025-08-15T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4335'
+    'espnId': '2025'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_SPAIN_BARCELONA'
+    - 'FOOTBALL_SPAIN_REAL-MADRID'
+    - 'FOOTBALL_SPAIN_ATLETICO-MADRID'
+    - 'FOOTBALL_SPAIN_ATHLETIC-BILBAO'
+    - 'FOOTBALL_SPAIN_REAL-SOCIEDAD'
+    - 'FOOTBALL_SPAIN_VILLARREAL'
+    - 'FOOTBALL_SPAIN_BETIS'
+    - 'FOOTBALL_SPAIN_SEVILLA'
+    - 'FOOTBALL_SPAIN_VALENCIA'
+    - 'FOOTBALL_SPAIN_GIRONA'
+    - 'FOOTBALL_SPAIN_ESPANYOL'
+    - 'FOOTBALL_SPAIN_GETAFE'
+    - 'FOOTBALL_SPAIN_OSASUNA'
+    - 'FOOTBALL_SPAIN_MALLORCA'
+    - 'FOOTBALL_SPAIN_RAYO-VALLECANO'
+    - 'FOOTBALL_SPAIN_CELTA-VIGO'
+    - 'FOOTBALL_SPAIN_ALAVES'
+    - 'FOOTBALL_SPAIN_LEVANTE'
+    - 'FOOTBALL_SPAIN_ELCHE'
+    - 'FOOTBALL_SPAIN_REAL-OVIEDO'
+'espnId': 'soccer/esp.1'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
