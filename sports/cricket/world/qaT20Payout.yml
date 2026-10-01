@@ -1,0 +1,58 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: a copy of the ICC Men's T20 World Cup 2026 owned by the QA-tests match-week Pick5
+# payout test (WINNER markets). The tournament is over, so the simulator replays its real results
+# and the expected scores and payouts are known in advance. Same teams as the T20 World Cup (they
+# share markets and keys); its own league, challenge and pool. Do not make it visible on
+# production.
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#00990a'
+'country': 'World'
+'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-world-t20.png'
+'name': "QA T20 World Cup 2026 (payout)"
+'pick5PoolAmount': !!int '0'
+'code': 'QA_CRICKET_T20_PAYOUT'
+'visible': !!bool 'true'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'QA_CRICKET_T20_2026_PAYOUT'
+    'endDate': !!timestamp '2026-02-20T00:00:00Z'
+    'startDate': !!timestamp '2026-02-07T00:00:00Z'
+    'standingsScraper': 't20'
+    'tsdbId': '5103'
+    'weeksScraper': 't20'
+    'teams':
+     - 'CRICKET_WORLD_AFGHANISTAN'
+     - 'CRICKET_WORLD_AUSTRALIA'
+     - 'CRICKET_WORLD_SCOTLAND'
+     - 'CRICKET_WORLD_CANADA'
+     - 'CRICKET_WORLD_ENGLAND'
+     - 'CRICKET_WORLD_INDIA'
+     - 'CRICKET_WORLD_IRELAND'
+     - 'CRICKET_WORLD_ITALY'
+     - 'CRICKET_WORLD_NAMIBIA'
+     - 'CRICKET_WORLD_NEPAL'
+     - 'CRICKET_WORLD_NETHERLANDS'
+     - 'CRICKET_WORLD_NEW-ZELAND'
+     - 'CRICKET_WORLD_OMAN'
+     - 'CRICKET_WORLD_PAKISTAN'
+     - 'CRICKET_WORLD_SOUTH-AFRICA'
+     - 'CRICKET_WORLD_SRI-LANKA'
+     - 'CRICKET_WORLD_UAE'
+     - 'CRICKET_WORLD_USA'
+     - 'CRICKET_WORLD_WEST-INDIES'
+     - 'CRICKET_WORLD_ZIMBABWE'
+
+
+'sport': 'cricket'
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
