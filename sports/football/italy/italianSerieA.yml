@@ -1,6 +1,8 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
 'winsPoolPct': !!float '3.0'
+'winsSplitPct': !!float '30.0'
+'realtimeSplitPct': !!float '35.0'
 'color': '#007bff'
 'country': 'Italy'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-italianseriea.png'
