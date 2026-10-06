@@ -2,9 +2,13 @@
 # QA only: a league of four QA teams for the TSE-881 buyback spec of QA-tests (dividends split,
 # real-time and wins buybacks, kill switch). The spec owns its pools; the buyback-cycle tests
 # simulate the season (standings and rounds). No fixtures, no standings, no challenge: the
-# default scrapers return nothing. winsPoolPct: share of the wins pool a round budgets, in percent.
+# default scrapers return nothing. winsPoolPct: share of the wins pool a round budgets; winsSplitPct
+# and realtimeSplitPct: shares of each fee's dividends part routed to the wins and real-time pools
+# (the rest stays banked in DIVIDENDS). All in percent.
 'buybackPoolDivisor': !!int '33'
 'winsPoolPct': !!float '3.0'
+'winsSplitPct': !!float '30.0'
+'realtimeSplitPct': !!float '35.0'
 'challenges': []
 'color': '#00c26e'
 'country': 'QA'
