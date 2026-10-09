@@ -26,6 +26,7 @@ season by the tests that need them.
 | `sports/basketball/usa/qaNcaaPayout.yml` | `QA_NCAA_MM_PAYOUT`, season `QA_NCAA_MM_26_PAYOUT` | A copy of NCAA Men's March Madness 2026 for the match-week Pick5 payout test (five markets per game: total points, team totals, first-half total, winner). Shares the real NCAA teams. |
 | `sports/cricket/world/qaT20Payout.yml` | `QA_CRICKET_T20_PAYOUT`, season `QA_CRICKET_T20_2026_PAYOUT` | A copy of the ICC Men's T20 World Cup 2026 for the match-week Pick5 payout test (WINNER markets, MATCH validator). Shares the real T20 World Cup teams. |
 | `sports/football/qa/teams.yml`, `qaWhitelist.yml` | `QA_WHITELIST`, season `QA_WHITELIST_26_27` | Four QA-only teams, two whitelisted and two open, with their own markets, for the whitelist permutations. |
+| `sports/football/qa/teams.yml`, `qaBuyback.yml` | `QA_BUYBACK`, season `QA_BUYBACK_26_27` | Four QA-only open teams with their own markets for the TSE-881 buyback spec: its own pools, a 30/35 dividends split (`winsSplitPct`, `realtimeSplitPct`) and `winsPoolPct` 3 for its wins rounds. The buyback-cycle tests simulate its standings and rounds. |
 
 ## Rules for adding a league here
 
