@@ -869,7 +869,7 @@
   'whitelisted': !!bool 'false'
 # === ATLANTIC 10 ===
 'BASKETBALL_USA_DAVIDSON':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xd5540f26acc2c9ad7b46f09f661a79fbc075f9dc'
   'code': 'DAV'
   'color': '#000000'
   'espnId': '2166'
@@ -878,7 +878,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_DAYTON':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x4f1f37736b9b03a0337b2978dd06658173233200'
   'code': 'DAY'
   'color': '#004B8D'
   'espnId': '2168'
@@ -887,7 +887,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_DUQUESNE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xda4df04e68727e13117d4fbc1bc507abc94057d4'
   'code': 'DUQ'
   'color': '#002D62'
   'espnId': '2184'
@@ -896,7 +896,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_FORDHAM':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x8c5376ceef059479b0d738e3ea1abc865faf1ea1'
   'code': 'FOR'
   'color': '#830032'
   'espnId': '2230'
@@ -905,7 +905,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_GEORGE-MASON':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xeeda36b0d411d8c57946d4810f302aef736e0347'
   'code': 'GMU'
   'color': '#016600'
   'espnId': '2244'
@@ -914,7 +914,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_GEORGE-WASHINGTON':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xea66fad18c7c7edda780ea457908c7cc0e8d36fe'
   'code': 'GW'
   'color': '#002843'
   'espnId': '45'
@@ -923,7 +923,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_LA-SALLE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x922b2dd697df0077fbb7214505e8d905e9e7ee2b'
   'code': 'LAS'
   'color': '#003356'
   'espnId': '2325'
@@ -932,7 +932,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_LOYOLA-CHICAGO':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x76dd11de39839caf59f1a636e5146d53b59dc594'
   'code': 'LUC'
   'color': '#9D1244'
   'espnId': '2350'
@@ -941,7 +941,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_RHODE-ISLAND':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xf7eb0de919db6955bcd642d6a0e6fc912a2ea8df'
   'code': 'URI'
   'color': '#091F3F'
   'espnId': '227'
@@ -950,7 +950,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_RICHMOND':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xc53876d63ee62e332c1b8dafe135c6b3e7663cae'
   'code': 'RICH'
   'color': '#9E0712'
   'espnId': '257'
@@ -959,7 +959,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SAINT-JOSEPHS':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x690ba50277c96b957821e28e5f382d7fbae119ff'
   'code': 'JOES'
   'color': '#9E1B32'
   'espnId': '2603'
@@ -968,7 +968,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_ST-BONAVENTURE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x17a58565055064a35a034e3bf7d81d79ea663c44'
   'code': 'SBU'
   'color': '#70261D'
   'espnId': '179'
@@ -978,7 +978,7 @@
   'whitelisted': !!bool 'true'
 # === AMERICAN CONFERENCE ===
 'BASKETBALL_USA_CHARLOTTE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x80ecf6c0161da8dd27550e2886436fa7ade17fe4'
   'code': 'CLT'
   'color': '#005035'
   'espnId': '2429'
@@ -987,7 +987,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_EAST-CAROLINA':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xc50b3b13732ecc0d01ecc66a7ffe67a2c7b70947'
   'code': 'ECU'
   'color': '#582C83'
   'espnId': '151'
@@ -996,7 +996,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_FLORIDA-ATLANTIC':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x50c06b526ffb96bc7f2ca2155c024911cea066e8'
   'code': 'FAU'
   'color': '#003366'
   'espnId': '2226'
@@ -1005,7 +1005,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_MEMPHIS':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xbc234b07a8b7ecb2c1ae26bea3ed854afda32733'
   'code': 'MEM'
   'color': '#004991'
   'espnId': '235'
@@ -1014,7 +1014,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NORTH-TEXAS':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x77058df55b02cd08c7af3724efde30f6e68ec58e'
   'code': 'UNT'
   'color': '#068F33'
   'espnId': '249'
@@ -1023,7 +1023,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_RICE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x2b85b8be156d9e546faef35a8df91031a51f3103'
   'code': 'RICE'
   'color': '#00205B'
   'espnId': '242'
@@ -1032,7 +1032,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TEMPLE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x3d02c520a191ebcc7be32938187622445d97b347'
   'code': 'TEM'
   'color': '#A41E35'
   'espnId': '218'
@@ -1041,7 +1041,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TULANE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x9980c7355cd7267ac6af021bb07ddb198ca6fa70'
   'code': 'TULN'
   'color': '#006747'
   'espnId': '2655'
@@ -1050,7 +1050,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_TULSA':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x7749928f2f784e2168d804cd66ef3ca8b7157d8d'
   'code': 'TLSA'
   'color': '#003595'
   'espnId': '202'
@@ -1059,7 +1059,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_UAB':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xe0df718c49ab6286c5493336e58e1bb471552714'
   'code': 'UAB'
   'color': '#1A5632'
   'espnId': '5'
@@ -1068,7 +1068,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_UTSA':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x1b667fb1179c9ca7ad6c6bb42c9335eb6116d7c5'
   'code': 'UTSA'
   'color': '#0C2340'
   'espnId': '2636'
@@ -1077,7 +1077,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_WICHITA-STATE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x332a5806e0658342e04557810b7feddd14e2b13a'
   'code': 'WICH'
   'color': '#FFCD00'
   'espnId': '2724'
@@ -1087,7 +1087,7 @@
   'whitelisted': !!bool 'true'
 # === MOUNTAIN WEST ===
 'BASKETBALL_USA_AIR-FORCE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x05678b4c4f17c9265eb231fd945fcbdce84510fb'
   'code': 'AF'
   'color': '#003594'
   'espnId': '2005'
@@ -1096,7 +1096,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_GRAND-CANYON':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x65c6dcf452f187193d151bf9a7e713bcdabb76e4'
   'code': 'GCU'
   'color': '#522398'
   'espnId': '2253'
@@ -1105,7 +1105,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NEVADA':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x907fbe03360225d4b268cd50ed00c334b5d51ed2'
   'code': 'NEV'
   'color': '#041E42'
   'espnId': '2440'
@@ -1114,7 +1114,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_NEW-MEXICO':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xc1278067c7ad8d9264a9b5759adf291325e6cbd9'
   'code': 'UNM'
   'color': '#BA0C2F'
   'espnId': '167'
@@ -1123,7 +1123,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_SAN-JOSE-STATE':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x959de8f30b2a7c1a5904d1484fb10882bbfb4a30'
   'code': 'SJSU'
   'color': '#0038A8'
   'espnId': '23'
@@ -1132,7 +1132,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_UC-DAVIS':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xbb6818561341a3aaba911e18e3ef6a2a40afdcde'
   'code': 'UCD'
   'color': '#002855'
   'espnId': '302'
@@ -1141,7 +1141,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_UNLV':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0x7863b1d5983d1a1d0aac66d32871f9cfb4274b81'
   'code': 'UNLV'
   'color': '#CF0A2C'
   'espnId': '2439'
@@ -1150,7 +1150,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_UTEP':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xd69a9ae24498b0e247865e25ed1ccb312ae7688d'
   'code': 'UTEP'
   'color': '#FF8200'
   'espnId': '2638'
@@ -1159,7 +1159,7 @@
   'tradeType': 'ALL'
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_WYOMING':
-  'address': '0xTODO_GENERATE_VIA_ADMIN'
+  'address': '0xd8f4552c89b37d927715a6e9bffdc80f6d3ca30e'
   'code': 'WYO'
   'color': '#492F24'
   'espnId': '2751'
