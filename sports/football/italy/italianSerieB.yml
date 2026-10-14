@@ -1,0 +1,54 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '33'
+'challenges':
+'color': '#1d4f91'
+'country': 'Italy'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-italianserieb.png'
+'name': 'Italian Serie B'
+'pick5PoolAmount': !!int '100'
+'visible': !!bool 'false'
+'code': 'Italy_Serie_B'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'Italy_Serie_B_2026_2027'
+    'endDate': !!timestamp '2027-05-14T00:00:00Z'
+    'startDate': !!timestamp '2026-08-21T00:00:00Z'
+    'standingsScraper': 'espn'
+    'tsdbId': '4394'
+    'espnId': '2026'
+    'weeksScraper': 'tsdb'
+    'teams':
+    - 'FOOTBALL_ITALY_AREZZO'
+    - 'FOOTBALL_ITALY_ASCOLI'
+    - 'FOOTBALL_ITALY_AVELLINO'
+    - 'FOOTBALL_ITALY_BENEVENTO'
+    - 'FOOTBALL_ITALY_CARRARESE'
+    - 'FOOTBALL_ITALY_CATANZARO'
+    - 'FOOTBALL_ITALY_CESENA'
+    - 'FOOTBALL_ITALY_CREMONESE'
+    - 'FOOTBALL_ITALY_EMPOLI'
+    - 'FOOTBALL_ITALY_VERONA'
+    - 'FOOTBALL_ITALY_JUVE-STABIA'
+    - 'FOOTBALL_ITALY_MANTOVA'
+    - 'FOOTBALL_ITALY_MODENA'
+    - 'FOOTBALL_ITALY_PADOVA'
+    - 'FOOTBALL_ITALY_PALERMO'
+    - 'FOOTBALL_ITALY_PISA'
+    - 'FOOTBALL_ITALY_SAMPDORIA'
+    - 'FOOTBALL_ITALY_SUDTIROL'
+    - 'FOOTBALL_ITALY_VICENZA'
+    - 'FOOTBALL_ITALY_VIRTUS-ENTELLA'
+'espnId': 'soccer/ita.2'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
