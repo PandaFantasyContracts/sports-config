@@ -12,7 +12,7 @@
 'tournamentType': 'KNOCKOUT'
 'seasons':
   '2026':
-    'active': !!bool 'false'
+    'active': !!bool 'true'
     'code': 'NCAA_MM_26'
     'startDate': !!timestamp '2026-03-17T00:00:00Z'
     'endDate': !!timestamp '2026-04-06T00:00:00Z'
