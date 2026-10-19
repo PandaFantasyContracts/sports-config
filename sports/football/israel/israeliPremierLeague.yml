@@ -17,7 +17,8 @@
     'soccer365Id': '761'
     'standingsScraper': 'default'
     'tsdbId': '4644'
-    'weeksScraper': 'tsdb'
+    'sportmonksId': '25662'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'
     - 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV'

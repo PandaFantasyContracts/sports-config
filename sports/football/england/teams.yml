@@ -85,6 +85,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-england-exeter-city.png'
   'name': 'Exeter City'
   'tsdbId': '134365'
+  'sportmonksId': '185'
   'espnId': '324'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_BLACKPOOL':
@@ -154,6 +155,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-england-rotherham-united.png'
   'name': 'Rotherham United'
   'tsdbId': '134231'
+  'sportmonksId': '138'
   'espnId': '402'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_TOTTENHAM':
@@ -363,6 +365,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-england-northampton-town.png'
   'name': 'Northampton Town'
   'tsdbId': '134370'
+  'sportmonksId': '221'
   'espnId': '353'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_MANCHESTER-UNITED':
@@ -522,6 +525,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-england-port-vale.png'
   'name': 'Port Vale'
   'tsdbId': '134375'
+  'sportmonksId': '348'
   'espnId': '348'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ENGLAND_OXFORD-UTD':

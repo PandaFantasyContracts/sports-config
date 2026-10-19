@@ -15,8 +15,9 @@
     'startDate': !!timestamp '2024-08-16T18:45:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4334'
+    'sportmonksId': '23643'
     'espnId': '2024'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_FRANCE_STRASBOURG'
     - 'FOOTBALL_FRANCE_RENNES'
@@ -43,8 +44,9 @@
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4334'
+    'sportmonksId': '25651'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_FRANCE_ANGERS'
     - 'FOOTBALL_FRANCE_AUXERRE'

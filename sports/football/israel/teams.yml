@@ -7,6 +7,7 @@
   'name': 'Maccabi Bnei Raina'
   'soccer365Id': '16420'
   'tsdbId': '141801'
+  'sportmonksId': '229320'
   'espnId': '21517'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV':
@@ -30,6 +31,7 @@
   'name': 'FC Ashdod'
   'soccer365Id': '7006'
   'tsdbId': '135991'
+  'sportmonksId': '5897'
   'espnId': '5269'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-HAIFA':

@@ -15,8 +15,9 @@
     'startDate': !!timestamp '2024-08-23T18:30:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4331'
+    'sportmonksId': '23744'
     'espnId': '2024'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_GERMANY_ST-PAULI'
     - 'FOOTBALL_GERMANY_FC-AUGSBURG'
@@ -43,8 +44,9 @@
     'startDate': !!timestamp '2025-08-22T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4331'
+    'sportmonksId': '25646'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_GERMANY_BAYERN-MUNICH'
     - 'FOOTBALL_GERMANY_BAYER-LEVERKUSEN'

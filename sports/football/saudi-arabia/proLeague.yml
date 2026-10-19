@@ -16,8 +16,9 @@
     'startDate': !!timestamp '2024-08-22T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4668'
+    'sportmonksId': '23970'
     'espnId': '2024'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD'
     - 'FOOTBALL_SAUDI-ARABIA_AL-HILAL'
@@ -44,8 +45,9 @@
     'startDate': !!timestamp '2025-08-28T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4668'
+    'sportmonksId': '26276'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
       - 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD'
       - 'FOOTBALL_SAUDI-ARABIA_AL-HILAL'
