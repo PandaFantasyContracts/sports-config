@@ -18,7 +18,7 @@
     'tsdbId': '4460'
     'espnId': '2025'
     'goalServeId': '1015'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'espn-cricket'
     'teams':
     - 'CRICKET_INDIA_DELHI-CAPITALS'
     - 'CRICKET_INDIA_GUJARAT-TITANS'
@@ -39,7 +39,7 @@
     'tsdbId': '4460'
     'espnId': '2026'
     'goalServeId': '1015'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'espn-cricket'
     'teams':
     - 'CRICKET_INDIA_DELHI-CAPITALS'
     - 'CRICKET_INDIA_GUJARAT-TITANS'

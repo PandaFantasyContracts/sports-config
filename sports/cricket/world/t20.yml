@@ -8,6 +8,7 @@
 'pick5PoolAmount': !!int '0'
 'code': 'WORLD_CRICKET_T20'
 'visible': !!bool 'true'
+'espnId': 'cricket/8604'
 'seasons':
   '2026':
     'active': !!bool 'true'
@@ -16,7 +17,8 @@
     'startDate': !!timestamp '2026-02-07T00:00:00Z'
     'standingsScraper': 't20'
     'tsdbId': '5103'
-    'weeksScraper': 't20'
+    'espnId': '2026'
+    'weeksScraper': 'espn-t20'
     'teams':
      - 'CRICKET_WORLD_AFGHANISTAN'
      - 'CRICKET_WORLD_AUSTRALIA'

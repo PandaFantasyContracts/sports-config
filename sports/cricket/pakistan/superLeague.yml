@@ -17,7 +17,7 @@
     'standingsScraper': 'espn'
     'tsdbId': '5067'
     'espnId': '2025:1'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'espn-cricket'
     'teams':
     - 'CRICKET_PAKISTAN_ISLAMABAD-UNITED'
     - 'CRICKET_PAKISTAN_KARACHI-KINGS'
@@ -33,7 +33,7 @@
     'standingsScraper': 'espn'
     'tsdbId': '5067'
     'espnId': '2026:1'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'espn-cricket'
     'teams':
     - 'CRICKET_PAKISTAN_HYDERABAD-KINGSMEN'
     - 'CRICKET_PAKISTAN_ISLAMABAD-UNITED'
