@@ -5,6 +5,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-academico-de-viseu.png'
   'name': 'Académico de Viseu'
   'tsdbId': '138856'
+  'sportmonksId': '8297'
   'espnId': '21607'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_ALVERCA':
@@ -14,6 +15,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-alverca.png'
   'name': 'Alverca'
   'tsdbId': '143704'
+  'sportmonksId': '35867'
   'espnId': '21613'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_AROUCA':
@@ -23,6 +25,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-arouca.png'
   'name': 'Arouca'
   'tsdbId': '134387'
+  'sportmonksId': '4092'
   'espnId': '15784'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_BENFICA':
@@ -32,6 +35,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-benfica.png'
   'name': 'Benfica'
   'tsdbId': '134108'
+  'sportmonksId': '605'
   'espnId': '1929'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_BRAGA':
@@ -41,6 +45,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-braga.png'
   'name': 'Braga'
   'tsdbId': '134098'
+  'sportmonksId': '884'
   'espnId': '2994'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_CASA-PIA':
@@ -50,6 +55,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-casa-pia.png'
   'name': 'Casa Pia'
   'tsdbId': '138864'
+  'sportmonksId': '11741'
   'espnId': '21581'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_ESTORIL':
@@ -59,6 +65,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-estoril.png'
   'name': 'Estoril'
   'tsdbId': '134106'
+  'sportmonksId': '1198'
   'espnId': '12216'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_ESTRELA-DA-AMADORA':
@@ -68,6 +75,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-estrela-da-amadora.png'
   'name': 'Estrela da Amadora'
   'tsdbId': '140008'
+  'sportmonksId': '12152'
   'espnId': '21610'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_FAMALICAO':
@@ -77,6 +85,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-famalicao.png'
   'name': 'Famalicão'
   'tsdbId': '136854'
+  'sportmonksId': '3161'
   'espnId': '12698'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_GIL-VICENTE':
@@ -86,6 +95,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-gil-vicente.png'
   'name': 'Gil Vicente'
   'tsdbId': '134113'
+  'sportmonksId': '364'
   'espnId': '3699'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_MARITIMO':
@@ -95,6 +105,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-maritimo.png'
   'name': 'Marítimo'
   'tsdbId': '134023'
+  'sportmonksId': '5931'
   'espnId': '552'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_MOREIRENSE':
@@ -104,6 +115,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-moreirense.png'
   'name': 'Moreirense'
   'tsdbId': '134112'
+  'sportmonksId': '1085'
   'espnId': '3696'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_NACIONAL':
@@ -113,6 +125,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-nacional.png'
   'name': 'Nacional'
   'tsdbId': '134109'
+  'sportmonksId': '7035'
   'espnId': '3472'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_FC-PORTO':
@@ -122,6 +135,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-fc-porto.png'
   'name': 'FC Porto'
   'tsdbId': '134114'
+  'sportmonksId': '652'
   'espnId': '437'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_RIO-AVE':
@@ -131,6 +145,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-rio-ave.png'
   'name': 'Rio Ave'
   'tsdbId': '134107'
+  'sportmonksId': '6377'
   'espnId': '3822'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_SANTA-CLARA':
@@ -140,6 +155,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-santa-clara.png'
   'name': 'Santa Clara'
   'tsdbId': '136192'
+  'sportmonksId': '2628'
   'espnId': '12215'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_SPORTING-CP':
@@ -149,6 +165,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-sporting-cp.png'
   'name': 'Sporting CP'
   'tsdbId': '135708'
+  'sportmonksId': '58'
   'espnId': '2250'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_VITORIA-DE-GUIMARAES':
@@ -158,6 +175,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-vitoria-de-guimaraes.png'
   'name': 'Vitória de Guimarães'
   'tsdbId': '134115'
+  'sportmonksId': '830'
   'espnId': '5309'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_AVS':
@@ -167,6 +185,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-avs.png'
   'name': 'AVS'
   'tsdbId': '147479'
+  'sportmonksId': '269225'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_ACADEMICA-DE-COIMBRA':
   'address': '0x952374e7b5d204c5a7095fb39a06dc767bfb0701'
@@ -175,6 +194,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-academica-de-coimbra.png'
   'name': 'Académica de Coimbra'
   'tsdbId': '134118'
+  'sportmonksId': '7561'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_AMARANTE':
   'address': '0x260639e4edf3ec2e6b88e36aa8fc5214ffade582'
@@ -183,6 +203,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-amarante.png'
   'name': 'Amarante'
   'tsdbId': '149021'
+  'sportmonksId': '8309'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_BENFICA-B':
   'address': '0x679546ee5c1d7e7aa3094a6b4817b7f7378341b5'
@@ -191,6 +212,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-benfica-b.png'
   'name': 'Benfica B'
   'tsdbId': '138860'
+  'sportmonksId': '2946'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_CHAVES':
   'address': '0x5828d7d9918b475e7c014a573d6d7085383a2579'
@@ -199,6 +221,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-chaves.png'
   'name': 'Chaves'
   'tsdbId': '135674'
+  'sportmonksId': '988'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_FARENSE':
   'address': '0x8ebc1b3f98d7ffd81329a26c3e42be50f9c50de6'
@@ -207,6 +230,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-farense.png'
   'name': 'Farense'
   'tsdbId': '138853'
+  'sportmonksId': '7214'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_FEIRENSE':
   'address': '0x5f157eda70a01a6d6ce4e142a6d4e74be9f63fcc'
@@ -215,6 +239,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-feirense.png'
   'name': 'Feirense'
   'tsdbId': '135675'
+  'sportmonksId': '7826'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_FELGUEIRAS':
   'address': '0xb553a0473117f4bb8f4c925bb9028a08d4902df7'
@@ -223,6 +248,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-felgueiras.png'
   'name': 'Felgueiras'
   'tsdbId': '143710'
+  'sportmonksId': '9682'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_LEIXOES':
   'address': '0xc52dddb4ee06960732241eac04cb952a4cb39b34'
@@ -231,6 +257,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-leixoes.png'
   'name': 'Leixões'
   'tsdbId': '138858'
+  'sportmonksId': '8383'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_LUSITANIA-LOUROSA':
   'address': '0xc49d595a6404196bca7e7985d381c2fcc2083cac'
@@ -239,6 +266,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-lusitania-lourosa.png'
   'name': 'Lusitânia Lourosa'
   'tsdbId': '143711'
+  'sportmonksId': '24831'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_PENAFIEL':
   'address': '0x874cd3eb35b3cbc9958b4730794139aa092a2406'
@@ -247,6 +275,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-penafiel.png'
   'name': 'Penafiel'
   'tsdbId': '134587'
+  'sportmonksId': '6974'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_PORTIMONENSE':
   'address': '0xa0778fc2b6c3d5afeaf11b1a32a6189488f09e83'
@@ -255,6 +284,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-portimonense.png'
   'name': 'Portimonense'
   'tsdbId': '136031'
+  'sportmonksId': '1658'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_PORTO-B':
   'address': '0x2f53927e0d5a87cf2d4c54880a574478d1bbbc3a'
@@ -263,6 +293,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-porto-b.png'
   'name': 'Porto B'
   'tsdbId': '138861'
+  'sportmonksId': '3378'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_SPORTING-CP-B':
   'address': '0x14d7597f312de5698c138915280bc0dcb20a6a1c'
@@ -271,6 +302,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-sporting-cp-b.png'
   'name': 'Sporting CP B'
   'tsdbId': '143719'
+  'sportmonksId': '6362'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_TONDELA':
   'address': '0xe309a14b657502cd66583469f182dba75f5d5b2b'
@@ -279,6 +311,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-tondela.png'
   'name': 'Tondela'
   'tsdbId': '135502'
+  'sportmonksId': '3497'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_TORREENSE':
   'address': '0xe831f142f78c0e51cc80b1a1af5b4013fccda9dc'
@@ -287,6 +320,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-torreense.png'
   'name': 'Torreense'
   'tsdbId': '143720'
+  'sportmonksId': '7067'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_UNIAO-DE-LEIRIA':
   'address': '0xbd5c3c0315e16feeb0cb4311e5d97dd264863ed6'
@@ -295,6 +329,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-uniao-de-leiria.png'
   'name': 'União de Leiria'
   'tsdbId': '140355'
+  'sportmonksId': '5671'
   'whitelisted': !!bool 'true'
 'FOOTBALL_PORTUGAL_VIZELA':
   'address': '0x5346986d24bbb79dfbbc90c02329a896c2d163eb'
@@ -303,4 +338,5 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-vizela.png'
   'name': 'Vizela'
   'tsdbId': '140097'
+  'sportmonksId': '8164'
   'whitelisted': !!bool 'true'

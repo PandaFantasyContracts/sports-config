@@ -71,8 +71,9 @@
     'startDate': !!timestamp '2026-08-28T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4331'
+    'sportmonksId': '28321'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_GERMANY_BAYERN-MUNICH'
     - 'FOOTBALL_GERMANY_BAYER-LEVERKUSEN'

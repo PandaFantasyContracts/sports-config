@@ -83,8 +83,9 @@
     'startDate': !!timestamp '2026-08-15T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4396'
+    'sportmonksId': '28349'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_ENGLAND_AFC-WIMBLEDON'
     - 'FOOTBALL_ENGLAND_BARNSLEY'

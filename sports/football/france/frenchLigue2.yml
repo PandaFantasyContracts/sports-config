@@ -16,8 +16,9 @@
     'startDate': !!timestamp '2026-08-08T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4401'
+    'sportmonksId': '28105'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_FRANCE_ANNECY'
     - 'FOOTBALL_FRANCE_BOULOGNE'

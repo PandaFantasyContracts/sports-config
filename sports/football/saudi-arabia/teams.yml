@@ -5,6 +5,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-khaleej.png'
   'name': 'Al Khaleej'
   'tsdbId': '139080'
+  'sportmonksId': '12216'
   'espnId': '21829'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-RAED':
@@ -22,6 +23,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-ahli.png'
   'name': 'Al Ahli'
   'tsdbId': '137721'
+  'sportmonksId': '9908'
   'espnId': '8346'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-TAAWOUN':
@@ -31,6 +33,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-taawoun.png'
   'name': 'Al Taawoun'
   'tsdbId': '136012'
+  'sportmonksId': '2392'
   'espnId': '18459'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-NASSR':
@@ -40,6 +43,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-nassr.png'
   'name': 'Al Nassr'
   'tsdbId': '136022'
+  'sportmonksId': '2506'
   'espnId': '817'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-KHOLOOD':
@@ -49,6 +53,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-kholood.png'
   'name': 'Al Kholood'
   'tsdbId': '149112'
+  'sportmonksId': '232744'
   'espnId': '22028'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-RIYADH':
@@ -58,6 +63,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-riyadh.png'
   'name': 'Al Riyadh'
   'tsdbId': '147445'
+  'sportmonksId': '17705'
   'espnId': '21965'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-WEHDA':
@@ -75,6 +81,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-fayha.png'
   'name': 'Al Fayha'
   'tsdbId': '136014'
+  'sportmonksId': '17724'
   'espnId': '21827'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-HILAL':
@@ -84,6 +91,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-hilal.png'
   'name': 'Al Hilal'
   'tsdbId': '136013'
+  'sportmonksId': '7011'
   'espnId': '929'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-ITTIHAD':
@@ -93,6 +101,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-ittihad.png'
   'name': 'Al Ittihad'
   'tsdbId': '136018'
+  'sportmonksId': '476'
   'espnId': '2276'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-QADSIAH':
@@ -102,6 +111,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-qadsiah.png'
   'name': 'Al Qadsiah'
   'tsdbId': '136015'
+  'sportmonksId': '13092'
   'espnId': '22022'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-ETTIFAQ':
@@ -111,6 +121,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-ettifaq.png'
   'name': 'Al Ettifaq'
   'tsdbId': '136017'
+  'sportmonksId': '10010'
   'espnId': '8363'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-OKHDOOD':
@@ -138,6 +149,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-fateh.png'
   'name': 'Al Fateh'
   'tsdbId': '136011'
+  'sportmonksId': '5891'
   'espnId': '13033'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-ORUBAH':
@@ -155,6 +167,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-shabab.png'
   'name': 'Al Shabab'
   'tsdbId': '136020'
+  'sportmonksId': '16184'
   'espnId': '793'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_NEOM':
@@ -164,6 +177,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-neom.png'
   'name': 'Neom'
   'tsdbId': '150637'
+  'sportmonksId': '17730'
   'espnId': '130899'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-HAZEM':
@@ -173,6 +187,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-hazem.png'
   'name': 'Al-Hazem'
   'tsdbId': '136200'
+  'sportmonksId': '17694'
   'espnId': '21964'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-NAJMA-UNAIZAH':
@@ -191,6 +206,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-abha.png'
   'name': 'Abha'
   'tsdbId': '137855'
+  'sportmonksId': '5618'
   'espnId': '21833'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-FAISALY':
@@ -200,6 +216,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-faisaly.png'
   'name': 'Al-Faisaly'
   'tsdbId': '136021'
+  'sportmonksId': '6883'
   'espnId': '21446'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SAUDI-ARABIA_AL-DIRIYAH':
@@ -209,5 +226,6 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-saudi-arabia-al-diriyah.png'
   'name': 'Al-Diriyah'
   'tsdbId': '152917'
+  'sportmonksId': '17733'
   'espnId': '131746'
   'whitelisted': !!bool 'false'
