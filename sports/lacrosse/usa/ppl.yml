@@ -15,7 +15,6 @@
     'endDate': !!timestamp '2025-08-09T00:00:00Z'
     'startDate': !!timestamp '2025-05-30T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '5337'
     'espnId': '2025'
     'weeksScraper': 'pll'
     'teams':

@@ -15,7 +15,6 @@
     'endDate': !!timestamp '2027-05-01T00:00:00Z'
     'startDate': !!timestamp '2026-09-11T00:00:00Z'
     'standingsScraper': 'sportmonks'
-    'tsdbId': '4953'
     'sportmonksId': '28191'
     'weeksScraper': 'sportmonks'
     'teams':
