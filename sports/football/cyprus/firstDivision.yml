@@ -15,7 +15,6 @@
     'endDate': !!timestamp '2025-03-01T00:00:00Z'
     'startDate': !!timestamp '2024-08-23T00:00:00Z'
     'standingsScraper': 'sportmonks'
-    'tsdbId': '4630'
     'sportmonksId': '23749'
     'weeksScraper': 'sportmonks'
     'teams':
@@ -39,7 +38,6 @@
     'endDate': !!timestamp '2026-03-14T00:00:00Z'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '4630'
     'sportmonksId': '25996'
     'espnId': '2025:1'
     'weeksScraper': 'sportmonks'
@@ -64,7 +62,6 @@
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
     'startDate': !!timestamp '2026-08-29T00:00:00Z'
     'standingsScraper': 'sportmonks'
-    'tsdbId': '4630'
     'sportmonksId': '28562'
     'weeksScraper': 'sportmonks'
     'teams':
