@@ -1,0 +1,20 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+'buybackPoolDivisor': !!int '0'
+'color': '#007bff'
+'country': 'QA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-italianseriea.png'
+'name': 'QA DAO Autobuy'
+'pick5PoolAmount': !!int '0'
+'visible': !!bool 'true'
+'code': 'QA_DAO_Autobuy'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'QA_DAO_Autobuy_2026_2027'
+    'startDate': !!timestamp '2026-10-01T00:00:00Z'
+    'endDate': !!timestamp '2027-06-30T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+    - 'FOOTBALL_QA_AUTOBUY-ONE'
+    - 'FOOTBALL_QA_AUTOBUY-TWO'

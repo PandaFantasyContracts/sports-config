@@ -1,0 +1,16 @@
+'FOOTBALL_QA_AUTOBUY-ONE':
+  'address': '0x3352d8283011e93d9e897fc11a54e6e133a32865'
+  'code': 'QA1'
+  'color': '#EC173A'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-monza.png'
+  'name': 'QA Autobuy One'
+  'tradeType': 'USDP'
+  'whitelisted': !!bool 'true'
+'FOOTBALL_QA_AUTOBUY-TWO':
+  'address': '0x6348ae82ca1cf1b14f786a6c9bc2c48995c39bc1'
+  'code': 'QA2'
+  'color': '#482E92'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-fiorentina.png'
+  'name': 'QA Autobuy Two'
+  'tradeType': 'USDP'
+  'whitelisted': !!bool 'true'
