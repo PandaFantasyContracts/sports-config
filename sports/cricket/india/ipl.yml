@@ -15,7 +15,7 @@
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
     'standingsScraper': 'espn'
-    'espnId': '2025'
+    'espnId': '2025:1'
     'goalServeId': '1015'
     'weeksScraper': 'espn-cricket'
     'teams':
@@ -35,7 +35,7 @@
     'endDate': !!timestamp '2026-05-31T00:00:00Z'
     'startDate': !!timestamp '2026-03-28T00:00:00Z'
     'standingsScraper': 'espn'
-    'espnId': '2026'
+    'espnId': '2026:1'
     'goalServeId': '1015'
     'weeksScraper': 'espn-cricket'
     'teams':
