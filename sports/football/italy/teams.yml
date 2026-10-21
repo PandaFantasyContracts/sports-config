@@ -5,6 +5,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-monza.png'
   'name': 'Monza'
   'tsdbId': '134270'
+  'sportmonksId': '1628'
   'espnId': '4007'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_FIORENTINA':
@@ -14,6 +15,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-fiorentina.png'
   'name': 'Fiorentina'
   'tsdbId': '133674'
+  'sportmonksId': '109'
   'espnId': '109'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_VENEZIA':
@@ -23,6 +25,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-venezia.png'
   'name': 'Venezia'
   'tsdbId': '134234'
+  'sportmonksId': '267'
   'espnId': '17530'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_AC-MILAN':
@@ -32,6 +35,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-ac-milan.png'
   'name': 'AC Milan'
   'tsdbId': '133667'
+  'sportmonksId': '113'
   'espnId': '103'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_PISA':
@@ -41,6 +45,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-pisa.png'
   'name': 'Pisa'
   'tsdbId': '133859'
+  'sportmonksId': '1072'
   'espnId': '3956'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_BOLOGNA':
@@ -50,6 +55,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-bologna.png'
   'name': 'Bologna'
   'tsdbId': '134781'
+  'sportmonksId': '8513'
   'espnId': '107'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_NAPOLI':
@@ -59,6 +65,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-napoli.png'
   'name': 'Napoli'
   'tsdbId': '133670'
+  'sportmonksId': '597'
   'espnId': '114'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_SASSUOLO':
@@ -68,6 +75,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-sassuolo.png'
   'name': 'Sassuolo'
   'tsdbId': '133701'
+  'sportmonksId': '2714'
   'espnId': '3997'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_CAGLIARI':
@@ -77,6 +85,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-cagliari.png'
   'name': 'Cagliari'
   'tsdbId': '134783'
+  'sportmonksId': '585'
   'espnId': '2925'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_UDINESE':
@@ -86,6 +95,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-udinese.png'
   'name': 'Udinese'
   'tsdbId': '133679'
+  'sportmonksId': '346'
   'espnId': '118'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_JUVENTUS':
@@ -95,6 +105,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-juventus.png'
   'name': 'Juventus'
   'tsdbId': '133676'
+  'sportmonksId': '625'
   'espnId': '111'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_LAZIO':
@@ -104,6 +115,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-lazio.png'
   'name': 'Lazio'
   'tsdbId': '133668'
+  'sportmonksId': '43'
   'espnId': '112'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_ROMA':
@@ -113,6 +125,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-roma.png'
   'name': 'Roma'
   'tsdbId': '133682'
+  'sportmonksId': '37'
   'espnId': '104'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_PARMA-CALCIO-1913':
@@ -122,6 +135,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-parma-calcio-1913.png'
   'name': 'Parma Calcio 1913'
   'tsdbId': '135728'
+  'sportmonksId': '398'
   'espnId': '115'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_LECCE':
@@ -131,6 +145,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-lecce.png'
   'name': 'Lecce'
   'tsdbId': '133678'
+  'sportmonksId': '7790'
   'espnId': '113'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_COMO':
@@ -140,6 +155,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-como.png'
   'name': 'Como'
   'tsdbId': '134243'
+  'sportmonksId': '268'
   'espnId': '2572'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_CREMONESE':
@@ -149,6 +165,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-cremonese.png'
   'name': 'Cremonese'
   'tsdbId': '134224'
+  'sportmonksId': '10722'
   'espnId': '4050'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_VERONA':
@@ -158,6 +175,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-verona.png'
   'name': 'Verona'
   'tsdbId': '134784'
+  'sportmonksId': '1123'
   'espnId': '119'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_ATALANTA':
@@ -167,6 +185,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-atalanta.png'
   'name': 'Atalanta'
   'tsdbId': '134782'
+  'sportmonksId': '708'
   'espnId': '105'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_EMPOLI':
@@ -176,6 +195,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-empoli.png'
   'name': 'Empoli'
   'tsdbId': '133695'
+  'sportmonksId': '397'
   'espnId': '2574'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_INTER-MILAN':
@@ -185,6 +205,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-inter-milan.png'
   'name': 'Inter Milan'
   'tsdbId': '133681'
+  'sportmonksId': '2930'
   'espnId': '110'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_GENOA':
@@ -194,6 +215,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-genoa.png'
   'name': 'Genoa'
   'tsdbId': '133675'
+  'sportmonksId': '102'
   'espnId': '3263'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_TORINO':
@@ -203,6 +225,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-torino.png'
   'name': 'Torino'
   'tsdbId': '133687'
+  'sportmonksId': '613'
   'espnId': '239'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_FROSINONE':
@@ -212,6 +235,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-frosinone.png'
   'name': 'Frosinone'
   'tsdbId': '133818'
+  'sportmonksId': '4070'
   'espnId': '4057'
   'whitelisted': !!bool 'false'
 'FOOTBALL_ITALY_AREZZO':
@@ -221,6 +245,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-arezzo.png'
   'name': 'Arezzo'
   'tsdbId': '134212'
+  'sportmonksId': '7253'
   'espnId': '3345'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_ASCOLI':
@@ -230,6 +255,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-ascoli.png'
   'name': 'Ascoli'
   'tsdbId': '133686'
+  'sportmonksId': '1006'
   'espnId': '3346'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_AVELLINO':
@@ -239,6 +265,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-avellino.png'
   'name': 'Avellino'
   'tsdbId': '133858'
+  'sportmonksId': '6911'
   'espnId': '4055'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_BENEVENTO':
@@ -248,6 +275,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-benevento.png'
   'name': 'Benevento'
   'tsdbId': '134688'
+  'sportmonksId': '563'
   'espnId': '4059'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_CARRARESE':
@@ -257,6 +285,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-carrarese.png'
   'name': 'Carrarese'
   'tsdbId': '134666'
+  'sportmonksId': '7766'
   'espnId': '3988'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_CATANZARO':
@@ -266,6 +295,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-catanzaro.png'
   'name': 'Catanzaro'
   'tsdbId': '134223'
+  'sportmonksId': '7471'
   'espnId': '3257'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_CESENA':
@@ -275,6 +305,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-cesena.png'
   'name': 'Cesena'
   'tsdbId': '133669'
+  'sportmonksId': '1234'
   'espnId': '3337'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_JUVE-STABIA':
@@ -284,6 +315,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-juve-stabia.png'
   'name': 'Juve Stabia'
   'tsdbId': '133696'
+  'sportmonksId': '6947'
   'espnId': '3975'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_MANTOVA':
@@ -293,6 +325,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-mantova.png'
   'name': 'Mantova'
   'tsdbId': '133845'
+  'sportmonksId': '10771'
   'espnId': '3991'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_MODENA':
@@ -302,6 +335,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-modena.png'
   'name': 'Modena'
   'tsdbId': '133700'
+  'sportmonksId': '1000'
   'espnId': '2573'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_PADOVA':
@@ -311,6 +345,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-padova.png'
   'name': 'Padova'
   'tsdbId': '135950'
+  'sportmonksId': '249160'
   'espnId': '3952'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_PALERMO':
@@ -320,6 +355,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-palermo.png'
   'name': 'Palermo'
   'tsdbId': '138166'
+  'sportmonksId': '1216'
   'espnId': '2923'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_SAMPDORIA':
@@ -329,6 +365,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-sampdoria.png'
   'name': 'Sampdoria'
   'tsdbId': '133683'
+  'sportmonksId': '522'
   'espnId': '2734'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_SUDTIROL':
@@ -338,6 +375,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-sudtirol.png'
   'name': 'Südtirol'
   'tsdbId': '134654'
+  'sportmonksId': '176'
   'espnId': '11139'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_VICENZA':
@@ -347,6 +385,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-vicenza.png'
   'name': 'Vicenza'
   'tsdbId': '137255'
+  'sportmonksId': '658'
   'espnId': '120'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_VIRTUS-ENTELLA':
@@ -356,6 +395,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-virtus-entella.png'
   'name': 'Virtus Entella'
   'tsdbId': '134633'
+  'sportmonksId': '7818'
   'espnId': '11137'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ITALY_ANCONA':

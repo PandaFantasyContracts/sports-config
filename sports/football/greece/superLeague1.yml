@@ -16,8 +16,9 @@
     'startDate': !!timestamp '2026-08-22T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4336'
+    'sportmonksId': '28001'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_GREECE_AEK-ATHENS'
     - 'FOOTBALL_GREECE_ARIS'

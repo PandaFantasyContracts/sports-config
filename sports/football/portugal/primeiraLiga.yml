@@ -16,8 +16,9 @@
     'startDate': !!timestamp '2026-08-07T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4344'
+    'sportmonksId': '27947'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_PORTUGAL_ACADEMICO-DE-VISEU'
     - 'FOOTBALL_PORTUGAL_ALVERCA'

@@ -5,6 +5,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-aek-athens.png'
   'name': 'AEK Athens'
   'tsdbId': '133753'
+  'sportmonksId': '781'
   'espnId': '887'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_ARIS':
@@ -14,6 +15,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-aris.png'
   'name': 'Aris'
   'tsdbId': '133742'
+  'sportmonksId': '9848'
   'espnId': '11553'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_ASTERAS-TRIPOLIS':
@@ -23,6 +25,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-asteras-tripolis.png'
   'name': 'Asteras Tripolis'
   'tsdbId': '133752'
+  'sportmonksId': '2934'
   'espnId': '8354'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_ATROMITOS':
@@ -32,6 +35,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-atromitos.png'
   'name': 'Atromitos'
   'tsdbId': '133744'
+  'sportmonksId': '9849'
   'espnId': '6790'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_IRAKLIS-1908':
@@ -41,6 +45,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-iraklis-1908.png'
   'name': 'Iraklis 1908'
   'tsdbId': '144154'
+  'sportmonksId': '7171'
   'espnId': '2575'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_KALAMATA':
@@ -50,6 +55,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-kalamata.png'
   'name': 'Kalamata'
   'tsdbId': '134275'
+  'sportmonksId': '9919'
   'espnId': '132429'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_KIFISIA':
@@ -59,6 +65,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-kifisia.png'
   'name': 'Kifisia'
   'tsdbId': '144147'
+  'sportmonksId': '27943'
   'espnId': '21969'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_LEVADIAKOS':
@@ -68,6 +75,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-levadiakos.png'
   'name': 'Levadiakos'
   'tsdbId': '133755'
+  'sportmonksId': '990'
   'espnId': '5276'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_OFI-CRETE':
@@ -77,6 +85,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-ofi-crete.png'
   'name': 'OFI Crete'
   'tsdbId': '133743'
+  'sportmonksId': '118'
   'espnId': '1010'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_OLYMPIACOS':
@@ -86,6 +95,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-olympiacos.png'
   'name': 'Olympiacos'
   'tsdbId': '133754'
+  'sportmonksId': '602'
   'espnId': '435'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_PAOK':
@@ -95,6 +105,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-paok.png'
   'name': 'PAOK'
   'tsdbId': '133749'
+  'sportmonksId': '649'
   'espnId': '605'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_PANATHINAIKOS':
@@ -104,6 +115,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-panathinaikos.png'
   'name': 'Panathinaikos'
   'tsdbId': '133746'
+  'sportmonksId': '57'
   'espnId': '443'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_PANETOLIKOS':
@@ -113,6 +125,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-panetolikos.png'
   'name': 'Panetolikos'
   'tsdbId': '133751'
+  'sportmonksId': '213'
   'espnId': '11431'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GREECE_VOLOS-NFC':
@@ -122,5 +135,6 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-volos-nfc.png'
   'name': 'Volos NFC'
   'tsdbId': '136853'
+  'sportmonksId': '134582'
   'espnId': '20043'
   'whitelisted': !!bool 'true'

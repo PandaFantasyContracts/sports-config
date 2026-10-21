@@ -16,7 +16,7 @@
     'startDate': !!timestamp '2025-06-05T00:00:00Z'
     'endDate': !!timestamp '2025-11-22T00:00:00Z'
     'standingsScraper': 'cfl'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'cfl'
     'tsdbId': '4405'
     'teams':
     - 'AMERICANFOOTBALL_CANADA_BC-LIONS'
@@ -34,7 +34,7 @@
     'startDate': !!timestamp '2026-06-05T00:00:00Z'
     'endDate': !!timestamp '2026-11-22T00:00:00Z'
     'standingsScraper': 'cfl'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'cfl'
     'tsdbId': '4405'
     'teams':
     - 'AMERICANFOOTBALL_CANADA_BC-LIONS'

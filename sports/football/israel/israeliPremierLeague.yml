@@ -17,7 +17,8 @@
     'soccer365Id': '761'
     'standingsScraper': 'default'
     'tsdbId': '4644'
-    'weeksScraper': 'tsdb'
+    'sportmonksId': '25662'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_ISRAEL_MACCABI-BNEI-RAINA'
     - 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV'
@@ -42,7 +43,8 @@
     'soccer365Id': '761'
     'standingsScraper': 'default'
     'tsdbId': '4644'
-    'weeksScraper': 'tsdb'
+    'sportmonksId': '28070'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_ISRAEL_BEITAR-JERUSALEM'
     - 'FOOTBALL_ISRAEL_BNEI-SAKHNIN'

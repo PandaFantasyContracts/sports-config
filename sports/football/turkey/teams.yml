@@ -5,6 +5,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-alanyaspor.png'
   'name': 'Alanyaspor'
   'tsdbId': '135676'
+  'sportmonksId': '347'
   'espnId': '9078'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_AMEDSPOR':
@@ -14,6 +15,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-amedspor.png'
   'name': 'Amedspor'
   'tsdbId': '138959'
+  'sportmonksId': '3570'
   'espnId': '132335'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_BESIKTAS':
@@ -23,6 +25,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-besiktas.png'
   'name': 'Beşiktaş'
   'tsdbId': '133794'
+  'sportmonksId': '554'
   'espnId': '1895'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_CORUM-FK':
@@ -32,6 +35,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-corum-fk.png'
   'name': 'Çorum FK'
   'tsdbId': '138951'
+  'sportmonksId': '13871'
   'espnId': '132334'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_ERZURUMSPOR':
@@ -41,6 +45,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-erzurumspor.png'
   'name': 'Erzurumspor'
   'tsdbId': '134272'
+  'sportmonksId': '13818'
   'espnId': '19267'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_EYUPSPOR':
@@ -50,6 +55,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-eyupspor.png'
   'name': 'Eyüpspor'
   'tsdbId': '138977'
+  'sportmonksId': '3224'
   'espnId': '20729'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_FENERBAHCE':
@@ -59,6 +65,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-fenerbahce.png'
   'name': 'Fenerbahçe'
   'tsdbId': '133807'
+  'sportmonksId': '88'
   'espnId': '436'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GALATASARAY':
@@ -68,6 +75,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-galatasaray.png'
   'name': 'Galatasaray'
   'tsdbId': '133804'
+  'sportmonksId': '34'
   'espnId': '432'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GAZIANTEP-FK':
@@ -77,6 +85,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-gaziantep-fk.png'
   'name': 'Gaziantep FK'
   'tsdbId': '138092'
+  'sportmonksId': '4192'
   'espnId': '20070'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GENCLERBIRLIGI':
@@ -86,6 +95,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-genclerbirligi.png'
   'name': 'Gençlerbirliği'
   'tsdbId': '133798'
+  'sportmonksId': '286'
   'espnId': '996'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_GOZTEPE':
@@ -95,6 +105,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-goztepe.png'
   'name': 'Göztepe'
   'tsdbId': '135891'
+  'sportmonksId': '3897'
   'espnId': '789'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_ISTANBUL-BASAKSEHIR':
@@ -104,6 +115,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-istanbul-basaksehir.png'
   'name': 'İstanbul Başakşehir'
   'tsdbId': '134589'
+  'sportmonksId': '3702'
   'espnId': '7914'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_KASIMPASA':
@@ -113,6 +125,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-kasimpasa.png'
   'name': 'Kasımpaşa'
   'tsdbId': '133834'
+  'sportmonksId': '1071'
   'espnId': '6870'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_KOCAELISPOR':
@@ -122,6 +135,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-kocaelispor.png'
   'name': 'Kocaelispor'
   'tsdbId': '133870'
+  'sportmonksId': '13860'
   'espnId': '995'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_KONYASPOR':
@@ -131,6 +145,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-konyaspor.png'
   'name': 'Konyaspor'
   'tsdbId': '133835'
+  'sportmonksId': '2632'
   'espnId': '7648'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_CAYKUR-RIZESPOR':
@@ -140,6 +155,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-caykur-rizespor.png'
   'name': 'Çaykur Rizespor'
   'tsdbId': '133885'
+  'sportmonksId': '1041'
   'espnId': '7656'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_SAMSUNSPOR':
@@ -149,6 +165,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-samsunspor.png'
   'name': 'Samsunspor'
   'tsdbId': '133797'
+  'sportmonksId': '2811'
   'espnId': '11429'
   'whitelisted': !!bool 'true'
 'FOOTBALL_TURKEY_TRABZONSPOR':
@@ -158,5 +175,6 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-trabzonspor.png'
   'name': 'Trabzonspor'
   'tsdbId': '133796'
+  'sportmonksId': '688'
   'espnId': '997'
   'whitelisted': !!bool 'true'
