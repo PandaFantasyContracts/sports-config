@@ -1,0 +1,34 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: two QA teams that are not on the contract until QA-tests' setup-listing-buys uploads
+# their season with the listing buys on (core TSE-1021): a seed and a main buy by the bot each.
+# The market bootstrap never uploads this season. No fixtures, no standings, no challenge.
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#5B2C83'
+'country': 'QA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+'name': 'QA Listing Buys League'
+'pick5PoolAmount': !!int '0'
+'code': 'QA_LISTING_BUYS'
+'visible': !!bool 'true'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'QA_LISTING_BUYS_26_27'
+    'endDate': !!timestamp '2027-06-30T00:00:00Z'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+      - 'FOOTBALL_QA_LISTING-A'
+      - 'FOOTBALL_QA_LISTING-B'
+'sport': 'football'
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

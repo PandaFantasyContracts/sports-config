@@ -30,3 +30,17 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
   'name': 'QA Open B'
   'whitelisted': !!bool 'false'
+'FOOTBALL_QA_LISTING-A':
+  'address': '0xb298a372bfe218442a5eaf69d504ff1ce29654af'
+  'code': 'QLA'
+  'color': '#5B2C83'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Listing A'
+  'whitelisted': !!bool 'true'
+'FOOTBALL_QA_LISTING-B':
+  'address': '0x005f145be65ace33ffa0d86c595aa80084388def'
+  'code': 'QLB'
+  'color': '#0F7C8C'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Listing B'
+  'whitelisted': !!bool 'true'

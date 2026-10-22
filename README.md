@@ -26,6 +26,7 @@ season by the tests that need them.
 | `sports/basketball/usa/qaNcaaPayout.yml` | `QA_NCAA_MM_PAYOUT`, season `QA_NCAA_MM_26_PAYOUT` | A copy of NCAA Men's March Madness 2026 for the match-week Pick5 payout test (five markets per game: total points, team totals, first-half total, winner). Shares the real NCAA teams. |
 | `sports/cricket/world/qaT20Payout.yml` | `QA_CRICKET_T20_PAYOUT`, season `QA_CRICKET_T20_2026_PAYOUT` | A copy of the ICC Men's T20 World Cup 2026 for the match-week Pick5 payout test (WINNER markets, MATCH validator). Shares the real T20 World Cup teams. |
 | `sports/football/qa/teams.yml`, `qaWhitelist.yml` | `QA_WHITELIST`, season `QA_WHITELIST_26_27` | Four QA-only teams, two whitelisted and two open, with their own markets, for the whitelist permutations. |
+| `sports/football/qa/teams.yml`, `qaListingBuys.yml` | `QA_LISTING_BUYS`, season `QA_LISTING_BUYS_26_27` | Two QA-only teams that only the listing-buys setup of QA-tests uploads, with the bot's seed and main buys on (core TSE-1021). The market bootstrap never uploads this season, so on a clean environment they are new to the contract. |
 
 ## Rules for adding a league here
 
