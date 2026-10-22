@@ -1,0 +1,34 @@
+# QA only (TSE-1021): teams that are new to the contract, for the listing buys of the upload.
+# Addresses are fixed on purpose: sha256 of the team id, first 20 bytes.
+'FOOTBALL_QA_1021-A':
+  'address': '0x91d3e7f74c0e9f2e35fc04fc1c657e0b16c3a69a'
+  'code': 'Q1A'
+  'color': '#1F7A3F'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA 1021 A'
+  'tradeType': 'USDP'
+  'whitelisted': !!bool 'true'
+'FOOTBALL_QA_1021-B':
+  'address': '0xfef28f7e1a873a91a1f197e7cee0bce388e2c498'
+  'code': 'Q1B'
+  'color': '#482E92'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA 1021 B'
+  'tradeType': 'USDP'
+  'whitelisted': !!bool 'true'
+'FOOTBALL_QA_1021-C':
+  'address': '0xdc20171eb87b1cc2a69201d7df530782460f5f15'
+  'code': 'Q1C'
+  'color': '#0B6E4F'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA 1021 C'
+  'tradeType': 'USDP'
+  'whitelisted': !!bool 'true'
+'FOOTBALL_QA_1021-D':
+  'address': '0xaf561f37bb165dbcdd85f21d7fe973a613b1f829'
+  'code': 'Q1D'
+  'color': '#F2A900'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA 1021 D'
+  'tradeType': 'USDP'
+  'whitelisted': !!bool 'true'

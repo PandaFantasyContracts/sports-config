@@ -1,0 +1,33 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only (TSE-1021): listing buys on upload. Team C is also in QA_1021_TWO.
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#00c26e'
+'country': 'QA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+'name': 'QA 1021 One'
+'pick5PoolAmount': !!int '0'
+'code': 'QA_1021_ONE'
+'visible': !!bool 'true'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'QA_1021_ONE_26_27'
+    'endDate': !!timestamp '2027-06-30T00:00:00Z'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+      - 'FOOTBALL_QA_1021-A'
+      - 'FOOTBALL_QA_1021-B'
+      - 'FOOTBALL_QA_1021-C'
+'sport': 'football'
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

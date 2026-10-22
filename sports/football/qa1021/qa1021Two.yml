@@ -1,0 +1,32 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only (TSE-1021): shares team C with QA_1021_ONE, so one reload lists it twice.
+'buybackPoolDivisor': !!int '33'
+'challenges': []
+'color': '#00c26e'
+'country': 'QA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+'name': 'QA 1021 Two'
+'pick5PoolAmount': !!int '0'
+'code': 'QA_1021_TWO'
+'visible': !!bool 'true'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'QA_1021_TWO_26_27'
+    'endDate': !!timestamp '2027-06-30T00:00:00Z'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+      - 'FOOTBALL_QA_1021-C'
+      - 'FOOTBALL_QA_1021-D'
+'sport': 'football'
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
