@@ -16,7 +16,6 @@
     'footyId': 'israel/israeli-premier-league'
     'soccer365Id': '761'
     'standingsScraper': 'default'
-    'tsdbId': '4644'
     'sportmonksId': '25662'
     'weeksScraper': 'sportmonks'
     'teams':
@@ -42,7 +41,6 @@
     'footyId': 'israel/israeli-premier-league'
     'soccer365Id': '761'
     'standingsScraper': 'default'
-    'tsdbId': '4644'
     'sportmonksId': '28070'
     'weeksScraper': 'sportmonks'
     'teams':

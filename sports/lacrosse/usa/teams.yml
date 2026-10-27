@@ -4,7 +4,6 @@
   'color': '#978CD8'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-philadelphia-waterdogs.png'
   'name': 'Philadelphia Waterdogs'
-  'tsdbId': '146832'
   'espnId': '127637'
   'whitelisted': !!bool 'true'
 'LACROSSE_USA_CAROLINA-CHAOS':
@@ -13,7 +12,6 @@
   'color': '#ED4849'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-carolina-chaos.png'
   'name': 'Carolina Chaos'
-  'tsdbId': '146829'
   'espnId': '127634'
   'whitelisted': !!bool 'true'
 'LACROSSE_USA_UTAH-ARCHERS':
@@ -22,7 +20,6 @@
   'color': '#F7674D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-utah-archers.png'
   'name': 'Utah Archers'
-  'tsdbId': '146826'
   'espnId': '127631'
   'whitelisted': !!bool 'true'
 'LACROSSE_USA_DENVER-OUTLAWS':
@@ -31,7 +28,6 @@
   'color': '#F84E13'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-denver-outlaws.png'
   'name': 'Denver Outlaws'
-  'tsdbId': '146830'
   'espnId': '122896'
   'whitelisted': !!bool 'true'
 'LACROSSE_USA_NEW-YORK-ATLAS':
@@ -40,7 +36,6 @@
   'color': '#0EA2C0'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-new-york-atlas.png'
   'name': 'New York Atlas'
-  'tsdbId': '146827'
   'espnId': '127632'
   'whitelisted': !!bool 'true'
 'LACROSSE_USA_MARYLAND-WHIPSNAKES':
@@ -49,7 +44,6 @@
   'color': '#000000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-maryland-whipsnakes.png'
   'name': 'Maryland Whipsnakes'
-  'tsdbId': '146833'
   'espnId': '127638'
   'whitelisted': !!bool 'true'
 'LACROSSE_USA_CALIFORNIA-REDWOODS':
@@ -58,7 +52,6 @@
   'color': '#352C2B'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-california-redwoods.png'
   'name': 'California Redwoods'
-  'tsdbId': '146831'
   'espnId': '127636'
   'whitelisted': !!bool 'true'
 'LACROSSE_USA_BOSTON-CANNONS':
@@ -67,6 +60,5 @@
   'color': '#000080'
   'logo': 'https://static.thesportexchange.com/images/logos/256/lacrosse-usa-boston-cannons.png'
   'name': 'Boston Cannons'
-  'tsdbId': '146828'
   'espnId': '122997'
   'whitelisted': !!bool 'true'

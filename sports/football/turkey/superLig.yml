@@ -15,7 +15,6 @@
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
     'startDate': !!timestamp '2026-08-14T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '4339'
     'sportmonksId': '28203'
     'espnId': '2026'
     'weeksScraper': 'sportmonks'

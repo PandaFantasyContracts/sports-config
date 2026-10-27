@@ -15,7 +15,6 @@
     'endDate': !!timestamp '2025-08-15T00:00:00Z'
     'startDate': !!timestamp '2025-05-02T00:00:00Z'
     'standingsScraper': 'default'
-    'tsdbId': '5329'
     'weeksScraper': 'liv'
     'teams':
     - 'GOLF_WORLD_4ACES-GC'
