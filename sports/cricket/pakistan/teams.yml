@@ -3,7 +3,6 @@
   'code': 'LQ'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-lahore-qalandars.png'
   'name': 'Lahore Qalandars'
-  'tsdbId': '142104'
   'espnId': '953847'
   'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_PESHWAR-ZALM':
@@ -11,7 +10,6 @@
   'code': 'PZ'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-peshwar-zalm.png'
   'name': 'Peshawar Zalmi'
-  'tsdbId': '142106'
   'espnId': '953833'
   'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_MULTAN-SULTANS':
@@ -19,7 +17,6 @@
   'code': 'MS'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-multan-sultans.png'
   'name': 'Multan Sultans'
-  'tsdbId': '142105'
   'espnId': '1117814'
   'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_QUETTA-GLADIATORS':
@@ -27,7 +24,6 @@
   'code': 'QG'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-quetta-gladiators.png'
   'name': 'Quetta Gladiators'
-  'tsdbId': '142107'
   'espnId': '953845'
   'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_KARACHI-KINGS':
@@ -35,7 +31,6 @@
   'code': 'KK'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-karachi-kings.png'
   'name': 'Karachi Kings'
-  'tsdbId': '142103'
   'espnId': '953835'
   'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_ISLAMABAD-UNITED':
@@ -43,7 +38,6 @@
   'code': 'IU'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-islamabad-united.png'
   'name': 'Islamabad United'
-  'tsdbId': '142102'
   'espnId': '953843'
   'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_HYDERABAD-KINGSMEN':
@@ -51,7 +45,6 @@
   'code': 'HHK'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-hyderabad-kingsmen.png'
   'name': 'Hyderabad Kingsmen'
-  'tsdbId': '154612'
   'espnId': '1523799'
   'whitelisted': !!bool 'false'
 'CRICKET_PAKISTAN_RAWALPINDIZ':
@@ -59,6 +52,5 @@
   'code': 'RWP'
   'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-rawalpindiz.png'
   'name': 'Rawalpindiz'
-  'tsdbId': '154613'
   'espnId': '1523800'
   'whitelisted': !!bool 'false'

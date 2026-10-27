@@ -15,7 +15,6 @@
     'endDate': !!timestamp '2025-05-18T00:00:00Z'
     'startDate': !!timestamp '2025-03-22T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '5067'
     'espnId': '2025:1'
     'weeksScraper': 'espn-cricket'
     'teams':
@@ -31,7 +30,6 @@
     'endDate': !!timestamp '2026-05-03T00:00:00Z'
     'startDate': !!timestamp '2026-03-26T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '5067'
     'espnId': '2026:1'
     'weeksScraper': 'espn-cricket'
     'teams':
