@@ -14,9 +14,10 @@
     'code': 'Portugal_Liga_2_2026_2027'
     'endDate': !!timestamp '2027-05-16T00:00:00Z'
     'startDate': !!timestamp '2026-08-08T00:00:00Z'
-    'standingsScraper': 'tsdb'
+    'standingsScraper': 'sportmonks'
     'tsdbId': '4662'
-    'weeksScraper': 'tsdb'
+    'sportmonksId': '27978'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_PORTUGAL_AVS'
     - 'FOOTBALL_PORTUGAL_ACADEMICA-DE-COIMBRA'

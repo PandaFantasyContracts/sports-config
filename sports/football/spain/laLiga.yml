@@ -16,8 +16,9 @@
     'startDate': !!timestamp '2024-08-15T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4335'
+    'sportmonksId': '23621'
     'espnId': '2024'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_SPAIN_BARCELONA'
     - 'FOOTBALL_SPAIN_REAL-MADRID'
@@ -46,8 +47,9 @@
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4335'
+    'sportmonksId': '25659'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_SPAIN_BARCELONA'
     - 'FOOTBALL_SPAIN_REAL-MADRID'
@@ -76,8 +78,9 @@
     'startDate': !!timestamp '2026-08-14T00:00:00Z'
     'standingsScraper': 'espn'
     'tsdbId': '4335'
+    'sportmonksId': '27965'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_SPAIN_ALAVES'
     - 'FOOTBALL_SPAIN_ATHLETIC-BILBAO'

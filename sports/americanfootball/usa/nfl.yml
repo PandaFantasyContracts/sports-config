@@ -19,7 +19,7 @@
     'standingsScraper': 'default'
     'tsdbId': '4391'
     'espnId': '2025'
-    'weeksScraper': 'nfl'
+    'weeksScraper': 'espn-nfl'
     'teams':
     - 'AMERICANFOOTBALL_USA_ARIZONA'
     - 'AMERICANFOOTBALL_USA_ATLANTA'
