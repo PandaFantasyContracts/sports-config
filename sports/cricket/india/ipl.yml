@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#1800d1'
 'country': 'India'
 'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-india-ipl.png'

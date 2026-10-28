@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#e30613'
 'country': 'Spain'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-laliga2.png'

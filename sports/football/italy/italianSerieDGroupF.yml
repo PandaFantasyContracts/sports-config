@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '0'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#B51615'
 'country': 'Italy'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-italy-italianseriedgroupf.png'

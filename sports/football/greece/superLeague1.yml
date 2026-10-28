@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#0D5EAF'
 'country': 'Greece'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-superleague1.png'

@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#d20515'
 'country': 'Germany'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-german2bundesliga.png'

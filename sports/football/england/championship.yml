@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#eac84d'
 'country': 'England'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-england-championship.png'

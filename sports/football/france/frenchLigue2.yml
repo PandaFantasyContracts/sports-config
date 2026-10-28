@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#0b3d91'
 'country': 'France'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-france-frenchligue2.png'

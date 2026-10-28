@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#ff1f01'
 'country': 'World'
 'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-formula1.png'
