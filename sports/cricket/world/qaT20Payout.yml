@@ -20,8 +20,8 @@
     'endDate': !!timestamp '2026-02-20T00:00:00Z'
     'startDate': !!timestamp '2026-02-07T00:00:00Z'
     'standingsScraper': 't20'
-    'tsdbId': '5103'
-    'weeksScraper': 't20'
+    'espnId': '2026'
+    'weeksScraper': 'espn-t20'
     'teams':
      - 'CRICKET_WORLD_AFGHANISTAN'
      - 'CRICKET_WORLD_AUSTRALIA'
