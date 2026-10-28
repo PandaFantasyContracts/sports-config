@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 # QA only: a copy of La Liga 2025-2026 owned by the QA-tests football Pick5 payout test. The
-# season is in the past, so the simulator replays its real results (TheSportsDB) against the
+# season is in the past, so the simulator replays its real results (Sportmonks) against the
 # final ESPN table, and the expected scores and payouts are known in advance. Same teams as La
 # Liga (they share markets and keys); its own league, challenge and pool. Do not make it visible
 # on production.
@@ -20,9 +20,9 @@
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-15T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '4335'
+    'sportmonksId': '25659'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_SPAIN_BARCELONA'
     - 'FOOTBALL_SPAIN_REAL-MADRID'
