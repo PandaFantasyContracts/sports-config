@@ -13,6 +13,7 @@
 'pick5PoolAmount': !!int '0'
 'code': 'QA_CRICKET_T20_PAYOUT'
 'visible': !!bool 'true'
+'espnId': 'cricket/8604'
 'seasons':
   '2026':
     'active': !!bool 'true'
