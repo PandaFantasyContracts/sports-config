@@ -4,7 +4,7 @@
   'color': '#CB3524'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-atletico-madrid.png'
   'name': 'Atletico Madrid'
-  'tsdbId': '133729'
+  'sportmonksId': '7980'
   'espnId': '1068'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_CELTA-VIGO':
@@ -13,7 +13,7 @@
   'color': '#8AC3EE'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-celta-vigo.png'
   'name': 'Celta Vigo'
-  'tsdbId': '133937'
+  'sportmonksId': '36'
   'espnId': '85'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_ELCHE':
@@ -22,7 +22,7 @@
   'color': '#228B22'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-elche.png'
   'name': 'Elche'
-  'tsdbId': '134384'
+  'sportmonksId': '1099'
   'espnId': '3751'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_GIRONA':
@@ -31,7 +31,7 @@
   'color': '#D91A21'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-girona.png'
   'name': 'Girona'
-  'tsdbId': '134700'
+  'sportmonksId': '231'
   'espnId': '9812'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_LEGANES':
@@ -40,7 +40,7 @@
   'color': '#0C1F6E'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-leganes.png'
   'name': 'Leganes'
-  'tsdbId': '134701'
+  'sportmonksId': '844'
   'espnId': '17534'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_LAS-PALMAS':
@@ -49,7 +49,7 @@
   'color': '#FFE667'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-las-palmas.png'
   'name': 'Las Palmas'
-  'tsdbId': '134259'
+  'sportmonksId': '2921'
   'espnId': '98'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_OSASUNA':
@@ -58,7 +58,7 @@
   'color': '#0A346F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-osasuna.png'
   'name': 'Osasuna'
-  'tsdbId': '133730'
+  'sportmonksId': '459'
   'espnId': '97'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_VALLADOLID':
@@ -67,7 +67,7 @@
   'color': '#921B88'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-valladolid.png'
   'name': 'Valladolid'
-  'tsdbId': '133841'
+  'sportmonksId': '361'
   'espnId': '95'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_ESPANYOL':
@@ -76,7 +76,7 @@
   'color': '#007FC8'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-espanyol.png'
   'name': 'Espanyol'
-  'tsdbId': '133734'
+  'sportmonksId': '528'
   'espnId': '88'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_RAYO-VALLECANO':
@@ -85,7 +85,7 @@
   'color': '#EE2523'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-rayo-vallecano.png'
   'name': 'Rayo Vallecano'
-  'tsdbId': '133728'
+  'sportmonksId': '377'
   'espnId': '101'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_LEVANTE':
@@ -94,7 +94,7 @@
   'color': '#0066CC'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-levante.png'
   'name': 'Levante'
-  'tsdbId': '133732'
+  'sportmonksId': '3457'
   'espnId': '1538'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_BARCELONA':
@@ -103,7 +103,7 @@
   'color': '#004d98'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-barcelona.png'
   'name': 'Barcelona'
-  'tsdbId': '133739'
+  'sportmonksId': '83'
   'espnId': '83'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_ATHLETIC-BILBAO':
@@ -112,7 +112,7 @@
   'color': '#FFFFFF'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-athletic-bilbao.png'
   'name': 'Athletic Bilbao'
-  'tsdbId': '133727'
+  'sportmonksId': '13258'
   'espnId': '93'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_ALAVES':
@@ -121,7 +121,7 @@
   'color': '#0067B1'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-alaves.png'
   'name': 'Alaves'
-  'tsdbId': '134221'
+  'sportmonksId': '2975'
   'espnId': '96'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_REAL-MADRID':
@@ -130,7 +130,7 @@
   'color': '#FEBE10'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-real-madrid.png'
   'name': 'Real Madrid'
-  'tsdbId': '133738'
+  'sportmonksId': '3468'
   'espnId': '86'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_SEVILLA':
@@ -139,7 +139,7 @@
   'color': '#FFFFFF'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-sevilla.png'
   'name': 'Sevilla'
-  'tsdbId': '133735'
+  'sportmonksId': '676'
   'espnId': '243'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_MALLORCA':
@@ -148,7 +148,7 @@
   'color': '#E20613'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-mallorca.png'
   'name': 'Mallorca'
-  'tsdbId': '133733'
+  'sportmonksId': '645'
   'espnId': '84'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_BETIS':
@@ -157,7 +157,7 @@
   'color': '#0BB363'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-betis.png'
   'name': 'Betis'
-  'tsdbId': '133722'
+  'sportmonksId': '485'
   'espnId': '244'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_GETAFE':
@@ -166,7 +166,7 @@
   'color': '#005999'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-getafe.png'
   'name': 'Getafe'
-  'tsdbId': '133731'
+  'sportmonksId': '106'
   'espnId': '2922'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_REAL-SOCIEDAD':
@@ -175,7 +175,7 @@
   'color': '#0067B1'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-real-sociedad.png'
   'name': 'Real Sociedad'
-  'tsdbId': '133724'
+  'sportmonksId': '594'
   'espnId': '89'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_VALENCIA':
@@ -184,7 +184,7 @@
   'color': '#000000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-valencia.png'
   'name': 'Valencia'
-  'tsdbId': '133725'
+  'sportmonksId': '214'
   'espnId': '94'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_VILLARREAL':
@@ -193,7 +193,7 @@
   'color': '#FFE667'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-villarreal.png'
   'name': 'Villarreal'
-  'tsdbId': '133740'
+  'sportmonksId': '3477'
   'espnId': '102'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_REAL-OVIEDO':
@@ -202,7 +202,7 @@
   'color': '#1E90FF'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-real-oviedo.png'
   'name': 'Real Oviedo'
-  'tsdbId': '135455'
+  'sportmonksId': '93'
   'espnId': '92'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_DEPORTIVO-LA-CORUNA':
@@ -211,7 +211,7 @@
   'color': '#00529F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-deportivo-la-coruna.png'
   'name': 'Deportivo La Coruna'
-  'tsdbId': '133816'
+  'sportmonksId': '429'
   'espnId': '90'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_MALAGA':
@@ -220,7 +220,7 @@
   'color': '#0070B8'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-malaga.png'
   'name': 'Malaga'
-  'tsdbId': '133736'
+  'sportmonksId': '126'
   'espnId': '99'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_RACING-SANTANDER':
@@ -229,7 +229,7 @@
   'color': '#009A44'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-racing-santander.png'
   'name': 'Racing Santander'
-  'tsdbId': '133726'
+  'sportmonksId': '9818'
   'espnId': '87'
   'whitelisted': !!bool 'false'
 'FOOTBALL_SPAIN_ALBACETE':
@@ -238,7 +238,7 @@
   'color': '#BC0814'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-albacete.png'
   'name': 'Albacete'
-  'tsdbId': '134232'
+  'sportmonksId': '3169'
   'espnId': '2737'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_ALMERIA':
@@ -247,7 +247,7 @@
   'color': '#C8142F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-almeria.png'
   'name': 'Almería'
-  'tsdbId': '133817'
+  'sportmonksId': '618'
   'espnId': '6832'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_BURGOS':
@@ -256,7 +256,7 @@
   'color': '#1A1A1A'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-burgos.png'
   'name': 'Burgos'
-  'tsdbId': '138161'
+  'sportmonksId': '8366'
   'espnId': '12597'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_CADIZ':
@@ -265,7 +265,7 @@
   'color': '#FFFF00'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-cadiz.png'
   'name': 'Cádiz'
-  'tsdbId': '134222'
+  'sportmonksId': '6827'
   'espnId': '3842'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_CASTELLON':
@@ -274,7 +274,7 @@
   'color': '#1A1A1A'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-castellon.png'
   'name': 'Castellón'
-  'tsdbId': '138286'
+  'sportmonksId': '10008'
   'espnId': '4438'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_CELTA-FORTUNA':
@@ -283,7 +283,7 @@
   'color': '#6CACE4'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-celta-fortuna.png'
   'name': 'Celta Fortuna'
-  'tsdbId': '137826'
+  'sportmonksId': '384'
   'espnId': '131858'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_CEUTA':
@@ -292,7 +292,7 @@
   'color': '#1D428A'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-ceuta.png'
   'name': 'Ceuta'
-  'tsdbId': '144243'
+  'sportmonksId': '12330'
   'espnId': '5404'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_CORDOBA':
@@ -301,7 +301,7 @@
   'color': '#288A00'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-cordoba.png'
   'name': 'Córdoba'
-  'tsdbId': '134627'
+  'sportmonksId': '931'
   'espnId': '8447'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_EIBAR':
@@ -310,7 +310,7 @@
   'color': '#C00000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-eibar.png'
   'name': 'Eibar'
-  'tsdbId': '134626'
+  'sportmonksId': '60'
   'espnId': '3752'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_ELDENSE':
@@ -319,7 +319,7 @@
   'color': '#0033A0'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-eldense.png'
   'name': 'Eldense'
-  'tsdbId': '144246'
+  'sportmonksId': '1888'
   'espnId': '7320'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_FC-ANDORRA':
@@ -328,7 +328,7 @@
   'color': '#1B3F8B'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-fc-andorra.png'
   'name': 'FC Andorra'
-  'tsdbId': '138280'
+  'sportmonksId': '238115'
   'espnId': '20179'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_GRANADA':
@@ -337,7 +337,7 @@
   'color': '#C8142F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-granada.png'
   'name': 'Granada'
-  'tsdbId': '133721'
+  'sportmonksId': '103'
   'espnId': '3747'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_REAL-SOCIEDAD-B':
@@ -346,7 +346,7 @@
   'color': '#0067B1'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-real-sociedad-b.png'
   'name': 'Real Sociedad B'
-  'tsdbId': '138160'
+  'sportmonksId': '9656'
   'espnId': '20983'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_SABADELL':
@@ -355,7 +355,7 @@
   'color': '#0055A4'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-sabadell.png'
   'name': 'Sabadell'
-  'tsdbId': '134704'
+  'sportmonksId': '758'
   'espnId': '11487'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_SPORTING-GIJON':
@@ -364,7 +364,7 @@
   'color': '#C8142F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-sporting-gijon.png'
   'name': 'Sporting Gijón'
-  'tsdbId': '133723'
+  'sportmonksId': '344'
   'espnId': '3788'
   'whitelisted': !!bool 'true'
 'FOOTBALL_SPAIN_TENERIFE':
@@ -373,6 +373,6 @@
   'color': '#008BC4'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-spain-tenerife.png'
   'name': 'Tenerife'
-  'tsdbId': '133840'
+  'sportmonksId': '1012'
   'espnId': '245'
   'whitelisted': !!bool 'true'

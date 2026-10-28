@@ -15,9 +15,9 @@
     'code': 'Croatia_HNL_26_27'
     'endDate': !!timestamp '2027-05-22T00:00:00Z'
     'startDate': !!timestamp '2026-08-01T00:00:00Z'
-    'standingsScraper': 'tsdb'
-    'tsdbId': '4629'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'sportmonks'
+    'sportmonksId': '27896'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_CROATIA_DINAMO-ZAGREB'
     - 'FOOTBALL_CROATIA_HAJDUK-SPLIT'

@@ -16,8 +16,7 @@
     'startDate': !!timestamp '2025-06-05T00:00:00Z'
     'endDate': !!timestamp '2025-11-22T00:00:00Z'
     'standingsScraper': 'cfl'
-    'weeksScraper': 'tsdb'
-    'tsdbId': '4405'
+    'weeksScraper': 'cfl'
     'teams':
     - 'AMERICANFOOTBALL_CANADA_BC-LIONS'
     - 'AMERICANFOOTBALL_CANADA_CALGARY-STAMPEDERS'
@@ -34,8 +33,7 @@
     'startDate': !!timestamp '2026-06-05T00:00:00Z'
     'endDate': !!timestamp '2026-11-22T00:00:00Z'
     'standingsScraper': 'cfl'
-    'weeksScraper': 'tsdb'
-    'tsdbId': '4405'
+    'weeksScraper': 'cfl'
     'teams':
     - 'AMERICANFOOTBALL_CANADA_BC-LIONS'
     - 'AMERICANFOOTBALL_CANADA_CALGARY-STAMPEDERS'

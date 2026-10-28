@@ -14,9 +14,9 @@
     'code': 'Cyprus_2_Div_26_27'
     'endDate': !!timestamp '2027-05-01T00:00:00Z'
     'startDate': !!timestamp '2026-09-11T00:00:00Z'
-    'standingsScraper': 'tsdb'
-    'tsdbId': '4953'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'sportmonks'
+    'sportmonksId': '28191'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_CYPRUS_AEP-POLEMIDION'
     - 'FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS'
