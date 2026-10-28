@@ -5,7 +5,7 @@
 # in advance. Same teams as NCAA March Madness (they share markets and keys); its own league,
 # challenge and pool. Do not make it visible on production.
 'buybackPoolDivisor': !!int '33'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#0033A0'
 'country': 'USA'
 'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-ncaa.png'

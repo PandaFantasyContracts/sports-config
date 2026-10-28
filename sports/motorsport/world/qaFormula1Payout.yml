@@ -4,7 +4,7 @@
 # payouts are known in advance. Same teams as Formula 1 (they share markets and keys);
 # its own league, challenge and pool. Do not make it visible on production.
 'buybackPoolDivisor': !!int '33'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#ff1f01'
 'country': 'World'
 'logo': 'https://static.thesportexchange.com/images/logos/256/motorsport-world-formula1.png'
