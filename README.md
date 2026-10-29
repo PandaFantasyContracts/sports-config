@@ -9,12 +9,12 @@ The prepare step of the regression syncs `main` first, as the admin screen does,
 branch with:
 
 ```
-POST /coil-web/api/leagues/configuration/qa/sync?deleteOrphans=false&createMissingLeagues=false&createChallenges=false
+POST /coil-web/api/leagues/configuration/qa/sync?createMissingLeagues=false&createChallenges=false&uploadToContract=false
 ```
 
-`deleteOrphans=false` makes the sync additive (core PR #551): `main`'s leagues keep their
-visibility, and this branch only adds its own. Challenges for the QA seasons are created per
-season by the tests that need them.
+The sync only adds and updates (TSE-1029), so `main`'s leagues keep their visibility and this
+branch only adds its own. Challenges for the QA seasons are created per season by the tests that
+need them.
 
 ## What is in it
 

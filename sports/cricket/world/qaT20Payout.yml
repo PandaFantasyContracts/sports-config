@@ -5,7 +5,7 @@
 # share markets and keys); its own league, challenge and pool. Do not make it visible on
 # production.
 'buybackPoolDivisor': !!int '33'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#00990a'
 'country': 'World'
 'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-world-t20.png'
