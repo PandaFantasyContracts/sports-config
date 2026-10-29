@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#1f1f1f'
 'country': 'World'
 'logo': 'https://static.thesportexchange.com/images/logos/256/golf-world-liv.png'

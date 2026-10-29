@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#E30A17'
 'country': 'Turkey'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-turkey-superlig.png'

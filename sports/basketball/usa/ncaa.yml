@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#0033A0'
 'country': 'USA'
 'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-ncaa.png'

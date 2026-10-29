@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#0066cc'
 'country': 'Portugal'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-ligaportugal2.png'

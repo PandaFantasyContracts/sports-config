@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#0014ad'
 'country': 'USA'
 'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-usa-nfl.png'

@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#00990a'
 'country': 'Pakistan'
 'logo': 'https://static.thesportexchange.com/images/logos/256/cricket-pakistan-superleague.png'

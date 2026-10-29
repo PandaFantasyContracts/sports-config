@@ -1,4 +1,5 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
+'challenges': !!bool 'true'
 'buybackPoolDivisor': !!int '33'
 'color': '#007bff'
 'country': 'Italy'

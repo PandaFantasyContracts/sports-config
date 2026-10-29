@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#ff8800'
 'country': 'Cyprus'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-firstdivision.png'

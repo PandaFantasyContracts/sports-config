@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'challenges': ['PICK5']
+'challenges': !!bool 'true'
 'color': '#002D72'
 'country': 'USA'
 'logo': 'https://static.thesportexchange.com/images/logos/256/baseball-usa-mlb.png'
