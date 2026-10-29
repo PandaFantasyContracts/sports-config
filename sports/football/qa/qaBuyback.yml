@@ -9,7 +9,7 @@
 'winsPoolPct': !!float '3.0'
 'winsSplitPct': !!float '30.0'
 'realtimeSplitPct': !!float '35.0'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#00c26e'
 'country': 'QA'
 'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
