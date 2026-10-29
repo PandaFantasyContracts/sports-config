@@ -1,0 +1,44 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: a league of four QA teams for the TSE-881 buyback spec of QA-tests (dividends split,
+# real-time and wins buybacks, kill switch). The spec owns its pools; the buyback-cycle tests
+# simulate the season (standings and rounds). No fixtures, no standings, no challenge: the
+# default scrapers return nothing. winsPoolPct: share of the wins pool a round budgets; winsSplitPct
+# and realtimeSplitPct: shares of each fee's dividends part routed to the wins and real-time pools
+# (the rest stays banked in DIVIDENDS). All in percent.
+'buybackPoolDivisor': !!int '33'
+'winsPoolPct': !!float '3.0'
+'winsSplitPct': !!float '30.0'
+'realtimeSplitPct': !!float '35.0'
+'challenges': []
+'color': '#00c26e'
+'country': 'QA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+'name': 'QA Buyback League'
+'pick5PoolAmount': !!int '0'
+'code': 'QA_BUYBACK'
+'visible': !!bool 'true'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'QA_BUYBACK_26_27'
+    'endDate': !!timestamp '2027-06-30T00:00:00Z'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+      - 'FOOTBALL_QA_BUYBACK-A'
+      - 'FOOTBALL_QA_BUYBACK-B'
+      - 'FOOTBALL_QA_BUYBACK-C'
+      - 'FOOTBALL_QA_BUYBACK-D'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'

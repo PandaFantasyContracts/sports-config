@@ -30,3 +30,33 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
   'name': 'QA Open B'
   'whitelisted': !!bool 'false'
+# Four QA-only open teams for the TSE-881 buyback spec (qaBuyback.yml). Same rule for the
+# addresses: sha256 of the team id, first 20 bytes.
+'FOOTBALL_QA_BUYBACK-A':
+  'address': '0xe91f6fc3a1cc6be7041bdce1dbfb6fe2191cdb6b'
+  'code': 'QBA'
+  'color': '#1F7A3F'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Buyback A'
+  'whitelisted': !!bool 'false'
+'FOOTBALL_QA_BUYBACK-B':
+  'address': '0xb179cd21a5bf019b06ce4bcc1195945e1d05f934'
+  'code': 'QBB'
+  'color': '#2F5FB3'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Buyback B'
+  'whitelisted': !!bool 'false'
+'FOOTBALL_QA_BUYBACK-C':
+  'address': '0xe73ce202a1c455e846637b0ed718c8ce80238c6a'
+  'code': 'QBC'
+  'color': '#B33A2F'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Buyback C'
+  'whitelisted': !!bool 'false'
+'FOOTBALL_QA_BUYBACK-D':
+  'address': '0xc275ec924b36a78520819729bcfc07eb74f83a80'
+  'code': 'QBD'
+  'color': '#8A5A00'
+  'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+  'name': 'QA Buyback D'
+  'whitelisted': !!bool 'false'
