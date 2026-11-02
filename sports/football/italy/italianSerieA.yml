@@ -1,4 +1,5 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
+'challenges': !!bool 'true'
 'buybackPoolDivisor': !!int '33'
 'color': '#007bff'
 'country': 'Italy'
@@ -14,9 +15,9 @@
     'endDate': !!timestamp '2025-05-25T13:00:00Z'
     'startDate': !!timestamp '2024-08-17T16:30:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '4332'
+    'sportmonksId': '23746'
     'espnId': '2024'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_ITALY_MONZA'
     - 'FOOTBALL_ITALY_FIORENTINA'
@@ -44,9 +45,9 @@
     'endDate': !!timestamp '2026-05-24T00:00:00Z'
     'startDate': !!timestamp '2025-08-23T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '4332'
+    'sportmonksId': '25533'
     'espnId': '2025'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_ITALY_ATALANTA'
     - 'FOOTBALL_ITALY_BOLOGNA'
@@ -74,9 +75,9 @@
     'endDate': !!timestamp '2027-05-30T00:00:00Z'
     'startDate': !!timestamp '2026-08-22T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '4332'
+    'sportmonksId': '27895'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_ITALY_ATALANTA'
     - 'FOOTBALL_ITALY_BOLOGNA'

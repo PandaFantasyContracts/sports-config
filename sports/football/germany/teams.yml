@@ -4,7 +4,7 @@
   'color': '#624839'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-st-pauli.png'
   'name': 'St Pauli'
-  'tsdbId': '133813'
+  'sportmonksId': '353'
   'espnId': '270'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_FC-COLOGNE':
@@ -13,7 +13,7 @@
   'color': '#DC143C'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-fc-cologne.png'
   'name': 'FC Cologne'
-  'tsdbId': '133654'
+  'sportmonksId': '3320'
   'espnId': '122'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_FC-AUGSBURG':
@@ -22,7 +22,7 @@
   'color': '#ba3733'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-fc-augsburg.png'
   'name': 'FC Augsburg'
-  'tsdbId': '133652'
+  'sportmonksId': '90'
   'espnId': '3841'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_UNION-BERLIN':
@@ -31,7 +31,7 @@
   'color': '#EB1923'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-union-berlin.png'
   'name': 'Union Berlin'
-  'tsdbId': '134690'
+  'sportmonksId': '1079'
   'espnId': '598'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_EINTRACHT-FRANKFURT':
@@ -40,7 +40,7 @@
   'color': '#E1000F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-eintracht-frankfurt.png'
   'name': 'Eintracht Frankfurt'
-  'tsdbId': '133814'
+  'sportmonksId': '366'
   'espnId': '125'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_MAINZ':
@@ -49,7 +49,7 @@
   'color': '#C3141E'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-mainz.png'
   'name': 'Mainz'
-  'tsdbId': '133665'
+  'sportmonksId': '794'
   'espnId': '2950'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_STUTTGART':
@@ -58,7 +58,7 @@
   'color': '#E32219'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-stuttgart.png'
   'name': 'Stuttgart'
-  'tsdbId': '133660'
+  'sportmonksId': '3319'
   'espnId': '134'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_BORUSSIA-MÖNCHENGLADBACH':
@@ -67,7 +67,7 @@
   'color': '#000000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-borussia-m-nchengladbach.png'
   'name': 'Borussia Mönchengladbach'
-  'tsdbId': '134779'
+  'sportmonksId': '683'
   'espnId': '268'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_FC-HEIDENHEIM':
@@ -76,7 +76,7 @@
   'color': '#e2001a'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-fc-heidenheim.png'
   'name': 'FC Heidenheim'
-  'tsdbId': '134696'
+  'sportmonksId': '2831'
   'espnId': '6418'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_HOLSTEIN-KIEL':
@@ -85,7 +85,7 @@
   'color': '#0f5787'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-holstein-kiel.png'
   'name': 'Holstein Kiel'
-  'tsdbId': '136027'
+  'sportmonksId': '3611'
   'espnId': '7884'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_RB-LEIPZIG':
@@ -94,7 +94,7 @@
   'color': '#DD013F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-rb-leipzig.png'
   'name': 'RB Leipzig'
-  'tsdbId': '134695'
+  'sportmonksId': '277'
   'espnId': '11420'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_HOFFENHEIM':
@@ -103,7 +103,7 @@
   'color': '#1961B5'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-hoffenheim.png'
   'name': 'Hoffenheim'
-  'tsdbId': '133657'
+  'sportmonksId': '2726'
   'espnId': '7911'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_WOLFSBURG':
@@ -112,7 +112,7 @@
   'color': '#65b32e'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-wolfsburg.png'
   'name': 'Wolfsburg'
-  'tsdbId': '133655'
+  'sportmonksId': '510'
   'espnId': '138'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_BAYERN-MUNICH':
@@ -121,7 +121,7 @@
   'color': '#dc052d'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-bayern-munich.png'
   'name': 'Bayern Munich'
-  'tsdbId': '133664'
+  'sportmonksId': '503'
   'espnId': '132'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_WERDER-BREMEN':
@@ -130,7 +130,7 @@
   'color': '#1d9053'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-werder-bremen.png'
   'name': 'Werder Bremen'
-  'tsdbId': '133662'
+  'sportmonksId': '82'
   'espnId': '137'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_BAYER-LEVERKUSEN':
@@ -139,7 +139,7 @@
   'color': '#E32221'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-bayer-leverkusen.png'
   'name': 'Bayer Leverkusen'
-  'tsdbId': '133666'
+  'sportmonksId': '3321'
   'espnId': '131'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_HAMBURG':
@@ -148,7 +148,7 @@
   'color': '#0066CC'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-hamburg.png'
   'name': 'Hamburg'
-  'tsdbId': '133651'
+  'sportmonksId': '2708'
   'espnId': '127'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_FREIBURG':
@@ -157,7 +157,7 @@
   'color': '#000000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-freiburg.png'
   'name': 'Freiburg'
-  'tsdbId': '133653'
+  'sportmonksId': '3543'
   'espnId': '126'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_BORUSSIA-DORTMUND':
@@ -166,7 +166,7 @@
   'color': '#FDE100'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-borussia-dortmund.png'
   'name': 'Borussia Dortmund'
-  'tsdbId': '133650'
+  'sportmonksId': '68'
   'espnId': '124'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_BOCHUM':
@@ -175,7 +175,7 @@
   'color': '#005CA9'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-bochum.png'
   'name': 'Bochum'
-  'tsdbId': '133839'
+  'sportmonksId': '999'
   'espnId': '121'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_SCHALKE-04':
@@ -184,7 +184,7 @@
   'color': '#004D9D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-schalke-04.png'
   'name': 'Schalke 04'
-  'tsdbId': '133661'
+  'sportmonksId': '67'
   'espnId': '133'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_ELVERSBERG':
@@ -193,7 +193,7 @@
   'color': '#000000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-elversberg.png'
   'name': 'Elversberg'
-  'tsdbId': '138411'
+  'sportmonksId': '3588'
   'espnId': '10388'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_PADERBORN':
@@ -202,7 +202,7 @@
   'color': '#005CA9'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-paderborn.png'
   'name': 'Paderborn'
-  'tsdbId': '134551'
+  'sportmonksId': '2642'
   'espnId': '3307'
   'whitelisted': !!bool 'false'
 'FOOTBALL_GERMANY_ARMINIA-BIELEFELD':
@@ -211,7 +211,7 @@
   'color': '#00599F'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-arminia-bielefeld.png'
   'name': 'Arminia Bielefeld'
-  'tsdbId': '133852'
+  'sportmonksId': '2927'
   'espnId': '2506'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_DARMSTADT':
@@ -220,7 +220,7 @@
   'color': '#003399'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-darmstadt.png'
   'name': 'Darmstadt'
-  'tsdbId': '134693'
+  'sportmonksId': '482'
   'espnId': '3812'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_DYNAMO-DRESDEN':
@@ -229,7 +229,7 @@
   'color': '#F2A71D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-dynamo-dresden.png'
   'name': 'Dynamo Dresden'
-  'tsdbId': '135655'
+  'sportmonksId': '1077'
   'espnId': '7017'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_EINTRACHT-BRAUNSCHWEIG':
@@ -238,7 +238,7 @@
   'color': '#FFDE16'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-eintracht-braunschweig.png'
   'name': 'Eintracht Braunschweig'
-  'tsdbId': '134302'
+  'sportmonksId': '3565'
   'espnId': '3067'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_ENERGIE-COTTBUS':
@@ -247,7 +247,7 @@
   'color': '#CC0000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-energie-cottbus.png'
   'name': 'Energie Cottbus'
-  'tsdbId': '133853'
+  'sportmonksId': '3322'
   'espnId': '123'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_GREUTHER-FURTH':
@@ -256,7 +256,7 @@
   'color': '#288A00'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-greuther-furth.png'
   'name': 'Greuther Fürth'
-  'tsdbId': '134099'
+  'sportmonksId': '3431'
   'espnId': '3070'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_HANNOVER-96':
@@ -265,7 +265,7 @@
   'color': '#179D33'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-hannover-96.png'
   'name': 'Hannover 96'
-  'tsdbId': '133656'
+  'sportmonksId': '2554'
   'espnId': '2428'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_HERTHA-BERLIN':
@@ -274,7 +274,7 @@
   'color': '#0000DD'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-hertha-berlin.png'
   'name': 'Hertha Berlin'
-  'tsdbId': '133658'
+  'sportmonksId': '3317'
   'espnId': '129'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_KAISERSLAUTERN':
@@ -283,7 +283,7 @@
   'color': '#8C273D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-kaiserslautern.png'
   'name': 'Kaiserslautern'
-  'tsdbId': '133663'
+  'sportmonksId': '1638'
   'espnId': '130'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_KARLSRUHE':
@@ -292,7 +292,7 @@
   'color': '#2563B8'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-karlsruhe.png'
   'name': 'Karlsruhe'
-  'tsdbId': '135293'
+  'sportmonksId': '3114'
   'espnId': '4471'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_MAGDEBURG':
@@ -301,7 +301,7 @@
   'color': '#0068B2'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-magdeburg.png'
   'name': 'Magdeburg'
-  'tsdbId': '136194'
+  'sportmonksId': '3527'
   'espnId': '10382'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_NURNBERG':
@@ -310,7 +310,7 @@
   'color': '#9F0000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-nurnberg.png'
   'name': 'Nürnberg'
-  'tsdbId': '133659'
+  'sportmonksId': '956'
   'espnId': '269'
   'whitelisted': !!bool 'true'
 'FOOTBALL_GERMANY_OSNABRUCK':
@@ -319,6 +319,6 @@
   'color': '#5A2A83'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-osnabruck.png'
   'name': 'Osnabrück'
-  'tsdbId': '137115'
+  'sportmonksId': '2872'
   'espnId': '7013'
   'whitelisted': !!bool 'true'
