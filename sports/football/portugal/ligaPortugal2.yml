@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#0066cc'
 'country': 'Portugal'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-portugal-ligaportugal2.png'
@@ -14,9 +14,9 @@
     'code': 'Portugal_Liga_2_2026_2027'
     'endDate': !!timestamp '2027-05-16T00:00:00Z'
     'startDate': !!timestamp '2026-08-08T00:00:00Z'
-    'standingsScraper': 'tsdb'
-    'tsdbId': '4662'
-    'weeksScraper': 'tsdb'
+    'standingsScraper': 'sportmonks'
+    'sportmonksId': '27978'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_PORTUGAL_AVS'
     - 'FOOTBALL_PORTUGAL_ACADEMICA-DE-COIMBRA'

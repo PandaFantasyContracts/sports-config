@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#1f1f1f'
 'country': 'World'
 'logo': 'https://static.thesportexchange.com/images/logos/256/golf-world-liv.png'
@@ -15,8 +15,7 @@
     'endDate': !!timestamp '2025-08-15T00:00:00Z'
     'startDate': !!timestamp '2025-05-02T00:00:00Z'
     'standingsScraper': 'default'
-    'tsdbId': '5329'
-    'weeksScraper': 'golf'
+    'weeksScraper': 'liv'
     'teams':
     - 'GOLF_WORLD_4ACES-GC'
     - 'GOLF_WORLD_CLEEKS-GC'

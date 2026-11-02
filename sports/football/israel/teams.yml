@@ -6,7 +6,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-maccabi-bnei-raina.png'
   'name': 'Maccabi Bnei Raina'
   'soccer365Id': '16420'
-  'tsdbId': '141801'
+  'sportmonksId': '229320'
   'espnId': '21517'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-TEL-AVIV':
@@ -17,7 +17,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-maccabi-tel-aviv.png'
   'name': 'Maccabi Tel Aviv'
   'soccer365Id': '6919'
-  'tsdbId': '134315'
+  'sportmonksId': '2997'
   'espnId': '524'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_FC-ASHDOD':
@@ -28,7 +28,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-fc-ashdod.png'
   'name': 'FC Ashdod'
   'soccer365Id': '7006'
-  'tsdbId': '135991'
+  'sportmonksId': '5897'
   'espnId': '5269'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-HAIFA':
@@ -39,7 +39,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-maccabi-haifa.png'
   'name': 'Maccabi Haifa'
   'soccer365Id': '6918'
-  'tsdbId': '134400'
+  'sportmonksId': '571'
   'espnId': '611'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_BEITAR-JERUSALEM':
@@ -50,7 +50,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-beitar-jerusalem.png'
   'name': 'Beitar Jerusalem'
   'soccer365Id': '7058'
-  'tsdbId': '135992'
+  'sportmonksId': '589'
   'espnId': '5218'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_IRONI-TIBERIAS':
@@ -61,7 +61,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-ironi-tiberias.png'
   'name': 'Ironi Tiberias'
   'soccer365Id': '8363'
-  'tsdbId': '146401'
+  'sportmonksId': '6810'
   'espnId': '22311'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-BE''ER-SHEVA':
@@ -72,7 +72,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-be-er-sheva.png'
   'name': 'Hapoel Be''er Sheva'
   'soccer365Id': '6928'
-  'tsdbId': '134799'
+  'sportmonksId': '516'
   'espnId': '13083'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-JERUSALEM':
@@ -83,7 +83,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-jerusalem.png'
   'name': 'Hapoel Jerusalem'
   'soccer365Id': '8124'
-  'tsdbId': '141235'
+  'sportmonksId': '3229'
   'espnId': '20970'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-HADERA-ERAN':
@@ -94,7 +94,6 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-hadera-eran.png'
   'name': 'Hapoel Hadera Eran'
   'soccer365Id': '12407'
-  'tsdbId': '136198'
   'espnId': '19255'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-PETACH-TIKVA':
@@ -105,7 +104,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-maccabi-petach-tikva.png'
   'name': 'Maccabi Petach Tikva'
   'soccer365Id': '8122'
-  'tsdbId': '135998'
+  'sportmonksId': '3074'
   'espnId': '2983'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_MACCABI-NETANYA':
@@ -116,7 +115,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-maccabi-netanya.png'
   'name': 'Maccabi Netanya'
   'soccer365Id': '709'
-  'tsdbId': '134087'
+  'sportmonksId': '4136'
   'espnId': '5945'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-KIRYAT-SHMONA':
@@ -127,7 +126,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-kiryat-shmona.png'
   'name': 'Hapoel Kiryat Shmona'
   'soccer365Id': '6890'
-  'tsdbId': '133950'
+  'sportmonksId': '6961'
   'espnId': '8327'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-HAIFA':
@@ -138,7 +137,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-haifa.png'
   'name': 'Hapoel Haifa'
   'soccer365Id': '7011'
-  'tsdbId': '135995'
+  'sportmonksId': '2495'
   'espnId': '9577'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_BNEI-SAKHNIN':
@@ -149,7 +148,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-bnei-sakhnin.png'
   'name': 'Bnei Sakhnin'
   'soccer365Id': '7147'
-  'tsdbId': '135994'
+  'sportmonksId': '8644'
   'espnId': '8329'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-TEL-AVIV':
@@ -160,7 +159,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-tel-aviv.png'
   'name': 'Hapoel Tel-Aviv'
   'soccer365Id': '6886'
-  'tsdbId': '134124'
+  'sportmonksId': '6963'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-PETAH-TIKVA':
   'address': '0x9d291bc3f9039a603d115d336f5b409af7158379'
@@ -170,7 +169,7 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-petah-tikva.png'
   'name': 'Hapoel Petah Tikva'
   'soccer365Id': '8757'
-  'tsdbId': '141238'
+  'sportmonksId': '6900'
   'whitelisted': !!bool 'true'
 'FOOTBALL_ISRAEL_HAPOEL-RAMAT-GAN':
   'address': '0x55c07efa9640b31dde1892ce22d2f41dce9912e5'
@@ -180,5 +179,5 @@
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-israel-hapoel-ramat-gan.png'
   'name': 'Hapoel Ramat Gan'
   'soccer365Id': '7340'
-  'tsdbId': '134796'
+  'sportmonksId': '2987'
   'whitelisted': !!bool 'true'
