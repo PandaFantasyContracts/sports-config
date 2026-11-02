@@ -1671,7 +1671,7 @@
   'whitelisted': !!bool 'true'
 'BASKETBALL_USA_WASHINGTON-STATE':
   'address': '0x8dd180b10f1cf47a75fbac6824bda822bb768d43'
-  'code': 'WSU'
+  'code': 'WAST'
   'color': '#A60F2D'
   'espnId': '265'
   'logo': 'https://static.thesportexchange.com/images/logos/256/basketball-usa-washington-state.png'
