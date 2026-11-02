@@ -5,7 +5,7 @@
 'country': 'USA'
 'logo': 'https://static.thesportexchange.com/images/logos/256/americanfootball-usa-ncaaf.png'
 'name': 'College Football'
-'pick5PoolAmount': !!int '100'
+'pick5PoolAmount': !!int '0'
 'visible': !!bool 'false'
 'espnId': 'football/college-football?group=80'
 'sport': 'americanfootball'
