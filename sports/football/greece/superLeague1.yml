@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
-'challenges':
+'challenges': !!bool 'true'
 'color': '#0D5EAF'
 'country': 'Greece'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-greece-superleague1.png'
@@ -15,9 +15,9 @@
     'endDate': !!timestamp '2027-05-23T00:00:00Z'
     'startDate': !!timestamp '2026-08-22T00:00:00Z'
     'standingsScraper': 'espn'
-    'tsdbId': '4336'
+    'sportmonksId': '28001'
     'espnId': '2026'
-    'weeksScraper': 'tsdb'
+    'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_GREECE_AEK-ATHENS'
     - 'FOOTBALL_GREECE_ARIS'

@@ -1,6 +1,6 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '520'
-'challenges': []
+'challenges': !!bool 'true'
 'color': '#000000'
 'country': 'USA'
 'logo': 'https://static.thesportexchange.com/images/logos/256/hockey-usa-nhl.png'
