@@ -23,6 +23,9 @@
     'playersEnabled': !!bool 'true'
     'playerStatsScraper': 'cfa'
     'cfaId': '68297384'
+    # Cyprus 1st division 2026-27 on Sportmonks: only read to pair each club's Super Cup roster with
+    # its Sportmonks squad for the player links test; the season's scrapers are default and cfa.
+    'sportmonksId': '28562'
     'teams':
     - 'FOOTBALL_CYPRUS_OMONIA'
     - 'FOOTBALL_CYPRUS_PAFOS'
