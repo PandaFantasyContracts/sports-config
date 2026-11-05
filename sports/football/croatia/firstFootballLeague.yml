@@ -18,6 +18,8 @@
     'standingsScraper': 'sportmonks'
     'sportmonksId': '27896'
     'weeksScraper': 'sportmonks'
+    'playersEnabled': !!bool 'true'
+    'playerStatsScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_CROATIA_DINAMO-ZAGREB'
     - 'FOOTBALL_CROATIA_HAJDUK-SPLIT'

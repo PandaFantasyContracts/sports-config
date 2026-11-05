@@ -16,6 +16,9 @@
     'startDate': !!timestamp '2026-09-26T00:00:00Z'
     'standingsScraper': 'default'
     'weeksScraper': 'default'
+    'playersEnabled': !!bool 'true'
+    'playerStatsScraper': 'cfa'
+    'cfaId': '68156121'
     'teams':
     - 'FOOTBALL_CYPRUS_ACHYRONAS-ONISILOS'
     - 'FOOTBALL_CYPRUS_AEK-KELLIA'

@@ -35,6 +35,7 @@
   'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_ETHNIKOS':
   'address': '0xe0dfa6a2997bad4ec4c3a78148a6ae6fb7cdbcc6'
+  'cfaId': '40997'
   'code': 'EA'
   'color': '#E5F3FD'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-ethnikos.png'
@@ -53,6 +54,7 @@
   'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS':
   'address': '0xbc7b3c9bc343a93c05678733dfaae4ce35feb491'
+  'cfaId': '41126'
   'code': 'AKR'
   'color': '#85BB65'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-akritas-chlorakas.png'
@@ -80,6 +82,7 @@
   'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_ENOSIS':
   'address': '0xbec4c30bd971270280e1e5c7624658a9f4133586'
+  'cfaId': '41045'
   'code': 'ENP'
   'color': '#EF224B'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-enosis.png'
@@ -150,6 +153,7 @@
   'whitelisted': !!bool 'false'
 'FOOTBALL_CYPRUS_APEA-AKROTIRI':
   'address': '0xf424aeab7816254e0220af34f0ae4e4c6eb71f6c'
+  'cfaId': '40992'
   'code': 'APE'
   'color': '#2E3192'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-apea-akrotiri.png'
@@ -158,6 +162,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ASIL-LYSI':
   'address': '0x0c4bd591480a34bf0437af2d8a08b7c9fe7b5753'
+  'cfaId': '41129'
   'code': 'ASI'
   'color': '#FCBA2E'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-asil-lysi.png'
@@ -166,6 +171,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ANAGENNISI-DERYNEIA':
   'address': '0x33e6bb4a512f08fadcd8e6aff4dd0040f1f36cd1'
+  'cfaId': '41034'
   'code': 'ANA'
   'color': '#00452D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-anagennisi-deryneia.png'
@@ -174,6 +180,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_AYIA-NAPA':
   'address': '0xc49b3b57e353b9ab251187576954e500fca8afe3'
+  'cfaId': '41066'
   'code': 'AYN'
   'color': '#E0550D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-ayia-napa.png'
@@ -182,6 +189,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_CHALKANORAS-IDALIOU':
   'address': '0xfc11c82fbd11ddf26a60b2cce3e0ed92ab0e8eec'
+  'cfaId': '41145'
   'code': 'CHA'
   'color': '#2C2C88'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-chalkanoras-idaliou.png'
@@ -190,6 +198,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_DIGENIS-MORPHOU':
   'address': '0xdcbffd27601abde936a843b14cc872c1d8756e68'
+  'cfaId': '40995'
   'code': 'DIG'
   'color': '#007834'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-digenis-morphou.png'
@@ -198,6 +207,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_DOXA-KATOKOPIAS':
   'address': '0x43f7f68fc4413c9f1a546c3d6ca98fddf06f8976'
+  'cfaId': '41078'
   'code': 'DOX'
   'color': '#086326'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-doxa-katokopias.png'
@@ -206,6 +216,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ERMIS-ARADIPPOU':
   'address': '0xa5891c1bae62f37d358d79c9cbf59812b5f18532'
+  'cfaId': '41047'
   'code': 'ERM'
   'color': '#ED2223'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-ermis-aradippou.png'
@@ -214,6 +225,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_IRAKLIS-GEROLAKKOU':
   'address': '0x7ebef7440024133b9b0aff87d348a851d0add8e8'
+  'cfaId': '40999'
   'code': 'IRA'
   'color': '#E6C716'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-iraklis-gerolakkou.png'
@@ -222,6 +234,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_MEAP-NISOU':
   'address': '0xf3cdadaa8a2dd52ff223ec66c46acc2ede846084'
+  'cfaId': '41055'
   'code': 'MEA'
   'color': '#FD0000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-meap-nisou.png'
@@ -230,6 +243,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_PAEEK':
   'address': '0x9e3ad79d8bbeb66b53b562e6de663c5171a7df70'
+  'cfaId': '41004'
   'code': 'PAE'
   'color': '#1A1A1A'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-paeek.png'
@@ -238,6 +252,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_SPARTAKOS-KITIOU':
   'address': '0x531b821ecfa6b63d82e346ad0f372b789cdf0e97'
+  'cfaId': '41172'
   'code': 'SPA'
   'color': '#E00611'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-spartakos-kitiou.png'
@@ -246,6 +261,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_AEP-POLEMIDION':
   'address': '0x21d6a87aae69cff78df652bc8be53a2ecec79396'
+  'cfaId': '80399'
   'code': 'AEP'
   'color': '#4D2772'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-aep-polemidion.png'
@@ -254,6 +270,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ACHYRONAS-ONISILOS':
   'address': '0x2ddcb2ed00c94d43c662bd900ae1de19ec1f2dfe'
+  'cfaId': '80421'
   'code': 'ACH'
   'color': '#0E6900'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-achyronas-onisilos.png'
@@ -261,6 +278,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_AEK-KELLIA':
   'address': '0xcff5dc9b1c1b7b9d04fe282f11884067186df48b'
+  'cfaId': '49656'
   'code': 'KEL'
   'color': '#FCE404'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-aek-kellia.png'
@@ -268,6 +286,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_AEN-VRYSOULLON':
   'address': '0x241c187e25dc00e7e33194ea7c5dde2284c3af5d'
+  'cfaId': '55260'
   'code': 'AEN'
   'color': '#FDF503'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-aen-vrysoullon.png'
@@ -275,6 +294,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_AEZ-ZAKAKIOU':
   'address': '0xbd75b713e767f77f16efd8d9aad8328eef85b052'
+  'cfaId': '41036'
   'code': 'AEZ'
   'color': '#00853C'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-aez-zakakiou.png'
@@ -282,6 +302,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ALKI-LARNACA':
   'address': '0xfefa335d194522ee8cf0c0487e077281f99999e1'
+  'cfaId': '83804'
   'code': 'ALK'
   'color': '#01377B'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-alki-larnaca.png'
@@ -289,6 +310,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ANORTHOSIS-MOUTTAGIAKAS':
   'address': '0x19f4473d719d0fbc0ccb20bacca359b6039a0ea0'
+  'cfaId': '49667'
   'code': 'ANM'
   'color': '#11A1CD'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-anorthosis-mouttagiakas.png'
@@ -296,6 +318,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ASPIS-PYLAS':
   'address': '0x945bd06fd67d33f7e97240049f545e038f5d5d21'
+  'cfaId': '41157'
   'code': 'ASP'
   'color': '#04B210'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-aspis-pylas.png'
@@ -303,6 +326,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ETHNIKOS-ASSIA':
   'address': '0x3a6cb2764c63ec6916b9b9c16a1fc68cb9e3dad5'
+  'cfaId': '83724'
   'code': 'ETA'
   'color': '#6B95CA'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-ethnikos-assia.png'
@@ -310,6 +334,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ETHNIKOS-LATSION':
   'address': '0x8ccc4ed3c16bc1f6fa0058173583fe83afe16ff4'
+  'cfaId': '41152'
   'code': 'ETL'
   'color': '#0059AB'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-ethnikos-latsion.png'
@@ -317,6 +342,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_KEDROS-SKYLLOURA':
   'address': '0x995dd014996e55c62ceafe135a1b69a055a29e29'
+  'cfaId': '41189'
   'code': 'KED'
   'color': '#216D41'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-kedros-skylloura.png'
@@ -324,6 +350,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_LIVADIA':
   'address': '0xff718bc8e966fcf150dbd722e6d557e3a22ce8a6'
+  'cfaId': '83726'
   'code': 'LIV'
   'color': '#C9AE39'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-livadia.png'
@@ -331,6 +358,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OMONIA-PSEVDA':
   'address': '0x96cb987e21d45bf86a9d37256bccae472dd4ca48'
+  'cfaId': '59895'
   'code': 'OMP'
   'color': '#0F7239'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-omonia-psevda.png'
@@ -338,6 +366,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_ORMIDEIA':
   'address': '0x5ac3211ea84c8c07a2886f8fef3419546bdf9427'
+  'cfaId': '41182'
   'code': 'ORM'
   'color': '#006E2D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-ormideia.png'
@@ -345,6 +374,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OTHELLOS-ATHIENOU':
   'address': '0x6e9747f7c1fa083b5f83e04710a9c5558ed9881d'
+  'cfaId': '41139'
   'code': 'OTH'
   'color': '#3BA948'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-othellos-athienou.png'
@@ -352,6 +382,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_THOI-LAKATAMIA':
   'address': '0x49ac4fc98e58be5a6c57b82c5bd799853d0919d5'
+  'cfaId': '82133'
   'code': 'THO'
   'color': '#FEEE00'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-thoi-lakatamia.png'
@@ -359,6 +390,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_XYLOFAGOU':
   'address': '0x279a0690a730e3932e13e0906583e4c016b75301'
+  'cfaId': '80465'
   'code': 'XYL'
   'color': '#1A1A1A'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-xylofagou.png'
