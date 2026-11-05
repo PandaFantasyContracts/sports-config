@@ -1,0 +1,29 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: the Cyprus Super Cup 2026 (Omonia 0-1 Pafos, 3 Sep 2026) for the QA-tests player stats
+# test. One played match between two clubs, read from the Cyprus FA site, so the squad sync and
+# the match stats finish in one run each and their results are known. Shares the real Omonia and
+# Pafos teams. Do not make it visible on production.
+'buybackPoolDivisor': !!int '0'
+'challenges': !!bool 'false'
+'color': '#255A9D'
+'country': 'Cyprus'
+'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-firstdivision.png'
+'name': 'QA Cyprus Super Cup 2026 (players)'
+'pick5PoolAmount': !!int '0'
+'code': 'QA_CY_SUPER_CUP_PLAYERS'
+'visible': !!bool 'true'
+'seasons':
+  '2026':
+    'active': !!bool 'true'
+    'code': 'QA_CY_SUPER_CUP_26_PLAYERS'
+    'endDate': !!timestamp '2026-09-04T00:00:00Z'
+    'startDate': !!timestamp '2026-09-03T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'playersEnabled': !!bool 'true'
+    'playerStatsScraper': 'cfa'
+    'cfaId': '68297384'
+    'teams':
+    - 'FOOTBALL_CYPRUS_OMONIA'
+    - 'FOOTBALL_CYPRUS_PAFOS'
+'sport': 'football'
