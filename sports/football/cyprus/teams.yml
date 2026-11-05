@@ -64,6 +64,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_OMONIA':
   'address': '0x9c38d38115487cefaeb034eb850febfd9bf1cc7f'
+  'cfaId': '41001'
   'code': 'OMO'
   'color': '#50C878'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-omonia.png'
@@ -92,6 +93,7 @@
   'whitelisted': !!bool 'true'
 'FOOTBALL_CYPRUS_PAFOS':
   'address': '0x1afd08682f4f5de462cecb466d50c88581aad02b'
+  'cfaId': '52429'
   'code': 'PFC'
   'color': '#ADD8E6'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-cyprus-pafos.png'
