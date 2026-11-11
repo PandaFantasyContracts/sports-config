@@ -1,6 +1,9 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'challenges': !!bool 'true'
 'buybackPoolDivisor': !!int '33'
+'winsPoolPct': !!float '3.0'
+'winsSplitPct': !!float '30.0'
+'realtimeSplitPct': !!float '35.0'
 'color': '#f2f2f2'
 'country': 'England'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-england-englishleague1.png'
