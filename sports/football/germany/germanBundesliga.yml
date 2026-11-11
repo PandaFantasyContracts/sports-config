@@ -1,6 +1,9 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'challenges': !!bool 'true'
 'buybackPoolDivisor': !!int '33'
+'winsPoolPct': !!float '3.0'
+'winsSplitPct': !!float '30.0'
+'realtimeSplitPct': !!float '35.0'
 'color': '#ff0000'
 'country': 'Germany'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-germany-germanbundesliga.png'

@@ -1,6 +1,9 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'challenges': !!bool 'true'
 'buybackPoolDivisor': !!int '33'
+'winsPoolPct': !!float '3.0'
+'winsSplitPct': !!float '30.0'
+'realtimeSplitPct': !!float '35.0'
 'color': '#002aff'
 'country': 'France'
 'logo': 'https://static.thesportexchange.com/images/logos/256/football-france-frenchligue1.png'

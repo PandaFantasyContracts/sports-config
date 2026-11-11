@@ -1,5 +1,8 @@
 !!com.pandahaus.pandafantasy.properties.LeagueProperty
 'buybackPoolDivisor': !!int '33'
+'winsPoolPct': !!float '0.5'
+'winsSplitPct': !!float '30.0'
+'realtimeSplitPct': !!float '35.0'
 'challenges': !!bool 'true'
 'color': '#1800d1'
 'country': 'India'
