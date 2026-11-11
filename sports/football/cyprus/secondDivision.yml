@@ -17,6 +17,9 @@
     'standingsScraper': 'sportmonks'
     'sportmonksId': '28191'
     'weeksScraper': 'sportmonks'
+    'playersEnabled': !!bool 'true'
+    'playerStatsScraper': 'cfa'
+    'cfaId': '68156046'
     'teams':
     - 'FOOTBALL_CYPRUS_AEP-POLEMIDION'
     - 'FOOTBALL_CYPRUS_AKRITAS-CHLORAKAS'

@@ -67,6 +67,8 @@
     'standingsScraper': 'sportmonks'
     'sportmonksId': '28562'
     'weeksScraper': 'sportmonks'
+    'playersEnabled': !!bool 'true'
+    'playerStatsScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_CYPRUS_AEK'
     - 'FOOTBALL_CYPRUS_AEL'

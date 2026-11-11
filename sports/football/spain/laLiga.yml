@@ -81,6 +81,8 @@
     'sportmonksId': '27965'
     'espnId': '2026'
     'weeksScraper': 'sportmonks'
+    'playersEnabled': !!bool 'true'
+    'playerStatsScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_SPAIN_ALAVES'
     - 'FOOTBALL_SPAIN_ATHLETIC-BILBAO'
