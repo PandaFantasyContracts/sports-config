@@ -42,7 +42,7 @@
     'endDate': !!timestamp '2027-05-31T00:00:00Z'
     'startDate': !!timestamp '2027-01-01T00:00:00Z'
     'standingsScraper': 'espn'
-    'espnId': '2026:8'
+    'espnId': '2026:5'
     'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_MEXICO_AMERICA'
