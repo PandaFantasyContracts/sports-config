@@ -16,6 +16,7 @@
     'startDate': !!timestamp '2026-07-16T00:00:00Z'
     'standingsScraper': 'espn'
     'espnId': '2026:1'
+    'sportmonksId': '28009:Apertura'
     'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_MEXICO_AMERICA'
@@ -43,6 +44,7 @@
     'startDate': !!timestamp '2027-01-01T00:00:00Z'
     'standingsScraper': 'espn'
     'espnId': '2026:5'
+    'sportmonksId': '28009:Clausura'
     'weeksScraper': 'sportmonks'
     'teams':
     - 'FOOTBALL_MEXICO_AMERICA'

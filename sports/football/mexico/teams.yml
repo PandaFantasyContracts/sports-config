@@ -4,6 +4,7 @@
   'color': '#FFFF91'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-america.png'
   'name': 'América'
+  'sportmonksId': '2687'
   'espnId': '227'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_ATLANTE':
@@ -12,6 +13,7 @@
   'color': '#022789'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-atlante.png'
   'name': 'Atlante'
+  'sportmonksId': '7023'
   'espnId': '226'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_ATLAS':
@@ -20,6 +22,7 @@
   'color': '#EF0107'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-atlas.png'
   'name': 'Atlas'
+  'sportmonksId': '680'
   'espnId': '216'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_ATLETICO-SAN-LUIS':
@@ -28,6 +31,7 @@
   'color': '#EF0107'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-atletico-san-luis.png'
   'name': 'Atlético San Luis'
+  'sportmonksId': '15522'
   'espnId': '15720'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_CRUZ-AZUL':
@@ -36,6 +40,7 @@
   'color': '#0000FF'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-cruz-azul.png'
   'name': 'Cruz Azul'
+  'sportmonksId': '2626'
   'espnId': '218'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_JUAREZ':
@@ -44,6 +49,7 @@
   'color': '#89F442'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-juarez.png'
   'name': 'FC Juárez'
+  'sportmonksId': '6335'
   'espnId': '17851'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_GUADALAJARA':
@@ -52,6 +58,7 @@
   'color': '#EF0107'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-guadalajara.png'
   'name': 'Guadalajara'
+  'sportmonksId': '427'
   'espnId': '219'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_LEON':
@@ -60,6 +67,7 @@
   'color': '#008000'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-leon.png'
   'name': 'León'
+  'sportmonksId': '10836'
   'espnId': '228'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_MONTERREY':
@@ -68,6 +76,7 @@
   'color': '#001C58'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-monterrey.png'
   'name': 'Monterrey'
+  'sportmonksId': '2662'
   'espnId': '220'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_NECAXA':
@@ -76,6 +85,7 @@
   'color': '#EF0107'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-necaxa.png'
   'name': 'Necaxa'
+  'sportmonksId': '3951'
   'espnId': '229'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_PACHUCA':
@@ -84,6 +94,7 @@
   'color': '#001C58'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-pachuca.png'
   'name': 'Pachuca'
+  'sportmonksId': '10036'
   'espnId': '234'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_PUEBLA':
@@ -92,6 +103,7 @@
   'color': '#0032A8'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-puebla.png'
   'name': 'Puebla'
+  'sportmonksId': '3849'
   'espnId': '231'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_PUMAS':
@@ -100,6 +112,7 @@
   'color': '#060040'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-pumas.png'
   'name': 'Pumas UNAM'
+  'sportmonksId': '2989'
   'espnId': '233'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_QUERETARO':
@@ -108,6 +121,7 @@
   'color': '#212121'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-queretaro.png'
   'name': 'Querétaro'
+  'sportmonksId': '538'
   'espnId': '222'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_SANTOS-LAGUNA':
@@ -116,6 +130,7 @@
   'color': '#15926D'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-santos-laguna.png'
   'name': 'Santos Laguna'
+  'sportmonksId': '2844'
   'espnId': '225'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_TIGRES':
@@ -124,6 +139,7 @@
   'color': '#FFD011'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-tigres.png'
   'name': 'Tigres UANL'
+  'sportmonksId': '609'
   'espnId': '232'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_TIJUANA':
@@ -132,6 +148,7 @@
   'color': '#EF0107'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-tijuana.png'
   'name': 'Tijuana'
+  'sportmonksId': '11023'
   'espnId': '10125'
   'whitelisted': !!bool 'false'
 'FOOTBALL_MEXICO_TOLUCA':
@@ -140,5 +157,6 @@
   'color': '#EF0107'
   'logo': 'https://static.thesportexchange.com/images/logos/256/football-mexico-toluca.png'
   'name': 'Toluca'
+  'sportmonksId': '967'
   'espnId': '223'
   'whitelisted': !!bool 'false'
