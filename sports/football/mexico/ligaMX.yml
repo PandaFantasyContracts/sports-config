@@ -78,3 +78,12 @@
       'markets':
         - 'WINNER'
       'selectedMarketValidator': 'MATCH'
+    - 'name': 'PLAYOFF'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Quarterfinals'
+        - 'Semifinals'
+        - 'Final'
+      'markets':
+        - 'KNOCKOUT_WINNER'
+      'selectedMarketValidator': 'TOURNAMENT'
