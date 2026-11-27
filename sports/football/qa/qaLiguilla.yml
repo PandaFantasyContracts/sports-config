@@ -1,0 +1,53 @@
+!!com.pandahaus.pandafantasy.properties.LeagueProperty
+# QA only: a league for the QA-tests Pick5 knockout journey (TSE-1231). Its challenge profile is
+# Liga MX's (a weekly Pick 5 plus a PLAYOFF phase of two-legged ties, KNOCKOUT_WINNER markets
+# ranked by confidence). No provider data: the test enables the simulator and authors the
+# standings and a knockout "Quarterfinals" week itself. Shares eight La Liga teams (their markets
+# and keys), so the Pick5 stake the test reserves is on teams already on the contract.
+'buybackPoolDivisor': !!int '0'
+'challenges': !!bool 'true'
+'color': '#006847'
+'country': 'QA'
+'logo': 'https://static.thesportexchange.com/images/logos/256/logo_tse_black.png'
+'name': 'QA Liguilla'
+'pick5PoolAmount': !!int '0'
+'code': 'QA_LIGUILLA'
+'visible': !!bool 'true'
+'seasons':
+  '2026-2027':
+    'active': !!bool 'true'
+    'code': 'QA_LIGUILLA_26_27'
+    'endDate': !!timestamp '2027-06-30T00:00:00Z'
+    'startDate': !!timestamp '2026-08-01T00:00:00Z'
+    'standingsScraper': 'default'
+    'weeksScraper': 'default'
+    'teams':
+      - 'FOOTBALL_SPAIN_BARCELONA'
+      - 'FOOTBALL_SPAIN_REAL-MADRID'
+      - 'FOOTBALL_SPAIN_ATLETICO-MADRID'
+      - 'FOOTBALL_SPAIN_ATHLETIC-BILBAO'
+      - 'FOOTBALL_SPAIN_REAL-SOCIEDAD'
+      - 'FOOTBALL_SPAIN_VILLARREAL'
+      - 'FOOTBALL_SPAIN_BETIS'
+      - 'FOOTBALL_SPAIN_SEVILLA'
+'sport': 'football'
+
+
+'challengeProfile':
+  'poolAmountDistributor': 'DEFAULT'
+  'participateValidator': 'KEY_OWNERS'
+  'phases':
+    - 'name': 'WEEK'
+      'creation': 'DYNAMIC'
+      'markets':
+        - 'WINNER'
+      'selectedMarketValidator': 'MATCH'
+    - 'name': 'PLAYOFF'
+      'creation': 'STATIC'
+      'rounds':
+        - 'Quarterfinals'
+        - 'Semifinals'
+        - 'Final'
+      'markets':
+        - 'KNOCKOUT_WINNER'
+      'selectedMarketValidator': 'TOURNAMENT'
